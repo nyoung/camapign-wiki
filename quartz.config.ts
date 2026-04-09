@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "PLACEHOLDER_USERNAME.github.io/campaign-wiki",
+    baseUrl: "nyoung.github.io/campaign-wiki",
     ignorePatterns: ["private", "_Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
