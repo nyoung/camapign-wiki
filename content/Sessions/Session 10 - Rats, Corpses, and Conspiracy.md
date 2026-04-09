@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 10
-title: "Rats, Corpses, and Conspiracy"
+title: "Session 10 — Rats, Corpses, and Conspiracy"
 played: 2026-02-14
 in_game_date: "25 Nachexen 2512"
 in_game_date_end: "25 Nachexen 2512"

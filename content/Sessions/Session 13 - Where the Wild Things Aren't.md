@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 13
-title: "Where the Wild Things Aren't (And the Stew is Awful)"
+title: "Session 13 — Where the Wild Things Aren't"
 played: 2026-03-07
 in_game_date: "~1 Jahrdrung 2512 (approx.)"
 in_game_date_end: "~2 Jahrdrung 2512 (approx.)"
