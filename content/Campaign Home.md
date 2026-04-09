@@ -9,11 +9,11 @@ tags: [home]
 - [[Pilpoul Ivri]] — Agitator
 - [[Boris Dorchen]] — Huntsman (Drakwald)
 - [[Hildegarde]] — Beggar
-- [[Altus Elsein]] — Sailor (Marienburg)
 - [[Berin Garibaldi|Berin "Orsetto" Garibaldi]] — Horse Trader / Novitiate (Knights of the Blazing Sun)
 - [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] — Halfling Rat Catcher *(joined Session 09)*
 
 **Departed / Retired**
+- [[Altus Elsein]] — Retired in Beekerhoven
 - [[Erika Sÿfrid von Drakkenheim]] — Retired
 - [[Joerg Wusterburg]] — Departed Session 07 *(NPC file in Characters/PCs/)*
 
