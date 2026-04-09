@@ -1,10 +1,10 @@
 ---
 type: session
 session_number: 16
-title: "Session 16 — Plus ça change"
+title: "Plus ça change, plus c'est la même chose"
 played: 2026-03-28
-in_game_date: "~3–5 Jahrdrung 2512 (approx.)"
-in_game_date_end: "~5 Jahrdrung 2512 (approx.)"
+in_game_date: "30 Nachexen 2512"
+in_game_date_end: "31 Nachexen 2512"
 location_start: "[[Forest Inn]]"
 location_end: "[[Schuten]]"
 pcs_present:
@@ -22,7 +22,7 @@ aliases: [Session 16]
 # Session 16 — Plus ça change, plus c'est la même chose
 
 **Played:** 28 March 2026
-**In-game date:** ~3–5 Jahrdrung 2512 (approx.)
+**In-game date:** 30–31 Nachexen 2512
 
 ## Summary
 

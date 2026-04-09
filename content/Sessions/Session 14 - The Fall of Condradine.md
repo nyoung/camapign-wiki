@@ -1,10 +1,10 @@
 ---
 type: session
 session_number: 14
-title: "Session 14 — The Fall of Condradine"
+title: "The Fall of Condradine"
 played: 2026-03-14
-in_game_date: "~2 Jahrdrung 2512 (approx.)"
-in_game_date_end: "~2 Jahrdrung 2512 (approx.)"
+in_game_date: "29 Nachexen 2512"
+in_game_date_end: "30 Nachexen 2512"
 location_start: "[[Forest Inn]]"
 location_end: "[[Forest Inn]]"
 pcs_present:
@@ -22,7 +22,7 @@ aliases: [Session 14]
 # Session 14 — The Fall of Condradine
 
 **Played:** 14 March 2026
-**In-game date:** ~2 Jahrdrung 2512 (approx., night of same day as Session 13)
+**In-game date:** 29–30 Nachexen 2512 (night)
 
 ## Summary
 

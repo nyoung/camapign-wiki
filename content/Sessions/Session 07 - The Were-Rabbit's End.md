@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 7
-title: "Session 07 — The Were-Rabbit's End"
+title: "The Were-Rabbit's End"
 played: 2026-01-10
 in_game_date: "21 Nachexen 2512"
 in_game_date_end: "23 Nachexen 2512"

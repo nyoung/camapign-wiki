@@ -1,10 +1,10 @@
 ---
 type: session
 session_number: 12
-title: "Session 12 — Bride Price"
+title: "Bride Price"
 played: 2026-02-28
-in_game_date: "27 Nachexen 2512"
-in_game_date_end: "29 Nachexen 2512"
+in_game_date: "26 Nachexen 2512"
+in_game_date_end: "27 Nachexen 2512"
 location_start: "[[Beekerhoven]]"
 location_end: "[[All Shadows Fled]]"
 pcs_present:
@@ -22,7 +22,7 @@ aliases: [Session 12]
 # Session 12 — Bride Price
 
 **Played:** 28 February 2026
-**In-game date:** 27–29 Nachexen 2512
+**In-game date:** 26–27 Nachexen 2512
 
 ## Summary
 

@@ -1,10 +1,10 @@
 ---
 type: session
 session_number: 15
-title: "Session 15 — Stradovski's Guide to Selling Out Your Friends"
+title: "Stradovski's Guide to Selling Out Your Friends"
 played: 2026-03-21
-in_game_date: "~2–3 Jahrdrung 2512 (approx.)"
-in_game_date_end: "~3 Jahrdrung 2512 (approx.)"
+in_game_date: "30 Nachexen 2512"
+in_game_date_end: "30 Nachexen 2512"
 location_start: "[[Forest Inn]]"
 location_end: "[[Forest Inn]]"
 pcs_present:
@@ -22,7 +22,7 @@ aliases: [Session 15]
 # Session 15 — Stradovski's Guide to Selling Out Your Friends
 
 **Played:** 21 March 2026
-**In-game date:** ~2–3 Jahrdrung 2512 (approx., early morning continuing from Session 14)
+**In-game date:** 30 Nachexen 2512 (early morning)
 
 ## Summary
 

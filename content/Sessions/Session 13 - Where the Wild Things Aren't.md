@@ -1,10 +1,10 @@
 ---
 type: session
 session_number: 13
-title: "Session 13 — Where the Wild Things Aren't"
+title: "Where the Wild Things Aren't (And the Stew is Awful)"
 played: 2026-03-07
-in_game_date: "~1 Jahrdrung 2512 (approx.)"
-in_game_date_end: "~2 Jahrdrung 2512 (approx.)"
+in_game_date: "28 Nachexen 2512"
+in_game_date_end: "29 Nachexen 2512"
 location_start: "[[All Shadows Fled]]"
 location_end: "[[Forest Inn]]"
 pcs_present:
@@ -22,7 +22,7 @@ aliases: [Session 13]
 # Session 13 — Where the Wild Things Aren't (And the Stew is Awful)
 
 **Played:** 7 March 2026
-**In-game date:** ~1–2 Jahrdrung 2512 (approx.)
+**In-game date:** 28–29 Nachexen 2512
 
 ## Summary
 

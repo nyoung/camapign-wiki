@@ -1,10 +1,10 @@
 ---
 type: session
 session_number: 11
-title: "Session 11 — Rolf's Rampage and the Writ of Arrest"
+title: "Rolf's Rampage and the Writ of Arrest"
 played: 2026-02-21
 in_game_date: "25 Nachexen 2512"
-in_game_date_end: "26 Nachexen 2512"
+in_game_date_end: "25 Nachexen 2512"
 location_start: "[[Beekerhoven]]"
 location_end: "[[Beekerhoven]]"
 pcs_present:
@@ -22,7 +22,7 @@ aliases: [Session 11]
 # Session 11 — Rolf's Rampage and the Writ of Arrest
 
 **Played:** 21 February 2026
-**In-game date:** 25–26 Nachexen 2512
+**In-game date:** 25 Nachexen 2512
 
 ## Summary
 

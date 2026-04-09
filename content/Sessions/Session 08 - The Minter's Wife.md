@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 8
-title: "Session 08 — The Minter's Wife"
+title: "The Minter's Wife"
 played: 2026-01-31
 in_game_date: "23 Nachexen 2512"
 in_game_date_end: "23 Nachexen 2512"

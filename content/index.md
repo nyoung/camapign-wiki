@@ -28,7 +28,7 @@ tags: [home]
 [[Schuten]], Ostland
 
 ## Current In-Game Date
-~5 Jahrdrung 2512 (approx.)
+31 Nachexen 2512
 
 ## Quick Links
 - [[Sessions/]]

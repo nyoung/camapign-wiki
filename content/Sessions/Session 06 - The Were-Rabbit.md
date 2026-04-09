@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 6
-title: "Session 06 — The Were-Rabbit"
+title: "The Were-Rabbit"
 played: 2026-01-03
 in_game_date: "21 Nachexen 2512"
 pcs_present:
