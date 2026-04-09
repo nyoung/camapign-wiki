@@ -8,21 +8,27 @@ tags: [home]
 ## The Party
 - [[Pilpoul Ivri]] — Agitator
 - [[Boris Dorchen]] — Huntsman (Drakwald)
-- [[Hildegarde]] — Beggar (Middenheim streets)
+- [[Hildegarde]] — Beggar
 - [[Altus Elsein]] — Sailor (Marienburg)
-- [[Erika Sÿfrid von Drakkenheim]] — Squire (Knights Panther)
-- [[Falconius Thorncobble|Falconius "Conny" Thorncobble]] — Halfling *(not yet appeared)*
-- [[Berin Garibaldi|Berin "Orsetto" Garibaldi]] — *(not yet appeared)*
-- [[Joerg Wusterburg]] — Novice, Order of the Howling Wolf *(later retired)*
+- [[Berin Garibaldi|Berin "Orsetto" Garibaldi]] — Horse Trader / Novitiate (Knights of the Blazing Sun)
+- [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] — Halfling Rat Catcher *(joined Session 09)*
+
+**Departed / Retired**
+- [[Erika Sÿfrid von Drakkenheim]] — Retired
+- [[Joerg Wusterburg]] — Departed Session 07 *(NPC file in Characters/PCs/)*
+
+**NPC Companions**
+- [[Hoffman Janitzer]] — Bounty hunter; recovering after being drugged at Forest Inn
+- [[Mungo Mudfoot]] — Teamster; wagon and homing pigeons
 
 ## Active Quests
-- [[Find Professor Stradovski]] — caravan north; next stop [[Beekerhoven]]
+- [[Find Professor Stradovski]] — confirmed heading east through Ostland toward [[Ferlangen]]
 
 ## Current Location
-[[Arenburg]] — one day north of Middenheim; 20 Nachexen 2512
+[[Schuten]], Ostland
 
 ## Current In-Game Date
-20 Nachexen 2512
+~5 Jahrdrung 2512 (approx.)
 
 ## Quick Links
 - [[Sessions/]]
@@ -37,17 +43,19 @@ tags: [home]
 - [[Timeline/]]
 
 ## Recent Sessions
-- [[Session 03 - The Trial]] — 2025-11-29 (18 Nachexen 2512)
-- [[Session 04 - The Investigation]] — 2025-12-13 (18 Nachexen 2512)
-- [[Session 05 - The Road North]] — 2025-12-20 (18–20 Nachexen 2512)
+- [[Session 14 - The Fall of Condradine]] — 2026-02-14
+- [[Session 15 - Stradovski's Guide to Selling Out Your Friends]] — 2026-02-21
+- [[Session 16 - Plus ça change]] — 2026-03-28 (~3–5 Jahrdrung 2512)
 
 ## Open Threads / Loose Ends
-- **[[Caspar Anckenreuter]]** — sold Stradovski his coach ticket for 50 GC; at Ambrose Platz, Beekerhoven; Minter Guild
-- **Stradovski's 100% success rate** — patient notes show no failures or deaths ever; implies supernatural means
+- **[[Professor Udo Stradovski]]** — took road east from [[Skralberg]] into Ostland; heading toward [[Ferlangen]]
+- **[[Elfrida Teuschel]]'s group** — ~3 days ahead of party at Schuten; two women and a brutish man
+- **Ghoul network** — retrieved all their dead overnight after Forest Inn battle; leaderless but still active
+- **Abducted farm girl** — Nordland/Ostland border area; flagged by Skralberg militia as a side thread
+- **[[Seuchenshof]] (Eichenhof)** — barricaded plague road; Stradovski inquired but took the eastern road instead
+- **Stradovski's 100% success rate** — patient notes show no failures or deaths; implies supernatural means
 - **[[Seuchenbuch (Plague Book)]]** — illegal possession; not yet read in full
 - **[[Stradovski Vellum Papers]]** — contents not yet examined
-- **[[Heidi Uberman]]** — capable, resentful Sigmarite; potential asset for Erika
-- **[[Danderich Flisshausten]]** — personally threatened Pilpoul; party gaining "infamy" with Temple of Sigmar
-- **[[Altus Elsein]]** — learning bounty hunting under [[Hoffman Janitzer]]
 - **Hildegarde's missing mother** — [[Lady Steiner]] agreed to inquire
 - **[[Joerg Wusterburg]]**'s order's interest in Stradovski still unexplained
+- **[[Danderich Flisshausten]]** — personally threatened Pilpoul; party gaining infamy with Temple of Sigmar
