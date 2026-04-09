@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 11
-title: "Rolf's Rampage and the Writ of Arrest"
+title: "Session 11 — Rolf's Rampage and the Writ of Arrest"
 played: 2026-02-21
 in_game_date: "25 Nachexen 2512"
 in_game_date_end: "25 Nachexen 2512"

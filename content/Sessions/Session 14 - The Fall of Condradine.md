@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 14
-title: "The Fall of Condradine"
+title: "Session 14 — The Fall of Condradine"
 played: 2026-03-14
 in_game_date: "29 Nachexen 2512"
 in_game_date_end: "30 Nachexen 2512"

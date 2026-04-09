@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 9
-title: "The Thriceling"
+title: "Session 09 — The Thriceling"
 played: 2026-02-07
 in_game_date: "24 Nachexen 2512"
 in_game_date_end: "25 Nachexen 2512"

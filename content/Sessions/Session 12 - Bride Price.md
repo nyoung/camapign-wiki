@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 12
-title: "Bride Price"
+title: "Session 12 — Bride Price"
 played: 2026-02-28
 in_game_date: "26 Nachexen 2512"
 in_game_date_end: "27 Nachexen 2512"

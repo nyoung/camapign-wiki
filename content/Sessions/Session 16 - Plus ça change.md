@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 16
-title: "Plus ça change, plus c'est la même chose"
+title: "Session 16 — Plus ça change"
 played: 2026-03-28
 in_game_date: "30 Nachexen 2512"
 in_game_date_end: "31 Nachexen 2512"

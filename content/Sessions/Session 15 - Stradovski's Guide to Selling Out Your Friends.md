@@ -1,7 +1,7 @@
 ---
 type: session
 session_number: 15
-title: "Stradovski's Guide to Selling Out Your Friends"
+title: "Session 15 — Stradovski's Guide to Selling Out Your Friends"
 played: 2026-03-21
 in_game_date: "30 Nachexen 2512"
 in_game_date_end: "30 Nachexen 2512"
