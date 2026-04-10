@@ -23,7 +23,7 @@ Maintain order in Middenheim.
 - [[Udo Hintzer]]
 
 ## Resources & Influence
-Can issue vouchers from the [[Commission for Trade, Commerce, and Taxation]]. Patrols the city, responds to disturbances.
+Can issue vouchers from the [[Commission for Trade Commerce and Taxation|Commission for Trade, Commerce, and Taxation]]. Patrols the city, responds to disturbances.
 
 ## Relationship with the Party
 Friendly — [[Udo Hintzer]] rewarded and vouched for the party after the sewer attack.

@@ -20,7 +20,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 ## Known Information
 - Physical description: ~50 years old, dark hair, brown eyes, average height, own teeth; [[Portrait of Stradovski]] available
 - Heresy charge: claimed gods don't exist, priests are merely magicians
-- Known for miraculous cures — the [[Seuchenbuch (Plague Book)]] discusses using disease as tool/weapon; Berin confirmed it resembles controversial texts held by Knights Panther
+- Known for miraculous cures — the [[Seuchenbuch|Seuchenbuch (Plague Book)]] discusses using disease as tool/weapon; Berin confirmed it resembles controversial texts held by Knights Panther
 - Drugged [[Augustus Steiner]] with tea to secure bond and escape
 - No Ulric shrine in Middenheim home — suspicious
 - Subject of a medical negligence lawsuit (unverified rumour)
@@ -34,7 +34,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Attend [[Klaus Grebel]]'s trial
 - [x] Register warrant / enlist in [[Middenland Militia]]
 - [x] Search Stradovski's house
-- [x] Interview the maid ([[Fya Vater]]) at [[Pit Fight Tavern]]
+- [x] Interview the maid ([[Fya Veter]]) at [[Pit Fight Tavern]]
 - [x] Speak with [[Chancellor Leinhard von Altenhaus]] at [[Collegium Theologica]]
 - [x] Speak with [[Professor Humpis]] at [[Collegium Theologica]]
 - [x] Speak with [[Augustus Steiner]] in the cells
@@ -43,10 +43,10 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Reach [[Beekerhoven]]
 - [x] Confirm Stradovski was in Beekerhoven (visited [[Elfrieda Teuschel]] ~11 Nachexen)
 - [x] Investigate city stables — confirmed false Salzenmund trail; true destination Ferlangen
-- [x] Expose and arrest [[Marks Klessel]] and [[Urs Huber]] (Medical Union)
+- [x] Expose and arrest [[Marx Khlesl]] and [[Urs Huber]] (Medical Union)
 - [x] Depart Beekerhoven north toward Ferlangen
 - [x] Confirm trail through [[Skralberg]] — entered Ostland heading east
-- [x] Arrive [[Schuten]], Ostland — Elfrieda's group spotted 3 nights prior
+- [x] Arrive [[Schoten]], Ostland — Elfrieda's group spotted 3 nights prior
 - [ ] Continue pursuit through Ostland toward [[Ferlangen]]
 - [ ] Locate the professor
 - [ ] Return him to [[Middenheim]]
@@ -73,13 +73,13 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Augustus Steiner]] — whose life depends on the quest
 - [[Lady Steiner]] — original quest giver
 - [[Professor Humpis]] — original accuser
-- [[Fya Vater]] — maid; sold the lockbox
+- [[Fya Veter]] — maid; sold the lockbox
 - [[Hoffman Jannitzer]] — Temple of Verena agent; travelling with party; was abducted and recovered
 - [[Mungo Mudfoot]] — teamster; wagon now in Ostland
 - [[Berin Garibaldi]] — party member; added to warrant Session 08
 - [[Falconius Thorncobble]] — party member; added to warrant Session 09
 - [[Elfrieda Teuschel]] — Stradovski's key co-conspirator; now wanted fugitive; heading to Ferlangen
-- [[Marks Klessel]] — hired to create false trail; arrested
+- [[Marx Khlesl]] — hired to create false trail; arrested
 - [[Urs Huber]] — Medical Union operator; arrested
 - [[Schliegel]] — farmhand who travelled with professor; sacrificed by Stradovski at Forest Inn (presumed dead)
 - [[Ordo Sancti Inquisita]] — competing hunters (will execute); last seen heading toward Salzenmund
@@ -92,7 +92,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Salzenmund]] — false trail; Inquisitors followed this lead
 - [[Forest Inn]] — Stradovski passed through ~12 days before Session 15; traded companion for passage
 - [[Skralberg]] — Stradovski confirmed here; took road east into Ostland
-- [[Schuten]] — party's current location (Session 16); Elfrieda's group 3 days ahead
+- [[Schoten]] — party's current location (Session 16); Elfrieda's group 3 days ahead
 - [[Seuchenshof]] — plague hospice Stradovski inquired about; road barricaded
 - [[Erengrad Road]] — route taken north
 
@@ -102,7 +102,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Elfrieda Teuschel]]'s network is organised and well-funded — she is still ahead
 - Stradovski has shifted to overland travel — no longer on coach routes
 - Time pressure: ~6 weeks from 18 Nachexen 2512 until [[Augustus Steiner]]'s execution (now ~3+ weeks remaining as of early Jahrdrung 2512)
-- Party possesses a [[Seuchenbuch (Plague Book)]] — illegal; could bring serious trouble
+- Party possesses a [[Seuchenbuch|Seuchenbuch (Plague Book)]] — illegal; could bring serious trouble
 - The [[Seuchenbuch]] formulas require specific plague materials — Stradovski may be heading to a plague source
 - The [[Forest Inn]] ghoul network: Melmoth is dead, but his followers retrieved all the bodies overnight — the network may not be entirely dismantled
 

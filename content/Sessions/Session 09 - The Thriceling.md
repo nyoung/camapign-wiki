@@ -26,7 +26,7 @@ aliases: [Session 09, Session 9]
 
 ## Summary
 
-A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Thorncobble]], a halfling rat catcher and cousin to [[Mungo Mudfoot]], along with his loyal dog [[Rolf]]. Introductions were made over a meal of unappetising lurker fish, and the party briefed Connie on the complex three-way pursuit of [[Professor Udo Stradovski]]. Investigation of the city gates revealed that the professor had departed via the West Gate, likely heading north, and that a dangerous figure named [[Marks Klessel]] had returned from the same direction riding the professor's own horse. A stable boy, pressed for information, disclosed that Marks was staying at a fortified compound operated by the [[Medical Union]]. The session also featured [[Pilpoul Ivri]]'s spirited argument that halflings should be called "fullings," and [[Berin Garibaldi|Berin]]'s analysis of the dangerous banned tome known as the [[Plague Book]].
+A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Thorncobble]], a halfling rat catcher and cousin to [[Mungo Mudfoot]], along with his loyal dog [[Rolf]]. Introductions were made over a meal of unappetising lurker fish, and the party briefed Connie on the complex three-way pursuit of [[Professor Udo Stradovski]]. Investigation of the city gates revealed that the professor had departed via the West Gate, likely heading north, and that a dangerous figure named [[Marx Khlesl]] had returned from the same direction riding the professor's own horse. A stable boy, pressed for information, disclosed that Marks was staying at a fortified compound operated by the [[Medical Union]]. The session also featured [[Pilpoul Ivri]]'s spirited argument that halflings should be called "fullings," and [[Berin Garibaldi|Berin]]'s analysis of the dangerous banned tome known as the [[Seuchenbuch|Plague Book]].
 
 ## Key Events
 
@@ -39,7 +39,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 ### Party Introductions to Connie
 
-- [[Boris Dorchen]] described himself as a young hunter from [[Midenland]]
+- [[Boris Dorchen]] described himself as a young hunter from [[Middenheim|Middenland]]
 - [[Hildegarde]] revealed her striking appearance: mismatched eyes of grey and blue, and prematurely white-blonde hair from years of hardship on the streets
 - [[Berin Garibaldi|Berin]] presented himself as a thin, pockmarked southerner with darker skin, dressed in frayed but quality clothing bearing the golden sunburst of the [[Knights of the Blazing Sun]]
 - Connie explained he was the son of functionaries at the [[Moot]]'s embassy to [[Middenheim]], though he had abandoned that life to become a rat catcher
@@ -63,7 +63,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 - [[Berin Garibaldi|Berin]] stayed at the stables overnight to watch over [[Orazio]]; the rest returned to the inn for dinner
 - The evening meal featured the local unappetising specialty: lurker fish, served whole with staring eyes; Connie immediately fed his portion to [[Rolf]], who devoured it enthusiastically
 - [[Berin Garibaldi|Berin]] ordered a bottle of [[Lonningbruck Ruby]] wine for the table
-- The party briefed Connie on the three-way pursuit: themselves working for the [[Temple of Verena]], [[Sigmarite Inquisitors]] seeking the professor's execution for heresy, and [[Ulricans]] with unknown motives
+- The party briefed Connie on the three-way pursuit: themselves working for the [[Temple of Verena]], [[Ordo Sancti Inquisita|Sigmarite Inquisitors]] seeking the professor's execution for heresy, and [[Cult of Ulric|Ulricans]] with unknown motives
 - They explained that the professor had manipulated his young assistant into taking the fall for the heresy charges — if he died before trial, an innocent student would be executed
 - [[Pilpoul Ivri]] revealed his fabricated cover story: that [[Hildegarde]] was "biblically married" to the professor through consummation but not civic ceremony, and they sought to enforce his obligations to her and her five children; [[Hildegarde]] objected strenuously — she had no children and was searching for her lost mother
 
@@ -71,7 +71,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 - The party discussed the forbidden book that [[Boris Dorchen]] still carried; a former priest had warned against reading it
 - [[Berin Garibaldi|Berin]], as the only member with literacy in classical texts and medical knowledge, agreed to examine the tome
-- The ancient leather-bound volume was titled the [[Plague Book]] (also called the "Book of Epidemics"); it bore well-used pages with extensive marginal notes
+- The ancient leather-bound volume was titled the [[Seuchenbuch|Plague Book]] (also called the "Book of Epidemics"); it bore well-used pages with extensive marginal notes
 - [[Berin Garibaldi|Berin]] explained it discussed using disease as a tool and weapon, not merely as something to cure — similar to controversial texts found in the libraries of the [[Knights Panther]]
 - He compared the knowledge to fire: useful in skilled hands but potentially catastrophic if misused
 - The party concluded this explained the professor's unusual healing abilities and made his research far more dangerous than they had initially understood
@@ -83,7 +83,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 - **North Gate:** [[Hildegarde]] posed as the professor's abandoned wife; the distracted guards claimed no recollection of anyone matching the description in weeks or months — [[Hildegarde]]'s intuition confirmed they were being truthful
 - **West Gate:** The more alert guards consulted their ledger and confirmed three riders had departed on the eighth within half an hour of each other, all paying their tolls in suspiciously new-minted shillings
 - [[Hildegarde]] feigned horror at the news; a guard hinted more information was available for the right price; [[Berin Garibaldi|Berin]] generously provided five shillings "for each of [[Hildegarde]]'s children"
-- The guard revealed the third rider was [[Marks Klessel]] — described as wearing a floppy hat, scarred face, and dangerous reputation; he had returned to town just two days later
+- The guard revealed the third rider was [[Marx Khlesl]] — described as wearing a floppy hat, scarred face, and dangerous reputation; he had returned to town just two days later
 - The second rider remained mysterious, heavily wrapped with face concealed
 - Crucially: all three departed in late afternoon, meaning they would be travelling through the [[Forest of Shadows]] after nightfall — something no sane person would do
 
@@ -91,21 +91,21 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 - The party visited the [[Temple of Verena]] to update their warrant with new members
 - The priestess added [[Berin Garibaldi|Berin]] and Connie to the official warrant document, providing payment and pay stubs, and warned of the consequences of abandoning the mission
-- When asked about [[Marks Klessel]], the priestess identified him as a prominent figure in [[Beekerhoven]]'s underground, associated with the [[Wolfmen]] gang — young street thugs involved in extortion and threats, not murder or arson
+- When asked about [[Marx Khlesl]], the priestess identified him as a prominent figure in [[Beekerhoven]]'s underground, associated with the [[Wolfmen]] gang — young street thugs involved in extortion and threats, not murder or arson
 - She suggested local troublemakers might know his current whereabouts
 
 ### Pressing the Stable Boy — The Medical Union
 
 - The party returned to the stables with [[Hoffman Jannitzer]] in tow; [[Berin Garibaldi|Berin]]'s intuition detected the stable boy was withholding information
 - Connie's attempt at intimidation using [[Rolf]] failed comically; [[Boris Dorchen]] stepped in with more success
-- Under pressure and with promises of protection from the [[Temple of Verena]], the stable boy revealed that [[Marks Klessel]] had returned on the same old nag [[Castor Stark]] had sold to the professor, then moved it elsewhere to avoid the stable master recognising it
+- Under pressure and with promises of protection from the [[Temple of Verena]], the stable boy revealed that [[Marx Khlesl]] had returned on the same old nag [[Castor Stark]] had sold to the professor, then moved it elsewhere to avoid the stable master recognising it
 - For a shilling bribe and assurance of Verenan protection, the boy disclosed that Marks was staying at the old military stables with a group called the [[Medical Union]] — a fortified compound with fifteen-foot walls and dangerous guards
 - Crucially: Marks was not merely a member of the [[Wolfmen]] — he was a bigger player who paid them to do his dirty work
 
 ## Quests
 
 ### Active
-- [[Find Professor Stradovski]] — professor left via West Gate heading toward [[Salzenmund]], though this destination is suspected to be a false trail; [[Marks Klessel]] returned with the professor's horse and is now at the [[Medical Union]] compound
+- [[Find Professor Stradovski]] — professor left via West Gate heading toward [[Salzenmund]], though this destination is suspected to be a false trail; [[Marx Khlesl]] returned with the professor's horse and is now at the [[Medical Union]] compound
 
 ## Locations Visited
 
@@ -119,14 +119,14 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 - [[Mungo Mudfoot]] — teamster; introduced his cousin to the party
 - [[Castor Stark]] — stable owner; four pennies per night; sceptical of [[Salzenmund]] as the professor's real destination
 - [[Hoffman Jannitzer]] — Temple of Verena bounty hunter; accompanying party
-- [[Marks Klessel]] — dangerous underground figure; associated with the [[Wolfmen]]; returned riding the professor's horse
+- [[Marx Khlesl]] — dangerous underground figure; associated with the [[Wolfmen]]; returned riding the professor's horse
 
 ## Notable Developments
 
 - [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] and [[Rolf]] have officially joined the party
-- The [[Plague Book]] has been examined by [[Berin Garibaldi|Berin]]: it concerns weaponising disease, not merely curing it — explains the professor's abilities and dramatically raises the stakes
+- The [[Seuchenbuch|Plague Book]] has been examined by [[Berin Garibaldi|Berin]]: it concerns weaponising disease, not merely curing it — explains the professor's abilities and dramatically raises the stakes
 - [[Professor Udo Stradovski|The professor]] is suspected of using [[Salzenmund]] as a false destination; the true route remains unknown
-- [[Marks Klessel]] is identified as a major underground figure, not merely a gang associate; he is currently at the [[Medical Union]] compound
+- [[Marx Khlesl]] is identified as a major underground figure, not merely a gang associate; he is currently at the [[Medical Union]] compound
 
 ## Notes
 

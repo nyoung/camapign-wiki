@@ -25,7 +25,7 @@ Aggressive and direct. Charged into combat without hesitation and proved a genui
 
 **Session 10 (Medical Union compound):** Charged Boris and [[Falconius Thorncobble]] with his spiked club; came close to felling Falconius in the initial assault.
 
-**Session 11 (battle):** Struck Boris hard enough to make him drop [[Marks Klessel]] as a human shield. Had three toes torn off by [[Rolf]]. Received a severe axe wound from Boris that left him bleeding profusely. Stabilized by [[Berin]] after he surrendered.
+**Session 11 (battle):** Struck Boris hard enough to make him drop [[Marx Khlesl]] as a human shield. Had three toes torn off by [[Rolf]]. Received a severe axe wound from Boris that left him bleeding profusely. Stabilized by [[Berin Garibaldi|Berin]] after he surrendered.
 
 ## Notes
 Responsible for retrieving bodies from priests at Salzenmund and transporting them back to [[Urs Huber]] for use in medical experimentation.

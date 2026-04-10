@@ -4,7 +4,7 @@ location_type: coach office
 region: Beekerhoven
 parent_location: "[[Beekerhoven]]"
 status: visited
-first_visited: "[[Session 11]]"
+first_visited: "[[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]"
 tags: [location]
 ---
 
@@ -26,7 +26,7 @@ A coach line office in [[Beekerhoven]], providing passenger transport along esta
 - [[Ferlangen]] — northern destination; routes currently closed for winter
 
 ## Events
-- **[[Session 11]]:** [[Boris]] and [[Pilpoul Ivri]] visited to inquire about travel to [[Ferlangen]]. The coachman informed them that northern routes were closed for the winter season — a 3-month wait would be required, or travel would incur significant extra cost.
+- **[[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]:** [[Boris Dorchen|Boris]] and [[Pilpoul Ivri]] visited to inquire about travel to [[Ferlangen]]. The coachman informed them that northern routes were closed for the winter season — a 3-month wait would be required, or travel would incur significant extra cost.
 
 ## Notes
 - The coach line's closure of northern routes in winter pushed the party toward overland travel and the dangerous road north

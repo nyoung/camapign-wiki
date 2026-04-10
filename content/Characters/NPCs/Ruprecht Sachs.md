@@ -26,7 +26,7 @@ Dutiful, apologetic. Fought back against the creature despite being badly injure
 - Party — owes them his life; praised them to Watch Sergeant Hintzer
 
 ## History with the Party
-Rescued from a [[Sewer Horror]] by the party in [[Session 01 - The Sewer Horror]]. Vocally praised them as heroes to [[Watch Sergeant Udo Hintzer]], which led to their reward.
+Rescued from a [[Sewer Horror]] by the party in [[Session 01 - The Sewer Horror]]. Vocally praised them as heroes to [[Udo Hintzer|Watch Sergeant Udo Hintzer]], which led to their reward.
 
 ## Known Information
 - Sewage had been backing up into cellars in this district for a month before his visit

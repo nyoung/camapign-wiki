@@ -4,7 +4,7 @@ location_type: compound (criminal)
 region: Beekerhoven
 parent_location: "[[Beekerhoven]]"
 status: visited/raided
-first_visited: "[[Session 10]]"
+first_visited: "[[Session 10 - Rats, Corpses, and Conspiracy|Session 10]]"
 tags: [location]
 ---
 
@@ -23,16 +23,16 @@ The old military stables in [[Beekerhoven]], purchased by [[Urs Huber]] from the
 
 ## Notable NPCs
 - [[Urs Huber]] — proprietor; surrendered at the end of Session 11
-- [[Marks Klessel]] — associate; fought the party, subsequently arrested
+- [[Marx Khlesl]] — associate; fought the party, subsequently arrested
 
 ## Connected Locations
 - [[Beekerhoven]] — parent settlement
-- [[Temple of Verena (Beekerhoven)]] — [[Marks Klessel]] and [[Urs Huber]] delivered here after arrest
+- [[Temple of Verena (Beekerhoven)]] — [[Marx Khlesl]] and [[Urs Huber]] delivered here after arrest
 
 ## Events
-- **[[Session 10]]:** [[Boris]] and [[Falconius]] infiltrated the compound posing as rat catchers. [[Falconius]] discovered a note confirming [[Stradovski]] was heading to [[Ferlangen]], signed by [[E. Teuschel]]. Combat broke out; [[Marks Klessel]] was revealed and fought.
-- **[[Session 11]]:** Combat concluded. [[Urs Huber]] surrendered. [[Marks Klessel]] and [[Urs Huber]] were arrested and delivered to the [[Temple of Verena (Beekerhoven)]].
+- **[[Session 10 - Rats, Corpses, and Conspiracy|Session 10]]:** [[Boris Dorchen|Boris]] and [[Falconius Thorncobble|Falconius]] infiltrated the compound posing as rat catchers. [[Falconius Thorncobble|Falconius]] discovered a note confirming [[Professor Udo Stradovski|Stradovski]] was heading to [[Ferlangen]], signed by [[Elfrieda Teuschel|E. Teuschel]]. Combat broke out; [[Marx Khlesl]] was revealed and fought.
+- **[[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]:** Combat concluded. [[Urs Huber]] surrendered. [[Marx Khlesl]] and [[Urs Huber]] were arrested and delivered to the [[Temple of Verena (Beekerhoven)]].
 
 ## Notes
-- The note found by [[Falconius]] — signed by [[E. Teuschel]] and confirming [[Stradovski]]'s destination as [[Ferlangen]] — was a key piece of evidence driving the party north
+- The note found by [[Falconius Thorncobble|Falconius]] — signed by [[Elfrieda Teuschel|E. Teuschel]] and confirming [[Professor Udo Stradovski|Stradovski]]'s destination as [[Ferlangen]] — was a key piece of evidence driving the party north
 - The tunneling through the city wall suggests the compound's illegal activities extended beyond the walls of [[Beekerhoven]]

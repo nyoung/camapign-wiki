@@ -76,7 +76,7 @@ Hildegarde has lived on the streets of Middenheim all her life. She knows no oth
 - **Current funds: ~7 GC + 15 SS** (after 10 SS bribe to [[William Coin]])
 
 ## Relationships
-- [[Watch Sergeant Udo Hintzer]] — benefactor
+- [[Udo Hintzer|Watch Sergeant Udo Hintzer]] — benefactor
 - [[Matron Isolde]] — provided sanctuary and clothing
 - [[Lady Steiner]] — gave her the brass necklace; Lady Steiner agreed to investigate Hildegarde's missing mother
 
@@ -102,6 +102,6 @@ Hildegarde has lived on the streets of Middenheim all her life. She knows no oth
 - Session 11: Climbed through the second-story window of the Teuschel residence to search the master bedroom while Pilpoul and Berin distracted at the front door; found open lockboxes, missing jewellery; took a minted penny as evidence
 - Session 12: Bid everything she had (4 shillings + 16 brass pennies) to outbid at the wife sale for [[Karyssa Bucer]] — was outbid by Wilhelm Teggetthof; stormed out furiously; slapped Karyssa's former husband when he made a joke about marrying her instead; strong moral reaction to the institution
 - Session 13: Worried aloud about mutation after Berin explained dark humours; Boris pointed out she had "already started to turn white" — went almost as pale as her hair
-- Session 13: Negotiated half-price rooms at the [[Elf-Human Temple (Liadriel)]] in exchange for two hours of entertainment; used Boris's were-rabbit fur bundle as proof the stories were real
+- Session 13: Negotiated half-price rooms at the [[Temple to Liadriel]] in exchange for two hours of entertainment; used Boris's were-rabbit fur bundle as proof the stories were real
 - Session 15: **Shot twice by hidden crossbowmen** outside the Forest Inn; fell prone and bleeding; neck wound came terrifyingly close to fatal; gave a defiant thumbs up from the stable floor before retreating; managed to rasp out only one question — whether Hoffman had been saved
 - Session 16: Ended the Skralberg brawl by climbing a table and declaring everyone Ulricans on the same side — effective de-escalation matching her instincts from the Middenheim plaza riot

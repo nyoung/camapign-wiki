@@ -29,10 +29,10 @@ A large, imposing city. Built atop a massive rock — the Fauschlag — with she
 ## Factions Present
 - [[The Watch]]
 - [[Department of Public Works]]
-- [[Commission for Trade, Commerce, and Taxation]]
+- [[Commission for Trade Commerce and Taxation|Commission for Trade, Commerce, and Taxation]]
 - [[Cult of Ulric]]
 - [[Cult of Shallya]]
-- [[Sigmarite Inquisition (Unknown)]]
+- [[Ordo Sancti Inquisita|Sigmarite Inquisition]]
 
 ## Connected Locations
 - [[Worm Lamplight]]

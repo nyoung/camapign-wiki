@@ -22,8 +22,8 @@ Enforce Sigmarite orthodoxy. Hunt and execute those accused of heresy or blasphe
 ## Notable Members
 - [[Danderich Flisshausten]]
 - [[Heinricus Ralf]] — allied Sigmarite priest (expert witness at trial)
-- [[Hermann Wurt]] — sycophantic agent; eyewitness at trial
-- [[Heidi Uberman]] — capable but passed over; possible weak link
+- [[Herman Wurt]] — sycophantic agent; eyewitness at trial
+- [[Heidi Ubermann]] — capable but passed over; possible weak link
 - Red-sash thugs (unnamed)
 
 ## Resources & Influence
@@ -40,4 +40,4 @@ Hostile. [[Danderich Flisshausten]] personally threatened [[Pilpoul Ivri]] after
 
 ## Notes
 - Affidavits presented at trial appeared to be written by one hand with different signatures — evidence of internal fabrication
-- Their legal authority in Middenheim is not unchallenged; [[Watch Sergeant Udo Hintzer]] successfully contested jurisdiction over Klaus's arrest
+- Their legal authority in Middenheim is not unchallenged; [[Udo Hintzer|Watch Sergeant Udo Hintzer]] successfully contested jurisdiction over Klaus's arrest

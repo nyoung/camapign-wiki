@@ -39,6 +39,6 @@ Blocked [[Hildegarde]] from entering the kitchen and shouted to someone named "W
 
 ## Appearances
 - [[Session 13 - Where the Wild Things Aren't]]
-- [[Session 14 - Things That Go Bump]]
+- [[Session 14 - The Fall of Condradine|Session 14]]
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]]
 - [[Session 16 - Plus ça change]]

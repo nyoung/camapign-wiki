@@ -10,7 +10,7 @@ first_seen: "[[Session 03 - The Trial]]"
 tags: [character, npc]
 ---
 
-# Hermann Wurt
+# Herman Wurt
 
 ## Description
 Prosecution witness at [[Klaus Grebel]]'s heresy trial. Traveling with [[Danderich Flisshausten]]'s Sigmarite contingent on the caravan north.
@@ -25,7 +25,7 @@ Eyewitness for the prosecution. Likely affiliated with or recruited by the [[Ord
 Confident on the stand, but wavered under cross-examination. Admitted that some in the crowd nodded and applauded while others seemed troubled by Klaus's words.
 
 ## History with the Party
-Cross-examined by [[Pilpoul]] in [[Session 03 - The Trial]]. Pilpoul undermined his testimony by pointing out distance from Klaus, crowd noise, city traffic, and that Wurt had not written anything down at the time. Pilpoul dubbed his testimony "Herman worthless" before being reprimanded by the judge.
+Cross-examined by [[Pilpoul Ivri|Pilpoul]] in [[Session 03 - The Trial]]. Pilpoul undermined his testimony by pointing out distance from Klaus, crowd noise, city traffic, and that Wurt had not written anything down at the time. Pilpoul dubbed his testimony "Herman worthless" before being reprimanded by the judge.
 
 ## Known Information
 - Claimed he was rushing to intercept Klaus — meaning he was not a neutral bystander

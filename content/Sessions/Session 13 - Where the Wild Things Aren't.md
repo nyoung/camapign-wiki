@@ -5,7 +5,7 @@ title: "Session 13 — Where the Wild Things Aren't"
 played: 2026-03-07
 in_game_date: "28 Nachexen 2512"
 in_game_date_end: "29 Nachexen 2512"
-location_start: "[[All Shadows Fled]]"
+location_start: "[[All Shadows Fled Inn|All Shadows Fled]]"
 location_end: "[[Forest Inn]]"
 pcs_present:
   - "[[Boris Dorchen]]"
@@ -26,7 +26,7 @@ aliases: [Session 13]
 
 ## Summary
 
-The party pressed north along the [[Erengrad Road]] through increasingly strange terrain. The dense forest gave way to rocky scrubland and open sky — unsettling for [[Boris Dorchen]] in particular. A stop at a curious inn-temple dedicated to the elven goddess [[Liadriel]] provided local colour and intelligence. Later, evidence confirmed that three riders had bypassed a toll gate through a farmer's fields. The journey ended at the [[Forest Inn]], a fortified and deeply unsettling coaching house where the stew was inedible, the kitchen was locked, no animals were present anywhere on the property, and the innkeeper [[Van Moll]] physically blocked two separate attempts to investigate his kitchen. [[Berin Garibaldi|Berin]] spent the night in the stable with [[Orazio]], refusing to sleep, while the rest of the party maintained a rotating watch.
+The party pressed north along the [[Erengrad Road]] through increasingly strange terrain. The dense forest gave way to rocky scrubland and open sky — unsettling for [[Boris Dorchen]] in particular. A stop at a curious inn-temple dedicated to the elven goddess [[Temple to Liadriel|Liadriel]] provided local colour and intelligence. Later, evidence confirmed that three riders had bypassed a toll gate through a farmer's fields. The journey ended at the [[Forest Inn]], a fortified and deeply unsettling coaching house where the stew was inedible, the kitchen was locked, no animals were present anywhere on the property, and the innkeeper [[Van Moll]] physically blocked two separate attempts to investigate his kitchen. [[Berin Garibaldi|Berin]] spent the night in the stable with [[Orazio]], refusing to sleep, while the rest of the party maintained a rotating watch.
 
 ## Key Events
 
@@ -46,16 +46,16 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 
 - A peculiar structure rose ahead — part inn, part temple — human stonework carved with elven motifs: delicate reliefs of grapevines, wine-making, and musical instruments adorning every surface
 - A faded wooden sign pointed north toward [[Neu-Emskronk]]; scattered stone foundations marked where a village had once stood
-- [[Boris Dorchen]] wondered aloud whether this might be the fabled [[Athel Loren]]; [[Berin Garibaldi|Berin]] noted the decrepit state of the place and the conspicuous absence of any elves
+- [[Boris Dorchen]] wondered aloud whether this might be the fabled [[Laurelorn Forest|Athel Loren]]; [[Berin Garibaldi|Berin]] noted the decrepit state of the place and the conspicuous absence of any elves
 - The party debated the nature of elves — their secretive ways, their rumoured hostility to outsiders — with [[Pilpoul Ivri]] joking he had heard they ate children and smaller folk, prompting a very worried look from Boris toward [[Mungo Mudfoot]] and [[Falconius Thorncobble|Connie]]
 - A young stable hand came forward to help with the horses; [[Berin Garibaldi|Berin]] remained outside studying the carvings, noting the script was not genuine elvish writing but all pertained to themes of wine, vines, and music
 
 ### The Innkeeper's Account of Liadriel
 
 - Inside, the inn was festooned with garlands of wildflowers strung across the beams
-- A tall, thin innkeeper explained that the temple had been built by his great-grandfather as a meeting place between humans and elves — a place of trade and shared ideas — dedicated to [[Liadriel]], the elven goddess of song and wine, and the only such temple in existence
+- A tall, thin innkeeper explained that the temple had been built by his great-grandfather as a meeting place between humans and elves — a place of trade and shared ideas — dedicated to [[Temple to Liadriel|Liadriel]], the elven goddess of song and wine, and the only such temple in existence
 - He explained that elves had no tradition of building temples, preferring to worship through song, dance, and festival; the concept of a physical place of worship was something they could not understand
-- Trade with the elves had long since dried up, as the [[Baron of Nordland]] had made aggressive moves toward the forest the elves inhabited, causing them to retreat and sever contact with the humans of the region
+- Trade with the elves had long since dried up, as the [[Nordland|Baron of Nordland]] had made aggressive moves toward the forest the elves inhabited, causing them to retreat and sever contact with the humans of the region
 - When asked about mutant attacks, he confirmed travelers had gone missing between inns for years, and road wardens regularly brought mutant bodies through for destruction
 
 ### Hildegarde's Fear of Mutation
@@ -98,7 +98,7 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 - [[Hildegarde]] walked the perimeter looking for tunnels or hidden entry points — found none; the rocky ground made digging nearly impossible
 - [[Berin Garibaldi|Berin]] examined the ruins of a long-abandoned human settlement surrounding the inn, its foundations and overgrown walls suggesting it had been empty for a very long time
 - [[Torben Pieknich]], the local toll keeper, inserted himself into [[Berin Garibaldi|Berin]]'s conversation with the stableman and confirmed three riders had skirted the toll two nights prior, heading northeast on the [[Erengrad Road]] toward [[Seuchenshof]]
-- [[Torben Pieknich]] lowered his voice at the name, warning that people did not speak of it — rumors of a black plague and a [[Shallyan]] hospice there, and those who traveled in that direction were not welcome back in civilised society
+- [[Torben Pieknich]] lowered his voice at the name, warning that people did not speak of it — rumors of a black plague and a [[Cult of Shallya|Shallyan]] hospice there, and those who traveled in that direction were not welcome back in civilised society
 
 ### The Interior — Something Is Wrong
 
@@ -123,7 +123,7 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 
 ### The Night Watch
 
-- [[Gunter]] brought [[Berin Garibaldi|Berin]] a warmed spiced cider before retiring to the attic; [[Berin Garibaldi|Berin]] inspected the drink carefully, noted small particulates that appeared to be cinnamon and spices, but poured a measure out as an offering to [[Myrmidia]] rather than drink it freely
+- [[Gunter]] brought [[Berin Garibaldi|Berin]] a warmed spiced cider before retiring to the attic; [[Berin Garibaldi|Berin]] inspected the drink carefully, noted small particulates that appeared to be cinnamon and spices, but poured a measure out as an offering to [[Knights of the Blazing Sun|Myrmidia]] rather than drink it freely
 - [[Berin Garibaldi|Berin]] resaddled [[Orazio]], set up his traveling tack box as a makeshift altar in the stable, and settled in with his back to the wall to keep watch through the night
 - Inside, the rest of the party established a rotating watch in the corridor: [[Boris Dorchen]], [[Hildegarde]], and [[Falconius Thorncobble|Connie]] each taking a turn
 - [[Hoffman Jannitzer]] and [[Condradine]] disappeared upstairs together
@@ -133,12 +133,12 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 
 ### Active
 - [[Find Professor Stradovski]] — confirmed staying at the [[Forest Inn]] on the twelfth; arrived alone and shaken after losing his traveling companion; heading northeast toward [[Seuchenshof]]
-- [[The Forest Inn]] — something is deeply wrong: no animals, locked kitchen, ghoulish-looking staff, suspicious food
+- [[Forest Inn|The Forest Inn]] — something is deeply wrong: no animals, locked kitchen, ghoulish-looking staff, suspicious food
 
 ## Locations Visited
 
-- [[All Shadows Fled]] — departed
-- [[Inn-Temple of Liadriel]] — brief stop; intelligence gathered on local Wood Elf relations and missing travelers
+- [[All Shadows Fled Inn|All Shadows Fled]] — departed
+- [[Temple to Liadriel|Inn-Temple of Liadriel]] — brief stop; intelligence gathered on local Wood Elf relations and missing travelers
 - [[Forest Inn]] — overnight stay; sinister atmosphere; professor confirmed as a recent guest
 
 ## NPCs Encountered
@@ -161,5 +161,5 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 
 - The session title "Where the Wild Things Aren't" refers both to the absence of beastmen on the road (contrary to warnings) and the complete absence of animals at the inn
 - The subtitle "And the Stew is Awful" is a literal description
-- [[Berin Garibaldi|Berin]]'s decision to pour part of the cider as an offering to [[Myrmidia]] rather than drink it is a quietly characterful moment of devotion and caution simultaneously
+- [[Berin Garibaldi|Berin]]'s decision to pour part of the cider as an offering to [[Knights of the Blazing Sun|Myrmidia]] rather than drink it is a quietly characterful moment of devotion and caution simultaneously
 - The professor "losing his traveling companion to a forest beast" is the first suggestion that [[Schliegel]] the farmhand may be dead

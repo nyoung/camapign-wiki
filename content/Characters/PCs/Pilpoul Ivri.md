@@ -75,14 +75,14 @@ Grew up in Altdorf's cooperage district. His family was ruined by corrupt tax co
 - **Current funds: ~7 GC + 5 SS** (minus fine)
 
 ## Relationships
-- [[Watch Sergeant Udo Hintzer]] — benefactor, vouched for party
+- [[Udo Hintzer|Watch Sergeant Udo Hintzer]] — benefactor, vouched for party
 - [[Ruprecht Sachs]] — rescued
 - [[Konrad Stellmann]] — effectively co-counselled Klaus's defence
 - [[Danderich Flisshausten]] — personal enemy; crushed his hand and warned him not to cross paths again
 
 ## Notes
 - Pointed [[Klaus Grebel]] out to the [[Danderich Flisshausten]] during the plaza riot
-- Was grabbed by the creature's tentacle; freed by [[Altus]]
+- Was grabbed by the creature's tentacle; freed by [[Altus Elsein|Altus]]
 - Pulled [[Elke Grebel]] to safety in a merchant's tent during the riot — then unsuccessfully attempted to charm and rob her
 - Effectively won Klaus's case at trial — eloquent cross-examination, exposed probable affidavit fabrication, delivered compelling intent-based defence
 - Incited the courtroom gallery into murmuring against the judge — fined 5s 6d for grandstanding

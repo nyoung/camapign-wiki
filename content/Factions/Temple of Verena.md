@@ -14,7 +14,7 @@ tags: [faction]
 The temple of Verena, goddess of justice, knowledge, and wisdom, in [[Middenheim]] (or acting through agents there). Co-funding the retrieval of [[Professor Udo Stradovski]] alongside the legalists.
 
 ## Goals
-Presumably: see justice done for [[Augustus Steiner]] and prevent the [[Sigmarite Inquisition (Unknown)]] from executing [[Professor Udo Stradovski]] without fair trial.
+Presumably: see justice done for [[Augustus Steiner]] and prevent the [[Ordo Sancti Inquisita|Sigmarite Inquisition]] from executing [[Professor Udo Stradovski]] without fair trial.
 
 ## Structure / Leadership
 Unknown locally.

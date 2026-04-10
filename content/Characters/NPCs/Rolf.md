@@ -6,7 +6,7 @@ faction:
 location:
 status: alive
 disposition: loyal
-first_seen: "[[Session 09 - The Professor's Trail]]"
+first_seen: "[[Session 09 - The Thriceling|Session 09]]"
 tags: [character, npc]
 ---
 
@@ -29,14 +29,14 @@ In combat, the ferocity is simply a different expression of the same instinct. W
 
 **Sessions 13–14 (Forest Inn):** Refused to settle at the [[Forest Inn]]. Growled repeatedly at the kitchen bone. Recognized that something was deeply wrong well before any of the humans did.
 
-**Session 11 (Medical Union fight):** Tore off three of [[Hugo (Medical Union)|Hugo]]'s toes during the battle at the [[Medical Union]] compound. Also bit deep into [[Marks Klessel]]'s leg during the earlier confrontation.
+**Session 11 (Medical Union fight):** Tore off three of [[Hugo (Medical Union)|Hugo]]'s toes during the battle at the [[Medical Union]] compound. Also bit deep into [[Marx Khlesl]]'s leg during the earlier confrontation.
 
 **Session 15 (Forest Inn battle):** Decapitated a ghoul with a single bite.
 
 ## Appearances
-- [[Session 09 - The Professor's Trail]]
+- [[Session 09 - The Thriceling|Session 09]]
 - [[Session 10 - Rats, Corpses, and Conspiracy]]
 - [[Session 11 - Rolf's Rampage and the Writ of Arrest]]
 - [[Session 13 - Where the Wild Things Aren't]]
-- [[Session 14 - Things That Go Bump]]
+- [[Session 14 - The Fall of Condradine|Session 14]]
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]]

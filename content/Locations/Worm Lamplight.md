@@ -11,10 +11,10 @@ tags: [location]
 # The Worm Lamplight
 
 ## Description
-A clean, unpretentious tavern in [[Middenheim]]. [[Watch Sergeant Udo Hintzer]] vouched for the party here. The barkeep secured the establishment and ejected the party when the sergeant's attention was diverted, citing their lingering smell.
+A clean, unpretentious tavern in [[Middenheim]]. [[Udo Hintzer|Watch Sergeant Udo Hintzer]] vouched for the party here. The barkeep secured the establishment and ejected the party when the sergeant's attention was diverted, citing their lingering smell.
 
 ## Notable Features
-- Broken front window — [[Altus]] threw a large stone through it upon leaving
+- Broken front window — [[Altus Elsein|Altus]] threw a large stone through it upon leaving
 
 ## Notable NPCs
 - Barkeep (unnamed) — ejected the party after the sergeant left
@@ -30,4 +30,4 @@ A clean, unpretentious tavern in [[Middenheim]]. [[Watch Sergeant Udo Hintzer]] 
 
 
 ## Notes
-- Party was asked to leave and [[Altus]] retaliated by smashing a window — potential legal or social consequence if the Watch investigates
+- Party was asked to leave and [[Altus Elsein|Altus]] retaliated by smashing a window — potential legal or social consequence if the Watch investigates

@@ -2,7 +2,7 @@
 type: npc
 species: Human
 career: unknown
-faction: "[[Minter Guild]]"
+faction: "[[Physicians Guild|Minter Guild]]"
 location: "[[Beekerhoven]]"
 status: alive
 disposition: unknown

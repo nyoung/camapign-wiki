@@ -25,7 +25,7 @@ tags: [home]
 - [[Find Professor Stradovski]] — confirmed heading east through Ostland toward [[Ferlangen]]
 
 ## Current Location
-[[Schuten]], Ostland
+[[Schoten]], Ostland
 
 ## Current In-Game Date
 31 Nachexen 2512
@@ -49,12 +49,12 @@ tags: [home]
 
 ## Open Threads / Loose Ends
 - **[[Professor Udo Stradovski]]** — took road east from [[Skralberg]] into Ostland; heading toward [[Ferlangen]]
-- **[[Elfrieda Teuschel]]'s group** — ~3 days ahead of party at Schuten; two women and a brutish man
+- **[[Elfrieda Teuschel]]'s group** — ~3 days ahead of party at Schoten; two women and a brutish man
 - **Ghoul network** — retrieved all their dead overnight after Forest Inn battle; leaderless but still active
 - **Abducted farm girl** — Nordland/Ostland border area; flagged by Skralberg militia as a side thread
 - **[[Seuchenshof]] (Eichenhof)** — barricaded plague road; Stradovski inquired but took the eastern road instead
 - **Stradovski's 100% success rate** — patient notes show no failures or deaths; implies supernatural means
-- **[[Seuchenbuch (Plague Book)]]** — illegal possession; not yet read in full
+- **[[Seuchenbuch|Seuchenbuch (Plague Book)]]** — illegal possession; not yet read in full
 - **[[Stradovski Vellum Papers]]** — contents not yet examined
 - **Hildegarde's missing mother** — [[Lady Steiner]] agreed to inquire
 - **[[Joerg Wusterburg]]**'s order's interest in Stradovski still unexplained

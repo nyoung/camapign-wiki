@@ -19,7 +19,7 @@ Young woman in a Shallyan novice's white habit. Klaus Grebel's sister.
 Novice of the [[Cult of Shallya]]. Former novitiate (has been at the temple long enough to be known there).
 
 ## Personality
-Anxious and cautious under pressure — was trying to pull [[Klaus Grebel]] away from his speech before it escalated. Remarkably selfless and charitable: citizens spontaneously gave her gifts of food and clothing as she walked through Middenheim, and she immediately redistributed everything to those in greater need. This behaviour struck [[Boris]] as natural (reminiscent of village customs) but left [[Hildegarde]] completely stunned, having never witnessed such generosity on the streets.
+Anxious and cautious under pressure — was trying to pull [[Klaus Grebel]] away from his speech before it escalated. Remarkably selfless and charitable: citizens spontaneously gave her gifts of food and clothing as she walked through Middenheim, and she immediately redistributed everything to those in greater need. This behaviour struck [[Boris Dorchen|Boris]] as natural (reminiscent of village customs) but left [[Hildegarde]] completely stunned, having never witnessed such generosity on the streets.
 
 ## Relationships
 - [[Klaus Grebel]] — brother; was trying to protect him
@@ -27,8 +27,8 @@ Anxious and cautious under pressure — was trying to pull [[Klaus Grebel]] away
 - Party — escorted her to the temple; considers them heroes; ecstatically described their deeds to Matron Isolde
 
 ## History with the Party
-- [[Session 01 - The Sewer Horror]]: Knocked down by Sigmarite thugs during the plaza riot; [[Boris]] charged in to protect her.
-- [[Session 02 - The Trial of Klaus Grebel]]: Protected by [[Hildegarde]] and [[Pilpoul]] during the brawl. [[Pilpoul]] pulled her to safety in a merchant's tent — then unsuccessfully attempted to charm and rob her. Escorted through Middenheim to the [[Temple of Shallya]]; introduced the party to [[Matron Isolde]] as heroes.
+- [[Session 01 - The Sewer Horror]]: Knocked down by Sigmarite thugs during the plaza riot; [[Boris Dorchen|Boris]] charged in to protect her.
+- [[Session 02 - The Trial of Klaus Grebel]]: Protected by [[Hildegarde]] and [[Pilpoul Ivri|Pilpoul]] during the brawl. [[Pilpoul Ivri|Pilpoul]] pulled her to safety in a merchant's tent — then unsuccessfully attempted to charm and rob her. Escorted through Middenheim to the [[Temple of Shallya]]; introduced the party to [[Matron Isolde]] as heroes.
 
 ## Known Information
 - Her brother [[Klaus Grebel]] was formerly a Shallyan novitiate before becoming a radical street speaker

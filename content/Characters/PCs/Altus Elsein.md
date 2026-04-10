@@ -73,7 +73,7 @@ From Marienburg, where he worked as a sailor before drifting into mercenary and 
 - **Current funds: 2 GC + 5 SS** (after 5 GC equipment deposit)
 
 ## Relationships
-- [[Watch Sergeant Udo Hintzer]] — benefactor
+- [[Udo Hintzer|Watch Sergeant Udo Hintzer]] — benefactor
 - [[Hoffman Jannitzer]] — mentor; Altus works as a thief-taker under Hoffman's bounty warrant
 
 ## Notes

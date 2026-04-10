@@ -26,10 +26,10 @@ A plague hospice in Nordland, feared by locals. Also referred to as "Eichenhof" 
 - [[Erengrad Road]] — the road northeast toward Seuchenshof branches from this
 
 ## Events
-- **[[Session 12]]:** [[Connie]] heard of Seuchenshof at the [[Hunter's Lodge]] — described as a plague hospice, feared by locals.
-- **[[Session 13]]:** [[Torben Pieknich]] confirmed three riders had headed northeast toward Seuchenshof; warned that people did not speak of it — rumours of black plague and a Shallyan hospice; those who travel that way are not welcome back.
-- **[[Session 16]]:** The militia sergeant at [[Skralberg]] confirmed the road to Eichenhof was barricaded; only plague bearers were sent that way. [[Stradovski]] asked about it but then took the road east into Ostland instead. [[Van Moll]] also warned it was a place of plague where no one returns.
+- **[[Session 12 - Bride Price|Session 12]]:** [[Falconius Thorncobble|Connie]] heard of Seuchenshof at the [[Hunter's Lodge]] — described as a plague hospice, feared by locals.
+- **[[Session 13 - Where the Wild Things Aren't|Session 13]]:** [[Torben Pieknich]] confirmed three riders had headed northeast toward Seuchenshof; warned that people did not speak of it — rumours of black plague and a Shallyan hospice; those who travel that way are not welcome back.
+- **[[Session 16 - Plus ça change|Session 16]]:** The militia sergeant at [[Skralberg]] confirmed the road to Eichenhof was barricaded; only plague bearers were sent that way. [[Professor Udo Stradovski|Stradovski]] asked about it but then took the road east into Ostland instead. [[Van Moll]] also warned it was a place of plague where no one returns.
 
 ## Notes
-- [[Stradovski]]'s Seuchenbuch (Plague Book) contains formulas requiring specific plague materials, suggesting he may have been drawn to this place — but ultimately took the road east instead
+- [[Professor Udo Stradovski|Stradovski]]'s Seuchenbuch (Plague Book) contains formulas requiring specific plague materials, suggesting he may have been drawn to this place — but ultimately took the road east instead
 - Also referred to as "Eichenhof" in some accounts; treat as the same or closely linked location

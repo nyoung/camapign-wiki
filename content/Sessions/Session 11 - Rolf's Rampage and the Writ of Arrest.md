@@ -26,24 +26,24 @@ aliases: [Session 11]
 
 ## Summary
 
-The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Berin]] invoking a writ of arrest in the name of the [[Knights of the Blazing Sun]], bringing the fighting to an end. [[Rolf]] distinguished himself by tearing three toes off [[Hugo]] in a display of savage canine ferocity. The party delivered [[Marks Klessel]] and [[Urs Huber]] to the [[Temple of Verena]] and extracted a crucial confession from Marks: he had been hired by [[Elfrieda Teuschel]] to lay a false trail to [[Salzenmund]], and [[Professor Udo Stradovski|the professor]] had in fact departed northward with a farmhand named [[Schliegel]]. A visit to the [[Teuschel]] residence confirmed that [[Elfrieda Teuschel]] had fled with stolen gold and a young waif. The session ended with the party preparing to pursue the professor toward [[Ferlangen]].
+The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Berin]] invoking a writ of arrest in the name of the [[Knights of the Blazing Sun]], bringing the fighting to an end. [[Rolf]] distinguished himself by tearing three toes off [[Hugo (Medical Union)|Hugo]] in a display of savage canine ferocity. The party delivered [[Marx Khlesl]] and [[Urs Huber]] to the [[Temple of Verena]] and extracted a crucial confession from Marks: he had been hired by [[Elfrieda Teuschel]] to lay a false trail to [[Salzenmund]], and [[Professor Udo Stradovski|the professor]] had in fact departed northward with a farmhand named [[Schliegel]]. A visit to the [[Elfrieda Teuschel|Teuschel]] residence confirmed that [[Elfrieda Teuschel]] had fled with stolen gold and a young waif. The session ended with the party preparing to pursue the professor toward [[Ferlangen]].
 
 ## Key Events
 
 ### Conclusion of the Melee (25 Nachexen)
 
 - A guard punched [[Pilpoul Ivri]] squarely in the face; the eloquent speaker refused to be silenced
-- [[Boris Dorchen]] attempted to maintain [[Marks Klessel]] as a human shield, but [[Hugo]] struck Boris with his massive club, forcing him to drop the captive
+- [[Boris Dorchen]] attempted to maintain [[Marx Khlesl]] as a human shield, but [[Hugo (Medical Union)|Hugo]] struck Boris with his massive club, forcing him to drop the captive
 - [[Pilpoul Ivri]] launched a verbal assault against [[Cezbald Brenz]], stunning the guard with a barrage of indignant questions about attacking a peaceful merchant
-- [[Hoffman Jannitzer]] threw a weighted net that successfully entangled [[Matthias]]
-- [[Rolf]] proved to be a shockingly vicious combatant, attacking [[Hugo]] and **tearing off three of his toes** in a brutal display of canine ferocity
-- [[Elke]] attempted to sprint toward a wall but fell badly, limping on her injured leg before slipping away unnoticed
+- [[Hoffman Jannitzer]] threw a weighted net that successfully entangled [[Matthias (Medical Union)|Matthias]]
+- [[Rolf]] proved to be a shockingly vicious combatant, attacking [[Hugo (Medical Union)|Hugo]] and **tearing off three of his toes** in a brutal display of canine ferocity
+- [[Elke Grebel|Elke]] attempted to sprint toward a wall but fell badly, limping on her injured leg before slipping away unnoticed
 - [[Berin Garibaldi|Berin]] mounted [[Orazio]], who reared and struck [[Cezbald Brenz]] in the helmet with a critical blow
-- [[Boris Dorchen]] attacked [[Hugo]] with his axe, inflicting a severe cut to the torso that caused heavy bleeding
+- [[Boris Dorchen]] attacked [[Hugo (Medical Union)|Hugo]] with his axe, inflicting a severe cut to the torso that caused heavy bleeding
 
 ### Resolution — The Writ of Arrest
 
-- [[Berin Garibaldi|Berin]], mounted and armed, pointed his sword at the remaining guards and declared that the [[Knights of the Blazing Sun]] were serving a **writ of arrest** for [[Marks Klessel]] for highway robbery
+- [[Berin Garibaldi|Berin]], mounted and armed, pointed his sword at the remaining guards and declared that the [[Knights of the Blazing Sun]] were serving a **writ of arrest** for [[Marx Khlesl]] for highway robbery
 - His intimidating presence caused the remaining opponents to drop their weapons and surrender
 - [[Urs Huber]] called for a ceasefire and ordered his men to stand down
 
@@ -51,8 +51,8 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 
 - [[Pilpoul Ivri]] confiscated [[Cezbald Brenz]]'s sword and stored it in [[Orazio]]'s saddlebag
 - [[Hoffman Jannitzer]] manacled the surrendered guards
-- [[Berin Garibaldi|Berin]] provided medical assistance to the badly wounded [[Hugo]], stabilising him despite his grievous injuries
-- [[Boris Dorchen]] dragged the captive [[Marks Klessel]] toward the exit
+- [[Berin Garibaldi|Berin]] provided medical assistance to the badly wounded [[Hugo (Medical Union)|Hugo]], stabilising him despite his grievous injuries
+- [[Boris Dorchen]] dragged the captive [[Marx Khlesl]] toward the exit
 
 ### Investigation of the Compound
 
@@ -61,19 +61,19 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 - [[Urs Huber]] attempted to bribe the party with twenty freshly minted [[Nordland]] crowns; [[Boris Dorchen]] accepted the bribe before attempting to pocket half for himself
 - [[Falconius Thorncobble|Connie]] accompanied [[Urs Huber]] to a workshop filled with numerous vials labelled with disease names including green river pox and purple brain pox
 - [[Berin Garibaldi|Berin]] examined a dissected body on the table — removed organs, organ meat preserved in a vial; [[Falconius Thorncobble|Connie]] gagged and vomited at the sight
-- [[Urs Huber]] admitted that [[Hugo]] and another man retrieved bodies from priests at [[Salzenmund]] and returned them after medical testing
+- [[Urs Huber]] admitted that [[Hugo (Medical Union)|Hugo]] and another man retrieved bodies from priests at [[Salzenmund]] and returned them after medical testing
 - When questioned about graves in the courtyard, [[Urs Huber]] became agitated and evasive, claiming they merely buried spoiled supplies
 
 ### Delivery to the Temple of Verena
 
-- The party delivered [[Marks Klessel]] and [[Urs Huber]] to the [[Temple of Verena]], providing statements about the circumstances of their arrest
-- They noted [[Urs Huber]] had been cooperative and provided useful information; [[Marks Klessel]]'s wounds resulted from his attempt to stop their investigation
+- The party delivered [[Marx Khlesl]] and [[Urs Huber]] to the [[Temple of Verena]], providing statements about the circumstances of their arrest
+- They noted [[Urs Huber]] had been cooperative and provided useful information; [[Marx Khlesl]]'s wounds resulted from his attempt to stop their investigation
 - [[Falconius Thorncobble|Connie]] shared the letter indicating the professor was heading to [[Ferlangen]], not [[Salzenmund]]
 - The Verenans expressed surprise that [[Elfrieda Teuschel]], wife of the mintner, was involved — noting a recent scandal where coins went missing from the mint around the time she received treatment from the professor
 
-### Interrogation of Marks Klessel
+### Interrogation of Marx Khlesl
 
-- [[Boris Dorchen]] conducted a hostile interrogation of [[Marks Klessel]], using [[Rolf]] to intimidate him
+- [[Boris Dorchen]] conducted a hostile interrogation of [[Marx Khlesl]], using [[Rolf]] to intimidate him
 - Marks confessed he was hired by [[Elfrieda Teuschel]], not the professor, to create a false trail to [[Salzenmund]] by briefly impersonating the professor on a short ride
 - He did not know the professor's specific business in [[Ferlangen]], only that [[Elfrieda Teuschel]] had many connections and had provided supplies
 - Marks identified a farmhand named [[Schliegel]] who accompanied the professor when they departed town, heading north
@@ -81,7 +81,7 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 
 ### Visit to the Teuschel Residence (26 Nachexen)
 
-- [[Pilpoul Ivri]], [[Berin Garibaldi|Berin]], and [[Hildegarde]] visited the [[Teuschel]] residence; [[Hildegarde]] circled to the back and climbed to a second-story window, finding it ajar, and slipped inside
+- [[Pilpoul Ivri]], [[Berin Garibaldi|Berin]], and [[Hildegarde]] visited the [[Elfrieda Teuschel|Teuschel]] residence; [[Hildegarde]] circled to the back and climbed to a second-story window, finding it ajar, and slipped inside
 - At the front door, [[Manfred Teuschel]] answered — dishevelled and distressed; his wife [[Elfrieda Teuschel]] had gone missing along with a young waif described as mousy-haired and wearing an artisan's smock
 - [[Manfred Teuschel]] stated that a large shipment of gold from his mint was also missing; he suspected [[Elfrieda Teuschel]] was involved
 - [[Berin Garibaldi|Berin]] showed [[Manfred Teuschel]] one of the newly minted [[Nordland]] coins; the mintner identified them as being from his mint, made two weeks prior — connected to a previous theft blamed on an apprentice named [[Beatrice]]
@@ -100,37 +100,37 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 
 ### Active
 - [[Find Professor Stradovski]] — confirmed heading north toward [[Ferlangen]] with farmhand [[Schliegel]]; [[Elfrieda Teuschel]]'s network provided support and a false trail
-- [[The Medical Union]] — [[Urs Huber]] and [[Marks Klessel]] delivered to the [[Temple of Verena]]; compound's illegal activities partially exposed
+- [[Medical Union|The Medical Union]] — [[Urs Huber]] and [[Marx Khlesl]] delivered to the [[Temple of Verena]]; compound's illegal activities partially exposed
 
 ## Locations Visited
 
 - [[Medical Union Compound]] — melee concluded; compound investigated; prisoners taken
 - [[Temple of Verena (Beekerhoven)]] — prisoners delivered; new intelligence on Teuschel involvement
-- [[Teuschel Residence]] — visited; [[Manfred Teuschel]] interviewed; [[Hildegarde]] searched the premises
+- [[Manfred Teuschel|Teuschel Residence]] — visited; [[Manfred Teuschel]] interviewed; [[Hildegarde]] searched the premises
 - [[Four Seasons Coach Line]] — northern routes confirmed closed for winter
 
 ## NPCs Encountered
 
-- [[Marks Klessel]] — interrogated; confessed he was hired by [[Elfrieda Teuschel]] to impersonate the professor on a false trail to [[Salzenmund]]
+- [[Marx Khlesl]] — interrogated; confessed he was hired by [[Elfrieda Teuschel]] to impersonate the professor on a false trail to [[Salzenmund]]
 - [[Urs Huber]] — operator of the [[Medical Union]]; delivered to the [[Temple of Verena]]; admitted to body retrieval from [[Salzenmund]] priests
-- [[Hugo]] — tall gaunt enforcer; gravely wounded by [[Rolf]] and [[Boris Dorchen]]; stabilised by [[Berin Garibaldi|Berin]]
+- [[Hugo (Medical Union)|Hugo]] — tall gaunt enforcer; gravely wounded by [[Rolf]] and [[Boris Dorchen]]; stabilised by [[Berin Garibaldi|Berin]]
 - [[Cezbald Brenz]] — guard; struck by [[Orazio]]; sword confiscated
-- [[Matthias]] — guard; netted by [[Hoffman Jannitzer]]
-- [[Elke]] — escaped the compound during the fighting
-- [[Hoffman Jannitzer]] — Verenan bounty hunter; netted [[Matthias]]; manacled prisoners
+- [[Matthias (Medical Union)|Matthias]] — guard; netted by [[Hoffman Jannitzer]]
+- [[Elke Grebel|Elke]] — escaped the compound during the fighting
+- [[Hoffman Jannitzer]] — Verenan bounty hunter; netted [[Matthias (Medical Union)|Matthias]]; manacled prisoners
 - [[Manfred Teuschel]] — mintner; wife [[Elfrieda Teuschel]] has fled with stolen gold; distressed and uncooperative
-- [[Schliegel]] — farmhand who accompanied the professor northward (mentioned by [[Marks Klessel]]; not encountered)
+- [[Schliegel]] — farmhand who accompanied the professor northward (mentioned by [[Marx Khlesl]]; not encountered)
 - [[Beatrice]] — apprentice previously blamed for a mint theft (mentioned; not encountered)
 
 ## Notable Developments
 
 - [[Professor Udo Stradovski|The professor]] departed northward with farmhand [[Schliegel]], supported by [[Elfrieda Teuschel]]'s network; [[Ferlangen]] is confirmed as the destination
 - [[Elfrieda Teuschel]] has fled [[Beekerhoven]] with stolen gold and a young waif — she is now wanted by the town authorities
-- The newly minted coins are confirmed as stolen from the [[Teuschel]] mint and connected to both the professor's travel and [[Marks Klessel]]'s payment
+- The newly minted coins are confirmed as stolen from the [[Elfrieda Teuschel|Teuschel]] mint and connected to both the professor's travel and [[Marx Khlesl]]'s payment
 - [[Rolf]] has established himself as the party's most ferocious combatant by volume of damage-per-size
 
 ## Notes
 
 - Session 11 refers to the mintner as "Manfred Teuschel" in the recap — this is a recap error; the established name from Session 08 is [[Manfred Teuschel]], used here for consistency
-- [[Rolf]] tearing off three of [[Hugo]]'s toes is one of the more memorable combat moments of the campaign
+- [[Rolf]] tearing off three of [[Hugo (Medical Union)|Hugo]]'s toes is one of the more memorable combat moments of the campaign
 - The [[Church of Morr]] being invoked to justify the compound's corpse possession adds a religious-institutional angle to the [[Medical Union]]'s operations

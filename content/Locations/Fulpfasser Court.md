@@ -14,7 +14,7 @@ tags: [location]
 A court in [[Middenheim]] where legal trials are held. Site of [[Klaus Grebel]]'s heresy trial.
 
 ## Notable Features
-- Public gallery — crowd can be swayed; [[Pilpoul]] incited murmuring against a 5s 6d fine
+- Public gallery — crowd can be swayed; [[Pilpoul Ivri|Pilpoul]] incited murmuring against a 5s 6d fine
 
 ## Notable NPCs
 - [[Judge Magdalyn Verner]] — presiding judge
@@ -32,4 +32,4 @@ A court in [[Middenheim]] where legal trials are held. Site of [[Klaus Grebel]]'
 - 18 Nachexen 2512: [[Klaus Grebel]] tried here for the Heresy of Arctus. Found guilty; sentenced to 3 months community service under the [[Cult of Shallya]].
 
 ## Notes
-- [[Pilpoul]] fined 5 shillings, sixpence for grandstanding during cross-examination
+- [[Pilpoul Ivri|Pilpoul]] fined 5 shillings, sixpence for grandstanding during cross-examination

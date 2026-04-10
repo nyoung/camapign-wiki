@@ -43,7 +43,7 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 - A priestess of Verena approached them, explaining the temple needed replacements for unreliable men previously hired in [[Middenheim]] who had likely fled with their payment
 - She introduced [[Berin Garibaldi]], a horse trader and novitiate of the [[Knights of the Blazing Sun]], accompanied by his large, friendly dark brown horse [[Orazio]], who immediately nosed at party members who smelled of carrots
 - The priestess added Berin to the party's warrant for [[Professor Udo Stradovski]]; the party welcomed him warmly, impressed by his honour and medical knowledge
-- The party briefed Berin on the investigation: the professor's flight from Middenheim twelve days prior, his assistant [[Augustus Steiner]] taking the fall, the impossible 100% success rate, the 50 GC paid for urgent passage, the [[Seuchenbuch (Plague Book)]] and a second book of patient notes, and the likelihood of dark powers involvement
+- The party briefed Berin on the investigation: the professor's flight from Middenheim twelve days prior, his assistant [[Augustus Steiner]] taking the fall, the impossible 100% success rate, the 50 GC paid for urgent passage, the [[Seuchenbuch|Seuchenbuch (Plague Book)]] and a second book of patient notes, and the likelihood of dark powers involvement
 
 ### Inn Intelligence
 
@@ -123,7 +123,7 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 - [[Berin Garibaldi]] has joined the party under the Temple of Verena's warrant
 - The Inquisitors are approximately one day ahead on the road to [[Salzenmund]]
 - Stradovski appears to have shifted from coach travel to overland travel (tent, lanterns, horse) — harder to track
-- [[Elfrieda Teuschel]] is concealing the true nature of her miraculous cure; strong suspicion of dark magic or a Nurgle connection given the [[Seuchenbuch (Plague Book)]]
+- [[Elfrieda Teuschel]] is concealing the true nature of her miraculous cure; strong suspicion of dark magic or a Nurgle connection given the [[Seuchenbuch|Seuchenbuch (Plague Book)]]
 - Next morning: town stables and Wolfrunner office
 
 ## Notes

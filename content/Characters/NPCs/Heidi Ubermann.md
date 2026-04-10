@@ -10,7 +10,7 @@ first_seen: "[[Session 05 - The Road North]]"
 tags: [character, npc]
 ---
 
-# Heidi Uberman
+# Heidi Ubermann
 
 ## Description
 A member of the [[Ordo Sancti Inquisita]]'s contingent on the caravan. Traveled on the caravan north.
@@ -19,11 +19,11 @@ A member of the [[Ordo Sancti Inquisita]]'s contingent on the caravan. Traveled 
 Sigmarite agent or knight. Has been passed over for advancement despite being more capable than her peers.
 
 ## Personality
-Visibly resentful of [[Danderich Flisshausten]] and the institution. More capable than [[Hermann Wurt]] but overlooked. [[Erika Sÿfrid von Drakkenheim]] observed the dynamic at dinner: Heidi appears far more skilled and competent than she's given credit for — a potential point of contact.
+Visibly resentful of [[Danderich Flisshausten]] and the institution. More capable than [[Herman Wurt]] but overlooked. [[Erika Sÿfrid von Drakkenheim]] observed the dynamic at dinner: Heidi appears far more skilled and competent than she's given credit for — a potential point of contact.
 
 ## Relationships
 - [[Danderich Flisshausten]] — superior; she resents him
-- [[Hermann Wurt]] — colleague; a sycophant she has outpaced in ability
+- [[Herman Wurt]] — colleague; a sycophant she has outpaced in ability
 - [[Erika Sÿfrid von Drakkenheim]] — dined together in Arenburg; Erika observed her situation
 
 ## History with the Party

@@ -4,7 +4,7 @@ location_type: inn (ghoul lair)
 region: The Empire — Nordland (road north, before Skralberg)
 parent_location:
 status: visited / cleared (partially)
-first_visited: "[[Session 13]]"
+first_visited: "[[Session 13 - Where the Wild Things Aren't|Session 13]]"
 tags: [location]
 ---
 
@@ -32,17 +32,17 @@ A heavily fortified inn on a hilltop, built to withstand a siege. Sturdy walls, 
 - [[Hoffman Jannitzer]] — party member; dragged away on a cart during the night attack; recovered in Session 15
 
 ## Connected Locations
-- [[Elf-Human Temple (Liadriel)]] — south
+- [[Temple to Liadriel]] — south
 - [[Skralberg]] — north
-- [[Seuchenshof]] — northeast; [[Stradovski]] asked about it before taking the road east
+- [[Seuchenshof]] — northeast; [[Professor Udo Stradovski|Stradovski]] asked about it before taking the road east
 - [[Temple of Verena (Beekerhoven)]] — [[Pilpoul Ivri]] sent a pigeon report here from this location
 
 ## Events
-- **[[Session 13]]:** Party arrived. Noted the total absence of animals; stew over-salted and over-spiced; kitchen locked. [[Rolf]] refused to settle. [[Orazio]] skittish around [[Gunter (Forest Inn)]].
-- **[[Session 14]]:** Night attack. The bone-filled cellar beneath the kitchen was discovered. Ghoulish figures tried to lower [[Hoffman Jannitzer]] from a window and cart him away. [[Condradine]] died falling from the window. [[Hoffman Jannitzer]] was dragged into the darkness on a cart.
-- **[[Session 15]]:** Battle outside the inn. [[Melmoth]] was killed. [[Torben Pieknich]] was captured. [[Hoffman Jannitzer]] was recovered. [[Van Moll]] revealed the history: a famine two winters ago drove [[Melmoth]] to convert starving locals into ghouls; travellers have been lured in and murdered ever since. [[Stradovski]] passed through approximately 12 days prior — he sacrificed a companion, a horse, and exchanged knowledge of ghouls to negotiate his release.
-- **[[Session 16]]:** All bodies from the battle had disappeared overnight — the ghouls had retrieved them. [[Pilpoul Ivri]] sent a homing pigeon report to the [[Temple of Verena (Beekerhoven)]].
+- **[[Session 13 - Where the Wild Things Aren't|Session 13]]:** Party arrived. Noted the total absence of animals; stew over-salted and over-spiced; kitchen locked. [[Rolf]] refused to settle. [[Orazio]] skittish around [[Gunter (Forest Inn)]].
+- **[[Session 14 - The Fall of Condradine|Session 14]]:** Night attack. The bone-filled cellar beneath the kitchen was discovered. Ghoulish figures tried to lower [[Hoffman Jannitzer]] from a window and cart him away. [[Condradine]] died falling from the window. [[Hoffman Jannitzer]] was dragged into the darkness on a cart.
+- **[[Session 15 - Stradovski's Guide to Selling Out Your Friends|Session 15]]:** Battle outside the inn. [[Melmoth]] was killed. [[Torben Pieknich]] was captured. [[Hoffman Jannitzer]] was recovered. [[Van Moll]] revealed the history: a famine two winters ago drove [[Melmoth]] to convert starving locals into ghouls; travellers have been lured in and murdered ever since. [[Professor Udo Stradovski|Stradovski]] passed through approximately 12 days prior — he sacrificed a companion, a horse, and exchanged knowledge of ghouls to negotiate his release.
+- **[[Session 16 - Plus ça change|Session 16]]:** All bodies from the battle had disappeared overnight — the ghouls had retrieved them. [[Pilpoul Ivri]] sent a homing pigeon report to the [[Temple of Verena (Beekerhoven)]].
 
 ## Notes
-- [[Stradovski]]'s ability to negotiate release from the Forest Inn by sacrificing a companion and trading ghoul knowledge reveals the depth of his esoteric learning — and his ruthlessness
-- The Seuchenbuch ([[Stradovski]]'s Plague Book) likely informed his knowledge of ghouls and related creatures
+- [[Professor Udo Stradovski|Stradovski]]'s ability to negotiate release from the Forest Inn by sacrificing a companion and trading ghoul knowledge reveals the depth of his esoteric learning — and his ruthlessness
+- The Seuchenbuch ([[Professor Udo Stradovski|Stradovski]]'s Plague Book) likely informed his knowledge of ghouls and related creatures

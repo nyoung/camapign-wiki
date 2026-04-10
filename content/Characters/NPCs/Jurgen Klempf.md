@@ -10,7 +10,7 @@ first_seen: "[[Session 05 - The Road North]]"
 tags: [character, npc]
 ---
 
-# Knight Jürgen Klampf
+# Knight Jurgen Klempf
 
 ## Description
 A Knight of the [[White Wolves]] — the Ulrican knightly order. Traveling on the caravan north to [[Beekerhoven]] in pursuit of [[Professor Udo Stradovski]].

@@ -1,14 +1,12 @@
 ---
 type: session
-number:
-real_date:
+session_number:
+title:
+played:
 in_game_date:
-in_game_date_end:
-location_start:
-location_end:
 pcs_present: []
-status: completed
 tags: [session]
+aliases: []
 ---
 
 # Session  —

@@ -23,13 +23,13 @@ Unknown (locally).
 -
 
 ## Resources & Influence
-Dominant faith in Middenheim — significant political weight. [[Boris]] and [[Altus]] appear to have Ulrican sympathies.
+Dominant faith in Middenheim — significant political weight. [[Boris Dorchen|Boris]] and [[Altus Elsein|Altus]] appear to have Ulrican sympathies.
 
 ## Relationship with the Party
-[[Boris]] is a fervent Ulrican. [[Altus]] shouted "Ulric is the true power in Middenheim" — sympathetic at minimum.
+[[Boris Dorchen|Boris]] is a fervent Ulrican. [[Altus Elsein|Altus]] shouted "Ulric is the true power in Middenheim" — sympathetic at minimum.
 
 ## Known Activities
-- Tension with [[Sigmarite Inquisition (Unknown)]] over [[Klaus Grebel]]'s speech
+- Tension with [[Ordo Sancti Inquisita|Sigmarite Inquisition]] over [[Klaus Grebel]]'s speech
 
 ## Notes
 - The Ulrican/Sigmarite schism is a major political fault line in Middenheim

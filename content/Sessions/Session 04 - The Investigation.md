@@ -1,9 +1,10 @@
 ---
 type: session
-number: 4
-real_date: 2025-12-13
-in_game_date: 18 Nachexen 2512
-in_game_date_end: 18 Nachexen 2512
+session_number: 4
+title: "Session 04 — The Investigation"
+played: 2025-12-13
+in_game_date: "18 Nachexen 2512"
+in_game_date_end: "18 Nachexen 2512"
 location_start: "[[Clerk's Office (Verena-Ulric)]]"
 location_end: "[[Middenheim]]"
 pcs_present:
@@ -44,7 +45,7 @@ A respectable row of terraced townhouses. Suspicious neighbours twitched curtain
 **Pit Fight Tavern (Alt-Quartier)**
 The Alt-Quartier: dilapidated buildings, beggars, mongrel dogs. Pit Fight Tavern: stale ale, unwashed bodies, greasy tallow candles, water-stained walls.
 
-[[Fya Vater]] (Stradovski's former maid) emerged in ragged clothes and immediately demanded payment. Negotiations started with inadequate bronze coins, escalated. After [[Boris Dorchen]]'s intimidation tactics, she sold a lockbox for 2 crowns.
+[[Fya Veter]] (Stradovski's former maid) emerged in ragged clothes and immediately demanded payment. Negotiations started with inadequate bronze coins, escalated. After [[Boris Dorchen]]'s intimidation tactics, she sold a lockbox for 2 crowns.
 
 **Fya's testimony:**
 - Stradovski was secretive; pretended to be religious — attended services but never kept religious symbols at home
@@ -53,7 +54,7 @@ The Alt-Quartier: dilapidated buildings, beggars, mongrel dogs. Pit Fight Tavern
 **Lockbox contents** (examined by [[Joerg Wusterburg]]):**
 - Dreary lecture notes on medical procedures
 - Patient notes in complex medical jargon
-- **A [[Seuchenbuch (Plague Book)]]** — banned and restricted text
+- **A [[Seuchenbuch|Seuchenbuch (Plague Book)]]** — banned and restricted text
 
 Joerg immediately recognised the danger. He closed the book and quietly told Boris they should pretend they never found it — though they agreed they would need to show it to someone knowledgeable eventually.
 
@@ -110,7 +111,7 @@ He laid out the situation:
 - Stradovski purchased a **Wolfrunner coach ticket to [[Beekerhoven]]** — confirmed
 - Offered the party a place on a **caravan heading north in two days (20 Nachexen 2512)**
 - The Sigmarites and Ulricans will be on the same caravan — deeply tense situation
-- The Temple of Verena arranged: a wagon, teamster [[Mungo]], and provisions
+- The Temple of Verena arranged: a wagon, teamster [[Mungo Mudfoot|Mungo]], and provisions
 
 ---
 
@@ -129,7 +130,7 @@ He laid out the situation:
 - [[Erika Sÿfrid von Drakkenheim]] — joined party
 - [[Chancellor Leinhard von Altenhaus]] — met at Collegium
 - [[Stellman (Student Guide)]] — student escort at Collegium
-- [[Fya Vater]] — maid; sold lockbox
+- [[Fya Veter]] — maid; sold lockbox
 - [[Professor Humpis]] — interviewed (uncooperative)
 - [[Watch Captain Tringen Melbur]] — escorted party to cells
 - [[Augustus Steiner]] — met in person
@@ -148,7 +149,7 @@ He laid out the situation:
 ## Items Acquired
 - 160 shillings (party total) — advance payment from clerk
 - [[Portrait of Stradovski]] — from Stradovski's house
-- [[Seuchenbuch (Plague Book)]] — from Fya Vater's lockbox (2 crowns paid)
+- [[Seuchenbuch|Seuchenbuch (Plague Book)]] — from Fya Veter's lockbox (2 crowns paid)
 - [[Stradovski Vellum Papers]] (4 sheets) — from secret compartment in Stradovski's office
 
 ## XP Awarded
@@ -156,7 +157,7 @@ Unknown
 
 ## Notes / Loose Threads
 - Departure 20 Nachexen 2512 — one day to prepare
-- [[Seuchenbuch (Plague Book)]] possession is illegal — a liability that must be managed carefully
+- [[Seuchenbuch|Seuchenbuch (Plague Book)]] possession is illegal — a liability that must be managed carefully
 - [[Stradovski Vellum Papers]] contents not yet examined
 - Stradovski's miraculous cures: what is their source?
 - Three-way caravan ride north — managing relationships with Sigmarites and White Wolves

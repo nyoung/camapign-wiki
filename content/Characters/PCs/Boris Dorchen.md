@@ -74,7 +74,7 @@ Comes from the Drakwald forests, where he hunted dangerous creatures. His father
 - **Current funds: 8 GC + 5 SS**
 
 ## Relationships
-- [[Watch Sergeant Udo Hintzer]] — benefactor
+- [[Udo Hintzer|Watch Sergeant Udo Hintzer]] — benefactor
 
 ## Notes
 - Devout Ulrican — was outraged at the mistreatment of the [[Elke Grebel]] and charged into the fray; still fiercely reacts to Sigmarite accusations
@@ -83,10 +83,10 @@ Comes from the Drakwald forests, where he hunted dangerous creatures. His father
 - Now a provisional member of the [[Middenland Militia]]
 - Landed the killing blow on the [[Sewer Horror]] with his sling
 - Landed the killing blow on the [[Were-Rabbit]] — decapitated it with a single axe swing after [[Hildegarde]]'s critical hit left it prone and stunned
-- Currently carrying the [[Seuchenbuch (Plague Book)]] — illegal forbidden text; the party's most dangerous possession
+- Currently carrying the [[Seuchenbuch|Seuchenbuch (Plague Book)]] — illegal forbidden text; the party's most dangerous possession
 - Session 09: Described himself to Connie as "a young hunter from Middenland"
 - Session 09: Observed a suspicious young man in dark clothing following the party near the stables; pressed the stable boy successfully where Connie's intimidation attempt failed
-- Session 10: Used a rat-laden pole as an improvised flail against Marks Klessel — rats scratched his face; tactical improvisation noted
+- Session 10: Used a rat-laden pole as an improvised flail against Marx Khlesl — rats scratched his face; tactical improvisation noted
 - Session 11: Briefly used Marks as a human shield; accepted the Medical Union bribe before trying to pocket half
 - Session 13: Experienced creeping agoraphobia as the forest thinned — grew up under forest canopy; open sky felt wrong
 - Session 13: Pointed out (to Hildegarde's horror) that she had "already started to turn white" when she worried about mutation

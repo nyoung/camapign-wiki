@@ -30,12 +30,12 @@ A massive octopus-like creature, chaos-tainted. So large it was completely jamme
 
 ## Weapons
 - Tentacle slam (threw [[Ruprecht Sachs]] violently against stone wall)
-- Tentacle constrict (wrapped around [[Pilpoul]]'s leg; crushed surveyor's midsection)
+- Tentacle constrict (wrapped around [[Pilpoul Ivri|Pilpoul]]'s leg; crushed surveyor's midsection)
 
 ## Encounter Notes
 - Constrained to the sewer shaft — only tentacles could reach through the grating
 - Multiple tentacles emerged progressively during the fight
-- Killed by [[Boris]] with a sling stone
+- Killed by [[Boris Dorchen|Boris]] with a sling stone
 - Contact with its body/fluid may have inflicted Corruption on party members who touched it
 
 ## Weaknesses / Tactics

@@ -26,7 +26,7 @@ Unknown (locally).
 Hospitals and places of healing. Respected across faction lines due to their healing role.
 
 ## Relationship with the Party
-Indirect. [[Boris]] acted to protect the [[Elke Grebel]] during the riot.
+Indirect. [[Boris Dorchen|Boris]] acted to protect the [[Elke Grebel]] during the riot.
 
 ## Known Activities
 - [[Elke Grebel]] was accompanying [[Klaus Grebel]] during his speech

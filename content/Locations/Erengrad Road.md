@@ -23,7 +23,7 @@ The main road north through Nordland, running from [[Beekerhoven]] northward thr
 - [[Beekerhoven]] — south
 - [[Hunter's Lodge]] — first major stop north of Beekerhoven
 - [[All Shadows Fled Inn]] — further north
-- [[Elf-Human Temple (Liadriel)]] — further north; beside road sign for Neu-Emskronk
+- [[Temple to Liadriel]] — further north; beside road sign for Neu-Emskronk
 - [[Forest Inn]] — on a hilltop; fortified; site of the ghoul operation
 - [[Skralberg]] — border post at Nordland/Ostland frontier
 - [[Seuchenshof]] — branching road northeast; barricaded

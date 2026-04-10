@@ -20,7 +20,7 @@ A Squire of the [[Knights Panther]]. She made her first entrance kicking open a 
 **Note: Retired PC. Active approximately Sessions 01 through 07.**
 
 ## Personality
-Erika is observant and socially intelligent. She quickly identified Hermann Wurt as a sycophant and Heidi Uberman as the more capable and resentful of the two during the caravan — the kind of read that comes from someone who grew up navigating hierarchies. She has genuine noble etiquette skills and used them to diplomatically resolve the Flisshausten/Klampf dispute and accept Danderich's dinner invitation in a way that served the party's interests. She introduced herself to her knight's harsh assessments of her abilities with theatrical self-deprecation, which suggests either resilience or a carefully maintained performance of it.
+Erika is observant and socially intelligent. She quickly identified Herman Wurt as a sycophant and Heidi Ubermann as the more capable and resentful of the two during the caravan — the kind of read that comes from someone who grew up navigating hierarchies. She has genuine noble etiquette skills and used them to diplomatically resolve the Flisshausten/Klampf dispute and accept Danderich's dinner invitation in a way that served the party's interests. She introduced herself to her knight's harsh assessments of her abilities with theatrical self-deprecation, which suggests either resilience or a carefully maintained performance of it.
 
 In combat she is practical: she used her shield to kick away attacking rabbits during the were-rabbit battle rather than overthinking it. She pulled a muscle badly trying to flip a produce cart, and took a leg hit from the rabbit swarm — strong but not invincible, and apparently well aware of the difference.
 
@@ -73,6 +73,6 @@ A Squire of the [[Knights Panther]], with access to the barracks that came with 
 - Conducted the primary questioning of [[Augustus Steiner]] in the Collegium cells
 - Searched Stradovski's office for hidden compartments
 - Resolved the Flisshausten/Klampf caravan dispute using noble etiquette — diplomatically effective
-- Identified Hermann Wurt as a sycophant and Heidi Uberman as the more capable but resentful of the two
+- Identified Herman Wurt as a sycophant and Heidi Ubermann as the more capable but resentful of the two
 - Took a leg wound from the rabbit swarm during the were-rabbit battle; used her shield to kick attacking rabbits clear
 - Had access to the [[Knights Panther]] barracks during active play

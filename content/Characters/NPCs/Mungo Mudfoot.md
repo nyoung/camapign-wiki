@@ -3,7 +3,7 @@ type: npc
 species: Halfling
 career: Teamster
 faction: "[[Temple of Verena]]"
-location: "[[Schuten]], Ostland (with wagon)"
+location: "[[Schoten]], Ostland (with wagon)"
 status: alive
 disposition: neutral
 first_seen: "[[Session 04 - The Investigation]]"

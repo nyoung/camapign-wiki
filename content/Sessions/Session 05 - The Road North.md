@@ -1,9 +1,10 @@
 ---
 type: session
-number: 5
-real_date: 2025-12-20
-in_game_date: 18 Nachexen 2512
-in_game_date_end: 20 Nachexen 2512
+session_number: 5
+title: "Session 05 — The Road North"
+played: 2025-12-20
+in_game_date: "18 Nachexen 2512"
+in_game_date_end: "20 Nachexen 2512"
 location_start: "[[Collegium Theologica]]"
 location_end: "[[Arenburg]]"
 pcs_present:
@@ -21,14 +22,14 @@ aliases: [Session 05, Session 5]
 # Session 05 — The Road North
 
 ## Summary
-The party spent their remaining day in [[Middenheim]] following two leads — [[Wolfrunner Coaches]] and the [[Physicians Guild]] — before departing north on 20 Nachexen. The caravan immediately caused tension between [[Danderich Flisshausten]] and [[Jürgen Klampf]] over command. The first day's journey ended in [[Arenburg]], where local inquiry confirmed Stradovski had passed through, and [[Erika Sÿfrid von Drakkenheim]] gained access to the Sigmarite table.
+The party spent their remaining day in [[Middenheim]] following two leads — [[Wolfrunner Coaches]] and the [[Physicians Guild]] — before departing north on 20 Nachexen. The caravan immediately caused tension between [[Danderich Flisshausten]] and [[Jurgen Klempf]] over command. The first day's journey ended in [[Arenburg]], where local inquiry confirmed Stradovski had passed through, and [[Erika Sÿfrid von Drakkenheim]] gained access to the Sigmarite table.
 
 ## Events
 
 ### Sharing Notes with Hoffman (18 Nachexen)
 Outside the [[Collegium Theologica]], [[Hoffman Jannitzer]] introduced himself more fully — a bounty hunter from Marienburg, hired by the [[Temple of Verena]] to ensure justice was executed fairly, particularly given the Sigmarites' tendency to overstep. He confirmed Stradovski departed via [[Wolfrunner Coaches]] to [[Beekerhoven]], though the dispatcher had been reluctant to share more.
 
-[[Boris Dorchen]] mentioned the mysterious book (the [[Seuchenbuch (Plague Book)]]); [[Joerg Wusterburg]] warned the contents were dangerous and shouldn't be discussed publicly. [[Pilpoul Ivri]] volunteered to examine the patient notes — classical Latin, 40–50 names, Beekerhoven mentioned at least twice.
+[[Boris Dorchen]] mentioned the mysterious book (the [[Seuchenbuch|Seuchenbuch (Plague Book)]]); [[Joerg Wusterburg]] warned the contents were dangerous and shouldn't be discussed publicly. [[Pilpoul Ivri]] volunteered to examine the patient notes — classical Latin, 40–50 names, Beekerhoven mentioned at least twice.
 
 Hoffman revealed transport was arranged for the **twentieth**, giving one full day to investigate. The party agreed to split: Hoffman's group investigates [[Wolfrunner Coaches]]; Pilpoul continues document research.
 
@@ -62,7 +63,7 @@ When [[Pilpoul Ivri]] showed the patient notes, Kunz confirmed outcomes far beyo
 The party met [[Mungo Mudfoot]], their assigned halfling teamster. Feisty and cheerful, he revealed he had "repurposed" supplies from the legalists' storage: a month's rations, bedrolls, blankets, and various equipment. He proudly waved his blunderbuss carelessly at the party and suggested they depart quickly before anyone noticed the missing supplies.
 
 ### Caravan Departure — The Argument (20 Nachexen)
-The caravan assembled at the Four Seasons coaching house. Immediately, [[Danderich Flisshausten]] and [[Jürgen Klampf]] argued over who should lead the procession.
+The caravan assembled at the Four Seasons coaching house. Immediately, [[Danderich Flisshausten]] and [[Jurgen Klempf]] argued over who should lead the procession.
 - Danderich: noble blood and status as Knight of Sigmar entitled him to command
 - Klampf: White Wolves hold authority in Middenheim and Nordland
 
@@ -99,9 +100,9 @@ Sleeping arrangements:
 That evening, [[Hoffman Jannitzer]] began mentoring [[Altus Elsein]] in bounty hunting basics — Altus could work as a "thief taker" under Hoffman's warrant until he obtained his own guild licence.
 
 ### Erika Dines with the Sigmarites
-[[Erika Sÿfrid von Drakkenheim]] dined with [[Danderich Flisshausten]], [[Hermann Wurt]], and [[Heidi Uberman]]. Her observations:
-- **Hermann Wurt** — shameless sycophant; praises everything Danderich says
-- **Heidi Uberman** — visibly resentful; far more capable than Wurt but passed over for advancement despite superior skills
+[[Erika Sÿfrid von Drakkenheim]] dined with [[Danderich Flisshausten]], [[Herman Wurt]], and [[Heidi Ubermann]]. Her observations:
+- **Herman Wurt** — shameless sycophant; praises everything Danderich says
+- **Heidi Ubermann** — visibly resentful; far more capable than Wurt but passed over for advancement despite superior skills
 
 The Sigmarite dynamics reveal both tensions and a potential opening with Heidi.
 
@@ -110,10 +111,10 @@ The Sigmarite dynamics reveal both tensions and a potential opening with Heidi.
 - [[Caspar Anckenreuter]] — identified via ledger; new lead in Beekerhoven
 - [[Herr Kunz]] — Physicians Guild official
 - [[Mungo Mudfoot]] — met (already assigned)
-- [[Jürgen Klampf]] — White Wolf Knight; caravan standoff
+- [[Jurgen Klempf]] — White Wolf Knight; caravan standoff
 - [[Danderich Flisshausten]] — caravan standoff; warned Erika; invited her to dinner
-- [[Hermann Wurt]] — identified as Danderich's sycophant
-- [[Heidi Uberman]] — identified as resentful, capable, overlooked Sigmarite
+- [[Herman Wurt]] — identified as Danderich's sycophant
+- [[Heidi Ubermann]] — identified as resentful, capable, overlooked Sigmarite
 - [[Gunter]] — local in Arenburg; confirmed Stradovski's passage
 
 ## Locations Visited
@@ -137,8 +138,8 @@ Unknown
 ## Notes / Loose Threads
 - **[[Caspar Anckenreuter]]** — key lead in Beekerhoven; why did he sell his ticket? Does he know who Stradovski is?
 - **Stradovski's 100% success rate** — impossible by normal means; confirms something deeply unusual about his methods
-- **[[Heidi Uberman]]** — potential asset; resentful of Danderich, more capable than recognised
+- **[[Heidi Ubermann]]** — potential asset; resentful of Danderich, more capable than recognised
 - **[[Danderich Flisshausten]]'s dinner invitation** — intelligence gathering opportunity for Erika, but also a risk
-- **The [[Seuchenbuch (Plague Book)]]** — still unread in full; still illegal to possess
+- **The [[Seuchenbuch|Seuchenbuch (Plague Book)]]** — still unread in full; still illegal to possess
 - **[[Altus Elsein]]** learning bounty hunting under [[Hoffman Jannitzer]]
 - Stradovski is ~10 days ahead and moving; the caravan must move fast

@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Bounty Hunter / Temple Guardian
 faction: "[[Temple of Verena]]"
-location: "[[Schuten]]"
+location: "[[Schoten]]"
 status: alive
 disposition: neutral
 first_seen: "[[Session 04 - The Investigation]]"
@@ -22,7 +22,7 @@ Temple guardian and active Verenian agent in the three-way race to find [[Profes
 ## Personality
 Jannitzer is professional to the bone — organised, focused, and rarely rattled. He handled the delicate three-faction caravan situation (Verenans, [[Ordo Sancti Inquisita|Sigmarites]], [[Cult of Ulric|Ulricans]]) with quiet diplomacy and kept logistics running. When he threw a weighted net to entangle Matthias during the Medical Union raid, it was unhurried and precise. He is not a young man, and he knows it; he doesn't waste energy.
 
-What makes him more interesting than his professional surface is what the [[Forest Inn]] revealed. [[Condradine]] attached herself to him with warmth convincing enough to fool [[Pilpoul]], who was watching specifically for deception — and Jannitzer was simply charmed, plainly and completely. He laughed, he sat close, he went upstairs without hesitation. Whatever vigilance normally protects him, he set it down that evening without a second thought. When he came to — groggy, bloodshot, waking to find himself being lowered out of a window on a rope — his first response was not embarrassment or anger. He explained it calmly and factually: she had put something in his apple cider liquor. A professional accounting. Whatever he felt about being taken in so thoroughly, he kept it to himself.
+What makes him more interesting than his professional surface is what the [[Forest Inn]] revealed. [[Condradine]] attached herself to him with warmth convincing enough to fool [[Pilpoul Ivri|Pilpoul]], who was watching specifically for deception — and Jannitzer was simply charmed, plainly and completely. He laughed, he sat close, he went upstairs without hesitation. Whatever vigilance normally protects him, he set it down that evening without a second thought. When he came to — groggy, bloodshot, waking to find himself being lowered out of a window on a rope — his first response was not embarrassment or anger. He explained it calmly and factually: she had put something in his apple cider liquor. A professional accounting. Whatever he felt about being taken in so thoroughly, he kept it to himself.
 
 ## Relationships
 - [[Temple of Verena]] — employer
@@ -40,7 +40,7 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 - Three warrants are out: [[Ordo Sancti Inquisita]] (execute), [[Cult of Ulric]] / White Wolves (unclear intent), [[Temple of Verena]] (justice/fair trial)
 - Caravan departs north in two days (20 Nachexen 2512)
 - The Sigmarites and Ulricans will be on the same caravan — tense travel situation
-- The Temple of Verena arranged: wagon, teamster [[Mungo]], provisions
+- The Temple of Verena arranged: wagon, teamster [[Mungo Mudfoot|Mungo]], provisions
 
 ## Secrets / GM Notes
 - What are the Ulricans' intentions with Stradovski?
@@ -52,7 +52,7 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 
 **Session 15:** Recovered — found alive but deeply unconscious. The battle to retrieve him concluded; he was secured.
 
-**Session 16:** Regained consciousness, groggy and bloodshot; explained Condradine had drugged his drink. Continued with the party to [[Skralberg]] and [[Schuten]].
+**Session 16:** Regained consciousness, groggy and bloodshot; explained Condradine had drugged his drink. Continued with the party to [[Skralberg]] and [[Schoten]].
 
 ## Appearances
 - [[Session 04 - The Investigation]]

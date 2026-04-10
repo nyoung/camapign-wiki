@@ -93,7 +93,7 @@ The [[Forest Inn]] revealed its true horror during the night. [[Falconius Thornc
 
 ### Active
 - [[Find Professor Stradovski]] — still heading northeast; [[Forest Inn]] confirmed as a Melmoth-controlled trap
-- [[Rescue Hoffman Jannitzer]] — [[Hoffman Jannitzer|Hoffman]] has been abducted by ghoulish figures; cart went north/northeast; recovery is urgent
+- [[Find Professor Stradovski|Rescue Hoffman Jannitzer]] — [[Hoffman Jannitzer|Hoffman]] has been abducted by ghoulish figures; cart went north/northeast; recovery is urgent
 - [[The Forest Inn Mystery]] — what are the ghouls, who controls them, and what is [[Van Moll]]'s role?
 
 ## Locations Visited

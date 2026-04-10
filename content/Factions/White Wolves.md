@@ -17,10 +17,10 @@ The Ulrican knightly order based in [[Middenheim]]. Claim jurisdiction over Midd
 Claim jurisdiction in Ulrican territory; retrieve [[Professor Udo Stradovski]] (intent with him unclear — execute? protect?).
 
 ## Structure / Leadership
-- [[Jürgen Klampf]] — Knight leading the caravan contingent
+- [[Jurgen Klempf]] — Knight leading the caravan contingent
 
 ## Notable Members
-- [[Jürgen Klampf]]
+- [[Jurgen Klempf]]
 - Men-at-arms (unnamed, multiple) — travel jovially, telling war stories
 
 ## Resources & Influence

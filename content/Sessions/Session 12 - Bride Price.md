@@ -6,7 +6,7 @@ played: 2026-02-28
 in_game_date: "26 Nachexen 2512"
 in_game_date_end: "27 Nachexen 2512"
 location_start: "[[Beekerhoven]]"
-location_end: "[[All Shadows Fled]]"
+location_end: "[[All Shadows Fled Inn|All Shadows Fled]]"
 pcs_present:
   - "[[Boris Dorchen]]"
   - "[[Hildegarde]]"
@@ -26,7 +26,7 @@ aliases: [Session 12]
 
 ## Summary
 
-The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Ferlangen]]. Before leaving, they navigated the town crier's announcement that all newly minted coins were seized property, requiring [[Pilpoul Ivri]] to improvise a ruse at the gate. On the road, they discovered the wreck of [[Elfrieda Teuschel]]'s black coach, confirming she was on the same route but had abandoned it after a broken wheel. At their second night's inn, the [[All Shadows Fled]], [[Hildegarde]] witnessed a traditional wife sale and bid aggressively against the innkeeper — losing the auction but making her feelings emphatically clear to all present, including the unrepentant husband.
+The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Ferlangen]]. Before leaving, they navigated the town crier's announcement that all newly minted coins were seized property, requiring [[Pilpoul Ivri]] to improvise a ruse at the gate. On the road, they discovered the wreck of [[Elfrieda Teuschel]]'s black coach, confirming she was on the same route but had abandoned it after a broken wheel. At their second night's inn, the [[All Shadows Fled Inn|All Shadows Fled]], [[Hildegarde]] witnessed a traditional wife sale and bid aggressively against the innkeeper — losing the auction but making her feelings emphatically clear to all present, including the unrepentant husband.
 
 ## Key Events
 
@@ -48,7 +48,7 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 ### The Town Crier and the Gate Ruse
 
 - A town crier delivered unsettling news: the city council and baron had uncovered the corpse desecration plot, arrests had been made, [[Elfrieda Teuschel]] was now wanted, and all newly minted coins were declared stolen property — possession would bring prosecution
-- The party hid their gold crowns in [[Marks Klessel]]'s old horse stall; [[Hildegarde]] kept a single brass penny as a reference
+- The party hid their gold crowns in [[Marx Khlesl]]'s old horse stall; [[Hildegarde]] kept a single brass penny as a reference
 - [[Pilpoul Ivri]] staged a ruse at the gate: presenting a forged note claiming [[Hildegarde]] was gravely ill and required immediate medical travel; the guards, already mocking the disgraced mintner, accepted the story and waved the party through without charging the toll
 
 ### On the Road North (27–28 Nachexen)
@@ -59,20 +59,20 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 
 ### The Hunter's Lodge (28 Nachexen, evening)
 
-- After a full day's travel, the party reached the [[Hunter's Lodge]], a solid timber inn beside a wayside shrine dedicated to [[Haleth]], goddess of the hunt
-- Innkeeper [[Klaus Ulfinger]] greeted them warily, initially fearing they were [[Sigmarite]] agents sent to seize local shrines; the party assured him they were simple travelers bound for [[Ferlangen]]
+- After a full day's travel, the party reached the [[Hunter's Lodge]], a solid timber inn beside a wayside shrine dedicated to [[Haleth Shrine|Haleth]], goddess of the hunt
+- Innkeeper [[Klaus Ulfinger]] greeted them warily, initially fearing they were [[Ordo Sancti Inquisita|Sigmarite]] agents sent to seize local shrines; the party assured him they were simple travelers bound for [[Ferlangen]]
 - [[Falconius Thorncobble|Connie]] paid for rooms with one of the newly minted gold crowns — drawing immediate attention, as few locals had seen such fresh currency this far from major cities
 - [[Klaus Ulfinger]] shared important news: a black coach matching [[Elfrieda Teuschel]]'s description had passed through the previous night, driven by a broad-shouldered man and accompanied by a raven-haired woman; despite warnings about the roads after dark, they had continued north
 
 ### The Haleth Shrine and Local Intelligence
 
-- [[Berin Garibaldi|Berin]] and [[Boris Dorchen]] examined the [[Haleth]] shrine — carved antlers, rotting hunting trophies
+- [[Berin Garibaldi|Berin]] and [[Boris Dorchen]] examined the [[Haleth Shrine|Haleth]] shrine — carved antlers, rotting hunting trophies
 - [[Falconius Thorncobble|Connie]] spoke with locals and learned:
   - Mutants were haunting the road ahead
   - A plague hospice called [[Seuchenshof]] lay to the north
-  - Rising tensions with [[Wood Elves]] in the [[Laurelorn]] forest to the west
+  - Rising tensions with [[Laurelorn Forest|Wood Elves]] in the [[Laurelorn Forest|Laurelorn]] forest to the west
 - The party entertained the gathered farmers: [[Hildegarde]] singing, [[Rolf]] performing tricks, earning goodwill and a few coins
-- [[Berin Garibaldi|Berin]] studied the [[Plague Book]] further and grew uneasy — the formulas required specific plague materials, suggesting the professor might be drawn to the hospice the villagers feared
+- [[Berin Garibaldi|Berin]] studied the [[Seuchenbuch|Plague Book]] further and grew uneasy — the formulas required specific plague materials, suggesting the professor might be drawn to the hospice the villagers feared
 
 ### Discovery of the Wrecked Coach (29 Nachexen, morning)
 
@@ -84,7 +84,7 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 
 ### The All Shadows Fled Inn and the Wife Sale (29 Nachexen, evening)
 
-- The party arrived at the [[All Shadows Fled]] inn, run by innkeeper [[Wilhelm Teggetthof]]
+- The party arrived at the [[All Shadows Fled Inn|All Shadows Fled]] inn, run by innkeeper [[Wilhelm Teggetthof]]
 - [[Wilhelm Teggetthof]] announced the evening's main event: a traditional wife sale
 - [[Karyssa Bucer]], married to an abusive drunkard, had petitioned the community for help; the solution agreed upon by the villagers was for her husband to sell her so she could remarry; [[Wilhelm Teggetthof]] himself intended to purchase her
 - The party reacted with mixed discomfort: [[Berin Garibaldi|Berin]] observed the affair seemed more customary than commercial; [[Boris Dorchen]] compared it bluntly to livestock auctions back home
@@ -107,25 +107,25 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 ### The Wedding
 
 - Inside the inn, the marriage ceremony between [[Karyssa Bucer]] and [[Wilhelm Teggetthof]] proceeded swiftly
-- A local priest of [[Ulric]] performed the rites; the villagers celebrated with blessings and small gifts for the newlyweds, treating the exchange as a practical resolution long accepted by custom
+- A local priest of [[Cult of Ulric|Ulric]] performed the rites; the villagers celebrated with blessings and small gifts for the newlyweds, treating the exchange as a practical resolution long accepted by custom
 
 ## Quests
 
 ### Active
 - [[Find Professor Stradovski]] — trail leads north on the coastal road toward [[Ferlangen]]; the professor traveled with [[Schliegel]] and departed before [[Elfrieda Teuschel]]
-- [[Track Elfrieda Teuschel]] — black coach wrecked; she and companion continue north on horseback with a distinctive proud nail on one horseshoe; still ahead of the party
+- [[Find Professor Stradovski|Track Elfrieda Teuschel]] — black coach wrecked; she and companion continue north on horseback with a distinctive proud nail on one horseshoe; still ahead of the party
 
 ## Locations Visited
 
 - [[Beekerhoven]] — departed; gate toll evaded via Pilpoul's ruse
-- [[Hunter's Lodge]] — overnight stop; [[Elfrieda Teuschel]]'s coach confirmed passing through; [[Haleth]] shrine examined
-- [[All Shadows Fled]] — overnight stop; wife sale witnessed; [[Hildegarde]] bid against [[Wilhelm Teggetthof]]
+- [[Hunter's Lodge]] — overnight stop; [[Elfrieda Teuschel]]'s coach confirmed passing through; [[Haleth Shrine|Haleth]] shrine examined
+- [[All Shadows Fled Inn|All Shadows Fled]] — overnight stop; wife sale witnessed; [[Hildegarde]] bid against [[Wilhelm Teggetthof]]
 
 ## NPCs Encountered
 
 - [[Mungo Mudfoot]] — teamster; confirmed route to [[Ferlangen]]; carrying homing pigeons
 - [[Klaus Ulfinger]] — innkeeper of the [[Hunter's Lodge]]; provided intelligence on [[Elfrieda Teuschel]]'s coach
-- [[Wilhelm Teggetthof]] — innkeeper of [[All Shadows Fled]]; purchased [[Karyssa Bucer]] at the wife sale
+- [[Wilhelm Teggetthof]] — innkeeper of [[All Shadows Fled Inn|All Shadows Fled]]; purchased [[Karyssa Bucer]] at the wife sale
 - [[Karyssa Bucer]] — subject of the wife sale; sold by her abusive husband to [[Wilhelm Teggetthof]]
 - [[Karyssa Bucer|Karyssa's Husband]] — abusive drunkard; profited from the sale; slapped by [[Hildegarde]]
 
@@ -140,4 +140,4 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 
 - The route debate (Elfrieda vs. the professor) is significant — the party chose institutional loyalty over opportunistic gain
 - The wife sale custom, while disturbing to modern sensibilities and to [[Hildegarde]], is presented as a genuine rural tradition in the setting
-- [[Berin Garibaldi|Berin]]'s growing unease about the [[Plague Book]]'s requirements foreshadows [[Seuchenshof]]'s importance in later sessions
+- [[Berin Garibaldi|Berin]]'s growing unease about the [[Seuchenbuch|Plague Book]]'s requirements foreshadows [[Seuchenshof]]'s importance in later sessions

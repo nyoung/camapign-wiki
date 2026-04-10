@@ -118,7 +118,7 @@ Under [[Berin Garibaldi]]'s firm and intimidating questioning, [[Torben Pieknich
 
 - **Stradovski's moral character is confirmed**: he sacrificed [[Schliegel]] and shared forbidden knowledge with a ghoul-master to save himself — he is far more dangerous than the party initially believed
 - [[Melmoth]] and his dark cult of Khaine/undeath have been smashed at the Forest Inn, but followers retrieved all bodies overnight (see Session 16)
-- The party possesses *Tenebris Geheimnis* in addition to the [[Seuchenbuch (Plague Book)]] — two illegal forbidden texts
+- The party possesses *Tenebris Geheimnis* in addition to the [[Seuchenbuch|Seuchenbuch (Plague Book)]] — two illegal forbidden texts
 - [[Hildegarde]] nearly died — neck wound was extremely close to fatal
 
 ## Notes

@@ -24,7 +24,7 @@ Aggressive but not unbeatable. Went down after a combination of blows left him s
 
 ## History with the Party
 
-**Session 11 (battle):** Punched [[Pilpoul]] in the face. Was stunned by Pilpoul's verbal barrage in return. Received a critical blow from [[Orazio]]'s rear kick — struck in the helmet. Surrendered after taking the hit. His sword was confiscated by Pilpoul and stored in Orazio's saddlebag.
+**Session 11 (battle):** Punched [[Pilpoul Ivri|Pilpoul]] in the face. Was stunned by Pilpoul's verbal barrage in return. Received a critical blow from [[Orazio]]'s rear kick — struck in the helmet. Surrendered after taking the hit. His sword was confiscated by Pilpoul and stored in Orazio's saddlebag.
 
 ## Appearances
 - [[Session 11 - Rolf's Rampage and the Writ of Arrest]]

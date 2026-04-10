@@ -22,7 +22,7 @@ Sigmarite priest; expert witness on the Heresy of Arctus of Carolberg.
 Authoritative in his theological knowledge. Did not attend the plaza speech himself — testified based on affidavits and discussions with knights of Sigmar.
 
 ## History with the Party
-Testified at [[Klaus Grebel]]'s trial in [[Session 03 - The Trial]]. [[Pilpoul]] exposed on cross-examination that Ralf had no direct knowledge of the speech, relying on second-hand affidavits — and that those affidavits appeared to be written in the same hand with different signatures, suggesting collusion or fabrication.
+Testified at [[Klaus Grebel]]'s trial in [[Session 03 - The Trial]]. [[Pilpoul Ivri|Pilpoul]] exposed on cross-examination that Ralf had no direct knowledge of the speech, relying on second-hand affidavits — and that those affidavits appeared to be written in the same hand with different signatures, suggesting collusion or fabrication.
 
 ## Known Information
 - Expert on the Heresy of Arctus of Carolberg (condemned 1265)
