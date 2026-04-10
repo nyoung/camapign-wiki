@@ -62,7 +62,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 - [[Berin Garibaldi|Berin]] stayed at the stables overnight to watch over [[Orazio]]; the rest returned to the inn for dinner
 - The evening meal featured the local unappetising specialty: lurker fish, served whole with staring eyes; Connie immediately fed his portion to [[Rolf]], who devoured it enthusiastically
-- [[Berin Garibaldi|Berin]] ordered a bottle of [[Lonningbruck Ruby]] wine for the table
+- [[Berin Garibaldi|Berin]] ordered a bottle of Lonningbruck Ruby wine for the table
 - The party briefed Connie on the three-way pursuit: themselves working for the [[Temple of Verena]], [[Ordo Sancti Inquisita|Sigmarite Inquisitors]] seeking the professor's execution for heresy, and [[Cult of Ulric|Ulricans]] with unknown motives
 - They explained that the professor had manipulated his young assistant into taking the fall for the heresy charges — if he died before trial, an innocent student would be executed
 - [[Pilpoul Ivri]] revealed his fabricated cover story: that [[Hildegarde]] was "biblically married" to the professor through consummation but not civic ceremony, and they sought to enforce his obligations to her and her five children; [[Hildegarde]] objected strenuously — she had no children and was searching for her lost mother
