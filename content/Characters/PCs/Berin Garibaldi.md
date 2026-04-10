@@ -22,9 +22,9 @@ Berin is a lean, pockmarked southerner with darker skin and the careful bearing 
 ## Personality
 Berin is measured where others are reactive, philosophical where others are blunt. He ordered Lonningbruck Ruby wine for the table and observed that happiness is found in life's simple pleasures. He is not soft: he charged [[Orazio]] through the Forest Inn gate in a thundering assault, pinned Melmoth's skilled swordsman to the wall with lethal force, and severed Melmoth's head and mounted it on the gatepost. He then tended to [[Hildegarde]]'s near-fatal neck wound and [[Orazio]]'s injuries with the same unhurried competence.
 
-His faith is practical and present. He set up a makeshift altar at the Forest Inn stable. He poured a libation to Myrmidia rather than drink the spiced cider Gunter brought him — the gesture quiet but absolute. He offered alms readily: six shillings to Elson Teuschel over Elfrida's objection; healing to farmers on the road. He argued the party couldn't serve as unbiased judges for Torben, measured and careful where others react on instinct.
+His faith is practical and present. He set up a makeshift altar at the Forest Inn stable. He poured a libation to Myrmidia rather than drink the spiced cider Gunter brought him — the gesture quiet but absolute. He offered alms readily: six shillings to Manfred Teuschel over Elfrieda's objection; healing to farmers on the road. He argued the party couldn't serve as unbiased judges for Torben, measured and careful where others react on instinct.
 
-He is the only party member who can read classical texts. He read Stradovski's patient notes and identified the wasting disease symptoms. He noticed and interpreted Elfrida Teuschel's micro-expressions, assessed she was hiding the true nature of her cure, and said so. He gave the Seuchenbuch a "knowledge is fire" assessment — useful, dangerous, and not to be treated lightly.
+He is the only party member who can read classical texts. He read Stradovski's patient notes and identified the wasting disease symptoms. He noticed and interpreted Elfrieda Teuschel's micro-expressions, assessed she was hiding the true nature of her cure, and said so. He gave the Seuchenbuch a "knowledge is fire" assessment — useful, dangerous, and not to be treated lightly.
 
 His bond with [[Orazio]] is genuine and particular. He calls to the horse in the language of their bond, and [[Orazio]] answers.
 
@@ -60,7 +60,7 @@ Berin's background spans two careers that sit in unusual harmony: horse trader a
 - **Mutations:**
 
 ## Skills
-- Medicine / medical knowledge — read [[Professor Udo Stradovski|Stradovski]]'s patient notes and identified the wasting disease symptoms; observed and interpreted [[Elfrida Teuschel]]'s micro-expressions
+- Medicine / medical knowledge — read [[Professor Udo Stradovski|Stradovski]]'s patient notes and identified the wasting disease symptoms; observed and interpreted [[Elfrieda Teuschel]]'s micro-expressions
 - Charm — convinced the Teuschel servant to admit the party
 
 ## Talents
@@ -77,8 +77,8 @@ Berin's background spans two careers that sit in unusual harmony: horse trader a
 
 ## Notes
 - Party was immediately impressed by his honour
-- Observed [[Elfrida Teuschel]]'s micro-expressions — assessed she is hiding the true nature of her cure
-- Offered 6 shillings as alms to [[Elson Teuschel]]; accepted over Elfrida's objection
+- Observed [[Elfrieda Teuschel]]'s micro-expressions — assessed she is hiding the true nature of her cure
+- Offered 6 shillings as alms to [[Manfred Teuschel]]; accepted over Elfrieda's objection
 - Moved [[Orazio]] to the town stables for the night (23 Nachexen) due to the inn's stable having burned down
 
 ## Appearances

@@ -26,7 +26,7 @@ The party spent their remaining day in [[Middenheim]] following two leads — [[
 ## Events
 
 ### Sharing Notes with Hoffman (18 Nachexen)
-Outside the [[Collegium Theologica]], [[Hoffman Janitzer]] introduced himself more fully — a bounty hunter from Marienburg, hired by the [[Temple of Verena]] to ensure justice was executed fairly, particularly given the Sigmarites' tendency to overstep. He confirmed Stradovski departed via [[Wolfrunner Coaches]] to [[Beekerhoven]], though the dispatcher had been reluctant to share more.
+Outside the [[Collegium Theologica]], [[Hoffman Jannitzer]] introduced himself more fully — a bounty hunter from Marienburg, hired by the [[Temple of Verena]] to ensure justice was executed fairly, particularly given the Sigmarites' tendency to overstep. He confirmed Stradovski departed via [[Wolfrunner Coaches]] to [[Beekerhoven]], though the dispatcher had been reluctant to share more.
 
 [[Boris Dorchen]] mentioned the mysterious book (the [[Seuchenbuch (Plague Book)]]); [[Joerg Wusterburg]] warned the contents were dangerous and shouldn't be discussed publicly. [[Pilpoul Ivri]] volunteered to examine the patient notes — classical Latin, 40–50 names, Beekerhoven mentioned at least twice.
 
@@ -73,7 +73,7 @@ The caravan assembled at the Four Seasons coaching house. Immediately, [[Danderi
 ### The Caravan
 Procession composition: three coaches (civilian travellers), the party's supply wagon ([[Mungo Mudfoot]] driving), mounted Sigmarite and Ulrican knights.
 
-First day's journey: small villages and hamlets around Middenheim. Ulrican men-at-arms joked and traded war stories; Sigmarites traveled in focused silence. Mungo provided high-quality midday food, drawing jealous glances. He spent the journey talking incessantly to [[Hoffman Janitzer]] and [[Boris Dorchen]] about "Pie Week" and his elaborate pie-eating strategies.
+First day's journey: small villages and hamlets around Middenheim. Ulrican men-at-arms joked and traded war stories; Sigmarites traveled in focused silence. Mungo provided high-quality midday food, drawing jealous glances. He spent the journey talking incessantly to [[Hoffman Jannitzer]] and [[Boris Dorchen]] about "Pie Week" and his elaborate pie-eating strategies.
 
 ### Arriving in Arenburg (20 Nachexen, evening)
 [[Arenburg]]: run-down, muddy streets, ramshackle buildings, acrid smell.
@@ -96,7 +96,7 @@ Sleeping arrangements:
 - Neither knew his destination beyond Beekerhoven
 
 ### Hoffman Mentors Altus
-That evening, [[Hoffman Janitzer]] began mentoring [[Altus Elsein]] in bounty hunting basics — Altus could work as a "thief taker" under Hoffman's warrant until he obtained his own guild licence.
+That evening, [[Hoffman Jannitzer]] began mentoring [[Altus Elsein]] in bounty hunting basics — Altus could work as a "thief taker" under Hoffman's warrant until he obtained his own guild licence.
 
 ### Erika Dines with the Sigmarites
 [[Erika Sÿfrid von Drakkenheim]] dined with [[Danderich Flisshausten]], [[Hermann Wurt]], and [[Heidi Uberman]]. Her observations:
@@ -140,5 +140,5 @@ Unknown
 - **[[Heidi Uberman]]** — potential asset; resentful of Danderich, more capable than recognised
 - **[[Danderich Flisshausten]]'s dinner invitation** — intelligence gathering opportunity for Erika, but also a risk
 - **The [[Seuchenbuch (Plague Book)]]** — still unread in full; still illegal to possess
-- **[[Altus Elsein]]** learning bounty hunting under [[Hoffman Janitzer]]
+- **[[Altus Elsein]]** learning bounty hunting under [[Hoffman Jannitzer]]
 - Stradovski is ~10 days ahead and moving; the caravan must move fast

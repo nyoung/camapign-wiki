@@ -104,8 +104,8 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 
 - Inside, the inn was strikingly plain: no decorations, no motifs, no sign of any god or patron — just bare wooden chairs and tables
 - The only other patron was a woman named [[Condradine]], dressed in travel clothes, watching the party with sharp eyes; she told [[Hildegarde]] she was traveling from [[Ferlangen]] to [[Middenheim]] and had encountered border trouble between [[Nordland]] and [[Ostland]] but no mutants
-- When [[Condradine]] noticed [[Hoffman Janitzer]] sitting alone in the corner, she excused herself and joined him, eventually sitting beside him with her arm around his shoulders and laughing at everything he said
-- [[Pilpoul Ivri]] watched the exchange carefully, satisfying himself she was not attempting to pick [[Hoffman Janitzer|Hoffman]]'s pockets — she appeared to have taken a genuine liking to him
+- When [[Condradine]] noticed [[Hoffman Jannitzer]] sitting alone in the corner, she excused herself and joined him, eventually sitting beside him with her arm around his shoulders and laughing at everything he said
+- [[Pilpoul Ivri]] watched the exchange carefully, satisfying himself she was not attempting to pick [[Hoffman Jannitzer|Hoffman]]'s pockets — she appeared to have taken a genuine liking to him
 
 ### The Absence of Animals
 
@@ -126,7 +126,7 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 - [[Gunter]] brought [[Berin Garibaldi|Berin]] a warmed spiced cider before retiring to the attic; [[Berin Garibaldi|Berin]] inspected the drink carefully, noted small particulates that appeared to be cinnamon and spices, but poured a measure out as an offering to [[Myrmidia]] rather than drink it freely
 - [[Berin Garibaldi|Berin]] resaddled [[Orazio]], set up his traveling tack box as a makeshift altar in the stable, and settled in with his back to the wall to keep watch through the night
 - Inside, the rest of the party established a rotating watch in the corridor: [[Boris Dorchen]], [[Hildegarde]], and [[Falconius Thorncobble|Connie]] each taking a turn
-- [[Hoffman Janitzer]] and [[Condradine]] disappeared upstairs together
+- [[Hoffman Jannitzer]] and [[Condradine]] disappeared upstairs together
 - The session ended with the inn in ominous silence and the party braced for whatever the night would bring
 
 ## Quests
@@ -146,14 +146,14 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 - [[Van Moll]] — innkeeper of the [[Forest Inn]]; evasive; physically blocked kitchen investigations
 - [[Gunter]] — stable groom; sickly appearance; skittish behavior unsettled [[Orazio]]
 - [[Torben Pieknich]] — toll keeper; confirmed three riders bypassed toll heading toward [[Seuchenshof]]
-- [[Condradine]] — mysterious female traveler; claimed to be heading from [[Ferlangen]] to [[Middenheim]]; took a conspicuous interest in [[Hoffman Janitzer]]
+- [[Condradine]] — mysterious female traveler; claimed to be heading from [[Ferlangen]] to [[Middenheim]]; took a conspicuous interest in [[Hoffman Jannitzer]]
 - [[Walbrecht]] — name called by [[Van Moll]] when the kitchen was threatened; not seen
-- [[Hoffman Janitzer]] — Verenan bounty hunter; companion to [[Condradine]] for the evening
+- [[Hoffman Jannitzer]] — Verenan bounty hunter; companion to [[Condradine]] for the evening
 
 ## Notable Developments
 
 - [[Professor Udo Stradovski|The professor]] stayed at the [[Forest Inn]] on the twelfth — arrived **alone**, having lost his traveling companion ([[Schliegel]]?) to a forest beast; this is deeply concerning
-- Three riders bypassed the toll heading toward [[Seuchenshof]] — likely [[Elfriede Teuschel]] and companions
+- Three riders bypassed the toll heading toward [[Seuchenshof]] — likely [[Elfrieda Teuschel]] and companions
 - The [[Forest Inn]] exhibits all the signs of something deeply wrong: missing animals, locked kitchen, ghoulish-looking staff, aggressive over-seasoning of food, complete absence of domestic livestock
 - [[Rolf]]'s refusal to take the offered bone from the kitchen and [[Orazio]]'s skittishness around [[Gunter]] serve as animal-instinct warnings the party is taking seriously
 

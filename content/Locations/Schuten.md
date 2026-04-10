@@ -31,8 +31,8 @@ A town in Ostland, the first stop after crossing the border from Nordland. Nestl
 - [[Ostland]] — parent region
 
 ## Events
-- **[[Session 16]]:** Soldiers lined the walls with crossbows and black powder weapons. An armoured officer on horseback scrutinised the party and reviewed the Imperial warrant before allowing entry under conditions. At the [[Royal Wolf Inn (Schuten)]], [[Albrecht Gieland]] confirmed that two women and a brutish man had passed through three nights prior — likely [[Elfrida Teuschel]]'s group.
+- **[[Session 16]]:** Soldiers lined the walls with crossbows and black powder weapons. An armoured officer on horseback scrutinised the party and reviewed the Imperial warrant before allowing entry under conditions. At the [[Royal Wolf Inn (Schuten)]], [[Albrecht Gieland]] confirmed that two women and a brutish man had passed through three nights prior — likely [[Elfrieda Teuschel]]'s group.
 
 ## Notes
 - The party's arrival in Schuten marks their entry into Ostland and the final leg of the pursuit toward [[Ferlangen]]
-- [[Elfrida Teuschel]]'s group was approximately three days ahead when the party arrived
+- [[Elfrieda Teuschel]]'s group was approximately three days ahead when the party arrived

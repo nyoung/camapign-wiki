@@ -15,20 +15,20 @@ An inn on the road north through Nordland, beyond the [[Hunter's Lodge]]. The se
 
 ## Notable Features
 - Scene of a traditional wife sale
-- [[Elfrida Teuschel]]'s crashed coach found nearby: one wheel shattered, horse dead, abandoned; trunk of women's clothing confirmed as Elfrida's; three horses had continued north
+- [[Elfrieda Teuschel]]'s crashed coach found nearby: one wheel shattered, horse dead, abandoned; trunk of women's clothing confirmed as Elfrieda's; three horses had continued north
 
 ## Notable NPCs
-- [[Wilhelm Teggethof]] — innkeeper; purchased [[Karyssa Bucer]] for 5 shillings and married her that evening via a local Ulrican priest
-- [[Karyssa Bucer]] — sold by her abusive husband; purchased by [[Wilhelm Teggethof]]
+- [[Wilhelm Teggetthof]] — innkeeper; purchased [[Karyssa Bucer]] for 5 shillings and married her that evening via a local Ulrican priest
+- [[Karyssa Bucer]] — sold by her abusive husband; purchased by [[Wilhelm Teggetthof]]
 - [[Hildegarde]] — bid 4 shillings and 16 pennies but was outbid; stormed out in fury
 
 ## Connected Locations
 - [[Hunter's Lodge]] — south
 - [[Elf-Human Temple (Liadriel)]] — north
-- [[Elfrida Teuschel]]'s crashed coach — nearby, off the road
+- [[Elfrieda Teuschel]]'s crashed coach — nearby, off the road
 
 ## Events
-- **[[Session 12]]:** Innkeeper [[Wilhelm Teggethof]] hosted a wife sale. [[Karyssa Bucer]] was being sold by her abusive husband. [[Wilhelm Teggethof]] purchased her for 5 shillings and married her that evening via a local Ulrican priest. [[Hildegarde]] bid 4 shillings and 16 pennies but was outbid and stormed out in fury. The party also found [[Elfrida Teuschel]]'s crashed coach nearby — one wheel shattered, horse dead, abandoned; a trunk of women's clothing confirmed it was hers; three horses had continued north.
+- **[[Session 12]]:** Innkeeper [[Wilhelm Teggetthof]] hosted a wife sale. [[Karyssa Bucer]] was being sold by her abusive husband. [[Wilhelm Teggetthof]] purchased her for 5 shillings and married her that evening via a local Ulrican priest. [[Hildegarde]] bid 4 shillings and 16 pennies but was outbid and stormed out in fury. The party also found [[Elfrieda Teuschel]]'s crashed coach nearby — one wheel shattered, horse dead, abandoned; a trunk of women's clothing confirmed it was hers; three horses had continued north.
 
 ## Notes
-- The crashed coach confirmed [[Elfrida Teuschel]]'s group continued north on horseback after the accident
+- The crashed coach confirmed [[Elfrieda Teuschel]]'s group continued north on horseback after the accident

@@ -96,7 +96,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 ### Pressing the Stable Boy — The Medical Union
 
-- The party returned to the stables with [[Hoffman Janitzer]] in tow; [[Berin Garibaldi|Berin]]'s intuition detected the stable boy was withholding information
+- The party returned to the stables with [[Hoffman Jannitzer]] in tow; [[Berin Garibaldi|Berin]]'s intuition detected the stable boy was withholding information
 - Connie's attempt at intimidation using [[Rolf]] failed comically; [[Boris Dorchen]] stepped in with more success
 - Under pressure and with promises of protection from the [[Temple of Verena]], the stable boy revealed that [[Marks Klessel]] had returned on the same old nag [[Castor Stark]] had sold to the professor, then moved it elsewhere to avoid the stable master recognising it
 - For a shilling bribe and assurance of Verenan protection, the boy disclosed that Marks was staying at the old military stables with a group called the [[Medical Union]] — a fortified compound with fifteen-foot walls and dangerous guards
@@ -118,7 +118,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 - [[Rolf]] — Connie's dog; loyal and fierce
 - [[Mungo Mudfoot]] — teamster; introduced his cousin to the party
 - [[Castor Stark]] — stable owner; four pennies per night; sceptical of [[Salzenmund]] as the professor's real destination
-- [[Hoffman Janitzer]] — Temple of Verena bounty hunter; accompanying party
+- [[Hoffman Jannitzer]] — Temple of Verena bounty hunter; accompanying party
 - [[Marks Klessel]] — dangerous underground figure; associated with the [[Wolfmen]]; returned riding the professor's horse
 
 ## Notable Developments

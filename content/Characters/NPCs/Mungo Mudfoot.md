@@ -27,7 +27,7 @@ This is not incuriosity — it is simply that Mungo's attention lives elsewhere.
 What saves him from being merely comic is a streak of genuine competence. He tied the wagon reins to a post mid-journey, climbed into the moving wagon's back, and returned with mugs of ale for the riders — entirely unconcerned, explaining that the lead horse knew to follow the wagon ahead. His intimidation note-taking in the Teamsters Guild rulebook was a nicely judged bluff, even if [[Hildegarde]] noticed the feather had no ink. And his willingness to "repurpose" the legalists' stored supplies for the party's use, or to carry communication pigeons for extra coin, suggests an enterprising nature that his cheerful exterior slightly conceals.
 
 ## History with the Party
-Assigned to them by [[Hoffman Janitzer]] in [[Session 04 - The Investigation]].
+Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 
 **Session 07 (road to Beekerhoven):** Regaled the party with stories of his ancestors, including how his great elder halfling ancestor accidentally tripped Magnus the Pious. Tied the wagon reins to the post, climbed into the back while the wagon was moving, and returned with mugs of ale for the riders. Declined to enter [[Beekerhoven]] to avoid the exit fee — remaining at the caravan fortification outside the city walls.
 

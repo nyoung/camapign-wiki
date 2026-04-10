@@ -8,7 +8,7 @@ pcs_present:
   - "[[Boris Dorchen]]"
   - "[[Joerg Wusterburg]]"
   - "[[Hildegarde]]"
-  - "[[Hoffman Janitzer]]"
+  - "[[Hoffman Jannitzer]]"
   - "[[Pilpoul Ivri]]"
   - "[[Erika Sÿfrid von Drakkenheim]]"
 tags: [session]
@@ -41,7 +41,7 @@ The party set an ambush at the compound and waited through the night.
 - [[Hildegarde]] — crossbow, covering the compound
 - [[Pilpoul Ivri]] — cover behind a produce wagon
 - [[Erika Sÿfrid von Drakkenheim]] — defensive position near a cart
-- [[Hoffman Janitzer]] — covering the gate
+- [[Hoffman Jannitzer]] — covering the gate
 
 ### The Attack
 - Rabbit swarms struck first: dozens to hundreds of ordinary rabbits burrowing under the south gate and through holes in the east wall, swarming into the compound

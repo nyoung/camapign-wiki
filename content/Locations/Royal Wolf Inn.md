@@ -17,7 +17,7 @@ The inn inside the town of [[Schuten]], Ostland. Strikingly well-organised compa
 - [[Albrecht Gieland]] — innkeeper
 
 ## Events
-- **Session 16:** Party's first overnight stop in Ostland. [[Albrecht Gieland]] confirmed two women and a brutish man had passed through three nights prior — almost certainly [[Elfrida Teuschel]]'s group continuing toward [[Ferlangen]].
+- **Session 16:** Party's first overnight stop in Ostland. [[Albrecht Gieland]] confirmed two women and a brutish man had passed through three nights prior — almost certainly [[Elfrieda Teuschel]]'s group continuing toward [[Ferlangen]].
 
 ## Connected Locations
 - [[Schuten]] — the town it sits within
@@ -26,4 +26,4 @@ The inn inside the town of [[Schuten]], Ostland. Strikingly well-organised compa
 
 ## Notes
 - The contrast between this inn and the decrepit, dangerous inns on the Nordland road is notable
-- Elfrida's group is 3 days ahead of the party as of Session 16
+- Elfrieda's group is 3 days ahead of the party as of Session 16

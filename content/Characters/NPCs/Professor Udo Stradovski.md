@@ -24,7 +24,7 @@ Stradovski has lived in [[Middenheim]] for over twenty years without making a si
 
 The coldness this implies is not an abstraction. When Stradovski arrived at the [[Forest Inn]] and recognised it for what it was — a ghoul operation, the staff already turned — he did not flee, and he did not fight. According to [[Torben Pieknich|Torben]]'s account, he immediately grasped the situation and began to negotiate. He handed over his travelling companion [[Schliegel]] and a horse to [[Melmoth]] in exchange for his own safe passage. He also paid in academic currency: knowledge of ghoul creation and care, treated as a bargaining chip rather than a horror. Then he rode away alone.
 
-He drugged [[Augustus Steiner]] — his own student — to use him as a guarantor bond for his escape. He has a 100% patient success rate that spans two decades and almost certainly cannot be explained by ordinary medicine. He possessed a banned text on plague use. Whatever [[Elfrida Teuschel]]'s network believes he is capable of achieving in [[Ferlangen]], they consider it worth stealing mint gold and abandoning a husband to facilitate.
+He drugged [[Augustus Steiner]] — his own student — to use him as a guarantor bond for his escape. He has a 100% patient success rate that spans two decades and almost certainly cannot be explained by ordinary medicine. He possessed a banned text on plague use. Whatever [[Elfrieda Teuschel]]'s network believes he is capable of achieving in [[Ferlangen]], they consider it worth stealing mint gold and abandoning a husband to facilitate.
 
 He is not simply a fugitive academic. He is a man who has spent twenty years preparing for something, and is now going to do it.
 
@@ -34,7 +34,7 @@ He is not simply a fugitive academic. He is a man who has spent twenty years pre
 - [[Professor Humpis]] — original accuser
 - [[Ordo Sancti Inquisita]] — hunting him to execute him
 - [[Cult of Ulric]] / White Wolves — also hunting him (intent unclear)
-- [[Hoffman Janitzer]] / [[Temple of Verena]] — hunting him to bring to trial
+- [[Hoffman Jannitzer]] / [[Temple of Verena]] — hunting him to bring to trial
 
 ## History with the Party
 Not yet encountered. Finding him is the objective of [[Find Professor Stradovski]].
@@ -66,9 +66,9 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Left Middenheim ~8–9 Nachexen 2512 heading north
 - Purchased a Wolfrunner coach ticket to [[Beekerhoven]] (via [[Caspar Anckenreuter]]'s ticket — paid **50 Gold Crowns** for it)
 - Stopped in [[Arenburg]] on the way — treated [[Gunter]]'s knee gratis; described as carrying a leather bag full of medical instruments
-- **Visited [[Elfrida Teuschel]] in [[Beekerhoven]] c. 11 Nachexen 2512** — appeared unexpectedly, stayed one night, then departed
-- Purchased an old nag at the [[City Stables (Beekerhoven)|city stables]], claiming he was heading to [[Salzenmund]] — this was a deliberate false trail arranged by [[Elfrida Teuschel]]; actual destination was **[[Ferlangen]]**
-- Departed Beekerhoven with farmhand [[Schliegel]] as travelling companion, supported by [[Elfrida Teuschel]]'s network; [[Marks Klessel]] rode briefly toward Salzenmund to provide false trail, then returned
+- **Visited [[Elfrieda Teuschel]] in [[Beekerhoven]] c. 11 Nachexen 2512** — appeared unexpectedly, stayed one night, then departed
+- Purchased an old nag at the [[City Stables (Beekerhoven)|city stables]], claiming he was heading to [[Salzenmund]] — this was a deliberate false trail arranged by [[Elfrieda Teuschel]]; actual destination was **[[Ferlangen]]**
+- Departed Beekerhoven with farmhand [[Schliegel]] as travelling companion, supported by [[Elfrieda Teuschel]]'s network; [[Marks Klessel]] rode briefly toward Salzenmund to provide false trail, then returned
 - Passed through [[Skralberg]] roughly 1.5 weeks before the party (c. 25–27 Nachexen) with dark academic texts and physician's bag; inquired about [[Seuchenshof]] — road was barricaded; took the road east into [[Ostland]] instead
 - **Passed through the [[Forest Inn]] ~12 days before Session 15** — recognised the ghoul operation, then sacrificed companion [[Schliegel]] and a horse to [[Melmoth]] in exchange for safe passage; also shared knowledge about ghoul creation/care
 - **Last known heading: northeast along the [[Erengrad Road]], then east into [[Ostland]]**, heading toward [[Ferlangen]]
@@ -79,8 +79,8 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Accused by [[Professor Humpis]] of claiming gods do not exist and that priests are merely magicians
 
 ## Network / Conspiracy
-- [[Elfrida Teuschel]] — former patient; sheltered him; arranged false trail to Salzenmund; provided freshly minted coins; organised supplies via [[Marks Klessel]]; a serious co-conspirator, not merely a grateful patient
-- [[Marks Klessel]] — hired by Elfrida to ride the false trail; reports to her
+- [[Elfrieda Teuschel]] — former patient; sheltered him; arranged false trail to Salzenmund; provided freshly minted coins; organised supplies via [[Marks Klessel]]; a serious co-conspirator, not merely a grateful patient
+- [[Marks Klessel]] — hired by Elfrieda to ride the false trail; reports to her
 - [[Schliegel]] — farmhand who travelled with the professor north from Beekerhoven; **sacrificed by Stradovski to Melmoth at the Forest Inn** (presumed dead)
 - The [[Seuchenbuch (Plague Book)]] — contains formulas requiring specific plague materials; the [[Seuchenshof]] hospice may have been a target for these; Berin suspects the professor is drawn to plague sources
 - The Seuchenbuch discusses using disease as a tool and weapon — similar to controversial texts in the libraries of the Knights Panther (per Berin's reading, Session 09)
@@ -92,7 +92,7 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Why did he flee if the charge was "not severe enough" to warrant it (per Humpis)?
 - What is in the expensive vellum papers?
 - What happened with the dead student?
-- What is he doing in Ferlangen specifically? Why did Elfrida's network direct him there?
+- What is he doing in Ferlangen specifically? Why did Elfrieda's network direct him there?
 - The [[Seuchenshof]] hospice — was he trying to reach it for plague samples?
 
 ## Appearances

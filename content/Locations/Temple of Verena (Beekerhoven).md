@@ -28,8 +28,8 @@ The Temple of Verena's presence in [[Beekerhoven]]. A centre of legal authority 
 ## Events
 - **[[Session 08]]:** A Verena priestess here recruited the party's replacement members and introduced [[Berin Garibaldi]]. She noted that she had previously hired unreliable men in [[Middenheim]] who fled with payment.
 - **[[Session 09]]:** Party updated their warrant here; the priestess added [[Berin Garibaldi]] and [[Connie]] to the official document. She identified [[Marks Klessel]] as associated with the Wolfmen gang.
-- **[[Session 11]]:** Party delivered [[Marks Klessel]] and [[Urs Huber]] here; gave statements. The Verenans expressed surprise about [[Elfrida Teuschel]]'s involvement, and noted that coins went missing from the mint around the time she received treatment from [[Stradovski]].
+- **[[Session 11]]:** Party delivered [[Marks Klessel]] and [[Urs Huber]] here; gave statements. The Verenans expressed surprise about [[Elfrieda Teuschel]]'s involvement, and noted that coins went missing from the mint around the time she received treatment from [[Stradovski]].
 - **[[Session 16]]:** [[Pilpoul Ivri]] sent a homing pigeon report to this temple from the [[Forest Inn]], informing them of all events at the Forest Inn.
 
 ## Notes
-- The temple's surprise at [[Elfrida Teuschel]]'s involvement, combined with the missing mint coins, suggests a financial as well as criminal dimension to the conspiracy
+- The temple's surprise at [[Elfrieda Teuschel]]'s involvement, combined with the missing mint coins, suggests a financial as well as criminal dimension to the conspiracy

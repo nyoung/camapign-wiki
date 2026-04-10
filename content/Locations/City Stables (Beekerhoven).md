@@ -26,7 +26,7 @@ The only remaining functioning stable in [[Beekerhoven]] after the inn's stable 
 
 ## Events
 - **[[Session 09]]:** Party brought [[Orazio]] here for boarding. The stable boy proved a valuable informant — reported that [[Stradovski]] had bought an old nag and claimed he was heading to [[Salzenmund]]; also confirmed that [[Marks Klessel]] had returned riding the professor's horse. [[Berin Garibaldi]] stayed the night here watching over [[Orazio]].
-- **[[Session 11]]:** Party returned with [[Hoffman Janitzer]] to press the stable boy further. He revealed that [[Marks Klessel]] had been at the [[Medical Union Compound]].
+- **[[Session 11]]:** Party returned with [[Hoffman Jannitzer]] to press the stable boy further. He revealed that [[Marks Klessel]] had been at the [[Medical Union Compound]].
 
 ## Notes
 - The stable boy's informal intelligence on horse traffic made him an unexpectedly useful contact during the Beekerhoven investigation

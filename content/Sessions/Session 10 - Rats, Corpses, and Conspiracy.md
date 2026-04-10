@@ -81,7 +81,7 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 
 - Outside the compound, [[Berin Garibaldi|Berin]] heard the commotion and immediately mounted [[Orazio]], charging toward the compound gate
 - His steed's powerful rear kick failed to break through the reinforced gate door; Berin climbed atop the gate wall to gain a vantage point
-- [[Pilpoul Ivri]] approached from another angle, attempting to confuse [[Urs Huber]] with talk of purchasing medical supplies; [[Hoffman Janitzer]] huffed along behind him
+- [[Pilpoul Ivri]] approached from another angle, attempting to confuse [[Urs Huber]] with talk of purchasing medical supplies; [[Hoffman Jannitzer]] huffed along behind him
 - Inside, [[Boris Dorchen]] demonstrated tactical brilliance: he grabbed the stunned and bleeding [[Marks Klessel]], pressed his axe to the man's throat, and used him as a human shield while demanding safe passage
 - As [[Berin Garibaldi|Berin]] opened the gate from above and the party converged on the compound, another guard struck [[Pilpoul Ivri]] with knuckle dusters, leaving the scholar barely standing
 - The session ended mid-confrontation, with Boris holding Marks at axe-point and the situation unresolved
@@ -103,7 +103,7 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 - [[Elsie]] — mousy young woman employed at the compound; acted as escort and attacked Boris during the melee
 - [[Marks Klessel]] — dangerous underground figure; discovered the infiltrators and started the fight
 - [[Hugo]] — tall, gaunt enforcer; wielded a spiked club; nearly felled Connie with a critical blow
-- [[Hoffman Janitzer]] — Verenan bounty hunter; present outside the compound
+- [[Hoffman Jannitzer]] — Verenan bounty hunter; present outside the compound
 - [[Oslin]] — innocent peddler allegedly framed for the murder of [[Dr. Thurne]] (mentioned; not present)
 - [[Dr. Thurne]] — the town's only doctor, murdered six months prior; suspected victim of the [[Medical Union]] (mentioned; not present)
 
@@ -118,4 +118,4 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 
 - [[Rolf]] proved to be a formidably effective combatant despite his small size — his grip on Marks Klessel's leg was a turning point in the initial confrontation
 - Boris's use of the rat pole as an improvised weapon is one of the more creative tactical moments of the campaign to date
-- The letter to "Marx" is the first hard evidence of [[Elfriede Teuschel]]'s direct involvement in the professor's flight
+- The letter to "Marx" is the first hard evidence of [[Elfrieda Teuschel]]'s direct involvement in the professor's flight

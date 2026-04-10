@@ -20,7 +20,7 @@ aliases: [Session 04, Session 4]
 # Session 04 — The Investigation
 
 ## Summary
-[[Erika Sÿfrid von Drakkenheim]] joined the group with a dramatic entrance. The party split to pursue multiple leads simultaneously: Boris and Joerg hit Stradovski's house and the Pit Fight Tavern, uncovering a banned Plague Book; Pilpoul, Hildegarde, and Erika worked the Collegium Theologica, interviewing the Chancellor, Professor Humpis, and finally Augustus Steiner in his cell. They reunited to find [[Hoffman Janitzer]] waiting with caravan arrangements. A picture of Stradovski as a deeply strange, secretive, and possibly dangerous man came into focus.
+[[Erika Sÿfrid von Drakkenheim]] joined the group with a dramatic entrance. The party split to pursue multiple leads simultaneously: Boris and Joerg hit Stradovski's house and the Pit Fight Tavern, uncovering a banned Plague Book; Pilpoul, Hildegarde, and Erika worked the Collegium Theologica, interviewing the Chancellor, Professor Humpis, and finally Augustus Steiner in his cell. They reunited to find [[Hoffman Jannitzer]] waiting with caravan arrangements. A picture of Stradovski as a deeply strange, secretive, and possibly dangerous man came into focus.
 
 ## Events
 
@@ -102,11 +102,11 @@ Passed a dissection theatre where students watched a cadaver being dismembered. 
 
 ---
 
-### Reuniting & Hoffman Janitzer
-The groups reconvened outside the Collegium. [[Hoffman Janitzer]], guardian of the [[Temple of Verena]], approached — rope and manacles at his belt, bearing of a bounty hunter.
+### Reuniting & Hoffman Jannitzer
+The groups reconvened outside the Collegium. [[Hoffman Jannitzer]], guardian of the [[Temple of Verena]], approached — rope and manacles at his belt, bearing of a bounty hunter.
 
 He laid out the situation:
-- **Three-way race:** [[Ordo Sancti Inquisita]] (sworn warrant — will execute), Ulrican White Wolves (sworn warrant — intent unclear), [[Temple of Verena]] (Janitzer — ensure proper justice)
+- **Three-way race:** [[Ordo Sancti Inquisita]] (sworn warrant — will execute), Ulrican White Wolves (sworn warrant — intent unclear), [[Temple of Verena]] (Jannitzer — ensure proper justice)
 - Stradovski purchased a **Wolfrunner coach ticket to [[Beekerhoven]]** — confirmed
 - Offered the party a place on a **caravan heading north in two days (20 Nachexen 2512)**
 - The Sigmarites and Ulricans will be on the same caravan — deeply tense situation
@@ -133,7 +133,7 @@ He laid out the situation:
 - [[Professor Humpis]] — interviewed (uncooperative)
 - [[Watch Captain Tringen Melbur]] — escorted party to cells
 - [[Augustus Steiner]] — met in person
-- [[Hoffman Janitzer]] — met outside Collegium
+- [[Hoffman Jannitzer]] — met outside Collegium
 
 ## Locations Visited
 - [[Clerk's Office (Verena-Ulric)]]
@@ -160,4 +160,4 @@ Unknown
 - [[Stradovski Vellum Papers]] contents not yet examined
 - Stradovski's miraculous cures: what is their source?
 - Three-way caravan ride north — managing relationships with Sigmarites and White Wolves
-- [[Hoffman Janitzer]]'s manacles: for the professor, or potentially for others?
+- [[Hoffman Jannitzer]]'s manacles: for the professor, or potentially for others?

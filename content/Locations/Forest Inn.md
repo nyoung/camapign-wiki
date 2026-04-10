@@ -29,7 +29,7 @@ A heavily fortified inn on a hilltop, built to withstand a siege. Sturdy walls, 
 - [[Torben Pieknich]] — false toll keeper; captured in Session 15
 - [[Condradine]] — spy or agent; died falling from the window during the night attack (Session 14)
 - [[Melmoth]] — dark priest; converted starving locals into ghouls during the famine; killed in Session 15
-- [[Hoffman Janitzer]] — party member; dragged away on a cart during the night attack; recovered in Session 15
+- [[Hoffman Jannitzer]] — party member; dragged away on a cart during the night attack; recovered in Session 15
 
 ## Connected Locations
 - [[Elf-Human Temple (Liadriel)]] — south
@@ -39,8 +39,8 @@ A heavily fortified inn on a hilltop, built to withstand a siege. Sturdy walls, 
 
 ## Events
 - **[[Session 13]]:** Party arrived. Noted the total absence of animals; stew over-salted and over-spiced; kitchen locked. [[Rolf]] refused to settle. [[Orazio]] skittish around [[Gunter (Forest Inn)]].
-- **[[Session 14]]:** Night attack. The bone-filled cellar beneath the kitchen was discovered. Ghoulish figures tried to lower [[Hoffman Janitzer]] from a window and cart him away. [[Condradine]] died falling from the window. [[Hoffman Janitzer]] was dragged into the darkness on a cart.
-- **[[Session 15]]:** Battle outside the inn. [[Melmoth]] was killed. [[Torben Pieknich]] was captured. [[Hoffman Janitzer]] was recovered. [[Van Moll]] revealed the history: a famine two winters ago drove [[Melmoth]] to convert starving locals into ghouls; travellers have been lured in and murdered ever since. [[Stradovski]] passed through approximately 12 days prior — he sacrificed a companion, a horse, and exchanged knowledge of ghouls to negotiate his release.
+- **[[Session 14]]:** Night attack. The bone-filled cellar beneath the kitchen was discovered. Ghoulish figures tried to lower [[Hoffman Jannitzer]] from a window and cart him away. [[Condradine]] died falling from the window. [[Hoffman Jannitzer]] was dragged into the darkness on a cart.
+- **[[Session 15]]:** Battle outside the inn. [[Melmoth]] was killed. [[Torben Pieknich]] was captured. [[Hoffman Jannitzer]] was recovered. [[Van Moll]] revealed the history: a famine two winters ago drove [[Melmoth]] to convert starving locals into ghouls; travellers have been lured in and murdered ever since. [[Stradovski]] passed through approximately 12 days prior — he sacrificed a companion, a horse, and exchanged knowledge of ghouls to negotiate his release.
 - **[[Session 16]]:** All bodies from the battle had disappeared overnight — the ghouls had retrieved them. [[Pilpoul Ivri]] sent a homing pigeon report to the [[Temple of Verena (Beekerhoven)]].
 
 ## Notes

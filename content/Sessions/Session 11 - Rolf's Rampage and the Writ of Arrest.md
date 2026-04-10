@@ -26,7 +26,7 @@ aliases: [Session 11]
 
 ## Summary
 
-The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Berin]] invoking a writ of arrest in the name of the [[Knights of the Blazing Sun]], bringing the fighting to an end. [[Rolf]] distinguished himself by tearing three toes off [[Hugo]] in a display of savage canine ferocity. The party delivered [[Marks Klessel]] and [[Urs Huber]] to the [[Temple of Verena]] and extracted a crucial confession from Marks: he had been hired by [[Elfriede Teuschel]] to lay a false trail to [[Salzenmund]], and [[Professor Udo Stradovski|the professor]] had in fact departed northward with a farmhand named [[Schliegel]]. A visit to the [[Teuschel]] residence confirmed that [[Elfriede Teuschel]] had fled with stolen gold and a young waif. The session ended with the party preparing to pursue the professor toward [[Ferlangen]].
+The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Berin]] invoking a writ of arrest in the name of the [[Knights of the Blazing Sun]], bringing the fighting to an end. [[Rolf]] distinguished himself by tearing three toes off [[Hugo]] in a display of savage canine ferocity. The party delivered [[Marks Klessel]] and [[Urs Huber]] to the [[Temple of Verena]] and extracted a crucial confession from Marks: he had been hired by [[Elfrieda Teuschel]] to lay a false trail to [[Salzenmund]], and [[Professor Udo Stradovski|the professor]] had in fact departed northward with a farmhand named [[Schliegel]]. A visit to the [[Teuschel]] residence confirmed that [[Elfrieda Teuschel]] had fled with stolen gold and a young waif. The session ended with the party preparing to pursue the professor toward [[Ferlangen]].
 
 ## Key Events
 
@@ -35,7 +35,7 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 - A guard punched [[Pilpoul Ivri]] squarely in the face; the eloquent speaker refused to be silenced
 - [[Boris Dorchen]] attempted to maintain [[Marks Klessel]] as a human shield, but [[Hugo]] struck Boris with his massive club, forcing him to drop the captive
 - [[Pilpoul Ivri]] launched a verbal assault against [[Cezbald Brenz]], stunning the guard with a barrage of indignant questions about attacking a peaceful merchant
-- [[Hoffman Janitzer]] threw a weighted net that successfully entangled [[Matthias]]
+- [[Hoffman Jannitzer]] threw a weighted net that successfully entangled [[Matthias]]
 - [[Rolf]] proved to be a shockingly vicious combatant, attacking [[Hugo]] and **tearing off three of his toes** in a brutal display of canine ferocity
 - [[Elke]] attempted to sprint toward a wall but fell badly, limping on her injured leg before slipping away unnoticed
 - [[Berin Garibaldi|Berin]] mounted [[Orazio]], who reared and struck [[Cezbald Brenz]] in the helmet with a critical blow
@@ -50,7 +50,7 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 ### Aftermath in the Compound
 
 - [[Pilpoul Ivri]] confiscated [[Cezbald Brenz]]'s sword and stored it in [[Orazio]]'s saddlebag
-- [[Hoffman Janitzer]] manacled the surrendered guards
+- [[Hoffman Jannitzer]] manacled the surrendered guards
 - [[Berin Garibaldi|Berin]] provided medical assistance to the badly wounded [[Hugo]], stabilising him despite his grievous injuries
 - [[Boris Dorchen]] dragged the captive [[Marks Klessel]] toward the exit
 
@@ -69,68 +69,68 @@ The melee at the [[Medical Union]] compound concluded with [[Berin Garibaldi|Ber
 - The party delivered [[Marks Klessel]] and [[Urs Huber]] to the [[Temple of Verena]], providing statements about the circumstances of their arrest
 - They noted [[Urs Huber]] had been cooperative and provided useful information; [[Marks Klessel]]'s wounds resulted from his attempt to stop their investigation
 - [[Falconius Thorncobble|Connie]] shared the letter indicating the professor was heading to [[Ferlangen]], not [[Salzenmund]]
-- The Verenans expressed surprise that [[Elfriede Teuschel]], wife of the mintner, was involved — noting a recent scandal where coins went missing from the mint around the time she received treatment from the professor
+- The Verenans expressed surprise that [[Elfrieda Teuschel]], wife of the mintner, was involved — noting a recent scandal where coins went missing from the mint around the time she received treatment from the professor
 
 ### Interrogation of Marks Klessel
 
 - [[Boris Dorchen]] conducted a hostile interrogation of [[Marks Klessel]], using [[Rolf]] to intimidate him
-- Marks confessed he was hired by [[Elfriede Teuschel]], not the professor, to create a false trail to [[Salzenmund]] by briefly impersonating the professor on a short ride
-- He did not know the professor's specific business in [[Ferlangen]], only that [[Elfriede Teuschel]] had many connections and had provided supplies
+- Marks confessed he was hired by [[Elfrieda Teuschel]], not the professor, to create a false trail to [[Salzenmund]] by briefly impersonating the professor on a short ride
+- He did not know the professor's specific business in [[Ferlangen]], only that [[Elfrieda Teuschel]] had many connections and had provided supplies
 - Marks identified a farmhand named [[Schliegel]] who accompanied the professor when they departed town, heading north
-- Marks refused to provide further information about [[Elfriede Teuschel]]'s organisation, claiming ignorance and fear
+- Marks refused to provide further information about [[Elfrieda Teuschel]]'s organisation, claiming ignorance and fear
 
 ### Visit to the Teuschel Residence (26 Nachexen)
 
 - [[Pilpoul Ivri]], [[Berin Garibaldi|Berin]], and [[Hildegarde]] visited the [[Teuschel]] residence; [[Hildegarde]] circled to the back and climbed to a second-story window, finding it ajar, and slipped inside
-- At the front door, [[Elson Teuschel]] answered — dishevelled and distressed; his wife [[Elfriede Teuschel]] had gone missing along with a young waif described as mousy-haired and wearing an artisan's smock
-- [[Elson Teuschel]] stated that a large shipment of gold from his mint was also missing; he suspected [[Elfriede Teuschel]] was involved
-- [[Berin Garibaldi|Berin]] showed [[Elson Teuschel]] one of the newly minted [[Nordland]] coins; the mintner identified them as being from his mint, made two weeks prior — connected to a previous theft blamed on an apprentice named [[Beatrice]]
-- [[Pilpoul Ivri]] attempted to negotiate for horses or collateral in exchange for searching for [[Elfriede Teuschel]]; [[Elson Teuschel]], overwhelmed, dismissed them and slammed the door
+- At the front door, [[Manfred Teuschel]] answered — dishevelled and distressed; his wife [[Elfrieda Teuschel]] had gone missing along with a young waif described as mousy-haired and wearing an artisan's smock
+- [[Manfred Teuschel]] stated that a large shipment of gold from his mint was also missing; he suspected [[Elfrieda Teuschel]] was involved
+- [[Berin Garibaldi|Berin]] showed [[Manfred Teuschel]] one of the newly minted [[Nordland]] coins; the mintner identified them as being from his mint, made two weeks prior — connected to a previous theft blamed on an apprentice named [[Beatrice]]
+- [[Pilpoul Ivri]] attempted to negotiate for horses or collateral in exchange for searching for [[Elfrieda Teuschel]]; [[Manfred Teuschel]], overwhelmed, dismissed them and slammed the door
 - Meanwhile, [[Hildegarde]] searched the master bedroom: two large open lockboxes (one empty, one containing freshly minted pennies), and a disarrayed dressing table with missing jewellery; she took one newly minted brass penny as evidence
-- No letters or documents of significance were found — [[Elfriede Teuschel]] had taken important items when she fled
+- No letters or documents of significance were found — [[Elfrieda Teuschel]] had taken important items when she fled
 
 ### Investigating the Northern Route
 
 - [[Boris Dorchen]] and [[Pilpoul Ivri]] visited the [[Four Seasons Coach Line]] to inquire about travel to [[Ferlangen]]
 - The coachman confirmed northern routes were closed for winter — a three-month wait or significant cost to travel; the party perceived him as honest but overworked
 - The party discussed the mail delivery system: mail traveled by coach in the general direction until it reached its destination
-- The party weighed pursuing [[Elfriede Teuschel]], who had fled on foot with stolen gold, versus pursuing the professor; they ultimately decided the professor remained their priority
+- The party weighed pursuing [[Elfrieda Teuschel]], who had fled on foot with stolen gold, versus pursuing the professor; they ultimately decided the professor remained their priority
 
 ## Quests
 
 ### Active
-- [[Find Professor Stradovski]] — confirmed heading north toward [[Ferlangen]] with farmhand [[Schliegel]]; [[Elfriede Teuschel]]'s network provided support and a false trail
+- [[Find Professor Stradovski]] — confirmed heading north toward [[Ferlangen]] with farmhand [[Schliegel]]; [[Elfrieda Teuschel]]'s network provided support and a false trail
 - [[The Medical Union]] — [[Urs Huber]] and [[Marks Klessel]] delivered to the [[Temple of Verena]]; compound's illegal activities partially exposed
 
 ## Locations Visited
 
 - [[Medical Union Compound]] — melee concluded; compound investigated; prisoners taken
 - [[Temple of Verena (Beekerhoven)]] — prisoners delivered; new intelligence on Teuschel involvement
-- [[Teuschel Residence]] — visited; [[Elson Teuschel]] interviewed; [[Hildegarde]] searched the premises
+- [[Teuschel Residence]] — visited; [[Manfred Teuschel]] interviewed; [[Hildegarde]] searched the premises
 - [[Four Seasons Coach Line]] — northern routes confirmed closed for winter
 
 ## NPCs Encountered
 
-- [[Marks Klessel]] — interrogated; confessed he was hired by [[Elfriede Teuschel]] to impersonate the professor on a false trail to [[Salzenmund]]
+- [[Marks Klessel]] — interrogated; confessed he was hired by [[Elfrieda Teuschel]] to impersonate the professor on a false trail to [[Salzenmund]]
 - [[Urs Huber]] — operator of the [[Medical Union]]; delivered to the [[Temple of Verena]]; admitted to body retrieval from [[Salzenmund]] priests
 - [[Hugo]] — tall gaunt enforcer; gravely wounded by [[Rolf]] and [[Boris Dorchen]]; stabilised by [[Berin Garibaldi|Berin]]
 - [[Cezbald Brenz]] — guard; struck by [[Orazio]]; sword confiscated
-- [[Matthias]] — guard; netted by [[Hoffman Janitzer]]
+- [[Matthias]] — guard; netted by [[Hoffman Jannitzer]]
 - [[Elke]] — escaped the compound during the fighting
-- [[Hoffman Janitzer]] — Verenan bounty hunter; netted [[Matthias]]; manacled prisoners
-- [[Elson Teuschel]] — mintner; wife [[Elfriede Teuschel]] has fled with stolen gold; distressed and uncooperative
+- [[Hoffman Jannitzer]] — Verenan bounty hunter; netted [[Matthias]]; manacled prisoners
+- [[Manfred Teuschel]] — mintner; wife [[Elfrieda Teuschel]] has fled with stolen gold; distressed and uncooperative
 - [[Schliegel]] — farmhand who accompanied the professor northward (mentioned by [[Marks Klessel]]; not encountered)
 - [[Beatrice]] — apprentice previously blamed for a mint theft (mentioned; not encountered)
 
 ## Notable Developments
 
-- [[Professor Udo Stradovski|The professor]] departed northward with farmhand [[Schliegel]], supported by [[Elfriede Teuschel]]'s network; [[Ferlangen]] is confirmed as the destination
-- [[Elfriede Teuschel]] has fled [[Beekerhoven]] with stolen gold and a young waif — she is now wanted by the town authorities
+- [[Professor Udo Stradovski|The professor]] departed northward with farmhand [[Schliegel]], supported by [[Elfrieda Teuschel]]'s network; [[Ferlangen]] is confirmed as the destination
+- [[Elfrieda Teuschel]] has fled [[Beekerhoven]] with stolen gold and a young waif — she is now wanted by the town authorities
 - The newly minted coins are confirmed as stolen from the [[Teuschel]] mint and connected to both the professor's travel and [[Marks Klessel]]'s payment
 - [[Rolf]] has established himself as the party's most ferocious combatant by volume of damage-per-size
 
 ## Notes
 
-- Session 11 refers to the mintner as "Manfred Teuschel" in the recap — this is a recap error; the established name from Session 08 is [[Elson Teuschel]], used here for consistency
+- Session 11 refers to the mintner as "Manfred Teuschel" in the recap — this is a recap error; the established name from Session 08 is [[Manfred Teuschel]], used here for consistency
 - [[Rolf]] tearing off three of [[Hugo]]'s toes is one of the more memorable combat moments of the campaign
 - The [[Church of Morr]] being invoked to justify the compound's corpse possession adds a religious-institutional angle to the [[Medical Union]]'s operations

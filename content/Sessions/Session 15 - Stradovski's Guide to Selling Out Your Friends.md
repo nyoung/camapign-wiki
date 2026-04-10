@@ -26,7 +26,7 @@ aliases: [Session 15]
 
 ## Summary
 
-The battle to recover [[Hoffman Janitzer]] from the ghoulish kidnappers concluded outside the [[Forest Inn]]. [[Hildegarde]] was critically wounded — shot twice and nearly killed — while [[Berin Garibaldi]] and [[Orazio]] drove through the gate in a charging assault that broke the enemy. The dark priest [[Melmoth]] was slain and beheaded. [[Torben Pieknich]] was captured. [[Hoffman Janitzer]] was recovered alive but unconscious. In the aftermath, the innkeeper [[Van Moll]] finally revealed the ghoulish history of the inn — and under firm interrogation, [[Torben Pieknich]] disclosed a deeply troubling truth: [[Professor Udo Stradovski]] had passed through this very inn roughly twelve days prior, immediately recognised the ghoul operation, and coldly negotiated his own safe passage by handing over his travelling companion and a horse to [[Melmoth]] — and by sharing academic knowledge about ghoul creation.
+The battle to recover [[Hoffman Jannitzer]] from the ghoulish kidnappers concluded outside the [[Forest Inn]]. [[Hildegarde]] was critically wounded — shot twice and nearly killed — while [[Berin Garibaldi]] and [[Orazio]] drove through the gate in a charging assault that broke the enemy. The dark priest [[Melmoth]] was slain and beheaded. [[Torben Pieknich]] was captured. [[Hoffman Jannitzer]] was recovered alive but unconscious. In the aftermath, the innkeeper [[Van Moll]] finally revealed the ghoulish history of the inn — and under firm interrogation, [[Torben Pieknich]] disclosed a deeply troubling truth: [[Professor Udo Stradovski]] had passed through this very inn roughly twelve days prior, immediately recognised the ghoul operation, and coldly negotiated his own safe passage by handing over his travelling companion and a horse to [[Melmoth]] — and by sharing academic knowledge about ghoul creation.
 
 ## Key Events
 
@@ -35,7 +35,7 @@ The battle to recover [[Hoffman Janitzer]] from the ghoulish kidnappers conclude
 - [[Boris Dorchen]] sprinted toward the inn's exit, seeking a clear shot at the retreating kidnappers
 - [[Pilpoul Ivri]] charged through the open gate to meet the enemy directly
 - A ghoulish figure rushed [[Berin Garibaldi]] and [[Orazio]], tearing savagely at the horse's neck and chest; Berin wheeled and struck back in a furious exchange
-- [[Hildegarde]], burning with rage, charged toward the cart carrying the unconscious [[Hoffman Janitzer]] — hidden crossbowmen revealed themselves and loosed bolts, **striking her twice in the lower body** and sending her crashing to the ground
+- [[Hildegarde]], burning with rage, charged toward the cart carrying the unconscious [[Hoffman Jannitzer]] — hidden crossbowmen revealed themselves and loosed bolts, **striking her twice in the lower body** and sending her crashing to the ground
 - Even prone and bleeding, Hildegarde clawed forward through sheer force of will, refusing to yield
 
 ### Decisive Blows
@@ -49,7 +49,7 @@ The battle to recover [[Hoffman Janitzer]] from the ghoulish kidnappers conclude
 - The masked leader of the attackers — **[[Melmoth]]**, clad in crimson and black — was killed in the fighting
 - [[Berin Garibaldi]] grimly severed Melmoth's head and **placed it upon the gatepost as a warning**
 - [[Torben Pieknich]], revealed to have been posing as a road warden while serving Melmoth, was captured, bound, and dragged inside for questioning
-- [[Hoffman Janitzer]] was found alive but deeply unconscious — drugged or poisoned
+- [[Hoffman Jannitzer]] was found alive but deeply unconscious — drugged or poisoned
 
 ### Aftermath and Triage
 
@@ -101,7 +101,7 @@ Under [[Berin Garibaldi]]'s firm and intimidating questioning, [[Torben Pieknich
 - [[Find Professor Stradovski]] — Stradovski confirmed at Forest Inn ~12 days prior; character fully revealed; heading northeast along Erengrad Road alone; companion Schliegel presumed dead
 
 ### Closed
-- Rescue Hoffman Janitzer — Hoffman recovered, alive
+- Rescue Hoffman Jannitzer — Hoffman recovered, alive
 
 ## Locations Visited
 
@@ -112,7 +112,7 @@ Under [[Berin Garibaldi]]'s firm and intimidating questioning, [[Torben Pieknich
 - [[Melmoth]] — dark priest; slain; beheaded; head posted on gatepost
 - [[Torben Pieknich]] — captured; confessed Stradovski's passage and betrayal; prisoner
 - [[Van Moll]] — confessed to his role; revealed the inn's history
-- [[Hoffman Janitzer]] — recovered; deeply unconscious; drugged
+- [[Hoffman Jannitzer]] — recovered; deeply unconscious; drugged
 
 ## Notable Developments
 

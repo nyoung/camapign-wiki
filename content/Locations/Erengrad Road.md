@@ -17,7 +17,7 @@ The main road north through Nordland, running from [[Beekerhoven]] northward thr
 - Landscape shifts dramatically: dense forest → rocky scrubland with nutrient-poor soil → canyon-like open land
 - Farms along this stretch have almost entirely switched to sheep for wool rather than crops or cattle
 - Road wardens patrol regularly and bring mutant bodies through for destruction
-- Toll gates at intervals — some bypassed by [[Elfrida Teuschel]]'s group via sheep pasture fields
+- Toll gates at intervals — some bypassed by [[Elfrieda Teuschel]]'s group via sheep pasture fields
 
 ## Connected Locations
 - [[Beekerhoven]] — south
@@ -29,7 +29,7 @@ The main road north through Nordland, running from [[Beekerhoven]] northward thr
 - [[Seuchenshof]] — branching road northeast; barricaded
 
 ## Events
-- Three riders (Elfrida Teuschel's group) cut through sheep fields near the Elf-Human Temple to bypass a toll gate — hoofprints confirmed by Berin and Boris
+- Three riders (Elfrieda Teuschel's group) cut through sheep fields near the Elf-Human Temple to bypass a toll gate — hoofprints confirmed by Berin and Boris
 - [[Professor Udo Stradovski]] traveled this road heading northeast after the Forest Inn; later took the road east into Ostland at Skralberg
 
 ## Notes

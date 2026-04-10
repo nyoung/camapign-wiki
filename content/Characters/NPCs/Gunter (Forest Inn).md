@@ -24,7 +24,7 @@ Groom at the [[Forest Inn]].
 
 **Session 13 (Forest Inn):** [[Orazio]] kept him in its line of sight from the moment they arrived; the horse was clearly disturbed by him. Brought [[Berin]] a warmed spiced cider before retiring to the attic for the night.
 
-**Session 14 (Forest Inn):** Was part of the group of "pale, sunken-cheeked figures in tatters" who emerged to receive [[Hoffman Janitzer]]'s body on the cart. Helped lower Hoffman from the window by rope.
+**Session 14 (Forest Inn):** Was part of the group of "pale, sunken-cheeked figures in tatters" who emerged to receive [[Hoffman Jannitzer]]'s body on the cart. Helped lower Hoffman from the window by rope.
 
 ## Notes
 Almost certainly in the process of ghoul transformation, or already transformed. Fate after Session 14 is unknown.

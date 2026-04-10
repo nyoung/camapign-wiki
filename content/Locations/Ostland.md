@@ -26,7 +26,7 @@ One of the provinces of The Empire, lying to the east of [[Nordland]]. Identifie
 ## Current Situation (as of Session 16)
 - Party entered Ostland via [[Schuten]] (~5 Jahrdrung 2512 approx.)
 - [[Professor Udo Stradovski]] confirmed to have taken the road east from [[Skralberg]] into Ostland
-- [[Elfrida Teuschel]]'s group passed through [[Schuten]] approximately 3 days before the party
+- [[Elfrieda Teuschel]]'s group passed through [[Schuten]] approximately 3 days before the party
 - Ostland raiders have recently struck the Nordland border region — abducted a farm girl; livestock stolen
 
 ## Notes

@@ -13,7 +13,7 @@ tags: [character, npc]
 # William Coin
 
 ## Description
-Servant of [[Elfrida Teuschel]] and [[Elson Teuschel]], in their home on Schlosse de Vies Street. Not a loyalist — more a functionary doing a job.
+Servant of [[Elfrieda Teuschel]] and [[Manfred Teuschel]], in their home on Schlosse de Vies Street. Not a loyalist — more a functionary doing a job.
 
 ## Personality
 Cooperative when given sufficient incentive. After the party's initial visit concluded, [[Hildegarde]] bribed him with ten shillings and he provided useful information without apparent hesitation or guilt. He is not a zealot for his employers; he simply does what servants do, including talking when the pay is right.

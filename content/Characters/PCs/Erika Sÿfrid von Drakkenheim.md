@@ -65,7 +65,7 @@ A Squire of the [[Knights Panther]], with access to the barracks that came with 
 
 ## Relationships
 - [[Knights Panther]] — her order
-- [[Hoffman Janitzer]] — fellow agent on the Stradovski job
+- [[Hoffman Jannitzer]] — fellow agent on the Stradovski job
 
 ## Notes
 - **Retired PC — active approximately Sessions 01 through 07; departed before Session 08**

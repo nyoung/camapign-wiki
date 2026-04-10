@@ -25,7 +25,7 @@ Initially wary of strangers, particularly given the religious tensions in the re
 
 **Session 12 (Hunter's Lodge):** Greeted the party with wariness, fearing they might be Sigmarite agents sent to seize local shrines. His apprehension lifted when they explained they were simply travelers bound for Ferlangen.
 
-Reported that a black coach matching [[Elfrida Teuschel]]'s description had passed through the previous night — driven by a broad-shouldered man and accompanied by a raven-haired woman. They had pressed on north despite warnings about the road.
+Reported that a black coach matching [[Elfrieda Teuschel]]'s description had passed through the previous night — driven by a broad-shouldered man and accompanied by a raven-haired woman. They had pressed on north despite warnings about the road.
 
 Noted that the freshly minted gold crown [[Falconius Thorncobble|Connie]] used to pay drew attention; few locals had seen such new currency.
 

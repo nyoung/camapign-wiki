@@ -18,7 +18,7 @@ tags: [home]
 - [[Joerg Wusterburg]] — Departed Session 07 *(NPC file in Characters/PCs/)*
 
 **NPC Companions**
-- [[Hoffman Janitzer]] — Bounty hunter; recovering after being drugged at Forest Inn
+- [[Hoffman Jannitzer]] — Bounty hunter; recovering after being drugged at Forest Inn
 - [[Mungo Mudfoot]] — Teamster; wagon and homing pigeons
 
 ## Active Quests
@@ -49,7 +49,7 @@ tags: [home]
 
 ## Open Threads / Loose Ends
 - **[[Professor Udo Stradovski]]** — took road east from [[Skralberg]] into Ostland; heading toward [[Ferlangen]]
-- **[[Elfrida Teuschel]]'s group** — ~3 days ahead of party at Schuten; two women and a brutish man
+- **[[Elfrieda Teuschel]]'s group** — ~3 days ahead of party at Schuten; two women and a brutish man
 - **Ghoul network** — retrieved all their dead overnight after Forest Inn battle; leaderless but still active
 - **Abducted farm girl** — Nordland/Ostland border area; flagged by Skralberg militia as a side thread
 - **[[Seuchenshof]] (Eichenhof)** — barricaded plague road; Stradovski inquired but took the eastern road instead

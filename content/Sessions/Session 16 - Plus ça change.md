@@ -26,7 +26,7 @@ aliases: [Session 16]
 
 ## Summary
 
-In the aftermath of the Forest Inn battle, the party debated justice for [[Van Moll]] and [[Torben Pieknich]], resolved to carry Torben to the nearest authority, and discovered overnight that every body from the battle had been silently reclaimed by the ghouls — including [[Melmoth]]'s severed head from the gatepost. [[Hoffman Janitzer]] regained consciousness by morning. [[Pilpoul Ivri]] sent a pigeon report to the [[Temple of Verena (Beekerhoven)|Temple of Verena]]. The party then endured a miserable rain-soaked journey to [[Skralberg]], a fortified Nordland border post, where a brawl broke out over Boris's religion before the militia sergeant confirmed Stradovski had passed through heading east into [[Ostland]]. The party crossed the border and arrived at [[Schuten]], where the innkeeper reported two women and a brutish man had passed through three nights prior — almost certainly [[Elfrida Teuschel]]'s group.
+In the aftermath of the Forest Inn battle, the party debated justice for [[Van Moll]] and [[Torben Pieknich]], resolved to carry Torben to the nearest authority, and discovered overnight that every body from the battle had been silently reclaimed by the ghouls — including [[Melmoth]]'s severed head from the gatepost. [[Hoffman Jannitzer]] regained consciousness by morning. [[Pilpoul Ivri]] sent a pigeon report to the [[Temple of Verena (Beekerhoven)|Temple of Verena]]. The party then endured a miserable rain-soaked journey to [[Skralberg]], a fortified Nordland border post, where a brawl broke out over Boris's religion before the militia sergeant confirmed Stradovski had passed through heading east into [[Ostland]]. The party crossed the border and arrived at [[Schuten]], where the innkeeper reported two women and a brutish man had passed through three nights prior — almost certainly [[Elfrieda Teuschel]]'s group.
 
 ## Key Events
 
@@ -49,7 +49,7 @@ In the aftermath of the Forest Inn battle, the party debated justice for [[Van M
 
 ### Morning: Hoffman Recovers; Mungo Descends
 
-- By morning, [[Hoffman Janitzer]] regained consciousness — groggy and bloodshot
+- By morning, [[Hoffman Jannitzer]] regained consciousness — groggy and bloodshot
 - Explained: a woman at the inn had slipped something into his apple cider liquor before he blacked out
 - [[Mungo Mudfoot]] descended the stairs well-rested and cheerful, blissfully unaware of the night's events
 - [[Pilpoul Ivri]] composed a brief report and sent it via one of Mungo's homing pigeons to the [[Temple of Verena (Beekerhoven)|Temple of Verena]] in Beekerhoven, informing them of everything that had transpired
@@ -91,36 +91,36 @@ After the brawl, [[Berin Garibaldi]] sought out the militia sergeant privately a
 - [[Schuten]]: nestled in a valley behind earthen ramparts and ditches; new barracks with firing slits; tall watchtower flying the **black and white bull flag of Ostland**; soldiers lined walls with crossbows and black powder weapons
 - [[Berin Garibaldi]] rode forward with hand open and holy symbol visible; an armoured officer on horseback scrutinised each party member before reviewing the Imperial warrant — allowed entry on the condition they behaved
 - Inside the **[[Royal Wolf Inn]]**: strikingly well-organised — soldiers drilling in the courtyard, rotating watches on the walls
-- Innkeeper **[[Albrecht Gieland]]** confirmed: **two women and a brutish man** had passed through **three nights prior** — almost certainly [[Elfrida Teuschel]]'s group
+- Innkeeper **[[Albrecht Gieland]]** confirmed: **two women and a brutish man** had passed through **three nights prior** — almost certainly [[Elfrieda Teuschel]]'s group
 - The party settled in for the night; the trail to [[Ferlangen]] is growing warm
 
 ## Quests
 
 ### Advanced
-- [[Find Professor Stradovski]] — confirmed Skralberg trail; entered Ostland; headed toward Ferlangen; Elfrida's group 3 days ahead at Schuten
+- [[Find Professor Stradovski]] — confirmed Skralberg trail; entered Ostland; headed toward Ferlangen; Elfrieda's group 3 days ahead at Schuten
 
 ## Locations Visited
 
 - [[Forest Inn]] — departed after resolving prisoner situation and discovering all bodies had been reclaimed
 - [[Skralberg]] — border post; Torben handed to militia authority; Stradovski trail confirmed; brawl
-- [[Schuten]] — crossed into Ostland; first Ostland town; Elfrida's group confirmed 3 days ahead
+- [[Schuten]] — crossed into Ostland; first Ostland town; Elfrieda's group confirmed 3 days ahead
 
 ## NPCs Encountered
 
 - [[Van Moll]] — fate determined (to be handed to authorities with Torben)
 - [[Torben Pieknich]] — handed to first proper authority at Skralberg
-- [[Hoffman Janitzer]] — regained consciousness; confirmed he was drugged
+- [[Hoffman Jannitzer]] — regained consciousness; confirmed he was drugged
 - [[Mungo Mudfoot]] — cheerfully unaware; provided the pigeon for the report
 - [[Militia Sergeant (Skralberg)]] — confirmed Stradovski's passage and Eichenhof information
 - [[Volmar]] — militiaman who accused Boris; brawl instigator
-- [[Albrecht Gieland]] — innkeeper of Royal Wolf, Schuten; confirmed Elfrida's group
+- [[Albrecht Gieland]] — innkeeper of Royal Wolf, Schuten; confirmed Elfrieda's group
 - Jaeger soldiers (unnamed) — silent witnesses to the brawl; sent over a round of ale
 
 ## Notable Developments
 
 - The ghoul network retrieved all its dead overnight — Melmoth's decapitation did not end the threat entirely
 - Stradovski confirmed as having taken the road east into Ostland from Skralberg — definitively heading toward Ferlangen
-- [[Elfrida Teuschel]]'s group is approximately 3 days ahead of the party at Schuten
+- [[Elfrieda Teuschel]]'s group is approximately 3 days ahead of the party at Schuten
 - An abducted farm girl (Nordland/Ostland border area) has been flagged by the Skralberg militia — potential side thread
 - Torben has been handed to the Skralberg militia — the party is no longer burdened with the prisoner
 

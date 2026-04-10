@@ -25,7 +25,7 @@ aliases: [Session 08, Session 8]
 
 ## Summary
 
-The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wagon, and were joined by [[Berin Garibaldi]], a horse trader and novitiate of the Knights of the Blazing Sun, added to their warrant by a priestess of Verena. They learned the Inquisitors and Ulrican knights had already passed through and departed for [[Salzenmund]]. Following the lead of [[Professor Udo Stradovski]]'s former patient, they visited [[Elfrida Teuschel]], whose miraculous recovery from a wasting disease raises serious suspicions of dark magic. By nightfall they had confirmed Stradovski had been in Beekerhoven roughly a week and a half prior, was seeking a horse, and appears to be heading further north on an overland route.
+The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wagon, and were joined by [[Berin Garibaldi]], a horse trader and novitiate of the Knights of the Blazing Sun, added to their warrant by a priestess of Verena. They learned the Inquisitors and Ulrican knights had already passed through and departed for [[Salzenmund]]. Following the lead of [[Professor Udo Stradovski]]'s former patient, they visited [[Elfrieda Teuschel]], whose miraculous recovery from a wasting disease raises serious suspicions of dark magic. By nightfall they had confirmed Stradovski had been in Beekerhoven roughly a week and a half prior, was seeking a horse, and appears to be heading further north on an overland route.
 
 ## Key Events
 
@@ -53,7 +53,7 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 
 ### Planning the Investigation
 
-- The party identified [[Elfrida Teuschel]], the professor's former patient in Beekerhoven, as their best lead
+- The party identified [[Elfrieda Teuschel]], the professor's former patient in Beekerhoven, as their best lead
 - [[Pilpoul Ivri]] gathered directions — she lives in the big house with pillars on Schlosse de Vies Street; minter's wife
 - Plan: [[Hildegarde]] would feign symptoms of a wasting disease
 - Berin read the professor's patient notes to identify the specific symptoms: vomiting blood, diarrhoea, cough, and fever — all signs of an incurable condition
@@ -63,26 +63,26 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 
 - Mathilda's cottage identified by a shallowly carved rosemary branch on the door, two streets from the inn
 - Inside her cluttered dwelling, Mathilda examined the visibly drunk/ill-seeming Hildegarde and declared her case fatal — dead by morning
-- When pressed for any hope, Mathilda revealed the only person she had ever seen recover from such a wasting disease was [[Elfrida Teuschel]] — the minter's wife, Schlosse de Vies Street
+- When pressed for any hope, Mathilda revealed the only person she had ever seen recover from such a wasting disease was [[Elfrieda Teuschel]] — the minter's wife, Schlosse de Vies Street
 - Mathilda attributed the miraculous recovery to dark magic or chaos powers; made a warding sign across her chest and quickly ushered the party out
 
 ### The Teuschel Residence
 
 - [[Berin Garibaldi]] and [[Hildegarde]] approached the front door; [[Pilpoul Ivri]] and [[Boris Dorchen]] observed from a distance
 - A servant ([[William Coin]]) greeted them; Berin's charm and concern for the supposedly dying Hildegarde convinced him to fetch his masters
-- [[Elfrida Teuschel]] and her husband [[Elson Teuschel]] met them in their well-appointed home — nice woodwork and paintings, though Berin noticed some furniture appeared to be cheaper imitations
-- Elfrida appeared younger than her middle-aged husband
-- Elfrida confirmed: Professor Stradovski treated her for a wasting disease years ago in Middenheim; she returned in amazing health, stronger than she had ever been
+- [[Elfrieda Teuschel]] and her husband [[Manfred Teuschel]] met them in their well-appointed home — nice woodwork and paintings, though Berin noticed some furniture appeared to be cheaper imitations
+- Elfrieda appeared younger than her middle-aged husband
+- Elfrieda confirmed: Professor Stradovski treated her for a wasting disease years ago in Middenheim; she returned in amazing health, stronger than she had ever been
 - Elson mentioned the treatment cost enough gold to buy a nice horse; and revealed that the professor had appeared unexpectedly on their doorstep **a week and a half ago**, stayed one night, and then left
-- When Hildegarde mentioned Mathilda's claims of dark magic, Elfrida showed a flash of anger before dismissing it as a miracle of Shallya rather than dark powers; Berin observed odd micro-expressions — she is hiding something about the nature of her cure
+- When Hildegarde mentioned Mathilda's claims of dark magic, Elfrieda showed a flash of anger before dismissing it as a miracle of Shallya rather than dark powers; Berin observed odd micro-expressions — she is hiding something about the nature of her cure
 - Elson mentioned a mint apprentice who had absconded with freshly minted coins — contributing to the town's financial difficulties
-- Berin offered six shillings as alms; Elson accepted despite Elfrida's visible displeasure
+- Berin offered six shillings as alms; Elson accepted despite Elfrieda's visible displeasure
 
 ### William Coin's Information
 
 - As the party departed, [[Hildegarde]] bribed the servant [[William Coin]] with ten shillings for additional information
 - William revealed: Professor Stradovski had been **looking for a mount to purchase**; had considerable travel gear including **lanterns and a tent** (suggesting an overland journey, not coach travel); William directed him to the **town stables**, the only place in Beekerhoven to buy a mount
-- As the door closed, the party overheard Elfrida complaining to Elson about his generosity to strangers and vagabonds
+- As the door closed, the party overheard Elfrieda complaining to Elson about his generosity to strangers and vagabonds
 
 ### Pilpoul's Town Square Speech
 
@@ -93,7 +93,7 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 
 ### End-of-Day Planning
 
-- Party discussed Elfrida's suspicious recovery — dark magic or Nurgle influence given the grimoire the party possesses
+- Party discussed Elfrieda's suspicious recovery — dark magic or Nurgle influence given the grimoire the party possesses
 - Confirmed next morning's plan: investigate the town stables (where Stradovski was sent to buy a horse) and the Wolfrunner company
 - Travelling the forest roads at night ruled out — highwaymen too numerous on the routes
 - Berin moved Orazio to the town stables for the night
@@ -112,9 +112,9 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 
 - [[Berin Garibaldi]] — joined the party
 - [[Nob]] — halfling inn assistant; reported on the Inquisitors
-- [[Mathilda]] — herb woman; pointed party to Elfrida
-- [[Elfrida Teuschel]] — professor's former patient; hiding something about her cure
-- [[Elson Teuschel]] — minter; more talkative than his wife
+- [[Mathilda]] — herb woman; pointed party to Elfrieda
+- [[Elfrieda Teuschel]] — professor's former patient; hiding something about her cure
+- [[Manfred Teuschel]] — minter; more talkative than his wife
 - [[William Coin]] — Teuschel servant; bribed for information
 - [[Mungo Mudfoot]] — staying outside Beekerhoven; wagon raided for supplies
 
@@ -123,11 +123,11 @@ The party entered [[Beekerhoven]], secured supplies from [[Mungo Mudfoot]]'s wag
 - [[Berin Garibaldi]] has joined the party under the Temple of Verena's warrant
 - The Inquisitors are approximately one day ahead on the road to [[Salzenmund]]
 - Stradovski appears to have shifted from coach travel to overland travel (tent, lanterns, horse) — harder to track
-- [[Elfrida Teuschel]] is concealing the true nature of her miraculous cure; strong suspicion of dark magic or a Nurgle connection given the [[Seuchenbuch (Plague Book)]]
+- [[Elfrieda Teuschel]] is concealing the true nature of her miraculous cure; strong suspicion of dark magic or a Nurgle connection given the [[Seuchenbuch (Plague Book)]]
 - Next morning: town stables and Wolfrunner office
 
 ## Notes
 
 - The inn stable burned the night of 21 Nachexen — the same night the Inquisitors and Ulricans were present. Possible connection
-- Elson Teuschel mentioned a mint apprentice absconding with freshly minted coins — a local scandal worth remembering
+- Manfred Teuschel mentioned a mint apprentice absconding with freshly minted coins — a local scandal worth remembering
 - Mungo's fake-writing intimidation tactic: harmless but noted

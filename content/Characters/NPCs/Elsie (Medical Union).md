@@ -28,7 +28,7 @@ Quiet and unassuming, but capable of sudden violence when the situation called f
 **Session 11 (battle):** Referred to as "Elke" in the session recap — likely the same person, probably a recap error; "Elsie" is used here as the established name. Attempted to sprint toward a wall during the battle but fell and limped away. Slipped out unnoticed in the confusion.
 
 ## Notes
-Possibly the same "mousy-haired waif in an artisan's smock" observed fleeing with [[Elfrida Teuschel]] after the raid — unconfirmed.
+Possibly the same "mousy-haired waif in an artisan's smock" observed fleeing with [[Elfrieda Teuschel]] after the raid — unconfirmed.
 
 *Note on naming: Session 11 recap refers to this character as "Elke." This appears to be an inconsistency; the character is recorded here under "Elsie" as established in Session 10.*
 

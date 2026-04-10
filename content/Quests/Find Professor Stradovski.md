@@ -26,7 +26,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - Subject of a medical negligence lawsuit (unverified rumour)
 - Rumour of necrophilia with a dead student (unverified rumour)
 - [[Stradovski Vellum Papers]] — expensive hidden documents; contents unknown
-- **True destination: [[Ferlangen]]** (mining town, eastern Ostland) — Salzenmund was a deliberate false trail arranged by [[Elfrida Teuschel]]
+- **True destination: [[Ferlangen]]** (mining town, eastern Ostland) — Salzenmund was a deliberate false trail arranged by [[Elfrieda Teuschel]]
 - **Moral character confirmed (Session 15):** Sacrificed his travelling companion [[Schliegel]] and a horse to the ghoul-master [[Melmoth]] at the [[Forest Inn]] in exchange for his own safe passage — also shared academic knowledge about ghoul creation/care. He is dangerous.
 - Inquired about [[Seuchenshof]] hospice at [[Skralberg]] — road barricaded; proceeded east into [[Ostland]]
 
@@ -41,12 +41,12 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Search Stradovski's office
 - [x] Depart north on caravan (20 Nachexen 2512)
 - [x] Reach [[Beekerhoven]]
-- [x] Confirm Stradovski was in Beekerhoven (visited [[Elfrida Teuschel]] ~11 Nachexen)
+- [x] Confirm Stradovski was in Beekerhoven (visited [[Elfrieda Teuschel]] ~11 Nachexen)
 - [x] Investigate city stables — confirmed false Salzenmund trail; true destination Ferlangen
 - [x] Expose and arrest [[Marks Klessel]] and [[Urs Huber]] (Medical Union)
 - [x] Depart Beekerhoven north toward Ferlangen
 - [x] Confirm trail through [[Skralberg]] — entered Ostland heading east
-- [x] Arrive [[Schuten]], Ostland — Elfrida's group spotted 3 nights prior
+- [x] Arrive [[Schuten]], Ostland — Elfrieda's group spotted 3 nights prior
 - [ ] Continue pursuit through Ostland toward [[Ferlangen]]
 - [ ] Locate the professor
 - [ ] Return him to [[Middenheim]]
@@ -74,11 +74,11 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Lady Steiner]] — original quest giver
 - [[Professor Humpis]] — original accuser
 - [[Fya Vater]] — maid; sold the lockbox
-- [[Hoffman Janitzer]] — Temple of Verena agent; travelling with party; was abducted and recovered
+- [[Hoffman Jannitzer]] — Temple of Verena agent; travelling with party; was abducted and recovered
 - [[Mungo Mudfoot]] — teamster; wagon now in Ostland
 - [[Berin Garibaldi]] — party member; added to warrant Session 08
 - [[Falconius Thorncobble]] — party member; added to warrant Session 09
-- [[Elfrida Teuschel]] — Stradovski's key co-conspirator; now wanted fugitive; heading to Ferlangen
+- [[Elfrieda Teuschel]] — Stradovski's key co-conspirator; now wanted fugitive; heading to Ferlangen
 - [[Marks Klessel]] — hired to create false trail; arrested
 - [[Urs Huber]] — Medical Union operator; arrested
 - [[Schliegel]] — farmhand who travelled with professor; sacrificed by Stradovski at Forest Inn (presumed dead)
@@ -92,14 +92,14 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Salzenmund]] — false trail; Inquisitors followed this lead
 - [[Forest Inn]] — Stradovski passed through ~12 days before Session 15; traded companion for passage
 - [[Skralberg]] — Stradovski confirmed here; took road east into Ostland
-- [[Schuten]] — party's current location (Session 16); Elfrida's group 3 days ahead
+- [[Schuten]] — party's current location (Session 16); Elfrieda's group 3 days ahead
 - [[Seuchenshof]] — plague hospice Stradovski inquired about; road barricaded
 - [[Erengrad Road]] — route taken north
 
 ## Complications
 - Three-way race: [[Ordo Sancti Inquisita]] (execute), White Wolves (unclear), [[Temple of Verena]] (trial)
 - Stradovski is willing to sacrifice companions for his own escape — party must not underestimate him
-- [[Elfrida Teuschel]]'s network is organised and well-funded — she is still ahead
+- [[Elfrieda Teuschel]]'s network is organised and well-funded — she is still ahead
 - Stradovski has shifted to overland travel — no longer on coach routes
 - Time pressure: ~6 weeks from 18 Nachexen 2512 until [[Augustus Steiner]]'s execution (now ~3+ weeks remaining as of early Jahrdrung 2512)
 - Party possesses a [[Seuchenbuch (Plague Book)]] — illegal; could bring serious trouble
@@ -112,5 +112,5 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 ## Notes
 - [[Hildegarde]] gave her brass necklace to [[Lady Steiner]] in exchange for inquiry about her missing mother
 - [[Joerg Wusterburg]]'s nervousness and the [[Order of the Howling Wolf]]'s interest remain unexplained
-- Distinctive freshly minted coins from Elson's mint are being spent along Elfrida's route — potentially trackable
+- Distinctive freshly minted coins from Elson's mint are being spent along Elfrieda's route — potentially trackable
 - The Seuchenbuch discusses disease as a weapon — Berin compared it to fire: useful in skilled hands, catastrophic if misused

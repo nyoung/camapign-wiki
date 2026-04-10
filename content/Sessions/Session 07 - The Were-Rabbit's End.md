@@ -11,7 +11,7 @@ pcs_present:
   - "[[Boris Dorchen]]"
   - "[[Joerg Wusterburg]]"
   - "[[Hildegarde]]"
-  - "[[Hoffman Janitzer]]"
+  - "[[Hoffman Jannitzer]]"
   - "[[Pilpoul Ivri]]"
   - "[[Erika Sÿfrid von Drakkenheim]]"
 status: completed
@@ -32,7 +32,7 @@ The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a de
 
 ### Conclusion of the Were-Rabbit Battle (21 Nachexen, night)
 
-- [[Hoffman Janitzer]] rushed from the kitchen, switching to hand weapon to support the party
+- [[Hoffman Jannitzer]] rushed from the kitchen, switching to hand weapon to support the party
 - [[Boris Dorchen]] scored a crossbow hit on the were-rabbit — superficial
 - [[Joerg Wusterburg]] manoeuvred to avoid being flanked, attacked with dagger — minimal damage
 - [[Pilpoul Ivri]] missed with sling, then landed a second shot on the were-rabbit
