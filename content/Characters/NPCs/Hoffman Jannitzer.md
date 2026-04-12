@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Bounty Hunter / Temple Guardian
 faction: "[[Temple of Verena]]"
-location: "[[Schoten]]"
+location: "[[Pewter Merchant]]"
 status: alive
 disposition: neutral
 first_seen: "[[Session 04 - The Investigation]]"
@@ -54,6 +54,8 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 
 **Session 16:** Regained consciousness, groggy and bloodshot; explained Condradine had drugged his drink. Continued with the party to [[Skralberg]] and [[Schoten]].
 
+**Session 17:** Recognised [[Christina Asper]] immediately in the common room of the [[Royal Wolf Inn]]. Went pale when [[Pilpoul Ivri|Pilpoul]] accused Asper of complicity in Stradovski's escape, frantically mouthing for him to stop. [[Boris Dorchen|Boris]] blamed him to Asper for the party's tendency to get sidetracked.
+
 ## Appearances
 - [[Session 04 - The Investigation]]
 - [[Session 05 - The Road North]]
@@ -67,3 +69,4 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 - [[Session 14 - The Fall of Condradine]] *(abducted)*
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]] *(recovered)*
 - [[Session 16 - Plus ça change]] *(regained consciousness)*
+- [[Session 17 - Asper-ated]]
