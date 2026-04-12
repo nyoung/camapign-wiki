@@ -22,11 +22,8 @@ Merchant. The party has not met the real Masten Feltt. Per the innkeeper [[Anton
 ## Known Information
 - Name given by the dead man at the [[Pewter Merchant]]
 - The dead man was a commoner — calloused hands, lice, ill-fitting fine clothes and oversized boots
-- The real Feltt's current whereabouts are unknown
-
-## Secrets / GM Notes
-- Per *Pt 1 — A Private War*: Masten Feltt is a real merchant who set off from the [[Hemp Merchant]] toward the [[Pewter Merchant]]. He was attacked on the road by his servant **[[Werner Herst]]**, who killed him, took his clothes, and arrived at the [[Pewter Merchant]] impersonating him. Herst (wearing Feltt's clothes) is the body in the storeroom. Feltt's body is somewhere on the forest road between the two inns
-- The party has deduced the impostor angle but not the servant-killed-merchant layer
+- Arrived on horseback with no luggage — a detail that should have raised suspicion immediately
+- The real Feltt's current whereabouts and true fate are unknown to the party
 
 ## Appearances
-- Referenced in [[Session 17 - Asper-ated]] *(name only — body examined is impostor)*
+- Referenced in [[Session 17 - Asper-ated]] *(name only — the body examined is an impostor using this name)*

@@ -44,9 +44,5 @@ Met in [[Session 17 - Asper-ated|Session 17]]. Allowed the party into the storer
 - Kept the illegal gold crown Stradovski paid with — surrendered it to the party
 - Knows Asper was there the night of the killing
 
-## Secrets / GM Notes
-- The dead man was **not** a noble — a commoner in ill-fitting clothes. The PDF implies the actual killed man is [[Werner Herst]] (a servant), and [[Masten Feltt]] is the real merchant whose identity he had assumed. The party has deduced the commoner-impostor angle but has not yet reached the servant/real-merchant layer
-- A successful appeal to an Imperial road warden or to the coroner can likely rescind the fine
-
 ## Appearances
 - [[Session 17 - Asper-ated]]

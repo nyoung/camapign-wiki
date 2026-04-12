@@ -57,9 +57,7 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - **Was present at the [[Pewter Merchant]] the night a man was stabbed to death there** — did not intervene, has not volunteered this information to the party
 
 ## Secrets / GM Notes
-- She witnessed the killing of the false "[[Masten Feltt]]" at the [[Pewter Merchant]] but thought it beneath her to intervene — an Ostland matter with local bandits bearing official warrants
-- She also witnessed the **redhead girl** being taken by two local farmers to the adjacent farmstead after the fight, and did not intervene there either. Her rationale: the girl was not a chaos matter
-- The party will almost certainly confront her about her presence at the inn when they learn of it
+- The party has not yet confronted her about being at the [[Pewter Merchant]] the night of the killing
 
 ## Appearances
 - [[Session 17 - Asper-ated]]

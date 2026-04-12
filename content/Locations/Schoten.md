@@ -11,7 +11,7 @@ tags: [location]
 # Schoten
 
 ## Description
-A declining village in Ostland, the first settlement after crossing the border from Nordland. It sits slightly north of the fortified [[Royal Wolf Inn|Royal Wolf]] border post and offers subsistence support to the garrison. A number of its buildings stand deserted. Noticeably better organised and more militarised than anything on the Nordland side of the border: the nearby post has new barracks with firing slits, a Kelnore tower flying the black and white bull flag of Ostland, soldiers drilling, and rotating watches. The party is now in Ostland; [[Professor Udo Stradovski|Professor Stradovski]] is ahead.
+A village in Ostland, the first settlement after crossing the border from Nordland. It sits slightly north of the fortified [[Royal Wolf Inn|Royal Wolf]] border post. Noticeably better organised and more militarised than anything on the Nordland side of the border: the nearby post has new barracks with firing slits, a tower flying the black and white bull flag of Ostland, soldiers drilling, and rotating watches. The party is now in Ostland; [[Professor Udo Stradovski|Professor Stradovski]] is ahead.
 
 ## Notable Features
 - Earthen ramparts and ditches

@@ -15,7 +15,7 @@ aliases: [The Pewter Merchant]
 A tidy coaching inn where the road east from the [[Royal Wolf Inn]] meets the [[Ostland]] coast and the first iron-grey expanse of the [[Sea of Claws]]. Proprietor [[Anton Petz]] keeps a clean apron and a courtyard in good order — but in [[Session 17 - Asper-ated|Session 17]] his nerves were visibly shredded by the body in his storeroom and the ruinous hundred-crown fine it had put over his head.
 
 ## Notable Features
-- Coastal position overlooking [[Drosselspule Bay]] and the [[Sea of Claws]]
+- Coastal position with views of the [[Sea of Claws]]
 - Storeroom at the back where the dead "merchant" is being kept under road-warden guard
 - A scrubbed section of floor near the hearth — the varnish worn through to bare wood where blood was cleaned away
 
@@ -38,4 +38,4 @@ A tidy coaching inn where the road east from the [[Royal Wolf Inn]] meets the [[
 ## Notes
 - [[Stradovski trail]]: confirmed passage here ~12–14 days before Session 17
 - The hundred-crown fine hanging over Petz is an open thread for the party to resolve (possibly by proving the dead man was no noble — the evidence is already overwhelming)
-- The **redhead girl** present before the killing has not been located. She echoes the abducted Nordland farm girl thread from [[Session 16 - Plus ça change|Session 16]] — though per the PDF they are not the same individual (this one is named Herga, and was taken to the adjacent farmstead after the fight)
+- The **redhead girl** present before the killing has not been located

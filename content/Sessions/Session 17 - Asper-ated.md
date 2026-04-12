@@ -147,7 +147,7 @@ The deceased was a man in his mid-thirties to early forties, dressed in a fine t
 - Royal Wolf militia captain — sparring partner for Berin; tight-lipped on governance
 - Pewter Merchant road warden (unnamed, female) — described the killing; mentioned the witch hunter at the inn that night
 - **Mentioned:** [[Lucas Pollack]] — witch hunter left behind in Ferlangen
-- **Mentioned:** [[Masten Feltt]] — the real merchant whose identity the dead commoner had assumed
+- **Mentioned:** [[Masten Feltt]] — the name the dead commoner had assumed
 
 ## Locations Visited
 
