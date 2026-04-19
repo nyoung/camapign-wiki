@@ -37,12 +37,16 @@ Met in [[Session 17 - Asper-ated|Session 17]]. Allowed the party into the storer
 
 [[Hildegarde]] pressed a shilling into his hand as goodwill — a gesture both of them knew barely dented the hundred-crown problem.
 
+**Session 18:** With the coroner expected, Petz pleaded for the party to stay and help him make his case. He admitted he was no swordsman when [[Berin Garibaldi|Berin]] suggested a judicial duel — Berin then offered to stand as his champion, which Petz accepted with trembling gratitude (still visibly dreading the prospect of involving [[Christina Asper]]). The party returned from the [[Grunwald Farm]] with [[Herga]] and delivered a written affidavit documenting the impostor's peasant-like speech, failure to recognise the men he was supposed to meet, and lack of any noble bearing. Petz received the document with tearful gratitude, waived the cost of the party's rooms, and prayed that **Myrmidia** would visit them in their time of need.
+
 ## Known Information
 - Owner of the [[Pewter Merchant]]
 - Under immediate threat of ruin from Ostland noble-death law
-- Witnessed the arrival and killing of the man pretending to be the merchant [[Masten Feltt]]
+- Witnessed the arrival and killing of the man pretending to be the merchant [[Masten Feltt]] — now confirmed to have been the [[Hemp Merchant]]'s own servant boy
 - Kept the illegal gold crown Stradovski paid with — surrendered it to the party
 - Knows Asper was there the night of the killing
+- Holds the affidavit from [[Herga]] and Pilpoul's letter framework for reaching out to [[Jan Smuts]]
 
 ## Appearances
 - [[Session 17 - Asper-ated]]
+- [[Session 18 - The Hemp Merchant]]

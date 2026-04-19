@@ -47,6 +47,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Depart Beekerhoven north toward Ferlangen
 - [x] Confirm trail through [[Skralberg]] — entered Ostland heading east
 - [x] Arrive [[Schoten]], Ostland — Elfrieda's group spotted 3 nights prior
+- [x] Continue east through [[Royal Wolf Inn]] / [[Pewter Merchant]] / [[Hemp Merchant]] — Stradovski's trail confirmed; Elfrieda's lead closed to ~2 days (Session 18)
 - [ ] Continue pursuit through Ostland toward [[Ferlangen]]
 - [ ] Locate the professor
 - [ ] Return him to [[Middenheim]]
@@ -67,6 +68,8 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Session 14 - The Fall of Condradine]]
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]]
 - [[Session 16 - Plus ça change]]
+- [[Session 17 - Asper-ated]]
+- [[Session 18 - The Hemp Merchant]]
 
 ## Related NPCs
 - [[Professor Udo Stradovski]] — target; ruthless; active support network

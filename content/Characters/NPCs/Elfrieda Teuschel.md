@@ -49,6 +49,8 @@ The woman who fled was not panicking. She packed her documents and jewelry, took
 
 **Session 16:** Two women and a brutish man passed through Schoten (Ostland) three nights before Session 16 — likely Elfrieda's group. She is still ahead of the party.
 
+**Session 18:** Confirmed at the [[Hemp Merchant]] by [[Jan Smuts]] — a dark-haired noblewoman with **one large, burly male companion**, staying **two nights ago** and paying with a **freshly minted crown** matching the illegal currency the party has been tracking. Her lead over the party has now closed to **~2 days**.
+
 ## Known Information
 - Was terminally ill with a wasting disease; Stradovski treated her — full miraculous recovery; "stronger than she had ever been"
 - Treatment cost "a number of gold" — enough to buy a nice horse
@@ -71,3 +73,4 @@ The woman who fled was not panicking. She packed her documents and jewelry, took
 - [[Session 11 - Rolf's Rampage and the Writ of Arrest]] *(revealed as fugitive)*
 - [[Session 12 - Bride Price]] *(wanted; coach found crashed)*
 - [[Session 16 - Plus ça change]] *(group likely spotted at Schoten)*
+- [[Session 18 - The Hemp Merchant]] *(confirmed at Hemp Merchant two nights prior)*

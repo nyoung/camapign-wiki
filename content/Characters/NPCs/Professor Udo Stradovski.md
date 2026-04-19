@@ -72,7 +72,8 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Passed through [[Skralberg]] roughly 1.5 weeks before the party (c. 25–27 Nachexen) with dark academic texts and physician's bag; inquired about [[Seuchenshof]] — road was barricaded; took the road east into [[Ostland]] instead
 - **Passed through the [[Forest Inn]] ~12 days before Session 15** — recognised the ghoul operation, then sacrificed companion [[Schliegel]] and a horse to [[Melmoth]] in exchange for safe passage; also shared knowledge about ghoul creation/care
 - **Last known heading: northeast along the [[Erengrad Road]], then east into [[Ostland]]**, heading toward [[Ferlangen]]
-- Party is currently in [[Schoten]], Ostland — trail is growing warm (as of Session 16)
+- Passed through the [[Pewter Merchant]] ~12–14 days before Session 17 (paid with an illegal freshly minted gold crown)
+- **Passed through the [[Hemp Merchant]] on the night of the 16th Nachexen** — traveling alone with the same brown horse bearing a white blaze; haughty Middenland accent (confirmed by [[Jan Smuts]] and stable boy in Session 18)
 - [[Ordo Sancti Inquisita]] warrant, [[White Wolves]] warrant, and [[Temple of Verena]] warrant are all active
 
 **Heresy charge:**
@@ -105,3 +106,5 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - [[Session 11 - Rolf's Rampage and the Writ of Arrest]] *(Marx Khlesl confirmed details)*
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]] *(Forest Inn revelation — moral character confirmed)*
 - [[Session 16 - Plus ça change]] *(Skralberg confirmation; entered Ostland)*
+- [[Session 17 - Asper-ated]] *(passage through Pewter Merchant confirmed)*
+- [[Session 18 - The Hemp Merchant]] *(passage through Hemp Merchant on 16th Nachexen confirmed)*

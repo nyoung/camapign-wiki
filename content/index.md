@@ -20,16 +20,17 @@ tags: [home]
 **NPC Companions**
 - [[Hoffman Jannitzer]] — Bounty hunter; recovering after being drugged at Forest Inn
 - [[Mungo Mudfoot]] — Teamster; wagon and homing pigeons
-- [[Christina Asper]] — Solkanite witch hunter; joined at Royal Wolf in Session 17; cold, disciplined, possibly compromised
+- [[Christina Asper]] — Solkanite witch hunter; joined at Royal Wolf in Session 17; cold, disciplined, witnessed the Pewter Merchant killing and refuses to intervene in "provincial matters"
+- [[Herga]] — Kidnapped Nordland farm girl freed from the Grunwald Farm; travelling with the party to the [[Temple of Shallya]] in [[Ferlangen]]
 
 ## Active Quests
 - [[Find Professor Stradovski]] — confirmed heading east through Ostland toward [[Ferlangen]]
 
 ## Current Location
-[[Pewter Merchant]], Ostland coast road (east of [[Schoten]], toward [[Ferlangen]])
+[[Hemp Merchant]], Ostland coast road junction (east of [[Pewter Merchant]], toward [[Ferlangen]])
 
 ## Current In-Game Date
-32 Nachexen 2512
+2 Jahrdrung 2512
 
 ## Quick Links
 - [[Sessions/]]
@@ -44,20 +45,21 @@ tags: [home]
 - [[Timeline/]]
 
 ## Recent Sessions
-- [[Session 15 - Stradovski's Guide to Selling Out Your Friends]] — 2026-02-21
 - [[Session 16 - Plus ça change]] — 2026-03-28
 - [[Session 17 - Asper-ated]] — 2026-04-11 (1–32 Nachexen 2512)
+- [[Session 18 - The Hemp Merchant]] — 2026-04-18 (33 Nachexen – 2 Jahrdrung 2512)
 
 ## Open Threads / Loose Ends
-- **[[Professor Udo Stradovski]]** — confirmed passage through [[Pewter Merchant]] 12–14 days ago via illegal freshly-minted gold crown; still heading toward [[Ferlangen]]
-- **[[Elfrieda Teuschel]]'s group** — stayed at [[Royal Wolf Inn|Royal Wolf]] **two** nights before party's arrival; gap has closed to ~2 days
-- **[[Christina Asper]]'s presence at the Pewter Merchant** — she was at the inn the night a "noble" was stabbed; has not volunteered this; confront or probe
-- **The hundred-crown fine on [[Anton Petz]]** — dead man is clearly a commoner impostor; rescinding the fine should be straightforward with a road warden or coroner
-- **The redhead girl at the Pewter Merchant** — present just before the killing; has since disappeared
-- **[[Lucas Pollack]]** — second witch hunter; waiting in [[Ferlangen]]; unknown temperament
+- **[[Professor Udo Stradovski]]** — confirmed at [[Hemp Merchant]] on the **16th Nachexen**; still heading east toward [[Ferlangen]]
+- **[[Elfrieda Teuschel]]'s group** — confirmed at [[Hemp Merchant]] **two nights ago** paying with a freshly minted crown; lead over the party now ~2 days
+- **Road to [[Norden]]** — Imperialist Engineer Pioneer Corps and [[Landsturm]] upgrading road and bridges under direct Imperial orders to support heaviest wagons; scale implies something far larger than a road project
+- **[[Albrecht Felt]]** — merchant vanished from the [[Hemp Merchant]] three or four days ago with the servant boy whose body the party examined at the [[Pewter Merchant]]; current fate unknown
+- **[[Gustavus]] and the [[Heidling Farm]]** — raider leader who killed the impostor; suspected base fifteen miles north
+- **[[Herga]]'s safe passage** — escort to [[Temple of Shallya]] in [[Ferlangen]]
+- **[[Christina Asper]]** — admitted she witnessed the Pewter Merchant killing; refuses to engage with "provincial matters"; party confrontation is on the record
+- **[[Lucas Pollack]]** — second witch hunter waiting in [[Ferlangen]]; unknown temperament
 - **The Khaine tome** — surrendered to Royal Wolf militia; unknown what they do with it
 - **Ghoul network** — retrieved all their dead overnight after Forest Inn battle; leaderless but still active
-- **Abducted farm girl** — Nordland/Ostland border area; flagged by Skralberg militia as a side thread
 - **[[Seuchenshof]] (Eichenhof)** — barricaded plague road; Stradovski inquired but took the eastern road instead
 - **Stradovski's 100% success rate** — patient notes show no failures or deaths; implies supernatural means
 - **[[Seuchenbuch|Seuchenbuch (Plague Book)]]** — illegal possession; not yet read in full

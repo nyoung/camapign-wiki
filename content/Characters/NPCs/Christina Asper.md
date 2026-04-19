@@ -54,10 +54,19 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - Sent by University of Altdorf; operating under explicit instruction to assist the party rather than initiate investigations
 - Solkanite — sees herself as an executioner, not a judge
 - Records everything meticulously in a leather journal
-- **Was present at the [[Pewter Merchant]] the night a man was stabbed to death there** — did not intervene, has not volunteered this information to the party
+- **Witnessed the [[Pewter Merchant]] killing** — the raider leader **[[Gustavus]]** stabbed the "merchant" in the chest during a scuffle after the man denied knowing the raiders, who had expected him to hand over a young woman. Asper did not intervene — considers the matter a **provincial affair** beneath her mission. Confirmed in [[Session 18 - The Hemp Merchant|Session 18]] after [[Berin Garibaldi|Berin]] confronted her.
+
+## Session 18 — The Confrontation
+- [[Boris Dorchen|Boris]] coaxed a rare, fleeting smile from her with a goofy story
+- [[Berin Garibaldi|Berin]] compared her unfavourably to **[[Condradine]]** — her jaw tightened and her eyes narrowed, but she said nothing
+- When [[Berin Garibaldi|Berin]] accused her of neglecting her Solkanite duty and demanded she surrender the corrupt artefacts for proper cleansing, she dismissed every charge with icy calm but did reveal she had witnessed the killing
+- Rolled her eyes at [[Herga]] joining the party the next morning; mounted without a word
+- At the [[Hemp Merchant]] she dismounted, handed her reins to a terrified stable boy, and walked away without a backward glance; secured a quiet corner table simply by approaching it
 
 ## Secrets / GM Notes
-- The party has not yet confronted her about being at the [[Pewter Merchant]] the night of the killing
+- She has formally refused to intervene in what she classifies as provincial matters — this is now party-confirmed behaviour and will shape future disagreements over who deserves her attention
+- Still holds [[Hildegarde]]'s Khainite-marked crossbow, Hildegarde's black mask, the dark sword from [[Melmoth]], and the Khaine tome (effective custody)
 
 ## Appearances
 - [[Session 17 - Asper-ated]]
+- [[Session 18 - The Hemp Merchant]]
