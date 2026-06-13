@@ -2,7 +2,7 @@
 type: npc
 species: Human
 career: Outlaw / Field Surgeon
-faction: "[[Howling Ones]]" (former)
+faction: "[[Howling Ones]] (former)"
 location: "caravan south of [[Ferlangen]] (prisoner / ward)"
 status: alive
 disposition: neutral
