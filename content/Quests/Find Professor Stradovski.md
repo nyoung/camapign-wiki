@@ -48,9 +48,18 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Confirm trail through [[Skralberg]] — entered Ostland heading east
 - [x] Arrive [[Schoten]], Ostland — Elfrieda's group spotted 3 nights prior
 - [x] Continue east through [[Royal Wolf Inn]] / [[Pewter Merchant]] / [[Hemp Merchant]] — Stradovski's trail confirmed; Elfrieda's lead closed to ~2 days (Session 18)
-- [ ] Continue pursuit through Ostland toward [[Ferlangen]]
-- [ ] Locate the professor
-- [ ] Return him to [[Middenheim]]
+- [x] Confirm trail through the [[Fist of Amber]] — Stradovski stayed 17th Nachexen; Elfrieda's group two nights prior (Session 19)
+- [x] Arrive in [[Ferlangen]] — gate ritual passed; lodging at Frau Busch's; Verenan chain of command formalised in party's favour (Session 19)
+- [x] Deliver [[Marretta Schongauer]]'s letter to [[Karl Helpmann]] ([[Session 20 - Never Mention Prostitutes|Session 20]]) — Helpmann did **not** recognise Stradovski's name; his serf-relocation network is not part of the Stradovski chain
+- [x] Identify Wolfenburg as the next destination — confirmed via Shallyan rumour of a **simultaneous outbreak of rare and exotic diseases** in [[Wolfenburg]] (within the past 1–2 weeks) ([[Session 20 - Never Mention Prostitutes|Session 20]])
+- [x] Check the [[Physicians' Guild (Ferlangen)|Physicians' Guild]] in Ferlangen ([[Session 21 - The Gnome and the Slayer|Session 21]]) — **no record of [[Professor Udo Stradovski|Stradovski]]**; one new practitioner registered ~one month prior, **[[Derich Kölderer]]**, mentioned as a separate person
+- [x] Secure transport east — escort job for **[[Gromril van Aelst]]** to [[Wolfenburg]] sealed for **10 GC** ([[Session 21 - The Gnome and the Slayer|Session 21]])
+- [ ] Verify [[Derich Kölderer]] in person — description, age, address — to rule in or out as a [[Professor Udo Stradovski|Stradovski]] alias / co-conspirator
+- [ ] Travel to [[Wolfenburg]] and consult **[[Matron Isolde Uricht]]** at the [[Temple of Shallya]] there
+- [ ] Investigate via the **Merchants Guild** — recommended channel for the [[Beekerhoven]] counterfeit-coin trail
+- [ ] Pursue the **[[Howling Ones]]** thread — both highwaymen and a named cult; talk of the town
+- [ ] Investigate the corrupt-merchant list and the missing Ferlangen girls (see [[Investigate Ferlangen Trafficking and Missing Girls]]) — possible Stradovski-experiment connection
+- [ ] Return Stradovski to [[Middenheim]]
 
 ## Sessions Involved
 - [[Session 02 - The Trial of Klaus Grebel]]
@@ -70,6 +79,9 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Session 16 - Plus ça change]]
 - [[Session 17 - Asper-ated]]
 - [[Session 18 - The Hemp Merchant]]
+- [[Session 19 - Ferlangen]]
+- [[Session 20 - Never Mention Prostitutes]]
+- [[Session 21 - The Gnome and the Slayer]]
 
 ## Related NPCs
 - [[Professor Udo Stradovski]] — target; ruthless; active support network
@@ -98,6 +110,8 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Schoten]] — party's current location (Session 16); Elfrieda's group 3 days ahead
 - [[Seuchenshof]] — plague hospice Stradovski inquired about; road barricaded
 - [[Erengrad Road]] — route taken north
+- [[Wolfenburg]] — provincial capital; named in Session 20 as the most likely next destination based on the disease outbreak; party departs by coach with [[Gromril van Aelst|Gromril]] on 7 Jahrdrung 2512
+- [[Physicians' Guild (Ferlangen)|Physicians' Guild]] (Ferlangen) — no record of Stradovski; named [[Derich Kölderer]] as a separate, recently arrived physician
 
 ## Complications
 - Three-way race: [[Ordo Sancti Inquisita]] (execute), White Wolves (unclear), [[Temple of Verena]] (trial)

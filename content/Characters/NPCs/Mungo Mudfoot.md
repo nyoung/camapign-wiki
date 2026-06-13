@@ -37,6 +37,12 @@ Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 
 **Session 15–16:** Sent a homing pigeon with Pilpoul's report to the [[Temple of Verena (Beekerhoven)|Temple of Verena]] in Beekerhoven. Descended the stairs at the Forest Inn well-rested and cheerful the morning after the ghoul battle, blissfully unaware of events. Boris's Ulrican pendant ended up in Mungo's beer mug during the Skralberg brawl.
 
+**Session 19:** Carried Pilpoul's pigeon-borne letter to [[Lady Steiner]] from the [[Hemp Merchant]] (the innkeeper warned the bird might struggle under the prose). At [[Ferlangen]] he opted to remain at the **fortified inn outside the walls** with the wagon and animals rather than attempt the city gate ritual — and was immediately distracted by the discovery of a **female halfling** sitting outside the inn, the first moot folk he'd seen since [[Middenheim]].
+
+**Session 25:** At the [[Wayside Shrine]] night camp after the second ambush, he and [[Lefty Longshanks|Lefty]] took over the cooking when [[Mathis Haack]] shared a bag of rabbits — turning the catch into a **restorative broth** for the wounded ([[Christina Asper|Asper]], [[Hawkeye]]/Ganav), seasoned with their own salts and spices.
+
+**Session 26:** One of his **socks** was conscripted by [[Boris Dorchen|Boris]] to gag the captured prisoner. During the night, sharpening his axe by the fire, he silently held up a **hand in the shape of a wolf** as the real wolves answered the howls. When the party planned the counter-ambush, **Mungo fretted that entering a fight might breach Teamster's Guild rules and incur extra charges** — and his **cookbook** was nominated as the decoy bundle to bait the bandits.
+
 ## Appearances
 - [[Session 04 - The Investigation]]
 - [[Session 07 - The Were-Rabbit's End]]
@@ -45,3 +51,6 @@ Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 - [[Session 12 - Bride Price]]
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]]
 - [[Session 16 - Plus ça change]]
+- [[Session 19 - Ferlangen]]
+- [[Session 25 - Asper and the Wolf]]
+- [[Session 26 - A Night in the Country]]

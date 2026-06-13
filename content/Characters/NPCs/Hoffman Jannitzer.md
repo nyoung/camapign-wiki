@@ -56,6 +56,12 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 
 **Session 17:** Recognised [[Christina Asper]] immediately in the common room of the [[Royal Wolf Inn]]. Went pale when [[Pilpoul Ivri|Pilpoul]] accused Asper of complicity in Stradovski's escape, frantically mouthing for him to stop. [[Boris Dorchen|Boris]] blamed him to Asper for the party's tendency to get sidetracked.
 
+**Session 19:** On arrival in [[Ferlangen]] informed the party that the [[Temple of Verena (Ferlangen)|Temple of Verena]] had arranged lodging for them at **Frau Busch's boarding house**.
+
+**Session 20:** Led the party through a rough quarter of [[Ferlangen]] — past rowdy taverns and a brothel where women called from balconies — to **[[Frau Busch's Boarding House]]**, the temple-arranged billet.
+
+**Session 26:** Stood the **final watch** of the harassed night at the [[Wayside Shrine]] alongside [[Hildegarde]], who answered the cult's howls by firing an arrow back into the dark.
+
 ## Appearances
 - [[Session 04 - The Investigation]]
 - [[Session 05 - The Road North]]
@@ -70,3 +76,6 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]] *(recovered)*
 - [[Session 16 - Plus ça change]] *(regained consciousness)*
 - [[Session 17 - Asper-ated]]
+- [[Session 19 - Ferlangen]]
+- [[Session 20 - Never Mention Prostitutes]]
+- [[Session 26 - A Night in the Country]]

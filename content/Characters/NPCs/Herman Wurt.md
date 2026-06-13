@@ -33,6 +33,15 @@ Cross-examined by [[Pilpoul Ivri|Pilpoul]] in [[Session 03 - The Trial]]. Pilpou
 
 ## Secrets / GM Notes
 
+## Session 25 — Hauled Danderich From the Pit
+- Travelling with [[Danderich Flisshausten|Danderich]]'s contingent on the caravan; during the second ambush he **hauled Danderich out of the hidden pit trap** while the fighting raged around them
+
+## Session 26 — Nerves on Watch
+- Stood the **second watch** at the [[Wayside Shrine]]; **nearly panicked** when another arrow struck the coach out of the dark, until [[Berin Garibaldi|Berin]] steadied him with a few firm words in **Battle Tongue**
+- Among the NPCs eager to draw steel for the planned counter-ambush
+
 ## Appearances
 - [[Session 03 - The Trial]]
 - [[Session 05 - The Road North]]
+- [[Session 25 - Asper and the Wolf]]
+- [[Session 26 - A Night in the Country]]

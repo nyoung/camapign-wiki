@@ -38,6 +38,7 @@ A medium-size coaching inn at the junction where the [[Ostland]] coast road meet
 
 ## History
 - **[[Session 18 - The Hemp Merchant|Session 18]]:** Party arrived at dusk with [[Christina Asper]] and [[Herga]]; found the compound under heavy military use. [[Jan Smuts]] confirmed passage of both [[Professor Udo Stradovski|Stradovski]] (16th Nachexen) and [[Elfrieda Teuschel]]'s group (two nights prior, paying with a freshly minted crown). When [[Boris Dorchen|Boris]] described the Pewter Merchant corpse's birthmark, Smuts identified the body as his own servant boy, vanished three or four days ago with the merchant [[Albrecht Felt]]. [[Pilpoul Ivri|Pilpoul]] glimpsed road-and-bridge blueprints pointing north and learned from enlisted men that the corps had been ordered to upgrade the road to Norden to support the heaviest wagons, working day and night from both ends.
+- **[[Session 19 - Ferlangen|Session 19]]:** Party departed at first light after a cramped night sharing the yard with soldiers and supply wagons. [[Christina Asper]] had ridden out at dawn, leaving only a curt note for them with the innkeeper. [[Pilpoul Ivri|Pilpoul]] sent a long pigeon-borne letter to [[Lady Steiner]] from the inn before departure (the innkeeper warned the bird might struggle under the prose).
 
 ## Notes
 - The scale of the military operation is disproportionate to a simple road upgrade — direct Imperial orders, Landsturm with expensive tax concessions, artisans and engineers called from across the Empire

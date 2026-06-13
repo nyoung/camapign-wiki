@@ -4,7 +4,7 @@ player:
 species: Halfling
 career: Rat Catcher
 career_path: []
-status: alive
+status: departed
 status_tier:
 status_standing:
 age:
@@ -68,6 +68,8 @@ He has been an active PC from Session 09 onward.
 - [[Rolf]] — loyal dog and combat companion
 
 ## Notes
-First appeared in [[Session 09 - The Thriceling]], introduced by [[Mungo Mudfoot]] at the inn in [[Beekerhoven]]. Active PC from Session 09 onward.
+First appeared in [[Session 09 - The Thriceling]], introduced by [[Mungo Mudfoot]] at the inn in [[Beekerhoven]]. Active PC from Session 09 through Session 19.
 
 Connie revealed Mungo's childhood nickname, "Mungo the Pie Crusts," at the Beekerhoven inn — a reference to the pastry trails Mungo left wherever food went missing — prompting Mungo to hastily excuse himself.
+
+**Departed between [[Session 19 - Ferlangen|Session 19]] and [[Session 20 - Never Mention Prostitutes|Session 20]]:** Word reached the party in [[Ferlangen]] outside the [[Temple of Verena (Ferlangen)|Temple of Verena]] that family troubles had forced Connie to step away from the company, perhaps for good. The party spoke of him fondly and resolved to keep in touch and hold his place open should circumstances change. His dog [[Rolf]] travelled with him.

@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Witch Hunter
 faction: "[[Fraternal Order of Witch-Hunters]]"
-location: "[[Royal Wolf Inn]]"
+location: "caravan south of [[Ferlangen]]"
 status: alive
 disposition: suspicious
 first_seen: "[[Session 17 - Asper-ated]]"
@@ -63,10 +63,53 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - Rolled her eyes at [[Herga]] joining the party the next morning; mounted without a word
 - At the [[Hemp Merchant]] she dismounted, handed her reins to a terrified stable boy, and walked away without a backward glance; secured a quiet corner table simply by approaching it
 
+## Session 19 — Riding Ahead, Reporting Behind
+- Rode out at dawn before the party woke, leaving only a curt note for them at the [[Hemp Merchant]]: she had ridden ahead to [[Ferlangen]] to rendezvous with **[[Lucas Pollack]]**, dismissed the party's investigations as **"meandering provincial"** distractions, and ordered them to follow when they were done indulging themselves
+- On reaching [[Ferlangen]], filed a formal report with the **[[Abbess of Verena (Ferlangen)|Abbess]]** of the [[Temple of Verena (Ferlangen)|Temple of Verena]] accusing the party of:
+  - **Withholding heretical artefacts**
+  - **Goading her into acting as a judge** in a matter at an inn
+  - **Speaking ill of her to soldiers**
+- Per Asper's report to the Abbess, **only [[Boris Dorchen|Boris]] is named as a trustworthy ally** within the party
+- Per the Abbess: neither Asper nor [[Lucas Pollack]] has produced useful leads in [[Ferlangen]] yet
+- The Abbess clarified the chain of command in the party's favour: **the party leads the investigation; Asper is a resource, not a director** — a finding that does not change Asper's behaviour but constrains her formal authority over the group
+
 ## Secrets / GM Notes
 - She has formally refused to intervene in what she classifies as provincial matters — this is now party-confirmed behaviour and will shape future disagreements over who deserves her attention
 - Still holds [[Hildegarde]]'s Khainite-marked crossbow, Hildegarde's black mask, the dark sword from [[Melmoth]], and the Khaine tome (effective custody)
+- Her Ferlangen report has set up a confrontation: the party have been formally cleared of insubordination, but Asper is unlikely to accept the Abbess's clarification gracefully
+
+## Session 20 — Détente Over Dinner
+
+- Brought **[[Lucas Pollack]]** to dinner at [[Frau Busch's Boarding House]] and introduced him to the party
+- Accepted [[Berin Garibaldi|Berin]]'s **formal apology** for his earlier conduct toward her order with a wave of the hand and a request to **move forward with the investigation**
+- Recorded the party's news of the **[[Wolfenburg]] disease outbreak** with characteristic precision in her silk-lined notebook
+- When [[Boris Dorchen|Boris]] dragged a chair across from her and pointedly asked how well she knew Pollack, she looked at him for a long moment before understanding the implication, and answered with a single sharp word: **"Hardly."**
+
+## Sessions 22–24 — On the Road to Wolfenburg
+
+- Assembled with [[Hoffman Jannitzer|Hoffman]] and **[[Lucas Pollack]]** (now in battered full plate) at Ferlangen's south gate to join the caravan south
+- Made no effort to hide her **irritation** when [[Berin Garibaldi|Berin]] successfully argued to keep the captured outlaw **[[Hawkeye]]** alive rather than execute him
+- Otherwise kept largely to herself on the road; no further direct confrontation with the party in Sessions 22–24
+- Still in possession of [[Hildegarde]]'s Khainite-marked crossbow, black mask, the dark sword from [[Melmoth]], and the Khaine tome
+
+## Session 25 — The Wolf
+- Her horse was **critically wounded** in the opening volley of the second ambush; she abandoned it and took cover with both pistols drawn
+- When the **monstrous wolf** charged, she **stood her ground and kept firing** — but it was on her before she could land a shot
+- The beast **tore a ragged flap of flesh from her cheek and broke her jaw** with a sickening crack, leaving her face a ruin; she stayed conscious and defiant, managing to raise her pistol even as it loomed over her (the shot deflected)
+- [[Berin Garibaldi|Berin]] stabilised the bleeding and broken bones with bandages and prayers to [[Myrmidia]]; she will need a proper surgeon in [[Wolfenburg]]
+- Afterward she **thanked [[Boris Dorchen|Boris]]** through clenched, broken teeth for the arrow that drove the wolf off — then **pushed him away** and went to see to the horses, unwilling to let anyone see how shaken she was. The first real crack in her composure the party has witnessed.
+
+## Session 26 — A Reckoning Owed
+- Recovered overnight at the [[Wayside Shrine]] camp despite her broken jaw and torn cheek; [[Berin Garibaldi|Berin]] healed her wounded horse with a prayer to [[Myrmidia]]
+- When [[Berin Garibaldi|Berin]] proposed baiting a counter-ambush after [[Astrid Hofhaimer]]'s noon ultimatum, **Asper cocked her pistol and declared she owed the great wolf a reckoning** — fully committed to the fight to come
 
 ## Appearances
 - [[Session 17 - Asper-ated]]
 - [[Session 18 - The Hemp Merchant]]
+- [[Session 19 - Ferlangen]]
+- [[Session 20 - Never Mention Prostitutes]]
+- [[Session 22 - Meddling Kids]]
+- [[Session 23 - Ambush!]]
+- [[Session 24 - Hawkeye]]
+- [[Session 25 - Asper and the Wolf]]
+- [[Session 26 - A Night in the Country]]

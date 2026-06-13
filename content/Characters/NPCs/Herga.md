@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Farm girl
 faction:
-location: Travelling with the party toward [[Ferlangen]]
+location: "[[Temple of Shallya (Ferlangen)|Temple of Shallya]] ([[Ferlangen]])"
 status: alive
 disposition: friendly
 first_seen: "[[Session 18 - The Hemp Merchant]]"
@@ -39,5 +39,9 @@ Observant. Provided the clearest account of the Pewter Merchant killing to date 
 - Raiders were likely from the **[[Heidling Farm]]** about fifteen miles north — known for crossing the border to steal livestock and people
 - Her affidavit is now in the hands of [[Anton Petz]]
 
+**[[Session 20 - Never Mention Prostitutes|Session 20]]:** Formally delivered into the care of the **[[Temple of Shallya (Ferlangen)|Temple of Shallya]]** in [[Ferlangen]]. The harried priestess at the door accepted her and promised to find a trusted worshipper to **escort her home to [[Nordland]]**. Gave tearful hugs to those who had been kind to her on the long road south. [[Hildegarde]] pressed a **dagger into her hands** at parting and told her to keep it close.
+
 ## Appearances
 - [[Session 18 - The Hemp Merchant]]
+- [[Session 19 - Ferlangen]] *(safely delivered to Ferlangen)*
+- [[Session 20 - Never Mention Prostitutes]] *(formally placed with the Shallyan temple; awaiting escort home to [[Nordland]])*

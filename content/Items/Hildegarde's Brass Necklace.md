@@ -30,3 +30,4 @@ Belonged to (or came from) Hildegarde's mother. Origin unknown.
 - [[Lady Steiner]] recognised it as "familiar" — suggesting a connection to Hildegarde's mother that Lady Steiner may know more about
 - Hildegarde gave it to Lady Steiner in exchange for Lady Steiner agreeing to investigate Hildegarde's missing mother
 - This is a personal quest hook for [[Hildegarde]]
+- **[[Session 19 - Ferlangen|Session 19]]:** [[Pilpoul Ivri|Pilpoul]] sent a long pigeon-borne letter from the [[Hemp Merchant]] to [[Lady Steiner]] inquiring about the **provenance and heraldry** of the item; the session text refers to it as a "brass ring" rather than a necklace — possibly the same brass token under another name, possibly a continuity drift to reconcile
