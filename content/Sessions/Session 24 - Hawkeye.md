@@ -31,17 +31,17 @@ When [[Berin Garibaldi|Berin]] presented the prisoner to the company, [[Danderic
 
 At crossbow-point, [[Hildegarde]] pressed the man for his name. He chose it with deliberate care: people who knew him called him **Hawkeye** — a name that committed him to nothing and revealed nothing, for he had no friends, only people who knew him. When she demanded to know whether he was the one who shot [[Pilpoul Ivri|Pilpoul]], he denied it flatly. Whether she believed him was clear from her eyes: she did not.
 
-[[Berin Garibaldi|Berin]] scouted the hillside: retrieved [[Hawkeye]]'s belongings, noted the bandits' **near-invisible camouflage** (shallow depressions in earth, lined with cut branches and grass), and spotted a **rough wolf symbol** daubed on one man's shoulder. He successfully treated a wounded draft horse, though the animal was too fatigued to pull. He questioned [[Gromril van Aelst|Gromril]] about what made him a target; the gnome revealed he was carrying **promissory notes** representing substantial debts owed by Ferlangen merchants to Wolfenburg moneylenders. [[Berin Garibaldi|Berin]] immediately suspected inside knowledge.
+[[Berin Garibaldi|Berin]] scouted the hillside: retrieved [[Gunav|Hawkeye]]'s belongings, noted the bandits' **near-invisible camouflage** (shallow depressions in earth, lined with cut branches and grass), and spotted a **rough wolf symbol** daubed on one man's shoulder. He successfully treated a wounded draft horse, though the animal was too fatigued to pull. He questioned [[Gromril van Aelst|Gromril]] about what made him a target; the gnome revealed he was carrying **promissory notes** representing substantial debts owed by Ferlangen merchants to Wolfenburg moneylenders. [[Berin Garibaldi|Berin]] immediately suspected inside knowledge.
 
-As the caravan moved toward [[Hasselhund]] in gathering dusk, shapes moved at the treeline. Lanterns were lit — partly to see, partly to make [[Hawkeye]]'s presence visible to any watching eyes, since his former companions might kill him to keep him quiet. In a quiet moment, [[Hildegarde]] spoke honestly to the man she still suspected of shooting her friend. She said that [[Pilpoul Ivri|Pilpoul]] had believed in her when no one else had, and that she understood what it meant to make an impossible choice to survive. [[Hawkeye]] admitted that stepping out to help a dying stranger rather than fleeing had been the most selfless act of his life — and perhaps the first real choice he had ever made for himself.
+As the caravan moved toward [[Hasselhund]] in gathering dusk, shapes moved at the treeline. Lanterns were lit — partly to see, partly to make [[Gunav|Hawkeye]]'s presence visible to any watching eyes, since his former companions might kill him to keep him quiet. In a quiet moment, [[Hildegarde]] spoke honestly to the man she still suspected of shooting her friend. She said that [[Pilpoul Ivri|Pilpoul]] had believed in her when no one else had, and that she understood what it meant to make an impossible choice to survive. [[Gunav|Hawkeye]] admitted that stepping out to help a dying stranger rather than fleeing had been the most selfless act of his life — and perhaps the first real choice he had ever made for himself.
 
-The caravan pounded on the gates of [[Hasselhund]] around ten in the evening. The Hofbauer caravan had departed that morning; the promise to wait had meant nothing. [[Berin Garibaldi|Berin]] paid for a large room so [[Pilpoul Ivri|Pilpoul]] could rest in comfort. [[Hildegarde]] kept vigil through the night, watching [[Hawkeye]]. In the small hours, [[Hawkeye]] noticed the amulet around [[Berin Garibaldi|Berin]]'s neck — a **large bird of prey with wings curved downward**, strikingly similar to the hawk-and-eye patch on his own shoulder — and said nothing, though it clearly unsettled him.
+The caravan pounded on the gates of [[Hasselhund]] around ten in the evening. The Hofbauer caravan had departed that morning; the promise to wait had meant nothing. [[Berin Garibaldi|Berin]] paid for a large room so [[Pilpoul Ivri|Pilpoul]] could rest in comfort. [[Hildegarde]] kept vigil through the night, watching [[Gunav|Hawkeye]]. In the small hours, [[Gunav|Hawkeye]] noticed the amulet around [[Berin Garibaldi|Berin]]'s neck — a **large bird of prey with wings curved downward**, strikingly similar to the hawk-and-eye patch on his own shoulder — and said nothing, though it clearly unsettled him.
 
 In the morning, [[Hildegarde]] questioned the innkeeper and a serving maid. The maid remembered **[[Professor Udo Stradovski|Professor Stradovski]]** — he had passed through roughly two weeks prior with a large merchant caravan, and had made an impression by noticing her Shallyan dove talisman and offering to "show her a real Shallyan miracle." She had declined without hesitation. The trail was neither cold nor close. [[Gromril van Aelst|Gromril]] negotiated a replacement draft horse, characteristically smug about the deal.
 
 [[Berin Garibaldi|Berin]] spent the morning buying drinks for local miners and gathering intelligence. He learned that the stretch between [[Dassel]] and [[Wolfenburg]] was **brutally slow in wet weather**, sometimes five miles a day, and that **three established shelter points** existed along the route. He shared this with [[Danderich Flisshausten|Danderich]], who remained dismissive, certain the bandits would not strike again. **[[Heidi Übermann]]** pulled [[Berin Garibaldi|Berin]] aside privately: she considered Danderich an overblown hothead, underqualified for his rank, and feared something far worse than the last ambush lay ahead. The caravan departed into steady, ominous rain.
 
-The road south brought them to a **mountain pass choke point** [[Hawkeye]] recognised immediately — a narrow pass, cliff on one side, dense old-growth forest on the other, rocky debris preventing wagons from turning. Ancient ruins crowned the hill above. [[Berin Garibaldi|Berin]] dismounted and handed [[Orazio]]'s reins to [[Boris Dorchen|Boris]], choosing to advance on foot alongside [[Mangold]], who accepted with a grunt and a gleam. [[Hildegarde]] fell in behind them with her crossbow, keeping [[Hawkeye]] in front of her. They had barely reached the foot of the steep path toward the ruins when the hidden attackers revealed themselves — and the air filled with arrows again.
+The road south brought them to a **mountain pass choke point** [[Gunav|Hawkeye]] recognised immediately — a narrow pass, cliff on one side, dense old-growth forest on the other, rocky debris preventing wagons from turning. Ancient ruins crowned the hill above. [[Berin Garibaldi|Berin]] dismounted and handed [[Orazio]]'s reins to [[Boris Dorchen|Boris]], choosing to advance on foot alongside [[Mangold]], who accepted with a grunt and a gleam. [[Hildegarde]] fell in behind them with her crossbow, keeping [[Gunav|Hawkeye]] in front of her. They had barely reached the foot of the steep path toward the ruins when the hidden attackers revealed themselves — and the air filled with arrows again.
 
 ## Events
 
@@ -77,7 +77,7 @@ The road south brought them to a **mountain pass choke point** [[Hawkeye]] recog
 - [[Hildegarde]] did not believe him; the question hung in the air
 
 ### Berin Scouts the Hillside
-- Retrieved [[Hawkeye]]'s belongings
+- Retrieved [[Gunav|Hawkeye]]'s belongings
 - Examined fallen bandits: **near-invisible camouflage** — shallow depressions in earth, lined with cut branches and grass
 - **Rough wolf symbol** daubed on one man's shoulder — Howling Ones confirmation
 - Successfully treated a wounded draft horse; too fatigued to pull, slowing the caravan
@@ -86,18 +86,18 @@ The road south brought them to a **mountain pass choke point** [[Hawkeye]] recog
 
 ### Travel to Hasselhund — Shapes in the Trees
 - Caravan moved through gathering dusk; shapes at the treeline, there and gone
-- Lanterns lit — both for visibility and to make **[[Hawkeye]]'s presence visible** to any watching eyes; his former companions might kill him to keep him quiet, making his survival tied to the caravan's
-- [[Hildegarde]] spoke honestly to [[Hawkeye]] in a quiet moment:
+- Lanterns lit — both for visibility and to make **[[Gunav|Hawkeye]]'s presence visible** to any watching eyes; his former companions might kill him to keep him quiet, making his survival tied to the caravan's
+- [[Hildegarde]] spoke honestly to [[Gunav|Hawkeye]] in a quiet moment:
   - Said [[Pilpoul Ivri|Pilpoul]] had believed in her when no one else had
   - Said she understood making an impossible choice to survive
-- [[Hawkeye]] admitted stepping out to help a dying stranger was the **most selfless act of his life** — perhaps the first real choice he had ever made for himself
+- [[Gunav|Hawkeye]] admitted stepping out to help a dying stranger was the **most selfless act of his life** — perhaps the first real choice he had ever made for himself
 
 ### Hasselhund — The Hanging Highwayman
 - Caravan pounded on gates around **10 in the evening**
 - Hofbauer caravan had departed **that morning**; the promise to wait had meant nothing
 - [[Berin Garibaldi|Berin]] paid for a large room for [[Pilpoul Ivri|Pilpoul]] to rest
-- [[Hildegarde]] kept watch through the night, eyes on [[Hawkeye]]
-- In the small hours, [[Hawkeye]] noticed **[[Berin Garibaldi|Berin]]'s amulet** — a large bird of prey with wings curved downward — strikingly similar to the **hawk-and-eye patch on [[Hawkeye]]'s own shoulder**; said nothing, but it clearly unsettled him
+- [[Hildegarde]] kept watch through the night, eyes on [[Gunav|Hawkeye]]
+- In the small hours, [[Gunav|Hawkeye]] noticed **[[Berin Garibaldi|Berin]]'s amulet** — a large bird of prey with wings curved downward — strikingly similar to the **hawk-and-eye patch on [[Gunav|Hawkeye]]'s own shoulder**; said nothing, but it clearly unsettled him
 
 ### Stradovski's Trail — The Serving Maid Remembers
 - [[Hildegarde]] questioned the innkeeper and the serving maid in the morning
@@ -121,15 +121,15 @@ The road south brought them to a **mountain pass choke point** [[Hawkeye]] recog
 
 ### The Mountain Pass Choke Point — Cliffhanger
 - Road south to [[Dassel]]: a narrow pass, sheer cliff one side, dense old-growth forest the other; rocky debris blocking wagon turns; ancient ruins on the hill above
-- **[[Hawkeye]]** recognised the location immediately
+- **[[Gunav|Hawkeye]]** recognised the location immediately
 - [[Berin Garibaldi|Berin]] dismounted; handed [[Orazio]]'s reins to [[Boris Dorchen|Boris]]; advanced on foot alongside [[Mangold]] (who accepted with a grunt and a gleam)
-- [[Hildegarde]] fell in with crossbow ready, [[Hawkeye]] in front of her within sight
+- [[Hildegarde]] fell in with crossbow ready, [[Gunav|Hawkeye]] in front of her within sight
 - They reached the foot of the steep path to the ruins — **the hidden attackers revealed themselves from the high ground**
 - The air filled again with arrows
 
 ## NPCs Encountered
 
-- **[[Hawkeye]]** — captured outlaw; saved [[Pilpoul Ivri|Pilpoul]]'s life; accepted oath of parole to [[Berin Garibaldi|Berin]]; now travels as Berin's ward; skilled field surgeon; name reveals nothing; denies shooting Pilpoul; curious about Berin's amulet
+- **[[Gunav|Hawkeye]]** — captured outlaw; saved [[Pilpoul Ivri|Pilpoul]]'s life; accepted oath of parole to [[Berin Garibaldi|Berin]]; now travels as Berin's ward; skilled field surgeon; name reveals nothing; denies shooting Pilpoul; curious about Berin's amulet
 - **[[Hoffman Jannitzer|Hoffman]]** — insisted the prisoner be brought to courts rather than executed; backed Berin's case for keeping Hawkeye alive
 - **[[Danderich Flisshausten|Danderich]]** — demanded summary execution; overruled; remained dismissive of further bandit threat; ignored Berin's road intelligence
 - **[[Christina Asper|Asper]]** — irritated by decision to keep Hawkeye alive; no further intervention
@@ -162,8 +162,8 @@ The road south brought them to a **mountain pass choke point** [[Hawkeye]] recog
 ## Notes / Loose Threads
 
 - **[[Pilpoul Ivri|Pilpoul's condition]]** — arrow extracted; head-brace in place; likely never to sing again; must rest; being transported in the wagon
-- **[[Hawkeye]]'s identity** — name reveals nothing; denied shooting Pilpoul; the question is unresolved; traveling as ward of Berin's honour; fate to be decided in Wolfenburg
-- **The amulet question** — [[Hawkeye]] noticed [[Berin Garibaldi|Berin]]'s bird-of-prey amulet; it matches the hawk-and-eye patch on Hawkeye's own shoulder; Hawkeye said nothing but was clearly unsettled
+- **[[Gunav|Hawkeye]]'s identity** — name reveals nothing; denied shooting Pilpoul; the question is unresolved; traveling as ward of Berin's honour; fate to be decided in Wolfenburg
+- **The amulet question** — [[Gunav|Hawkeye]] noticed [[Berin Garibaldi|Berin]]'s bird-of-prey amulet; it matches the hawk-and-eye patch on Hawkeye's own shoulder; Hawkeye said nothing but was clearly unsettled
 - **Inside knowledge** — [[Berin Garibaldi|Berin]] suspects someone told the Howling Ones about Gromril's route and cargo (promissory notes); likely connected to the Bear Claws contact (balding, dark-haired man at the Illium Warehouse)
 - **[[Heidi Übermann]]** — not previously known to the party; her private warning about Danderich and fear of something worse ahead makes her an unexpected ally
 - **[[Danderich Flisshausten|Danderich]]** — dismissed second ambush warning; his pattern of refusing intelligence is becoming a liability; [[Heidi Übermann|Heidi]] has confirmed others in his own retinue share concerns

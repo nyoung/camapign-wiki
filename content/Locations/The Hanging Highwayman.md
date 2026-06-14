@@ -24,7 +24,7 @@ A **serving maid** here remembered [[Professor Udo Stradovski|Professor Stradovs
 
 ## History with the Party
 
-**[[Session 24 - Hawkeye]]:** Caravan arrived late evening 8 Jahrdrung 2512. [[Berin Garibaldi|Berin]] paid for a large room for [[Pilpoul Ivri|Pilpoul]]. [[Hildegarde]] kept vigil through the night watching [[Hawkeye]]. In the small hours [[Hawkeye]] noticed [[Berin Garibaldi|Berin]]'s bird-of-prey amulet. Morning of 9 Jahrdrung: [[Hildegarde]] confirmed Stradovski's trail through the maid; [[Gromril van Aelst|Gromril]] negotiated a replacement horse; [[Berin Garibaldi|Berin]] gathered road intelligence; caravan departed into rain.
+**[[Session 24 - Hawkeye]]:** Caravan arrived late evening 8 Jahrdrung 2512. [[Berin Garibaldi|Berin]] paid for a large room for [[Pilpoul Ivri|Pilpoul]]. [[Hildegarde]] kept vigil through the night watching [[Gunav|Hawkeye]]. In the small hours [[Gunav|Hawkeye]] noticed [[Berin Garibaldi|Berin]]'s bird-of-prey amulet. Morning of 9 Jahrdrung: [[Hildegarde]] confirmed Stradovski's trail through the maid; [[Gromril van Aelst|Gromril]] negotiated a replacement horse; [[Berin Garibaldi|Berin]] gathered road intelligence; caravan departed into rain.
 
 ## Appearances
 - [[Session 24 - Hawkeye]]

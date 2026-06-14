@@ -54,7 +54,7 @@ Formal, methodical, and proud of his noble lineage. Forceful about his authority
 - Purchased room and meal at [[The Dangling Mutant]] with cutting commentary about the establishment, then stayed the night like everyone else
 
 ## Session 24 — Hawkeye Incident / Further Intelligence Ignored
-- Demanded **summary execution** of the captured outlaw [[Hawkeye]]; overruled by [[Hoffman Jannitzer]] and [[Berin Garibaldi|Berin]]
+- Demanded **summary execution** of the captured outlaw [[Gunav|Hawkeye]]; overruled by [[Hoffman Jannitzer]] and [[Berin Garibaldi|Berin]]
 - Dismissed [[Berin Garibaldi|Berin]]'s gathered road intelligence about the Dassel–Wolfenburg stretch; certain bandits would not strike again
 - His own subordinate **[[Heidi Übermann]]** privately told Berin that she considers him an **overblown hothead, underqualified for his rank**
 

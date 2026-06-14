@@ -83,7 +83,7 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 ## Sessions 22–24 — On the Road to Wolfenburg
 
 - Assembled with [[Hoffman Jannitzer|Hoffman]] and **[[Lucas Pollack]]** (now in battered full plate) at Ferlangen's south gate to join the caravan south
-- Made no effort to hide her **irritation** when [[Berin Garibaldi|Berin]] successfully argued to keep the captured outlaw **[[Hawkeye]]** alive rather than execute him
+- Made no effort to hide her **irritation** when [[Berin Garibaldi|Berin]] successfully argued to keep the captured outlaw **[[Gunav|Hawkeye]]** alive rather than execute him
 - Otherwise kept largely to herself on the road; no further direct confrontation with the party in Sessions 22–24
 - Still in possession of [[Hildegarde]]'s Khainite-marked crossbow, black mask, the dark sword from [[Melmoth]], and the Khaine tome
 

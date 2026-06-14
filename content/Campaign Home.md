@@ -10,6 +10,7 @@ tags: [home]
 - [[Boris Dorchen]] — Huntsman (Drakwald)
 - [[Hildegarde]] — Beggar
 - [[Berin Garibaldi|Berin "Orsetto" Garibaldi]] — Horse Trader / Novitiate (Knights of the Blazing Sun)
+- [[Gunav]] — Outlaw / Field Surgeon; former Howling One who went by **"Hawkeye"**; **joined as a PC** (wounded shoulder, needs a Wolfenburg surgeon)
 
 **Departed / Retired**
 - [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] — Halfling Rat Catcher; *(joined Session 09; departed between Sessions 19 and 20 on family business)*
@@ -25,14 +26,13 @@ tags: [home]
 - [[Gromril van Aelst]] — Gnome merchant (employer, 10 GC escort job to Wolfenburg); hip bruised from ambush
 - [[Mangold]] — Dwarf slayer bodyguard; with Gromril; battle-frenzied through the second ambush
 - [[Lefty Longshanks]] — Halfling coach driver; with Gromril; survived the coach wreck
-- [[Hawkeye]] — Captured outlaw (former Howling Ones); ward of Berin's honour; **shot in the shoulder (cracked scapula) by his former side**; the Howling Ones now brand him a traitor; *GM Assistant also calls him **Ganav** and lists him as a PC (JakeMTL) — possible PC conversion, unconfirmed*
 - **New captured outlaw** (unnamed) — taken at the second ambush; warns more ambushes lie ahead
 - [[Danderich Flisshausten]] and Sigmarite knights — Travelling same road; riding vanguard; not allies
 
 ## Active Quests
 - [[Find Professor Stradovski]] — trail confirmed at [[The Hanging Highwayman]] ([[Hasselhund]]); Stradovski passed ~2 weeks ago with large merchant caravan; heading to [[Wolfenburg]]; contact there: **[[Matron Isolde Uricht]]** at the [[Temple of Shallya]]
 - [[Escort Gromril van Aelst to Wolfenburg]] — active; **two ambushes survived**, then a night of harassment at the [[Wayside Shrine]] (Session 26); **[[Astrid Hofhaimer]] issued a noon ultimatum** for Gromril's promissory notes; party **refused** and set a **counter-ambush trap** (decoy note-satchel + the gagged prisoner as bait); Gromril names **[[Augustus van Kolditz]]** as suspected paymaster
-- [[The Howling Ones Bounty]] — 10/- per head; direct combat in Sessions 23–25; **[[Hawkeye]]/Ganav** captured (ward of Berin); the cult's **named leader revealed (Session 26): [[Astrid Hofhaimer]]** (who rode to parlay with a bandaged, bloodied arm); "forest warden" [[Mathis Haack]] no longer trusted after vanishing overnight
+- [[The Howling Ones Bounty]] — 10/- per head; direct combat in Sessions 23–25; **[[Gunav]]** captured (ward of Berin); the cult's **named leader revealed (Session 26): [[Astrid Hofhaimer]]** (who rode to parlay with a bandaged, bloodied arm); "forest warden" [[Mathis Haack]] no longer trusted after vanishing overnight
 - [[Beekerhoven Counterfeit Coins]] — on hold; Merchants Guild approach abandoned after Pilpoul's catastrophic failed bribe
 - [[Investigate Ferlangen Trafficking and Missing Girls]] — on hold until Wolfenburg; [[Klaus von Kolditz]] and [[Anton Kristov]] confirmed traffickers; Hildegarde's reconnaissance found heavily guarded but outsourced operations
 
@@ -74,7 +74,7 @@ tags: [home]
 - **[[Mathis Haack]] vanished** — the "forest warden" slipped away overnight during the harassment; the party no longer believe his story
 - **[[Augustus van Kolditz]]** — antique dealer who owed [[Gromril van Aelst|Gromril]] 500+ crowns; **Gromril's suspect** for the paymaster behind the attacks (unconfirmed); shares a surname with the trafficker [[Klaus von Kolditz]]. [[Berin Garibaldi|Berin]] floated allying with the rival merchant **Hofbauer** against him.
 - **[[Christina Asper|Asper]]'s injuries** — broken jaw, torn cheek; stabilised but needs a surgeon in [[Wolfenburg]]; her composure cracked for the first time; now out for a reckoning with the wolf
-- **[[Hawkeye]] / "Ganav"** — former Howling Ones member; ward of [[Berin Garibaldi|Berin]]'s honour; **shot by his own former side** (cracked scapula, arrow too deep for field removal); the cult now brands him a traitor; denied shooting Pilpoul; unsettled by Berin's bird-of-prey amulet. *GM Assistant calls him "Ganav" and lists him as a PC (JakeMTL) — possible PC conversion, awaiting GM confirmation*
+- **[[Gunav]]** (the former bandit **"Hawkeye"**) — now a **player character**; former Howling Ones member, **shot by his own former side** (cracked scapula, arrow too deep for field removal — needs a [[Wolfenburg]] surgeon); the cult brands him a traitor; denies shooting Pilpoul; unsettled by [[Berin Garibaldi|Berin]]'s bird-of-prey amulet
 - **[[Pilpoul Ivri|Pilpoul]]'s wound** — arrow extracted; head-brace in place; transported in wagon; likely never to sing again; needs rest and medical care in [[Wolfenburg]]
 - **Inside knowledge** — Berin suspects someone told the Howling Ones about [[Gromril van Aelst|Gromril]]'s route and promissory note cargo; likely connected to the Bear Claws contact (balding, dark-haired man, [[Illium Warehouse]])
 - **[[Heidi Übermann]]** — privately warned Berin that Danderich is a hothead unqualified for his rank; fears something worse ahead; an unexpected potential ally within the Sigmarite contingent

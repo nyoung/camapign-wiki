@@ -22,7 +22,7 @@ The band operating on the [[Hasselhund]]–[[Dassel]] road answers to **[[Astrid
 ## Notable Members
 - **[[Astrid Hofhaimer]]** — leader of the band on this stretch of road; gives ultimatums, not negotiations
 - **[[Mathis Haack]]** — posed as a "forest warden" at the [[Wayside Shrine]] and **vanished overnight** during the cult's harassment; the party no longer believe he was a real warden
-- **[[Hawkeye|Ganav]]** — *former* member, captured and now travelling with the party; the cult brands him a **traitor**
+- **[[Gunav]]** — *former* member, captured and now travelling with the party; the cult brands him a **traitor**
 
 ## Resources & Influence
 - Operationally active enough to be the **talk of [[Ferlangen]]**
@@ -38,7 +38,7 @@ Open hostile target — bounty available, no personal contact yet.
 - Standing bounty in [[Ferlangen]]: **10/- per head**
 - **Coordinated ambushes** on the [[Hasselhund]]–[[Dassel]] road, hunting [[Gromril van Aelst|Gromril]]'s **promissory notes** specifically (Sessions 23–26)
 - **Psychological warfare** ([[Session 26 - A Night in the Country|Session 26]]): all-night harassment of a camped caravan — manufactured howls answered by real wolves, branch-snapping to amplify noise, and non-lethal arrows fired at intervals to exhaust the defenders before a daylight assault
-- **Honour parlay**: the cult will reportedly **not break the sanctity of a parlay** (per [[Hawkeye|Ganav]])
+- **Honour parlay**: the cult will reportedly **not break the sanctity of a parlay** (per [[Gunav]])
 
 ## History
 - **[[Session 19 - Ferlangen|Session 19]]:** Locals at the [[Fist of Amber]] warned [[Pilpoul Ivri|Pilpoul]] of the highwayman side; town criers in [[Ferlangen]] advertised the bounty on the cult side. Both rumours arrived in close succession.
