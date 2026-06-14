@@ -35,8 +35,5 @@ Met in [[Session 04 - The Investigation]]. Confirmed Stradovski's role at the Co
 - Claims little knowledge of Stradovski's personal life or methods
 - Considers the situation embarrassing for the institution
 
-## Secrets / GM Notes
-- Is his dismissiveness genuine indifference, or is he protecting the Collegium's reputation?
-
 ## Appearances
 - [[Session 04 - The Investigation]]

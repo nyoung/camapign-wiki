@@ -32,7 +32,5 @@ Met at [[Fulpfasser Court]] in [[Session 03 - The Trial]]. [[Pilpoul Ivri|Pilpou
 ## Known Information
 - Was doing pro bono work for the church — no pay involved despite Pilpoul's jokes
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 03 - The Trial]]

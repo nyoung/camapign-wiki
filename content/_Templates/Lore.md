@@ -12,15 +12,11 @@ tags: [lore]
 
 ## Summary
 
-
 ## Full Details
 
-
 ## Implications / Party Relevance
-
 
 ## Sources
 -
 
 ## Notes
-

@@ -11,7 +11,6 @@ tags: [bestiary]
 
 ## Description
 
-
 ## Characteristics
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|----|----|---|---|---|----|-----|-----|----|-----|---|
@@ -31,6 +30,4 @@ tags: [bestiary]
 
 ## Encounter Notes
 
-
 ## Weaknesses / Tactics
-

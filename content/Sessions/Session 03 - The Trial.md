@@ -83,6 +83,7 @@ All gave physical descriptions. All swore fealty to the [[Middenland Militia]]: 
 - [[Clerk's Office (Verena-Ulric)]] — militia enrolment
 
 ## Quests
+
 ### Advanced
 - [[Find Professor Stradovski]] — warrant registered, multiple leads obtained
 

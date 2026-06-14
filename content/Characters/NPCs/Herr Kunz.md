@@ -30,7 +30,5 @@ Met in [[Session 05 - The Road North]] after the party was directed to the Physi
 - Stradovski found his own patients; never transferred care when he departed
 - The patient notes shown to him confirmed outcomes far beyond normal medical expectation
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 05 - The Road North]]

@@ -14,25 +14,16 @@ tags: [character, npc]
 
 ## Description
 
-
 ## Role / Occupation
 
-
 ## Personality
-
 
 ## Relationships
 -
 
 ## History with the Party
 
-
 ## Known Information
-
-
-## Secrets / GM Notes
-
 
 ## Appearances
 -
-

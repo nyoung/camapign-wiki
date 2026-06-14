@@ -29,8 +29,5 @@ A merchant. Name given by the [[Hemp Merchant]] proprietor [[Jan Smuts]]; nothin
 - The boy was last seen helping Felt onto his horse
 - His current fate is unknown — but his clothing appears to have ended up on the dead servant boy, who had been dressed up as a "noble merchant" at the [[Pewter Merchant]]
 
-## Secrets / GM Notes
-- Whether Felt is alive, dead, or complicit in the impostor scheme is unknown — the party has not located him
-
 ## Appearances
 - Referenced in [[Session 18 - The Hemp Merchant]] *(named by Jan Smuts; not encountered)*

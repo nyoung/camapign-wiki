@@ -31,8 +31,6 @@ Cross-examined by [[Pilpoul Ivri|Pilpoul]] in [[Session 03 - The Trial]]. Pilpou
 - Claimed he was rushing to intercept Klaus — meaning he was not a neutral bystander
 - Could not reliably hear Klaus's exact words from his position
 
-## Secrets / GM Notes
-
 ## Session 25 — Hauled Danderich From the Pit
 - Travelling with [[Danderich Flisshausten|Danderich]]'s contingent on the caravan; during the second ambush he **hauled Danderich out of the hidden pit trap** while the fighting raged around them
 

@@ -67,6 +67,7 @@ Outside, [[Klaus Grebel]] — a young agitator — was delivering a speech about
 - [[Worm Lamplight]] — tavern
 
 ## Quests
+
 ### Started
 - None formally, but [[Klaus Grebel]]'s arrest and the Ulrican/Sigmarite tension are unresolved
 

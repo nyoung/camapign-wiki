@@ -33,10 +33,5 @@ Not yet met. Identified via the Wolfrunner Coaches ledger in [[Session 05 - The 
 - Associated with the **Minter Guild**
 - Unknown whether he traveled to Beekerhoven himself by another means, or remained in Middenheim
 
-## Secrets / GM Notes
-- Why did he sell his ticket? Was he coerced, bribed, or simply opportunistic?
-- Does he know who Stradovski is or why he was fleeing?
-- Is he still in Middenheim or already in Beekerhoven?
-
 ## Appearances
 - Mentioned in [[Session 05 - The Road North]]

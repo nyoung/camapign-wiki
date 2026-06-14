@@ -30,6 +30,5 @@ The Shallyan temple in [[Middenheim]]. Offers sanctuary, healing, and communal m
 
 ## History
 
-
 ## Notes
 - Despite being a Shallyan temple in an Ulrican city, it appears politically connected — [[Lady Steiner]] and [[Joerg Wusterburg]] (an Ulrican priest) were both brought here for the Stradovski business

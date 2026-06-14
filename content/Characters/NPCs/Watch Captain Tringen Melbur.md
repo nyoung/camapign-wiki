@@ -32,7 +32,5 @@ Escorted the party to [[Augustus Steiner]]'s cell in [[Session 04 - The Investig
 ## Known Information
 - Tea was served during the conversation between [[Professor Udo Stradovski]] and [[Augustus Steiner]] through the bars — likely drugged
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 04 - The Investigation]]

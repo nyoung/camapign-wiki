@@ -31,7 +31,5 @@ Rescued from a [[Sewer Horror]] by the party in [[Session 01 - The Sewer Horror]
 ## Known Information
 - Sewage had been backing up into cellars in this district for a month before his visit
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 01 - The Sewer Horror]]

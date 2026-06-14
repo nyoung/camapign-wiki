@@ -12,7 +12,6 @@ tags: [location]
 
 ## Description
 
-
 ## Notable Features
 -
 
@@ -27,6 +26,4 @@ tags: [location]
 
 ## History
 
-
 ## Notes
-

@@ -39,10 +39,6 @@ Cool, transactional, brisk. Pressed coins into Boris's hand and emphasised speed
 - Has a sealed letter going to **[[Karl Helpmann]]**, a Ferlangen warehouse operator
 - Per the [[Fist of Amber]] innkeeper (told to [[Pilpoul Ivri|Pilpoul]] in confidence): **her real trade is human trafficking** — moving runaway serfs and other desperate people for a fee
 
-## Secrets / GM Notes
-- The two travellers at the [[Fist of Amber]] (the mousy man and broad-shouldered woman) appear to have been her clients in transit; they parted ways with the party at a warehouse near the [[Ferlangen]] gate
-- [[Pilpoul Ivri|Pilpoul]] alone among the party knows her real trade
-
 ## Session 22 — Intel at the Fist of Amber
 On the evening of **6 Jahrdrung**, [[Boris Dorchen|Boris]] and [[Berin Garibaldi|Berin]] rode to meet her at the [[Fist of Amber]]. She expressed quiet satisfaction that the two Oeslander refugees had been safely delivered south. When the conversation turned to the Howling Ones, she glanced around the room before leaning in and revealing that the cult includes **werewolves who use transformation as a weapon**. She confirmed that **[[Klaus von Kolditz]]** is deeply involved in human trafficking — moving people in and out of [[Kislev]] — and has been systematically cutting off her trade contacts to strangle her business. She named **[[Elfrieda Teuschel]]** and **Fugger** as smaller rivals.
 

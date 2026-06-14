@@ -125,6 +125,7 @@ The Sigmarite dynamics reveal both tensions and a potential opening with Heidi.
 - [[The Raised Mug]]
 
 ## Quests
+
 ### Advanced
 - [[Find Professor Stradovski]] — all Middenheim leads exhausted; caravan departed; confirmed route via Arenburg; Anckenreuter lead in Beekerhoven
 

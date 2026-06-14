@@ -157,7 +157,6 @@ Word reached the party outside the [[Temple of Verena (Ferlangen)|Temple of Vere
 
 ## XP Awarded
 
-
 ## Notes / Loose Threads
 
 - **[[Falconius Thorncobble|Connie]] departed** between sessions due to family trouble — possibly for good

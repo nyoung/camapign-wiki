@@ -161,7 +161,6 @@ Gromril explained that he was looking for passage to [[Wolfenburg]] and had been
 
 ## XP Awarded
 
-
 ## Notes / Loose Threads
 
 - **Departure morning is 7 Jahrdrung 2512** — the party will rendezvous with [[Gromril van Aelst|Gromril]] and [[Lefty Longshanks|Lefty]] outside the south gate at dawn

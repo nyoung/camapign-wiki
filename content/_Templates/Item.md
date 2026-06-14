@@ -13,7 +13,6 @@ tags: [item]
 
 ## Description
 
-
 ## Qualities
 -
 
@@ -22,9 +21,6 @@ tags: [item]
 
 ## Properties / Special Rules
 
-
 ## History / Provenance
 
-
 ## Notes
-

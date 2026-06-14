@@ -42,9 +42,7 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 - The Sigmarites and Ulricans will be on the same caravan — tense travel situation
 - The Temple of Verena arranged: wagon, teamster [[Mungo Mudfoot|Mungo]], provisions
 
-## Secrets / GM Notes
-- What are the Ulricans' intentions with Stradovski?
-- Does Jannitzer have instructions to use the manacles on the party as well as the professor if needed?
+## History with the Party (continued)
 
 **Sessions 09–11 (Beekerhoven investigation):** Accompanied the party during the Medical Union investigation — noted "huffing and puffing" behind Pilpoul during the approach; threw a weighted net that entangled Matthias during the fight (Session 11); helped manacle surrendered guards.
 

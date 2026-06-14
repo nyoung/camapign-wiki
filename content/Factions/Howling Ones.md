@@ -46,7 +46,7 @@ Open hostile target — bounty available, no personal contact yet.
 - **[[Session 22 - Meddling Kids|Session 22]]–[[Session 25 - Asper and the Wolf|Session 25]]:** [[Marretta Schongauer]] confirmed in confidence that the cult fields **werewolves**; the party fought the band directly in three ambushes (black/white-fletched arrows, near-invisible earthen hides, wolf-symbol insignia) and **first encountered the monstrous wolf directly** in Session 25, driving it off wounded.
 - **[[Session 26 - A Night in the Country|Session 26]]:** A night of psychological harassment at the [[Wayside Shrine]], then a morning **parlay** with **[[Astrid Hofhaimer]]**, who demanded [[Gromril van Aelst|Gromril]]'s promissory notes by noon. [[Mathis Haack]], the camp's "forest warden," vanished overnight — deepening the party's suspicion of him. The party resolved to bait a counter-ambush.
 
-## Notes / Secrets
+## Notes
 - The official Ferlangen denial of "Kislevite revolutionary forces" in Ostland was issued in the same breath as the cult bounty — the two threads may be related
 - The wolf seen on the cliff above the road into Ferlangen, howling and vanishing into the grey sky, may or may not be connected
 - **What the cult actually wants here is [[Gromril van Aelst|Gromril]]'s promissory notes**, not random plunder — pointing to a paymaster with a financial motive. [[Gromril van Aelst|Gromril]] suspects **[[Augustus van Kolditz]]**; the truth is not yet established.

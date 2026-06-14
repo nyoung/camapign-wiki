@@ -12,27 +12,19 @@ tags: [faction]
 
 ## Overview
 
-
 ## Goals
 
-
 ## Structure / Leadership
-
 
 ## Notable Members
 -
 
 ## Resources & Influence
 
-
 ## Relationship with the Party
-
 
 ## Known Activities
 
-
 ## History
 
-
-## Notes / Secrets
-
+## Notes

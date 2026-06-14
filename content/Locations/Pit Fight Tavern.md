@@ -27,6 +27,5 @@ A tavern in the Alt-Quartier district of [[Middenheim]].
 
 ## History
 
-
 ## Notes
 - The maid is a lead for the [[Find Professor Stradovski]] quest — she lived with him and may know his habits, contacts, or hiding places

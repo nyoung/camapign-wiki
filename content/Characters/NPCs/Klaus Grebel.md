@@ -38,9 +38,6 @@ Passionate, provocative. Invoked Sigmar's name in his rhetoric — the judge int
 - His rhetoric was judged to be anti-guild rather than anti-Empire
 - Sentence: community service under Cult of Shallya, minimum 3 months
 
-## Secrets / GM Notes
-- What led him to leave the Shallyan order?
-
 ## Appearances
 - [[Session 01 - The Sewer Horror]]
 - [[Session 02 - The Trial of Klaus Grebel]]

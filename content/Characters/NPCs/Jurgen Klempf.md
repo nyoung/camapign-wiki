@@ -33,8 +33,5 @@ Met on the caravan in [[Session 05 - The Road North]]. [[Erika Sÿfrid von Drakk
 - Claims White Wolf authority in Middenheim and Nordland
 - His men-at-arms travel with the caravan joking and telling war stories (contrasting with the focused Sigmarites)
 
-## Secrets / GM Notes
-- What are the White Wolves' actual intentions with Stradovski?
-
 ## Appearances
 - [[Session 05 - The Road North]]

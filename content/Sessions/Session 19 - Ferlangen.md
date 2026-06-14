@@ -177,7 +177,6 @@ Departing the chaotic [[Hemp Merchant]] at first light, the party found that [[C
 
 ## XP Awarded
 
-
 ## Notes / Loose Threads
 
 - **The two refugees** — slipped away to a warehouse near the gate; only [[Pilpoul Ivri|Pilpoul]] knows the truth of who they were and who was waiting for them

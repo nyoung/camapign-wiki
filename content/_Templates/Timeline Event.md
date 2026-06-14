@@ -12,12 +12,8 @@ tags: [timeline]
 
 ## Summary
 
-
 ## Details
-
 
 ## Consequences
 
-
 ## Notes
-

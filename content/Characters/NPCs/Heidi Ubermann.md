@@ -33,9 +33,5 @@ Observed by [[Erika Sÿfrid von Drakkenheim]] at dinner in [[Arenburg]] in [[Ses
 - Has been passed over for advancement despite superior skills
 - Resentful of Danderich and the current hierarchy
 
-## Secrets / GM Notes
-- Could she be turned or provide information if approached correctly?
-- What specifically has she been passed over for?
-
 ## Appearances
 - [[Session 05 - The Road North]]

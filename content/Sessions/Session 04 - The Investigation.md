@@ -143,6 +143,7 @@ He laid out the situation:
 - [[Collegium Theologica]]
 
 ## Quests
+
 ### Advanced
 - [[Find Professor Stradovski]] — all Middenheim leads exhausted; departure imminent
 

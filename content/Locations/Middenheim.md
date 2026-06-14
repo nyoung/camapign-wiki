@@ -39,7 +39,6 @@ A large, imposing city. Built atop a massive rock — the Fauschlag — with she
 
 ## History
 
-
 ## Notes
 - Ulrican city — a Sigmarite Inquisitor operating openly here is politically provocative
 - Sewage infrastructure problems in at least one district (a month of backed-up cellars before the attack)

@@ -61,12 +61,6 @@ The woman who fled was not panicking. She packed her documents and jewelry, took
 - Heading toward Ferlangen via the northern road
 - **Coin signature:** Distinctive freshly minted coins from Elson's mint are being spent along her route — potentially trackable
 
-## Secrets / GM Notes
-- What actually cured her? Connection to the [[Seuchenbuch|Seuchenbuch (Plague Book)]]?
-- What is her true relationship to Stradovski — grateful patient or active agent?
-- How deep does her network go? How long has she been running it?
-- What is she going to do in Ferlangen?
-
 ## Appearances
 - [[Session 08 - The Minter's Wife]]
 - [[Session 10 - Rats, Corpses, and Conspiracy]] *(note found)*

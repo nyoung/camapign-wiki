@@ -28,6 +28,5 @@ A clean, unpretentious tavern in [[Middenheim]]. [[Udo Hintzer|Watch Sergeant Ud
 
 ## History
 
-
 ## Notes
 - Party was asked to leave and [[Altus Elsein|Altus]] retaliated by smashing a window — potential legal or social consequence if the Watch investigates

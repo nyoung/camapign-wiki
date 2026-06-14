@@ -47,11 +47,6 @@ He explicitly denies that he was the one who shot [[Pilpoul Ivri|Pilpoul]].
 - **[[Session 25 - Asper and the Wolf]]** — during the second ambush he tried to take a shot at his former [[Howling Ones]] associates from cover, but the distance and their rocky shelter made it near-impossible; an arrow from the ridge then **struck his shoulder and cracked his scapula**, stunning him and leaving him unable to draw. The arrow lodged too deep for field removal — it must wait for a surgeon in [[Wolfenburg]]. When the newly captured outlaw was brought down, he **spat at Hawkeye and branded him a traitor**, making plain how the Howling Ones regard those who break ranks. In this session's notes he is referred to as **"Ganav"** as often as "Hawkeye."
 - **[[Session 26 - A Night in the Country]]** — referred to throughout as **Ganav**. He raged about his broken clavicle, lamenting that he should have stayed with the bandits. Standing the **third watch**, he **recognised the cult's harassment as a deliberate exhaustion tactic** and countered it not by raising an alarm but by **stoking the fire to keep the sleeping party warm**. At the parlay he vouched that the [[Howling Ones]] would honour its sanctity. When the party resolved to bait a counter-ambush, he accepted a **crossbow pistol** from [[Hildegarde]] despite his sling, so he could fight.
 
-## Secrets / GM Notes
-- **"Ganav" / possible PC conversion.** GM Assistant's Session 25 notes call this character **both "Hawkeye" and "Ganav"** for the same man, and list **"Ganav (JakeMTL)"** among the campaign's player characters (JakeMTL also plays the incapacitated [[Pilpoul Ivri|Pilpoul]]). This suggests the former outlaw may be **becoming a player character named Ganav**. Pending the GM's confirmation, kept here as the established NPC Hawkeye — if confirmed, this file should move to `Characters/PCs/` and be renamed **Ganav**.
-- The [[Howling Ones]] now openly regard him as a traitor (a likely death mark).
-*(See GM Only folder for module context if applicable)*
-
 ## Appearances
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]

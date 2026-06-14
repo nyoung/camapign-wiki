@@ -13,9 +13,7 @@ aliases: []
 
 ## Summary
 
-
 ## Events
-
 
 ## NPCs Encountered
 -
@@ -24,6 +22,7 @@ aliases: []
 -
 
 ## Quests
+
 ### Advanced
 -
 
@@ -38,6 +37,4 @@ aliases: []
 
 ## XP Awarded
 
-
 ## Notes / Loose Threads
-

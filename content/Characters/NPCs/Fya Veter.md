@@ -32,9 +32,5 @@ Met by [[Boris Dorchen]] and [[Joerg Wusterburg]] in [[Session 04 - The Investig
 - Was a homebody; saw patients in a surgery at his house after classes
 - The lockbox she sold contained: loose lecture notes, patient notes in medical jargon, and a [[Seuchenbuch|Seuchenbuch (Plague Book)]]
 
-## Secrets / GM Notes
-- How long did she work for Stradovski? What else did she observe?
-- Did she read any of the papers in the lockbox?
-
 ## Appearances
 - [[Session 04 - The Investigation]]

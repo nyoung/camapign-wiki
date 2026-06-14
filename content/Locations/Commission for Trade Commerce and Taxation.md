@@ -28,7 +28,6 @@ A city government office in [[Middenheim]]. Issues reward batons and processes c
 
 ## History
 
-
 ## Notes
 - Reward batons (like the [[Bone Baton Voucher]]) are confirmed valid by the ancient ledger — the clerk tried to avoid paying
 - The [[Bone Baton Voucher]] was redeemed here for 5 gold crowns in [[Session 02 - The Trial of Klaus Grebel]]

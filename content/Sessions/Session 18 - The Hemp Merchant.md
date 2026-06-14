@@ -144,7 +144,6 @@ After the soldiers retired and the great room quieted, the party cornered **[[Ja
 
 ## XP Awarded
 
-
 ## Notes / Loose Threads
 
 - **The road to [[Norden]]** — why is the Empire upgrading the entire route under direct Imperial orders with expensive Landsturm? Bridges heavy enough for the heaviest wagons point to something larger

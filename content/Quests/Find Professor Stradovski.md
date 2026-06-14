@@ -125,7 +125,6 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 
 ## Resolution
 
-
 ## Notes
 - [[Hildegarde]] gave her brass necklace to [[Lady Steiner]] in exchange for inquiry about her missing mother
 - [[Joerg Wusterburg]]'s nervousness and the [[Order of the Howling Wolf]]'s interest remain unexplained

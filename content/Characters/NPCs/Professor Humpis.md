@@ -34,9 +34,5 @@ Interviewed by [[Pilpoul Ivri]], [[Hildegarde]], and [[Erika Sÿfrid von Drakken
 - Genuinely puzzled by Stradovski's flight — considers the accusations not severe enough to warrant abandoning his position
 - Stradovski was extremely private; not well-known by faculty despite 20 years at the Collegium
 
-## Secrets / GM Notes
-- Why did he file the accusation? Personal rivalry? Genuine theological offence? External pressure?
-- His bewilderment at the flight could be genuine or performed
-
 ## Appearances
 - [[Session 04 - The Investigation]]

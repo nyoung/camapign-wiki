@@ -69,6 +69,7 @@ The party prepared to attend Klaus's trial at [[Fulpfasser Court]] and speak wit
 - [[Commission for Trade Commerce and Taxation]]
 
 ## Quests
+
 ### Started
 - [[Find Professor Stradovski]]
 

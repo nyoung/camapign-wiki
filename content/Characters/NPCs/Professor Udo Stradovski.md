@@ -86,16 +86,6 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - The [[Seuchenbuch|Seuchenbuch (Plague Book)]] — contains formulas requiring specific plague materials; the [[Seuchenshof]] hospice may have been a target for these; Berin suspects the professor is drawn to plague sources
 - The Seuchenbuch discusses using disease as a tool and weapon — similar to controversial texts in the libraries of the Knights Panther (per Berin's reading, Session 09)
 
-## Secrets / GM Notes
-- What is the nature of his miraculous cures? (Likely related to the Seuchenbuch and controlled disease use)
-- What is in the Seuchenbuch and how does he use it?
-- What are his actual beliefs? Is the heresy charge accurate?
-- Why did he flee if the charge was "not severe enough" to warrant it (per Humpis)?
-- What is in the expensive vellum papers?
-- What happened with the dead student?
-- What is he doing in Ferlangen specifically? Why did Elfrieda's network direct him there?
-- The [[Seuchenshof]] hospice — was he trying to reach it for plague samples?
-
 ## Appearances
 - Mentioned in [[Session 02 - The Trial of Klaus Grebel]]
 - [[Session 03 - The Trial]]

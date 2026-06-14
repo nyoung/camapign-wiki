@@ -73,11 +73,6 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - Per the Abbess: neither Asper nor [[Lucas Pollack]] has produced useful leads in [[Ferlangen]] yet
 - The Abbess clarified the chain of command in the party's favour: **the party leads the investigation; Asper is a resource, not a director** — a finding that does not change Asper's behaviour but constrains her formal authority over the group
 
-## Secrets / GM Notes
-- She has formally refused to intervene in what she classifies as provincial matters — this is now party-confirmed behaviour and will shape future disagreements over who deserves her attention
-- Still holds [[Hildegarde]]'s Khainite-marked crossbow, Hildegarde's black mask, the dark sword from [[Melmoth]], and the Khaine tome (effective custody)
-- Her Ferlangen report has set up a confrontation: the party have been formally cleared of insubordination, but Asper is unlikely to accept the Abbess's clarification gracefully
-
 ## Session 20 — Détente Over Dinner
 
 - Brought **[[Lucas Pollack]]** to dinner at [[Frau Busch's Boarding House]] and introduced him to the party

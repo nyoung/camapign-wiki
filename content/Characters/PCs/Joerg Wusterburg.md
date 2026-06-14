@@ -39,10 +39,6 @@ Visibly nervous and flustered about the Stradovski retrieval task.
 - Has agreed to help find [[Professor Udo Stradovski]]
 - Enrolled as provisional [[Middenland Militia]] member (pay: 8 or 10 shillings/day)
 
-## Secrets / GM Notes
-- Why is an Ulrican novice involved in rescuing a professor accused of blasphemy?
-- Is he acting under orders from the [[Order of the Howling Wolf]], or independently?
-
 ## Appearances
 - [[Session 02 - The Trial of Klaus Grebel]]
 - [[Session 03 - The Trial]]

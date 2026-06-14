@@ -38,9 +38,6 @@ Hopeful but confused. Has hazy memories of agreeing to act as bond — the party
 - Confirms Stradovski had a **patient from [[Beekerhoven]]** — a concrete lead
 - Faces execution in ~6 weeks from 18 Nachexen 2512 if the professor is not found
 
-## Secrets / GM Notes
-- What did Stradovski put in the tea? Was this a one-off decision or a pattern?
-
 ## Appearances
 - Mentioned in [[Session 02 - The Trial of Klaus Grebel]]
 - [[Session 04 - The Investigation]]

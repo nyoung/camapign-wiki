@@ -32,7 +32,5 @@ Rewarded the party for defeating the [[Sewer Horror]] and rescuing [[Ruprecht Sa
 - Has authority to issue vouchers from the Commission for Trade, Commerce, and Taxation
 - Knows the party by sight and has spoken warmly of them
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 01 - The Sewer Horror]]

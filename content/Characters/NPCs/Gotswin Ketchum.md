@@ -28,8 +28,5 @@ Initially dismissive. Reluctant to share passenger information — the session n
 - Stradovski traveled to [[Beekerhoven]] ten days prior to the party's visit
 - Stradovski paid **fifty gold crowns** to a passenger named [[Caspar Anckenreuter]] for his ticket
 
-## Secrets / GM Notes
-- Was his reluctance to share information just standard discretion, or does he know more?
-
 ## Appearances
 - [[Session 05 - The Road North]]

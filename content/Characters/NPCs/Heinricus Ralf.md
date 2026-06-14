@@ -29,8 +29,5 @@ Testified at [[Klaus Grebel]]'s trial in [[Session 03 - The Trial]]. [[Pilpoul I
 - Was not present at the plaza; relied on affidavits from [[Ordo Sancti Inquisita]] knights
 - His affidavits appeared to share unnaturally uniform phrasing and may have been written by one hand
 
-## Secrets / GM Notes
-- Did he know the affidavits were fabricated/colluded, or was he unwittingly presenting false evidence?
-
 ## Appearances
 - [[Session 03 - The Trial]]

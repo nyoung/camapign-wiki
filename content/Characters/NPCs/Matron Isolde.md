@@ -35,7 +35,5 @@ Met in [[Session 02 - The Trial of Klaus Grebel]]. Welcomed the party, provided 
 - Is aware of the political situation around Klaus's arrest for "heresy"
 - Has connections to [[Lady Steiner]] and by extension the [[Temple of Verena]] and legalists
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 02 - The Trial of Klaus Grebel]]

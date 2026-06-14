@@ -15,9 +15,7 @@ tags: [character, pc]
 
 ## Description
 
-
 ## Background
-
 
 ## Career Path
 | Career | Class | Tier |
@@ -59,4 +57,3 @@ tags: [character, pc]
 -
 
 ## Notes
-

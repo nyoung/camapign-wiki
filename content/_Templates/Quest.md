@@ -13,9 +13,7 @@ tags: [quest]
 
 ## Objective
 
-
 ## Background
-
 
 ## Known Information
 -
@@ -34,9 +32,6 @@ tags: [quest]
 
 ## Complications
 
-
 ## Resolution
 
-
 ## Notes
-

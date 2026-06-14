@@ -41,10 +41,6 @@ Formal, methodical, and proud of his noble lineage. Forceful about his authority
 - Presented fabricated affidavits at the Grebel trial
 - The party is on his radar as hostile to Sigmarite interests
 
-## Secrets / GM Notes
-- Is his dinner invitation to Erika purely social, or is he probing for information?
-- How seriously does he view the party as a threat?
-
 ## Session 22 — The Street Confrontation
 - Stepped into [[Pilpoul Ivri|Pilpoul]] and [[Hildegarde]]'s path in the street; jabbed a finger into Pilpoul's chest
 - Accused the party of **responsibility for Heinz Benz's death** and for abandoning [[The Forest Inn]] undefended after the battle with [[Melmoth]]

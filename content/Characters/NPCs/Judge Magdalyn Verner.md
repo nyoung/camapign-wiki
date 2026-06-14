@@ -31,7 +31,5 @@ Presided over Klaus's trial in [[Session 03 - The Trial]]. Fined [[Pilpoul Ivri|
 - Willing to acknowledge prosecutorial irregularities (pre-trial disclosure issue) even if she couldn't fully act on them
 - Her reasoning in the verdict: Klaus's anti-guild rhetoric suggested he was using Sigmar as an example, not opposing the Empire
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 03 - The Trial]]

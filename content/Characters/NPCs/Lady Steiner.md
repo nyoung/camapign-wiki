@@ -36,9 +36,5 @@ Met in [[Session 02 - The Trial of Klaus Grebel]]. Offered an Imperial warrant a
 - [[Augustus Steiner]] acted as legal bond for [[Professor Udo Stradovski]], and now sits in prison in his place
 - Recognized [[Hildegarde]]'s brass necklace — claimed it was "familiar"
 
-## Secrets / GM Notes
-- How does she know the necklace? What is the connection to Hildegarde's mother?
-- What is her relationship to the [[Temple of Verena]]?
-
 ## Appearances
 - [[Session 02 - The Trial of Klaus Grebel]]

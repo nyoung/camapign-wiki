@@ -34,8 +34,6 @@ Anxious and cautious under pressure — was trying to pull [[Klaus Grebel]] away
 - Her brother [[Klaus Grebel]] was formerly a Shallyan novitiate before becoming a radical street speaker
 - Citizens of Middenheim appear to know and trust her — gifts flowed freely on the walk to the temple
 
-## Secrets / GM Notes
-
 ## Appearances
 - [[Session 01 - The Sewer Horror]]
 - [[Session 02 - The Trial of Klaus Grebel]]
