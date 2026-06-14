@@ -36,9 +36,8 @@ Cold, contemptuous, and entirely in control. She dismissed every overture [[Beri
 - Leads the [[Howling Ones]] band on this stretch of road
 - Wants only [[Gromril van Aelst|Gromril]]'s promissory notes; unmoved by alliance or appeal
 
-## Secrets / GM Notes
-- **Almost certainly the monstrous wolf.** Her **bloodied right arm** matches the wolf's arm [[Boris Dorchen|Boris]] shot to drive it off in [[Session 25 - Asper and the Wolf|Session 25]]; combined with the orange eyes and pinpoint pupils, the implication is that **Astrid Hofhaimer is the werewolf** [[Marretta Schongauer]] warned the cult fielded. The party have not yet stated this aloud.
-- *(See GM-Only notes for her full role; module material is not reproduced here.)*
+## Open Questions
+- Her **bandaged, bloodied right arm** was on the same side as the wound [[Boris Dorchen|Boris]] dealt the monstrous wolf at the [[Mountain Pass Choke Point]] in [[Session 25 - Asper and the Wolf|Session 25]] — something the party noticed but has not yet remarked on aloud.
 
 ## Appearances
 - [[Session 26 - A Night in the Country]]

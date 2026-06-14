@@ -24,4 +24,3 @@ A bundle of **promissory notes** — debts collected by the gnome merchant [[Gro
 
 ## Notes
 - Whoever wants them gone has a **financial motive and inside knowledge** of Gromril's route — the thread tying the [[Ferlangen]] alley ambush to the road attacks.
-- *(GM: the in-world "it's Kolditz" theory is not the whole story — see GM-Only notes.)*

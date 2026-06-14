@@ -34,9 +34,9 @@ Antique dealer of [[Ferlangen]]. [[Gromril van Aelst|Gromril]]'s **prime suspect
 - Gromril's suspected paymaster behind the [[Howling Ones]] attacks — **a theory, not confirmed**
 - Shares a surname with the trafficker [[Klaus von Kolditz]]
 
-## Secrets / GM Notes
-- Gromril's accusation is the party's **working theory, not the established truth** — the road harassment has its own backers (see GM-Only notes). Treat Augustus van Kolditz as an in-world lead to be tested, not a confirmed villain.
-- The **Kolditz / von Kolditz** name overlap is worth a beat: family, faction, or coincidence is unresolved.
+## Open Questions
+- Gromril's accusation is **his own theory** — the party have no proof yet that Augustus van Kolditz is behind the attacks.
+- The **Kolditz / von Kolditz** name overlap with the trafficker [[Klaus von Kolditz]] is unexplained: family, coincidence, or something more.
 
 ## Appearances
 - Mentioned in [[Session 26 - A Night in the Country]]

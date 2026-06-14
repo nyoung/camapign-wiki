@@ -94,7 +94,7 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 ## Quests
 
 ### Advanced
-- **[[The Howling Ones Bounty]]** — the cult's local leader is revealed by name: **[[Astrid Hofhaimer]]** (and strongly implied to be the werewolf); a night of deliberate psychological harassment establishes their method
+- **[[The Howling Ones Bounty]]** — the cult's local leader is revealed by name: **[[Astrid Hofhaimer]]**; a night of deliberate psychological harassment establishes their method
 - **[[Escort Gromril van Aelst to Wolfenburg]]** — [[Astrid Hofhaimer|Astrid]] issued a **noon ultimatum** for the promissory notes; the party chose to **bait a counter-ambush** rather than comply; [[Gromril van Aelst|Gromril]] named **[[Augustus van Kolditz]]** as the suspected paymaster
 
 ## Items Acquired
@@ -102,10 +102,10 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 
 ## Notes / Loose Threads
 
-- **[[Astrid Hofhaimer]] = the wolf.** The parlay rider's **bloodied right arm** matches the wolf's arm [[Boris Dorchen|Boris]] shot in [[Session 25 - Asper and the Wolf|Session 25]]; her orange eyes and pinpoint pupils reinforce it. The prisoner's whispered "Astrid" names her as the one the party should fear. The party have not stated the connection aloud, but it is there to be made.
-- **[[Mathis Haack]] confirmed false.** A "forest warden" who vanishes the same night the cult harasses the camp all but confirms [[Boris Dorchen|Boris]]'s suspicion that he was a cult scout, not a warden.
+- **What rode out to the parlay?** The rider's **bloodied right arm** was on the same side as the wound [[Boris Dorchen|Boris]] put on the monstrous wolf in [[Session 25 - Asper and the Wolf|Session 25]]; her orange eyes and pinpoint pupils were striking; and the prisoner had whispered the name "Astrid" as a warning. The party noticed all of this but have not yet said aloud what it might add up to.
+- **[[Mathis Haack]]'s vanishing.** A "forest warden" who slips away the same night the cult harasses the camp only sharpens [[Boris Dorchen|Boris]]'s standing doubts about him.
 - **The noon ultimatum / the trap.** The party intend to spring [[Berin Garibaldi|Berin]]'s decoy-and-ambush plan at the start of the next session, using the gagged prisoner and a fake note-satchel as bait. The bandits' parlay-honouring habit may or may not extend to a baited meeting.
-- **[[Augustus van Kolditz]]** — Gromril's named suspect (antique dealer, owed him 500+ crowns). Note the family-name overlap with the trafficker **[[Klaus von Kolditz]]**; whether they are related, the same conspiracy, or a coincidence is unresolved. *(GM: see GM-Only notes — Gromril's theory is not the whole picture.)*
+- **[[Augustus van Kolditz]]** — Gromril's named suspect (antique dealer, owed him 500+ crowns), though it remains only Gromril's theory. Note the family-name overlap with the trafficker **[[Klaus von Kolditz]]**; whether they are related, the same conspiracy, or a coincidence is unresolved.
 - **Hofbauer** — [[Berin Garibaldi|Berin]] floated approaching the rival merchant for help against Kolditz; not yet acted on.
 
 ## Memorable Moments

@@ -42,8 +42,8 @@ Inside the city, town criers were proclaiming the bounty on the **Howling Ones**
 - [[Session 26 - A Night in the Country]]
 
 ## Related NPCs
-- **[[Astrid Hofhaimer]]** — the cult's **named local leader** (revealed Session 26); rode to parlay demanding Gromril's promissory notes; **strongly implied to be the werewolf** Boris wounded in Session 25
-- **[[Mathis Haack]]** — the "forest warden" at the [[Wayside Shrine]] who vanished overnight; probable **cult scout**
+- **[[Astrid Hofhaimer]]** — the cult's **named local leader** (revealed Session 26); rode to parlay demanding Gromril's promissory notes, her right arm bandaged and bloody
+- **[[Mathis Haack]]** — the "forest warden" at the [[Wayside Shrine]] who vanished overnight; the party no longer trust his story
 - **[[Hawkeye]]** (also called **Ganav**) — captured alive; former Howling Ones member; now ward of [[Berin Garibaldi|Berin]]'s honour; has knowledge of the cult's operations on this road; **wounded by his former side** in the second ambush, who now brand him a traitor
 - **New captured outlaw** (unnamed, Session 25) — taken at the second ambush; warned of more ambushes, then whispered the name **"Astrid"** before being gagged (Session 26); now intended as **bait** for the party's counter-ambush
 
@@ -62,9 +62,9 @@ Inside the city, town criers were proclaiming the bounty on the **Howling Ones**
 - **[[Session 23 - Ambush!|Session 23]]** — first direct combat with the cult; attacked the caravan from hillside embankments on both sides of the road; a hail of **black arrows** (Session 23), including the shot that grievously wounded [[Pilpoul Ivri|Pilpoul]]; one bandit taken **prisoner alive**
 - **[[Session 24 - Hawkeye|Session 24]]** — prisoner identified himself as **[[Hawkeye]]**; wolf symbol confirmed on a dead bandit's shoulder; Berin noted near-invisible camouflage (shallow earthen depressions lined with cut branches); second ambush began at the [[Mountain Pass Choke Point]] south of [[Hasselhund]] — outcome unresolved; party suspects **inside knowledge** of [[Gromril van Aelst|Gromril]]'s route and cargo directed the attacks
 - **[[Session 25 - Asper and the Wolf|Session 25]]** — second ambush **won**: a **monstrous wolf** (man-tall, drove the party into supernatural terror — the first direct werewolf encounter) charged and savaged [[Christina Asper|Asper]] before [[Boris Dorchen|Boris]] shot it through the arm and **drove it off wounded** (limped away on three legs; its blood ran ordinary red); several outlaws killed and **one more captured** (warns of further ambushes ahead); [[Hawkeye]]/Ganav wounded by his former side and branded a traitor
-- **[[Session 26 - A Night in the Country|Session 26]]** — the cult laid an **all-night psychological siege** on the [[Wayside Shrine]] camp (manufactured howls answered by real wolves, branch-snapping, arrows at intervals) and revealed their **named leader, [[Astrid Hofhaimer]]**, at a morning parlay — orange eyes, pinpoint pupils, and a **bandaged bloody right arm matching the wolf Boris wounded**. Their "forest warden," [[Mathis Haack]], proved a scout and vanished overnight. The party chose to **bait a counter-ambush** rather than meet Astrid's noon ultimatum.
+- **[[Session 26 - A Night in the Country|Session 26]]** — the cult laid an **all-night psychological siege** on the [[Wayside Shrine]] camp (manufactured howls answered by real wolves, branch-snapping, arrows at intervals) and revealed their **named leader, [[Astrid Hofhaimer]]**, at a morning parlay — orange eyes, pinpoint pupils, and a **bandaged, bloodied right arm** (the same side as the wolf's wound). Their "forest warden," [[Mathis Haack]], vanished overnight. The party chose to **bait a counter-ambush** rather than meet Astrid's noon ultimatum.
 
 ## Notes
 - The wolf on the cliff in [[Session 19 - Ferlangen|Session 19]] may or may not be related — symbolic at minimum
 - **Werewolves** — confirmed by [[Marretta Schongauer]] in confidence; **first encountered directly in [[Session 25 - Asper and the Wolf|Session 25]]** (monstrous wolf, ordinary blood, driven off wounded by [[Boris Dorchen|Boris]] — may return)
-- **[[Astrid Hofhaimer]]** is the first cult member the party can put a name and a face to — and very probably **the werewolf itself** (the wounded right arm). Bringing her in (or down) would be the centrepiece of this bounty.
+- **[[Astrid Hofhaimer]]** is the first cult member the party can put a name and a face to. Bringing her in (or down) would be the centrepiece of this bounty.

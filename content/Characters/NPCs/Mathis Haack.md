@@ -35,9 +35,9 @@ Affable on the surface — he offered to share his catch with the travelers with
 - Claims to be forest warden for Lord Jürgen Kimmelman
 - Appeared at the wayside shrine the party chose for a night camp; **vanished during the night of harassment**
 
-## Secrets / GM Notes
-- **[[Boris Dorchen|Boris]] is suspicious of him.** A genuine forest warden would have no reason to poach rabbits from his own lord's lands — yet here he was, with a full bag and a story "with just enough gaps to be suspicious."
-- His **disappearance overnight**, on the very night the [[Howling Ones]] harassed the camp, all but confirms he was a **cult scout** rather than a warden. *(See GM-Only notes.)*
+## Open Questions
+- **[[Boris Dorchen|Boris]] never trusted him.** A genuine forest warden would have no reason to poach rabbits from his own lord's lands — yet here he was, with a full bag and a story "with just enough gaps to be suspicious."
+- He **disappeared overnight**, on the very night the [[Howling Ones]] harassed the camp — which does little to settle Boris's doubts about whose side he was really on.
 
 ## Appearances
 - [[Session 25 - Asper and the Wolf]]
