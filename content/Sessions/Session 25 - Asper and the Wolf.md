@@ -22,20 +22,20 @@ aliases: [Session 25]
 
 ## Summary
 
-The second ambush the party had braced for since [[Session 24 - Hawkeye|the previous session]] broke the moment the caravan started up the rocky highland pass between [[Hasselhund]] and [[Dassel]]. Their prisoner [[Gunav|Hawkeye]] (also called **Gunav**) had warned them of a [[Ruined Watchtower]] where enemies might lie in wait, but knowing was not the same as being ready. [[Berin Garibaldi|Berin]] dismounted [[Orazio]] and advanced on foot behind his shield, shouting prayers to [[Myrmidia]] and urging the others to spread apart; [[Lucas Pollack]] charged recklessly; [[Mangold]] worked himself into a thunderous battle frenzy, clashing axe and hammer together as he stormed the slope.
+The second ambush the party had braced for since [[Session 24 - Hawkeye|the previous session]] broke the moment the caravan started up the rocky highland pass between [[Hasselhund]] and [[Dassel]]. Their prisoner [[Ganav|Hawkeye]] (also called **Ganav**) had warned them of a [[Ruined Watchtower]] where enemies might lie in wait, but knowing was not the same as being ready. [[Berin Garibaldi|Berin]] dismounted [[Orazio]] and advanced on foot behind his shield, shouting prayers to [[Myrmidia]] and urging the others to spread apart; [[Lucas Pollack]] charged recklessly; [[Mangold]] worked himself into a thunderous battle frenzy, clashing axe and hammer together as he stormed the slope.
 
-The opening volley was devastating. An arrow severed [[Danderich Flisshausten|Sir Danderich]]'s horse's spine, dropping the animal and **pinning him beneath it**. A second shot crippled [[Christina Asper|Asper]]'s horse, forcing her to abandon it and take cover with both pistols drawn. [[Boris Dorchen|Boris]] trained his longbow on the ridge while [[Hildegarde]] scanned the trail for traps. [[Berin Garibaldi|Berin]] pressed up the arrow-swept slope alone, unaware the rest of the party had been pinned behind him, shouting that the party had already captured the bandits' leader. [[Gunav|Hawkeye]] tried a shot at his former associates from cover — and took an arrow to the shoulder that **cracked his scapula**, leaving him unable to draw.
+The opening volley was devastating. An arrow severed [[Danderich Flisshausten|Sir Danderich]]'s horse's spine, dropping the animal and **pinning him beneath it**. A second shot crippled [[Christina Asper|Asper]]'s horse, forcing her to abandon it and take cover with both pistols drawn. [[Boris Dorchen|Boris]] trained his longbow on the ridge while [[Hildegarde]] scanned the trail for traps. [[Berin Garibaldi|Berin]] pressed up the arrow-swept slope alone, unaware the rest of the party had been pinned behind him, shouting that the party had already captured the bandits' leader. [[Ganav|Hawkeye]] tried a shot at his former associates from cover — and took an arrow to the shoulder that **cracked his scapula**, leaving him unable to draw.
 
 Then a howl erupted from the forest below — no natural wolf, but something that sank straight into the soul. The horses bolted; most of the party was rooted by supernatural terror. Only [[Berin Garibaldi|Berin]] and [[Mangold]], already committed to the charge, shook it off. **The wolf came** — grey, muscled, its head as tall as a man's, far too large for any natural beast of the [[Drakwald]]. It charged [[Christina Asper|Asper]], tore a flap of flesh from her cheek and **snapped her jaw**, leaving her face a ruin but still defiant. While the wolf savaged her, [[Berin Garibaldi|Berin]] reached the outlaws and struck one down; [[Mangold]] ground forward through the rocks trading blows; [[Danderich Flisshausten|Danderich]] freed himself only to **fall into a pit trap**, hauled out by [[Herman Wurt|Herman]]. It was [[Boris Dorchen|Boris]] who ended it — an arrow clean through the wolf's arm sent it limping into the dark on three legs. Its blood, [[Boris Dorchen|Boris]] found, was ordinary red and coppery, yet nothing about its size or behaviour was natural.
 
-In the aftermath, [[Berin Garibaldi|Berin]] stabilised [[Christina Asper|Asper]]'s broken jaw and torn cheek with prayers to [[Myrmidia]]; [[Gunav]]'s arrow was lodged too deep to remove without a surgeon's tools (must wait for [[Wolfenburg]]). A last outlaw was captured and, under [[Berin Garibaldi|Berin]]'s threat of the Sigmarite Templars, admitted **more ambushes lay further down the road**. The new prisoner spat at [[Gunav]], branding him a traitor. [[Danderich Flisshausten|Danderich]] demanded the prisoners be hanged on the spot; [[Berin Garibaldi|Berin]] talked him down. [[Christina Asper|Asper]] thanked [[Boris Dorchen|Boris]] through broken teeth for the shot that saved her — then pushed him away, unwilling to be seen shaken.
+In the aftermath, [[Berin Garibaldi|Berin]] stabilised [[Christina Asper|Asper]]'s broken jaw and torn cheek with prayers to [[Myrmidia]]; [[Ganav]]'s arrow was lodged too deep to remove without a surgeon's tools (must wait for [[Wolfenburg]]). A last outlaw was captured and, under [[Berin Garibaldi|Berin]]'s threat of the Sigmarite Templars, admitted **more ambushes lay further down the road**. The new prisoner spat at [[Ganav]], branding him a traitor. [[Danderich Flisshausten|Danderich]] demanded the prisoners be hanged on the spot; [[Berin Garibaldi|Berin]] talked him down. [[Christina Asper|Asper]] thanked [[Boris Dorchen|Boris]] through broken teeth for the shot that saved her — then pushed him away, unwilling to be seen shaken.
 
 The caravan spent the afternoon clearing rain-washed rock and timber from the road. About ten miles short of [[Dassel]], they found a [[Wayside Shrine]] — rough-hewn stone columns in the old nature-spirit style ([[Taal]]'s, perhaps), on a defensible rise — and circled the wagons there for the night. A man emerged from the shrine in stitched hides and furs, a bag of eight or nine rabbits over his shoulder, naming himself **[[Mathis Haack]]**, forest warden for **Lord Jürgen Kimmelman**. [[Mungo Mudfoot|Mungo]] and [[Lefty Longshanks|Lefty]] turned his catch into a restorative broth for the wounded — but [[Boris Dorchen|Boris]] watched him closely, noting that a forest warden would have no reason to poach rabbits from his own lord's lands. The party settled in for a long, watchful night, the fire crackling against the rain.
 
 ## Events
 
 ### The Second Ambush Begins — The Volley
-- Attack broke as the caravan started up the pass; ambushers emerged from boulders and outcroppings on the high ground (the [[Ruined Watchtower]] [[Gunav]] had warned of)
+- Attack broke as the caravan started up the pass; ambushers emerged from boulders and outcroppings on the high ground (the [[Ruined Watchtower]] [[Ganav]] had warned of)
 - [[Berin Garibaldi|Berin]] dismounted [[Orazio]], advanced on foot with shield raised, praying to [[Myrmidia]], urging the party to spread out
 - [[Lucas Pollack]] charged ahead recklessly; [[Mangold]] entered a battle frenzy, clashing axe and hammer
 - First arrow **severed [[Danderich Flisshausten|Sir Danderich]]'s horse's spine** — horse collapsed, pinning him beneath it
@@ -46,7 +46,7 @@ The caravan spent the afternoon clearing rain-washed rock and timber from the ro
 - [[Berin Garibaldi|Berin]] pressed up the arrow-swept slope alone, unaware the others were pinned
 - Shouted to the outlaws that their leader was already captured and their plans known, hoping to break their nerve
 - [[Mangold]] tried to charge alongside but slipped on the rocky ground, making no progress
-- [[Gunav]] attempted a shot at his former associates from cover; an arrow from the ridge **cracked his scapula**, stunning him and ending his fight
+- [[Ganav]] attempted a shot at his former associates from cover; an arrow from the ridge **cracked his scapula**, stunning him and ending his fight
 
 ### The Monstrous Wolf — Asper Mauled
 - A bone-deep **unnatural howl** erupted from the forest; horses bolted; most of the party was gripped by supernatural terror
@@ -65,9 +65,9 @@ The caravan spent the afternoon clearing rain-washed rock and timber from the ro
 
 ### Aftermath — The Wounded and the Prisoners
 - [[Christina Asper|Asper]]: cheek torn open, jaw broken, horse dead; [[Berin Garibaldi|Berin]] stabilised her with bandages and prayers to [[Myrmidia]]
-- [[Gunav]]'s arrow embedded too deep to remove safely — must wait for a surgeon in [[Wolfenburg]]
+- [[Ganav]]'s arrow embedded too deep to remove safely — must wait for a surgeon in [[Wolfenburg]]
 - A **last outlaw captured**; under [[Berin Garibaldi|Berin]]'s intimidation (threat of the Sigmarite Templars) he admitted **more ambushes are planned down the road** — no specifics
-- The new prisoner spat at [[Gunav]], branding him a **traitor** to the [[Howling Ones]]
+- The new prisoner spat at [[Ganav]], branding him a **traitor** to the [[Howling Ones]]
 - [[Danderich Flisshausten|Danderich]] demanded the prisoners be **hanged on the spot**; [[Berin Garibaldi|Berin]] deflected him diplomatically — they may hold useful intelligence for the [[Wolfenburg]] justices
 - [[Christina Asper|Asper]] thanked [[Boris Dorchen|Boris]] through clenched, broken teeth for the wolf-shot — then pushed him away, unwilling to be seen shaken
 
@@ -81,7 +81,7 @@ The caravan spent the afternoon clearing rain-washed rock and timber from the ro
 
 ## NPCs Encountered
 
-- **[[Gunav|Hawkeye]]** (also called **Gunav**) — the captured outlaw; tried to fight his former associates and took an arrow that **cracked his scapula**; arrow lodged too deep for field treatment; the new prisoner branded him a traitor. *(GM Assistant's notes use "Gunav" as well, and list "Gunav (JakeMTL)" among the player characters — see Loose Threads.)*
+- **[[Ganav|Hawkeye]]** (also called **Ganav**) — the captured outlaw; tried to fight his former associates and took an arrow that **cracked his scapula**; arrow lodged too deep for field treatment; the new prisoner branded him a traitor. *(GM Assistant's notes use "Ganav" as well, and list "Ganav (JakeMTL)" among the player characters — see Loose Threads.)*
 - **[[Christina Asper|Asper]]** — **savagely mauled by the wolf**: cheek torn, jaw broken, horse dead; kept fighting; thanked [[Boris Dorchen|Boris]] for the saving shot, then pushed him away
 - **[[Danderich Flisshausten|Sir Danderich]]** — horse killed under him (spine severed); pinned, then fell into a pit trap (hauled out by [[Herman Wurt|Herman]]); demanded the prisoners be hanged; overruled
 - **[[Herman Wurt]]** — hauled [[Danderich Flisshausten|Danderich]] out of the pit trap mid-battle
@@ -91,18 +91,18 @@ The caravan spent the afternoon clearing rain-washed rock and timber from the ro
 - **[[Mungo Mudfoot]]** — cooked the rabbits into a restorative broth with [[Lefty Longshanks|Lefty]]
 - **[[Lefty Longshanks]]** — cooked alongside [[Mungo Mudfoot|Mungo]]
 - **[[Mathis Haack]]** *(new)* — appeared at the [[Wayside Shrine]]; claims to be forest warden for Lord Jürgen Kimmelman; shared rabbits; [[Boris Dorchen|Boris]] suspects his story
-- **New captured outlaw** (unnamed) — admitted more ambushes lie ahead; spat at [[Gunav]] as a traitor
+- **New captured outlaw** (unnamed) — admitted more ambushes lie ahead; spat at [[Ganav]] as a traitor
 
 ## Locations Visited
 
 - **[[Mountain Pass Choke Point]]** / **[[Rocky Mountain Trail]]** — the narrow rocky pass between [[Hasselhund]] and [[Dassel]]; site of the second ambush; [[Ruined Watchtower]] on the high ground
-- **[[Ruined Watchtower]]** — the outlaws' high-ground ambush position [[Gunav]] had warned of
+- **[[Ruined Watchtower]]** — the outlaws' high-ground ambush position [[Ganav]] had warned of
 - **[[Wayside Shrine]]** *(new)* — rough-hewn stone columns in the old nature-spirit style (possibly [[Taal]]'s), on a defensible rise ~10 miles short of [[Dassel]]; the party's night camp; where [[Mathis Haack]] appeared
 
 ## Quests
 
 ### Advanced
-- **[[The Howling Ones Bounty]]** — second ambush **won**: the monstrous wolf (probable werewolf) driven off wounded by [[Boris Dorchen|Boris]]; several outlaws killed; **one more prisoner taken** (warns of further ambushes); [[Gunav]] wounded by his own former side
+- **[[The Howling Ones Bounty]]** — second ambush **won**: the monstrous wolf (probable werewolf) driven off wounded by [[Boris Dorchen|Boris]]; several outlaws killed; **one more prisoner taken** (warns of further ambushes); [[Ganav]] wounded by his own former side
 - **[[Escort Gromril van Aelst to Wolfenburg]]** — caravan survived the second ambush but is battered and slowed; more ambushes confirmed ahead before [[Dassel]]/[[Wolfenburg]]
 - **[[Find Professor Stradovski]]** — no new lead this session; caravan still pushing toward [[Wolfenburg]] on the trail
 
@@ -113,12 +113,12 @@ The caravan spent the afternoon clearing rain-washed rock and timber from the ro
 
 ## Notes / Loose Threads
 
-- **[[Gunav|Hawkeye]] = "Gunav"?** — GM Assistant's notes for this session call the captured outlaw **both "Hawkeye" and "Gunav"** for the same man, and list **"Gunav (JakeMTL)"** among the campaign's player characters (JakeMTL also plays the incapacitated [[Pilpoul Ivri|Pilpoul]]). This strongly suggests the former outlaw is being **adopted as a PC named Gunav**. Left as the established NPC [[Gunav|Hawkeye]] here pending the GM's confirmation — if confirmed, he should be moved to `Characters/PCs/` as **Gunav**.
+- **[[Ganav|Hawkeye]] = "Ganav"?** — GM Assistant's notes for this session call the captured outlaw **both "Hawkeye" and "Ganav"** for the same man, and list **"Ganav (JakeMTL)"** among the campaign's player characters (JakeMTL also plays the incapacitated [[Pilpoul Ivri|Pilpoul]]). This strongly suggests the former outlaw is being **adopted as a PC named Ganav**. Left as the established NPC [[Ganav|Hawkeye]] here pending the GM's confirmation — if confirmed, he should be moved to `Characters/PCs/` as **Ganav**.
 - **The monstrous wolf** — first direct encounter with a [[Howling Ones]] "wolf": man-tall, drove the party into supernatural terror, **blood ran ordinary red** yet plainly unnatural; **driven off wounded** (arm) by [[Boris Dorchen|Boris]] — limped off on three legs and may return. Consistent with the **werewolf** rumour confirmed earlier by [[Marretta Schongauer]].
 - **More ambushes ahead** — the captured outlaw confirmed further ambushes are planned before [[Dassel]]; no specifics given
 - **[[Mathis Haack]]** — self-described forest warden for **Lord Jürgen Kimmelman**; [[Boris Dorchen|Boris]] suspects the cover story (a warden poaching his own lord's rabbits); his true nature unresolved
 - **[[Christina Asper|Asper]]'s injuries** — broken jaw and torn cheek; stabilised but needs a proper surgeon; her composure visibly cracked for the first time
-- **[[Gunav]]'s wound** — arrow lodged in the shoulder/scapula too deep for field removal; needs a surgeon in [[Wolfenburg]]; the [[Howling Ones]] now openly regard him as a traitor (a death mark)
+- **[[Ganav]]'s wound** — arrow lodged in the shoulder/scapula too deep for field removal; needs a surgeon in [[Wolfenburg]]; the [[Howling Ones]] now openly regard him as a traitor (a death mark)
 - **[[Danderich Flisshausten|Danderich]]** — again reckless and ineffective (horse killed, fell in a pit, demanded summary hangings); his judgement remains a liability, as [[Heidi Übermann]] warned
 
 ## Title

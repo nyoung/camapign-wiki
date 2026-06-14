@@ -39,7 +39,7 @@ Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 
 **Session 19:** Carried Pilpoul's pigeon-borne letter to [[Lady Steiner]] from the [[Hemp Merchant]] (the innkeeper warned the bird might struggle under the prose). At [[Ferlangen]] he opted to remain at the **fortified inn outside the walls** with the wagon and animals rather than attempt the city gate ritual — and was immediately distracted by the discovery of a **female halfling** sitting outside the inn, the first moot folk he'd seen since [[Middenheim]].
 
-**Session 25:** At the [[Wayside Shrine]] night camp after the second ambush, he and [[Lefty Longshanks|Lefty]] took over the cooking when [[Mathis Haack]] shared a bag of rabbits — turning the catch into a **restorative broth** for the wounded ([[Christina Asper|Asper]], [[Gunav]]), seasoned with their own salts and spices.
+**Session 25:** At the [[Wayside Shrine]] night camp after the second ambush, he and [[Lefty Longshanks|Lefty]] took over the cooking when [[Mathis Haack]] shared a bag of rabbits — turning the catch into a **restorative broth** for the wounded ([[Christina Asper|Asper]], [[Ganav]]), seasoned with their own salts and spices.
 
 **Session 26:** One of his **socks** was conscripted by [[Boris Dorchen|Boris]] to gag the captured prisoner. During the night, sharpening his axe by the fire, he silently held up a **hand in the shape of a wolf** as the real wolves answered the howls. When the party planned the counter-ambush, **Mungo fretted that entering a fight might breach Teamster's Guild rules and incur extra charges** — and his **cookbook** was nominated as the decoy bundle to bait the bandits.
 

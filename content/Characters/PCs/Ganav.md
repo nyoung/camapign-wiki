@@ -13,9 +13,9 @@ tags: [character, pc]
 aliases: [Hawkeye]
 ---
 
-# Gunav
+# Ganav
 
-> **Real name: Gunav.** Through Sessions 24–26 the party knew him only by the bandit cover-name **"Hawkeye."** He has since been taken on as a **player character**; his real name is Gunav. (Earlier session notes also render the name "Ganav.")
+> **Now a player character.** Through Sessions 24–26 the party knew him only by the bandit cover-name **"Hawkeye"**; his real name is **Ganav**. He has since been taken on as a player character.
 
 ## Description
 A man whose age is difficult to place — weathered in the way that outdoor men get, neither young nor visibly old. He carries himself with the economy of movement that comes from years of staying still and invisible in forest cover. He has a hawk-and-eye patch on his shoulder. When first captured he gave no name but "Hawkeye" — chosen, he explained, because it commits him to nothing and reveals nothing; he had, he said, no friends, only people who knew him.
@@ -40,7 +40,7 @@ He explicitly denies that he was the one who shot [[Pilpoul Ivri|Pilpoul]].
 - **[[Session 26 - A Night in the Country]]** — he raged about his broken clavicle, lamenting that he should have stayed with the bandits. Standing the **third watch**, he **recognised the cult's harassment as a deliberate exhaustion tactic** and countered it not by raising an alarm but by **stoking the fire to keep the sleeping party warm**. At the parlay he vouched that the [[Howling Ones]] would honour its sanctity. When the party resolved to bait a counter-ambush, he accepted a **crossbow pistol** from [[Hildegarde]] despite his sling, so he could fight.
 
 ## Known Information
-- Real name **Gunav**; went by the cover-name "Hawkeye" as a bandit
+- Real name **Ganav**; went by the cover-name "Hawkeye" as a bandit
 - Has significant field surgery knowledge; familiar with treating arrow wounds
 - Knows the [[Ferlangen]]–[[Wolfenburg]] road and its bandit operations well
 - His former companions now regard him as a traitor and may try to kill him
