@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Gnome
 career: Merchant
 faction:

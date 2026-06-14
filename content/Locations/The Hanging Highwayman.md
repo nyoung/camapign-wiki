@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Wolfenburg Road"
 region: "[[Hasselhund]]"
 first_visited: "[[Session 24 - Hawkeye]]"
 tags: [location]

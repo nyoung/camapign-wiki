@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Middenheim"
 location_type: college
 region: The Empire — Middenland
 parent_location: "[[Middenheim]]"

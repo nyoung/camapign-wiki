@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Halfling
 career: Teamster
 faction: "[[Temple of Verena]]"

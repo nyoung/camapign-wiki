@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Beeckerhoven"
 faction_type: secret cult
 alignment: chaos (Nurgle)
 headquarters: unknown

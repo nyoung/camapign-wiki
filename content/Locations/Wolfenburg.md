@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Wolfenburg"
 location_type: city (provincial capital)
 region: The Empire — Ostland
 parent_location: "[[Ostland]]"

@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Middenheim"
 faction_type: military
 alignment: order
 headquarters: unknown

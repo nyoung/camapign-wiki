@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Nordland Road"
 location_type: border village / military post
 region: The Empire — Nordland (border with Ostland)
 parent_location:

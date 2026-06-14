@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Beeckerhoven"
 location_type: temple
 region: Beeckerhoven
 parent_location: "[[Beeckerhoven]]"

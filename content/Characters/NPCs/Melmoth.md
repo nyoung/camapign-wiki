@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Nordland Road"
 species: Human (dark priest)
 career: Dark Priest
 faction: unknown dark cult (possibly Khaine or undead-related)

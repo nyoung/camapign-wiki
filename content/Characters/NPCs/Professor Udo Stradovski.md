@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Human
 career: Scholar / Medical Professor
 faction: "[[Cult of Shallya]]"

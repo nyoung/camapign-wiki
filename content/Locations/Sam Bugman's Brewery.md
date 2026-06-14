@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Ferlangen"
 location_type: tavern / brewery
 region: The Empire — Ostland
 parent_location: "[[Ferlangen]]"

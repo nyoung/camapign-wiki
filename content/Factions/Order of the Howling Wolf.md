@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Middenheim"
 faction_type: religious order
 alignment: order
 headquarters: unknown

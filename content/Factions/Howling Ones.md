@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "The Wolfenburg Road"
 faction_type: cult / criminal
 alignment: chaos
 headquarters: Eastern Ostland (unconfirmed)

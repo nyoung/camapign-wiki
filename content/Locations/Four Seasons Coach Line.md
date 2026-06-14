@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Regional & Roving"
 location_type: coach office
 region: Beeckerhoven
 parent_location: "[[Beeckerhoven]]"

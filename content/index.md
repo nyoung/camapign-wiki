@@ -47,6 +47,7 @@ tags: [home]
 10 Jahrdrung 2512 (morning — noon ultimatum approaching)
 
 ## Quick Links
+- [[Place Hubs]] — **browse the campaign by place**
 - [[Sessions/]]
 - [[Characters/PCs/]]
 - [[Characters/NPCs/]]

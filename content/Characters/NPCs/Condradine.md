@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Nordland Road"
 species: Unknown
 career: Unknown
 faction: unknown (possibly [[Melmoth]]'s network)

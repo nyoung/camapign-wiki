@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Middenheim"
 species: Human
 career: Agitator
 faction: "[[Cult of Shallya]]"

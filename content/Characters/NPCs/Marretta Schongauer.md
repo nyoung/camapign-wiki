@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Ostland Coast Road"
 species: Human
 career: Merchant (claimed) / Human trafficker (revealed)
 faction: "Peddlars' Guild (claimed)"

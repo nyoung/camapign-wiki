@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Dog
 career: Rat Catcher's Dog
 faction:

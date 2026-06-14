@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Regional & Roving"
 faction_type: military
 alignment: order
 headquarters: "[[Middenheim]]"

@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Human
 career: unknown
 faction: "[[Ordo Sancti Inquisita]]"

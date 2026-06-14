@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Nordland Road"
 location_type: shrine
 region: The Empire — Nordland
 parent_location: "[[Hunter's Lodge]]"

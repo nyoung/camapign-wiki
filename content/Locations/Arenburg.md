@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Road North"
 location_type: village
 region: The Empire — Middenland (road north of Middenheim)
 parent_location:

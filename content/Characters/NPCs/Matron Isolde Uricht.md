@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Wolfenburg"
 species: Human
 career: Matron / High Priestess (Shallya)
 faction: "[[Cult of Shallya]]"

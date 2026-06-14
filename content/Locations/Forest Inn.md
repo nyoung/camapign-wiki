@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Nordland Road"
 location_type: inn (ghoul lair)
 region: The Empire — Nordland (road north, before Skjaldberg)
 parent_location:

@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Ostland Coast Road"
 location_type: inn
 region: The Empire — Ostland (coast road junction)
 parent_location: "[[Ostland]]"

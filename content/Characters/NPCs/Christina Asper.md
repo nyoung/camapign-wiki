@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Human
 career: Witch Hunter
 faction: "[[Fraternal Order of Witch-Hunters]]"

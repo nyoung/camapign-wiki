@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Ferlangen"
 species: Human
 career: Abbess
 faction: "[[Temple of Verena]]"
@@ -10,7 +11,7 @@ first_seen: "[[Session 19 - Ferlangen]]"
 tags: [character, npc]
 aliases: [The Abbess]
 ---
-
+ 
 # Abbess of Verena (Ferlangen)
 
 ## Description

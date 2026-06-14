@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Regional & Roving"
 location_type: road
 region: The Empire — Nordland
 parent_location:

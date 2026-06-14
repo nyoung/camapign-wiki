@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Regional & Roving"
 location_type: region
 region: The Empire — Ostland
 parent_location:

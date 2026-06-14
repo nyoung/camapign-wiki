@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Human
 career: Bounty Hunter / Temple Guardian
 faction: "[[Temple of Verena]]"

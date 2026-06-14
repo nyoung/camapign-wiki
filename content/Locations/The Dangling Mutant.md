@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Wolfenburg Road"
 region: "[[Aukrug]]"
 first_visited: "[[Session 23 - Ambush!]]"
 tags: [location]

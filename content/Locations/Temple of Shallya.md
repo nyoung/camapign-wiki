@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Middenheim"
 location_type: temple
 region: The Empire — Middenland
 parent_location: "[[Middenheim]]"

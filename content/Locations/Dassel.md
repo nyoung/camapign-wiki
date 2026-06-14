@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Wolfenburg Road"
 region: "Road between [[Hasselhund]] and [[Wolfenburg]], [[Ostland]]"
 first_visited:
 tags: [location]

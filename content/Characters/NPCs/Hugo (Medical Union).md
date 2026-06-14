@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Beeckerhoven"
 species: Human
 career: Guard
 faction: "[[Medical Union]]"

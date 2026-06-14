@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Road North"
 location_type: inn
 region: The Empire — Middenland (forest road north of Fox and Crown)
 parent_location:

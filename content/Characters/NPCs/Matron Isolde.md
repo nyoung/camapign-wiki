@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Middenheim"
 species: Human
 career: Matron (Shallya)
 faction: "[[Cult of Shallya]]"

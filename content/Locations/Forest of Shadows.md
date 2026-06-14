@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Regional & Roving"
 location_type: wilderness
 region: Ostland
 parent_location: "[[Ostland]]"

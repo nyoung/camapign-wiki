@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Nordland Road"
 location_type: hospice (plague)
 region: The Empire — Nordland (northeast of road)
 parent_location:

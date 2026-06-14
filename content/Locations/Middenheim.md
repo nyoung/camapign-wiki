@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Middenheim"
 location_type: city
 region: The Empire — Middenland
 parent_location:

@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Wolfenburg Road"
 species: Human
 career: "Forest Warden (claimed)"
 faction: ""

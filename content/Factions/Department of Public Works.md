@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Middenheim"
 faction_type: guild
 alignment: order
 headquarters: "[[Middenheim]]"

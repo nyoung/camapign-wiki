@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Road North"
 location_type: inn
 region: The Empire — Middenland
 parent_location: "[[Arenburg]]"

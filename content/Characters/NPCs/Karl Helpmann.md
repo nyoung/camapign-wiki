@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Ferlangen"
 species: Human
 career: Peddlar / General-goods shopkeeper
 faction:

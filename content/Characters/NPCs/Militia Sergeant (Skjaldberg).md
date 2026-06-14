@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Nordland Road"
 species: Human
 career: Militia Sergeant
 faction: Nordland Militia

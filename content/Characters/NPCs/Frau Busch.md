@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Ferlangen"
 species: Human
 career: Boarding-house keeper
 faction:

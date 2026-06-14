@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Ostland Coast Road"
 location_type: farmstead
 region: The Empire — Ostland (coast road)
 parent_location: "[[Ostland]]"

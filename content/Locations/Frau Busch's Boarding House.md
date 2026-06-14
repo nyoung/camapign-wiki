@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Ferlangen"
 location_type: boarding house
 region: The Empire — Ostland
 parent_location: "[[Ferlangen]]"

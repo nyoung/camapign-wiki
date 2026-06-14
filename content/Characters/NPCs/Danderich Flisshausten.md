@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Regional & Roving"
 species: Human
 career: Knight (Ordo Sancti Inquisita)
 faction: "[[Ordo Sancti Inquisita]]"

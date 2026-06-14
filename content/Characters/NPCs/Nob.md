@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Beeckerhoven"
 species: Halfling
 career: Inn Assistant
 faction:

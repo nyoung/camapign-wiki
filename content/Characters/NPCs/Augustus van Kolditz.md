@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Ferlangen"
 species: Human
 career: Antique Dealer
 faction:

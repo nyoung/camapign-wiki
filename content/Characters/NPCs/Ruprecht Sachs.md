@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Middenheim"
 species: Human
 career: Surveyor
 faction: "[[Department of Public Works]]"

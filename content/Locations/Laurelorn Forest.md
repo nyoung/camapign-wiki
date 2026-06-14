@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Regional & Roving"
 location_type: forest
 region: The Empire — Nordland
 parent_location:

@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Beeckerhoven"
 species: Human
 career: Mint Apprentice
 faction:

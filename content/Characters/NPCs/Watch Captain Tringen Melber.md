@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Middenheim"
 species: Human
 career: Watch Captain
 faction: "[[The Watch]]"

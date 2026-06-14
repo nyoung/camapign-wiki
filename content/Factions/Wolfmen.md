@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Beeckerhoven"
 faction_type: criminal gang
 alignment: neutral
 headquarters: "[[Beeckerhoven]]"

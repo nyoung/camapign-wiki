@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Beeckerhoven"
 location_type: compound (criminal)
 region: Beeckerhoven
 parent_location: "[[Beeckerhoven]]"

@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Nordland Road"
 species: Human (transforming)
 career: Groom
 faction:

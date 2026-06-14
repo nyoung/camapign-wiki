@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Ostland Coast Road"
 location_type: town
 region: The Empire — Ostland
 parent_location: "[[Ostland]]"

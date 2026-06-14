@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Road North"
 species: Human
 career: Innkeeper
 faction:

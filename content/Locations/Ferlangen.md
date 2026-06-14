@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Ferlangen"
 location_type: town (walled)
 region: The Empire — Ostland
 parent_location: "[[Ostland]]"

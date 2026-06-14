@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "The Ostland Coast Road"
 species: Human
 career: Merchant
 faction:

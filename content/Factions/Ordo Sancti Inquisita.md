@@ -1,5 +1,6 @@
 ---
 type: faction
+hub: "Regional & Roving"
 faction_type: religious order
 alignment: order
 headquarters: unknown

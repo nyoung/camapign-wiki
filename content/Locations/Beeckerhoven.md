@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Beeckerhoven"
 location_type: town
 region: The Empire — Middenland / North
 parent_location:

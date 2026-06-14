@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Nordland Road"
 location_type: inn
 region: The Empire — Nordland (road north)
 parent_location:

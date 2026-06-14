@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "The Ostland Coast Road"
 location_type: inn
 region: The Empire — Ostland (last stop before [[Ferlangen]])
 parent_location: "[[Ostland]]"

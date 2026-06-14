@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Beeckerhoven"
 species: Human
 career: Herb Woman
 faction:

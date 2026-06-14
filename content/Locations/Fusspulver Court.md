@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Middenheim"
 location_type: court
 region: The Empire — Middenland
 parent_location: "[[Middenheim]]"

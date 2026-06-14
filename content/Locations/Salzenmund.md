@@ -1,5 +1,6 @@
 ---
 type: location
+hub: "Regional & Roving"
 location_type: city
 region: The Empire — Nordland
 parent_location:

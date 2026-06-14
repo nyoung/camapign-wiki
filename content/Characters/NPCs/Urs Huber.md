@@ -1,5 +1,6 @@
 ---
 type: npc
+hub: "Beeckerhoven"
 species: Human
 career: Physician (fraudulent)
 faction: "[[Medical Union]]"

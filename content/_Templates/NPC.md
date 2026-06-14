@@ -1,5 +1,6 @@
 ---
 type: npc
+hub:                  # place hub: Middenheim / The Road North / Beeckerhoven / The Nordland Road / The Ostland Coast Road / Ferlangen / The Wolfenburg Road / Wolfenburg / Regional & Roving
 species:
 career:
 faction:
