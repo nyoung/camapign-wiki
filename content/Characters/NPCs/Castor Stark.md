@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Stable Owner
 faction:
-location: "[[Beekerhoven]]"
+location: "[[Beeckerhoven]]"
 status: alive
 disposition: neutral
 first_seen: "[[Session 09 - The Thriceling|Session 09]]"
@@ -13,7 +13,7 @@ tags: [character, npc]
 # Castor Stark
 
 ## Description
-Owner of the city stables in [[Beekerhoven]] — the only remaining stables after the inn's stable burned down. Runs a weathered but functional operation. Charges 4 pennies per night for boarding.
+Owner of the city stables in [[Beeckerhoven]] — the only remaining stables after the inn's stable burned down. Runs a weathered but functional operation. Charges 4 pennies per night for boarding.
 
 ## Role / Occupation
 Stable owner. A practical man with a working knowledge of who is carrying what and where they say they're going.
@@ -23,7 +23,7 @@ Perceptive and plain-spoken. When [[Professor Udo Stradovski|Stradovski]] bought
 
 ## History with the Party
 
-**Session 09 (Beekerhoven):** Expressed skepticism that Salzenmund was truly Stradovski's destination — pointing out the professor was overpacked with tents, lanterns, and food boxes for what was supposed to be a straightforward 3-day road journey. The [[Stable Boy (Beekerhoven)|stable boy]] working under Castor was withholding information about [[Marx Khlesl]] and needed to be pressured before he talked.
+**Session 09 (Beeckerhoven):** Expressed skepticism that Salzenmund was truly Stradovski's destination — pointing out the professor was overpacked with tents, lanterns, and food boxes for what was supposed to be a straightforward 3-day road journey. The [[Stable Boy (Beeckerhoven)|stable boy]] working under Castor was withholding information about [[Marx Khlesl]] and needed to be pressured before he talked.
 
 ## Notes
 The stable boy in his employ was a key source of information about Stradovski's departure and Klessel's movements, though he required significant coaxing to share what he knew.

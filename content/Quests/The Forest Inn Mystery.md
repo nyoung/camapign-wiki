@@ -20,12 +20,12 @@ The party arrived at the Forest Inn and immediately noticed something deeply wro
 ## Resolution
 **Resolved — Session 15.** [[Melmoth]], the dark priest running the operation, was killed by [[Berin Garibaldi]]. [[Van Moll]] confessed the full history. The truth: two winters prior, a famine struck the area; Melmoth arrived and convinced starving locals to consume their dead, slowly transforming them into ghouls. The inn had since served as a lure for travellers who were murdered and fed to the growing ghoul army. [[Torben Pieknich]] and [[Van Moll]] were kept as seemingly normal humans to maintain appearances.
 
-The bodies were retrieved overnight by the surviving ghouls — the network may not be fully dismantled. [[Pilpoul Ivri]] sent a report via homing pigeon to the [[Temple of Verena (Beekerhoven)|Temple of Verena]].
+The bodies were retrieved overnight by the surviving ghouls — the network may not be fully dismantled. [[Pilpoul Ivri]] sent a report via homing pigeon to the [[Temple of Verena (Beeckerhoven)|Temple of Verena]].
 
 ## Key NPCs
 - [[Van Moll]] — innkeeper; complicit but non-violent; confessed
 - [[Melmoth]] — dark priest; ran the operation; killed by Berin; head taken back by ghouls overnight
-- [[Torben Pieknich]] — false toll keeper serving Melmoth; captured; handed to [[Skralberg]] militia
+- [[Torben Pieknich]] — false toll keeper serving Melmoth; captured; handed to [[Skjaldberg]] militia
 - [[Gunter (Forest Inn)]] — groom; ghoul or becoming one; helped abduct Hoffman
 - [[Condradine]] — operative; drugged Hoffman; died falling from window
 

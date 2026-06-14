@@ -25,7 +25,7 @@ Initially dismissive. Reluctant to share passenger information — the session n
 [[Hildegarde]] posed as a courier from the [[Collegium Theologica]], claiming a patient needed to reach [[Professor Udo Stradovski]] urgently. After she offered to purchase tickets, Ketchum consulted his ledger and confirmed Stradovski's journey. The deception ended abruptly when [[Pilpoul Ivri]] dramatically interrupted with a fake plague scare, and the party fled.
 
 ## Known Information
-- Stradovski traveled to [[Beekerhoven]] ten days prior to the party's visit
+- Stradovski traveled to [[Beeckerhoven]] ten days prior to the party's visit
 - Stradovski paid **fifty gold crowns** to a passenger named [[Caspar Anckenreuter]] for his ticket
 
 ## Appearances

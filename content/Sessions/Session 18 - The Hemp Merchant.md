@@ -23,7 +23,7 @@ aliases: [Session 18]
 
 ## Summary
 
-At the [[Pewter Merchant]], the party pressed [[Christina Asper]] about the murder and learned she had witnessed the killing — the "noble" was stabbed by the raider leader **Gustavus** during an argument over a young woman the raiders had expected to be handed over. Berin offered to stand as the innkeeper [[Anton Petz]]'s champion in a judicial duel. The party walked to the nearby **Grunwald farm** and freed **Herga**, a Nordland farm girl the Grunwald family had been holding with the intent to sell her as a servant — her account confirmed the "noble" was actually a commoner imposter and that the raiders hailed from the **Heidling farm** roughly fifteen miles north. They took a written affidavit from Herga, returned to the inn to a tearful [[Anton Petz|Petz]] who waived their room cost, and the next morning travelled east with [[Christina Asper|Asper]] toward the [[Hemp Merchant]]. On the road they passed the coroner at last making for the [[Pewter Merchant]]. At the Hemp Merchant they found an inn compound overrun with **Imperialist Engineer Pioneer Corps** and **[[Landsturm]]** soldiers upgrading the road and bridges north to **[[Norden]]** — far more activity than a simple infrastructure project. The proprietor **Jan Smuts** confirmed [[Professor Udo Stradovski|Stradovski]]'s passage on the 16th Nachexen, confirmed [[Elfrieda Teuschel]]'s group passed through just two nights ago paying with freshly minted crowns, and — most damning — identified the birthmark on the Pewter Merchant corpse as belonging to his own **servant boy**, who had vanished three or four days ago with a merchant named **Albrecht Felt**.
+At the [[Pewter Merchant]], the party pressed [[Christina Asper]] about the murder and learned she had witnessed the killing — the "noble" was stabbed by the raider leader **Gustavus** during an argument over a young woman the raiders had expected to be handed over. Berin offered to stand as the innkeeper [[Anton Petz]]'s champion in a judicial duel. The party walked to the nearby **Grunwald farm** and freed **Herga**, a Nordland farm girl the Grunwald family had been holding with the intent to sell her as a servant — her account confirmed the "noble" was actually a commoner imposter and that the raiders hailed from the **Heidling farm** roughly fifteen miles north. They took a written affidavit from Herga, returned to the inn to a tearful [[Anton Petz|Petz]] who waived their room cost, and the next morning travelled east with [[Christina Asper|Asper]] toward the [[Hemp Merchant]]. On the road they passed the coroner at last making for the [[Pewter Merchant]]. At the Hemp Merchant they found an inn compound overrun with **Imperialist Engineer Pioneer Corps** and **[[Landsturm]]** soldiers upgrading the road and bridges north to **[[Norden]]** — far more activity than a simple infrastructure project. The proprietor **Jan Smuts** confirmed [[Professor Udo Stradovski|Stradovski]]'s passage on the 16th Nachexen, confirmed [[Elfrieda Teuschel]]'s group passed through just two nights ago paying with freshly minted crowns, and — most damning — identified the birthmark on the Pewter Merchant corpse as belonging to his own **servant boy**, who had vanished three or four days ago with a merchant named **Masten Feltt**.
 
 ## Events
 
@@ -103,7 +103,7 @@ After the soldiers retired and the great room quieted, the party cornered **[[Ja
 
 - Confirmed a man matching [[Professor Udo Stradovski|Stradovski]]'s description passed through about **two weeks prior**, heading east with a haughty Middenland accent, travelling alone
 - Confirmed a **dark-haired noblewoman** had stayed **just two nights ago** with one large, burly man, paying with a **freshly minted crown** bearing the same illegal markings (Elfrieda's group)
-- Boris described the **birthmark** of the Pewter Merchant murder victim — Smuts went pale: the mark belonged to **his own servant boy**, who had vanished three or four days ago at the same time as a merchant named **[[Albrecht Felt]]**, having **helped the man onto his horse before disappearing entirely**
+- Boris described the **birthmark** of the Pewter Merchant murder victim — Smuts went pale: the mark belonged to **his own servant boy**, who had vanished three or four days ago at the same time as a merchant named **[[Masten Feltt]]**, having **helped the man onto his horse before disappearing entirely**
 - Smuts was far too overwhelmed to send anyone to identify the body; [[Pilpoul Ivri|Pilpoul]] offered to help draft a letter to be carried back by the next westbound traveller
 - [[Hildegarde]] quietly purchased an apple from the innkeeper before the long night closed
 
@@ -116,7 +116,7 @@ After the soldiers retired and the great room quieted, the party cornered **[[Ja
 - Grunwald farmer and his wife — holding Herga to sell as a servant; relented without payment under pressure
 - Hemp Merchant stable boy — terrified of Asper; confirmed Stradovski's 16th Nachexen stay
 - **Mentioned:** [[Gustavus]] — raider leader who killed the impostor at the Pewter Merchant
-- **Mentioned:** [[Albrecht Felt]] — merchant who stayed at the Hemp Merchant; vanished three or four days ago with Smuts's servant boy; real identity of the corpse's clothing
+- **Mentioned:** [[Masten Feltt]] — merchant who stayed at the Hemp Merchant; vanished three or four days ago with Smuts's servant boy; real identity of the corpse's clothing
 
 ## Locations Visited
 
@@ -147,7 +147,7 @@ After the soldiers retired and the great room quieted, the party cornered **[[Ja
 ## Notes / Loose Threads
 
 - **The road to [[Norden]]** — why is the Empire upgrading the entire route under direct Imperial orders with expensive Landsturm? Bridges heavy enough for the heaviest wagons point to something larger
-- **[[Albrecht Felt]]** — the real merchant whose identity the dead servant boy had assumed; whereabouts unknown; Hemp Merchant stable boy was the last to see him mounted on his horse
+- **[[Masten Feltt]]** — the real merchant whose identity the dead servant boy had assumed; whereabouts unknown; Hemp Merchant stable boy was the last to see him mounted on his horse
 - **[[Gustavus]]** — raider leader; killed the impostor; likely operating out of the [[Heidling Farm]] roughly fifteen miles north
 - **[[Heidling Farm]]** — raiders' suspected base; known to cross the Nordland border to steal livestock and people
 - **[[Christina Asper]] and Berin** — the confrontation is now on the record; Berin compared her unfavourably to [[Condradine]]

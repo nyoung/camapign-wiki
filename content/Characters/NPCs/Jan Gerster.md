@@ -13,7 +13,7 @@ tags: [character, npc]
 # Jan Gerster
 
 ## Description
-Stout innkeeper of [[Ulric's Vision]], an inn deep in the forest on the road between [[Fox and Crown]] and [[Beekerhoven]].
+Stout innkeeper of [[Ulric's Vision]], an inn deep in the forest on the road between [[Fox and Crown]] and [[Beeckerhoven]].
 
 ## Role / Occupation
 Innkeeper of Ulric's Vision.

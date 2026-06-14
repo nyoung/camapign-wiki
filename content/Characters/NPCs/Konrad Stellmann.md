@@ -27,7 +27,7 @@ Well-meaning but lacking confidence, especially about public speaking before a j
 - [[Pilpoul Ivri|Pilpoul]] — effectively co-counsel; provided the key arguments that shaped the defence
 
 ## History with the Party
-Met at [[Fulpfasser Court]] in [[Session 03 - The Trial]]. [[Pilpoul Ivri|Pilpoul]] coached him on legal strategy before the trial (intent over interpretation) and effectively co-argued the case. After the verdict, Conrad gave Pilpoul a hearty handshake, expressing amazement at the result.
+Met at [[Fusspulver Court]] in [[Session 03 - The Trial]]. [[Pilpoul Ivri|Pilpoul]] coached him on legal strategy before the trial (intent over interpretation) and effectively co-argued the case. After the verdict, Conrad gave Pilpoul a hearty handshake, expressing amazement at the result.
 
 ## Known Information
 - Was doing pro bono work for the church — no pay involved despite Pilpoul's jokes

@@ -3,17 +3,17 @@ type: npc
 species: Human
 career: Guard
 faction: "[[Medical Union]]"
-location: "[[Beekerhoven]] (surrendered)"
+location: "[[Beeckerhoven]] (surrendered)"
 status: surrendered
 disposition: hostile
 first_seen: "[[Session 11 - Rolf's Rampage and the Writ of Arrest]]"
 tags: [character, npc]
 ---
 
-# Matthias (Medical Union)
+# Matthaus Vogte
 
 ## Description
-A guard at the [[Medical Union]] compound in [[Beekerhoven]].
+A guard at the [[Medical Union]] compound in [[Beeckerhoven]].
 
 ## Role / Occupation
 Guard employed by [[Urs Huber]]'s [[Medical Union]].

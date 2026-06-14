@@ -35,7 +35,7 @@ Hopeful but confused. Has hazy memories of agreeing to act as bond — the party
 - Tea was served during that conversation — the party suspects it was drugged
 - Describes Stradovski as secretive and focused on work; rarely discussed personal matters or cases
 - Heard rumours of a patient suing Stradovski for medical negligence
-- Confirms Stradovski had a **patient from [[Beekerhoven]]** — a concrete lead
+- Confirms Stradovski had a **patient from [[Beeckerhoven]]** — a concrete lead
 - Faces execution in ~6 weeks from 18 Nachexen 2512 if the professor is not found
 
 ## Appearances

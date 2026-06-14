@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: unknown
 faction: "[[Physicians Guild|Minter Guild]]"
-location: "[[Beekerhoven]]"
+location: "[[Beeckerhoven]]"
 status: alive
 disposition: unknown
 first_seen: "[[Session 05 - The Road North]]"
@@ -13,10 +13,10 @@ tags: [character, npc]
 # Caspar Anckenreuter
 
 ## Description
-A passenger on the Wolfrunner coach to [[Beekerhoven]]. Associated with the Minter Guild. Has an address at Ambrose Platz, Beekerhoven.
+A passenger on the Wolfrunner coach to [[Beeckerhoven]]. Associated with the Minter Guild. Has an address at Ambrose Platz, Beeckerhoven.
 
 ## Role / Occupation
-Unknown — guild member (Minter Guild). Was a ticketed passenger on the Wolfrunner coach to Beekerhoven.
+Unknown — guild member (Minter Guild). Was a ticketed passenger on the Wolfrunner coach to Beeckerhoven.
 
 ## Personality
 Unknown — not yet encountered.
@@ -29,9 +29,9 @@ Not yet met. Identified via the Wolfrunner Coaches ledger in [[Session 05 - The 
 
 ## Known Information
 - Sold his coach ticket to [[Professor Udo Stradovski]] for **50 Gold Crowns** — an extraordinary sum suggesting either the professor's desperation or Anckenreuter's opportunism
-- Address: **Ambrose Platz, [[Beekerhoven]]**
+- Address: **Ambrose Platz, [[Beeckerhoven]]**
 - Associated with the **Minter Guild**
-- Unknown whether he traveled to Beekerhoven himself by another means, or remained in Middenheim
+- Unknown whether he traveled to Beeckerhoven himself by another means, or remained in Middenheim
 
 ## Appearances
 - Mentioned in [[Session 05 - The Road North]]

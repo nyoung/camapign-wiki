@@ -13,7 +13,7 @@ tags: [character, npc]
 # Knight Jurgen Klempf
 
 ## Description
-A Knight of the [[White Wolves]] — the Ulrican knightly order. Traveling on the caravan north to [[Beekerhoven]] in pursuit of [[Professor Udo Stradovski]].
+A Knight of the [[White Wolves]] — the Ulrican knightly order. Traveling on the caravan north to [[Beeckerhoven]] in pursuit of [[Professor Udo Stradovski]].
 
 ## Role / Occupation
 Knight of the White Wolves. Leads the Ulrican contingent on the caravan.

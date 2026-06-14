@@ -5,8 +5,8 @@ title: "Session 09 — The Thriceling"
 played: 2026-02-07
 in_game_date: "24 Nachexen 2512"
 in_game_date_end: "25 Nachexen 2512"
-location_start: "[[Beekerhoven]]"
-location_end: "[[Beekerhoven]]"
+location_start: "[[Beeckerhoven]]"
+location_end: "[[Beeckerhoven]]"
 pcs_present:
   - "[[Boris Dorchen]]"
   - "[[Hildegarde]]"
@@ -26,13 +26,13 @@ aliases: [Session 09, Session 9]
 
 ## Summary
 
-A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Thorncobble]], a halfling rat catcher and cousin to [[Mungo Mudfoot]], along with his loyal dog [[Rolf]]. Introductions were made over a meal of unappetising lurker fish, and the party briefed Connie on the complex three-way pursuit of [[Professor Udo Stradovski]]. Investigation of the city gates revealed that the professor had departed via the West Gate, likely heading north, and that a dangerous figure named [[Marx Khlesl]] had returned from the same direction riding the professor's own horse. A stable boy, pressed for information, disclosed that Marks was staying at a fortified compound operated by the [[Medical Union]]. The session also featured [[Pilpoul Ivri]]'s spirited argument that halflings should be called "fullings," and [[Berin Garibaldi|Berin]]'s analysis of the dangerous banned tome known as the [[Seuchenbuch|Plague Book]].
+A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Thorncobble]], a halfling rat catcher and cousin to [[Mungo Mudfoot]], along with his loyal dog [[Rolf]]. Introductions were made over a meal of unappetising lurker fish, and the party briefed Connie on the complex three-way pursuit of [[Professor Udo Stradovski]]. Investigation of the city gates revealed that the professor had departed via the West Gate, likely heading north, and that a dangerous figure named [[Marx Khlesl]] had returned from the same direction riding the professor's own horse. A stable boy, pressed for information, disclosed that Marx was staying at a fortified compound operated by the [[Medical Union]]. The session also featured [[Pilpoul Ivri]]'s spirited argument that halflings should be called "fullings," and [[Berin Garibaldi|Berin]]'s analysis of the dangerous banned tome known as the [[Seuchenbuch|Plague Book]].
 
 ## Key Events
 
 ### Introductions at the Inn (24 Nachexen)
 
-- [[Mungo Mudfoot]] introduced his cousin [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] to the party at the inn in [[Beekerhoven]]
+- [[Mungo Mudfoot]] introduced his cousin [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] to the party at the inn in [[Beeckerhoven]]
 - Connie was accompanied by his faithful dog [[Rolf]]
 - [[Pilpoul Ivri]] launched into a passionate speech declaring that halflings should be called "fullings," since they were complete people — taller folk were merely "twicelings" or "thricelings" (hence the session title)
 - Connie revealed Mungo's embarrassing childhood nickname: "Mungo the Pie Crusts," earned by leaving trails of pastry debris wherever food disappeared; Mungo hastily excused himself from the conversation
@@ -91,7 +91,7 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 - The party visited the [[Temple of Verena]] to update their warrant with new members
 - The priestess added [[Berin Garibaldi|Berin]] and Connie to the official warrant document, providing payment and pay stubs, and warned of the consequences of abandoning the mission
-- When asked about [[Marx Khlesl]], the priestess identified him as a prominent figure in [[Beekerhoven]]'s underground, associated with the [[Wolfmen]] gang — young street thugs involved in extortion and threats, not murder or arson
+- When asked about [[Marx Khlesl]], the priestess identified him as a prominent figure in [[Beeckerhoven]]'s underground, associated with the [[Wolfmen]] gang — young street thugs involved in extortion and threats, not murder or arson
 - She suggested local troublemakers might know his current whereabouts
 
 ### Pressing the Stable Boy — The Medical Union
@@ -99,8 +99,8 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 - The party returned to the stables with [[Hoffman Jannitzer]] in tow; [[Berin Garibaldi|Berin]]'s intuition detected the stable boy was withholding information
 - Connie's attempt at intimidation using [[Rolf]] failed comically; [[Boris Dorchen]] stepped in with more success
 - Under pressure and with promises of protection from the [[Temple of Verena]], the stable boy revealed that [[Marx Khlesl]] had returned on the same old nag [[Castor Stark]] had sold to the professor, then moved it elsewhere to avoid the stable master recognising it
-- For a shilling bribe and assurance of Verenan protection, the boy disclosed that Marks was staying at the old military stables with a group called the [[Medical Union]] — a fortified compound with fifteen-foot walls and dangerous guards
-- Crucially: Marks was not merely a member of the [[Wolfmen]] — he was a bigger player who paid them to do his dirty work
+- For a shilling bribe and assurance of Verenan protection, the boy disclosed that Marx was staying at the old military stables with a group called the [[Medical Union]] — a fortified compound with fifteen-foot walls and dangerous guards
+- Crucially: Marx was not merely a member of the [[Wolfmen]] — he was a bigger player who paid them to do his dirty work
 
 ## Quests
 
@@ -109,8 +109,8 @@ A new companion joined the party: [[Falconius Thorncobble|Falconius "Connie" Tho
 
 ## Locations Visited
 
-- [[Beekerhoven]] — inn, city stables, North Gate, West Gate, [[Temple of Verena]]
-- [[City Stables (Beekerhoven)]] — [[Castor Stark]]'s establishment; source of key intelligence
+- [[Beeckerhoven]] — inn, city stables, North Gate, West Gate, [[Temple of Verena]]
+- [[City Stables (Beeckerhoven)]] — [[Castor Stark]]'s establishment; source of key intelligence
 
 ## NPCs Encountered
 

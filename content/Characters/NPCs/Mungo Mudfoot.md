@@ -14,7 +14,7 @@ aliases: [Mungo]
 # Mungo Mudfoot
 
 ## Description
-A halfling teamster assigned by the [[Temple of Verena]] to drive the party's provisions wagon north. Short, cheerful, and possessed of the halfling's particular talent for making himself thoroughly at home wherever he ends up. His wagon has grown progressively more crowded since [[Beekerhoven]] — it now also carries communication pigeons and chickens, an enterprise he arranged entirely on his own initiative.
+A halfling teamster assigned by the [[Temple of Verena]] to drive the party's provisions wagon north. Short, cheerful, and possessed of the halfling's particular talent for making himself thoroughly at home wherever he ends up. His wagon has grown progressively more crowded since [[Beeckerhoven]] — it now also carries communication pigeons and chickens, an enterprise he arranged entirely on his own initiative.
 
 ## Role / Occupation
 Teamster. Drives the provisions wagon on the journey north toward [[Ferlangen]]. Cousin of [[Falconius Thorncobble]]. A member of the Teamsters Guild, though the rulebook he occasionally pretends to take notes in turns out to have a dry feather.
@@ -29,13 +29,13 @@ What saves him from being merely comic is a streak of genuine competence. He tie
 ## History with the Party
 Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 
-**Session 07 (road to Beekerhoven):** Regaled the party with stories of his ancestors, including how his great elder halfling ancestor accidentally tripped Magnus the Pious. Tied the wagon reins to the post, climbed into the back while the wagon was moving, and returned with mugs of ale for the riders. Declined to enter [[Beekerhoven]] to avoid the exit fee — remaining at the caravan fortification outside the city walls.
+**Session 07 (road to Beeckerhoven):** Regaled the party with stories of his ancestors, including how his great elder halfling ancestor accidentally tripped Magnus the Pious. Tied the wagon reins to the post, climbed into the back while the wagon was moving, and returned with mugs of ale for the riders. Declined to enter [[Beeckerhoven]] to avoid the exit fee — remaining at the caravan fortification outside the city walls.
 
-**Session 09:** Introduced his cousin [[Falconius Thorncobble]] to the party at the Beekerhoven inn. Revealed his embarrassing childhood nickname: "Mungo the Pie Crusts" (earned by leaving trails of pastry wherever food went missing) — then hastily excused himself when Connie brought it up.
+**Session 09:** Introduced his cousin [[Falconius Thorncobble]] to the party at the Beeckerhoven inn. Revealed his embarrassing childhood nickname: "Mungo the Pie Crusts" (earned by leaving trails of pastry wherever food went missing) — then hastily excused himself when Connie brought it up.
 
 **Session 12 onward:** Agreed to drive the party north toward [[Ferlangen]]. Loaded his wagon with pigeons and chickens for extra income (communication pigeons). Wagon now crowded; roads deteriorating. Carried the party and gear on the slow journey north through Nordland and into Ostland.
 
-**Session 15–16:** Sent a homing pigeon with Pilpoul's report to the [[Temple of Verena (Beekerhoven)|Temple of Verena]] in Beekerhoven. Descended the stairs at the Forest Inn well-rested and cheerful the morning after the ghoul battle, blissfully unaware of events. Boris's Ulrican pendant ended up in Mungo's beer mug during the Skralberg brawl.
+**Session 15–16:** Sent a homing pigeon with Pilpoul's report to the [[Temple of Verena (Beeckerhoven)|Temple of Verena]] in Beeckerhoven. Descended the stairs at the Forest Inn well-rested and cheerful the morning after the ghoul battle, blissfully unaware of events. Boris's Ulrican pendant ended up in Mungo's beer mug during the Skjaldberg brawl.
 
 **Session 19:** Carried Pilpoul's pigeon-borne letter to [[Lady Steiner]] from the [[Hemp Merchant]] (the innkeeper warned the bird might struggle under the prose). At [[Ferlangen]] he opted to remain at the **fortified inn outside the walls** with the wagon and animals rather than attempt the city gate ritual — and was immediately distracted by the discovery of a **female halfling** sitting outside the inn, the first moot folk he'd seen since [[Middenheim]].
 

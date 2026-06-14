@@ -30,7 +30,7 @@ Passionate, provocative. Invoked Sigmar's name in his rhetoric — the judge int
 
 ## History with the Party
 - [[Session 01 - The Sewer Horror]]: Encountered during the plaza riot. [[Pilpoul Ivri|Pilpoul]] identified him to the [[Danderich Flisshausten]]. Arrested.
-- [[Session 02 - The Trial of Klaus Grebel]]: Surrendered to the Inquisitor, but [[Udo Hintzer|Watch Sergeant Udo Hintzer]] intervened and took him to jail. Trial scheduled at [[Fulpfasser Court]].
+- [[Session 02 - The Trial of Klaus Grebel]]: Surrendered to the Inquisitor, but [[Udo Hintzer|Watch Sergeant Udo Hintzer]] intervened and took him to jail. Trial scheduled at [[Fusspulver Court]].
 - [[Session 03 - The Trial]]: Found **guilty** of the Heresy of Arctus but sentenced to **3 months minimum community service** under the [[Cult of Shallya]] — no execution, no long-term imprisonment. [[Pilpoul Ivri|Pilpoul]] effectively won a lenient sentence. Back at the church per [[Elke Grebel]]; the Inquisition cannot kill him.
 
 ## Known Information

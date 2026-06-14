@@ -58,7 +58,7 @@ Asper explained the University's position:
 
 The party laid out their findings:
 - Stradovski's connection to the Khainite priest **[[Melmoth]]**
-- The anatomical horrors at [[Beekerhoven]]
+- The anatomical horrors at [[Beeckerhoven]]
 - The body-snatching ring
 - The illegal freshly-minted coins linking the conspiracy to a wider network
 - [[Berin Garibaldi|Berin]] placed the dark sword taken from [[Melmoth]] and the Khaine tome on the table; Asper covered them with her leather satchel and recorded every detail in her small journal with handwriting so precise it looked printed by a press
@@ -179,7 +179,7 @@ The deceased was a man in his mid-thirties to early forties, dressed in a fine t
 
 ## Notes / Loose Threads
 
-- **What was Christina Asper doing at the Pewter Merchant the night Werner/"Masten Feltt" was killed?** She has not volunteered this information
+- **What was Christina Asper doing at the Pewter Merchant the night the false "Masten Feltt" was killed?** She has not volunteered this information
 - **The redhead girl** at the Pewter Merchant — present just before the killing, then vanished; echoes the Nordland farm girl thread from Session 16
 - **The hundred-crown fine** — can the party get Petz off the hook?
 - **Stradovski's destination past Ferlangen** — still unknown

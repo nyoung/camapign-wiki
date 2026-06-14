@@ -20,7 +20,7 @@ A bounty hunter from [[Marienburg]], hired by the [[Temple of Verena]] to locate
 Temple guardian and active Verenian agent in the three-way race to find [[Professor Udo Stradovski]]. Tasked with ensuring the professor is brought back for a proper trial rather than executed on the spot. Holds a warrant that authorises [[Altus Elsein]] to act under him as a "thief taker," effectively mentoring the younger man in the trade.
 
 ## Personality
-Jannitzer is professional to the bone — organised, focused, and rarely rattled. He handled the delicate three-faction caravan situation (Verenans, [[Ordo Sancti Inquisita|Sigmarites]], [[Cult of Ulric|Ulricans]]) with quiet diplomacy and kept logistics running. When he threw a weighted net to entangle Matthias during the Medical Union raid, it was unhurried and precise. He is not a young man, and he knows it; he doesn't waste energy.
+Jannitzer is professional to the bone — organised, focused, and rarely rattled. He handled the delicate three-faction caravan situation (Verenans, [[Ordo Sancti Inquisita|Sigmarites]], [[Cult of Ulric|Ulricans]]) with quiet diplomacy and kept logistics running. When he threw a weighted net to entangle Matthaus Vogte during the Medical Union raid, it was unhurried and precise. He is not a young man, and he knows it; he doesn't waste energy.
 
 What makes him more interesting than his professional surface is what the [[Forest Inn]] revealed. [[Condradine]] attached herself to him with warmth convincing enough to fool [[Pilpoul Ivri|Pilpoul]], who was watching specifically for deception — and Jannitzer was simply charmed, plainly and completely. He laughed, he sat close, he went upstairs without hesitation. Whatever vigilance normally protects him, he set it down that evening without a second thought. When he came to — groggy, bloodshot, waking to find himself being lowered out of a window on a rope — his first response was not embarrassment or anger. He explained it calmly and factually: she had put something in his apple cider liquor. A professional accounting. Whatever he felt about being taken in so thoroughly, he kept it to himself.
 
@@ -33,10 +33,10 @@ What makes him more interesting than his professional surface is what the [[Fore
 ## History with the Party
 Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. Revealed the three-way race dynamic and confirmed Stradovski's travel plans. Arranged caravan transport north, departing in two days.
 
-**Session 06–07 (Fox and Crown):** Fought in the were-rabbit battle. Rushed from the kitchen to support the party with hand weapon, then switched to sword and shield — obliterated a bunny swarm entirely, scattering rabbits in all directions. Moved to assist [[Erika Sÿfrid von Drakkenheim]] with her cart-flipping plan. Continued with the party to [[Beekerhoven]].
+**Session 06–07 (Fox and Crown):** Fought in the were-rabbit battle. Rushed from the kitchen to support the party with hand weapon, then switched to sword and shield — obliterated a bunny swarm entirely, scattering rabbits in all directions. Moved to assist [[Erika Sÿfrid von Drakkenheim]] with her cart-flipping plan. Continued with the party to [[Beeckerhoven]].
 
 ## Known Information
-- Stradovski purchased a Wolfrunner coach ticket to Beekerhoven — confirmed lead
+- Stradovski purchased a Wolfrunner coach ticket to Beeckerhoven — confirmed lead
 - Three warrants are out: [[Ordo Sancti Inquisita]] (execute), [[Cult of Ulric]] / White Wolves (unclear intent), [[Temple of Verena]] (justice/fair trial)
 - Caravan departs north in two days (20 Nachexen 2512)
 - The Sigmarites and Ulricans will be on the same caravan — tense travel situation
@@ -44,13 +44,13 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 
 ## History with the Party (continued)
 
-**Sessions 09–11 (Beekerhoven investigation):** Accompanied the party during the Medical Union investigation — noted "huffing and puffing" behind Pilpoul during the approach; threw a weighted net that entangled Matthias during the fight (Session 11); helped manacle surrendered guards.
+**Sessions 09–11 (Beeckerhoven investigation):** Accompanied the party during the Medical Union investigation — noted "huffing and puffing" behind Pilpoul during the approach; threw a weighted net that entangled Matthaus Vogte during the fight (Session 11); helped manacle surrendered guards.
 
 **Sessions 13–14 (Forest Inn):** Met a woman named [[Condradine]] at the Forest Inn who attached herself to him; went upstairs with her. Was discovered unconscious in his room, being lowered from the window by rope by Condradine and ghoulish figures — she had slipped something into his apple cider liquor. Dragged away on a cart into the night by ghouls.
 
 **Session 15:** Recovered — found alive but deeply unconscious. The battle to retrieve him concluded; he was secured.
 
-**Session 16:** Regained consciousness, groggy and bloodshot; explained Condradine had drugged his drink. Continued with the party to [[Skralberg]] and [[Schoten]].
+**Session 16:** Regained consciousness, groggy and bloodshot; explained Condradine had drugged his drink. Continued with the party to [[Skjaldberg]] and [[Schoten]].
 
 **Session 17:** Recognised [[Christina Asper]] immediately in the common room of the [[Royal Wolf Inn]]. Went pale when [[Pilpoul Ivri|Pilpoul]] accused Asper of complicity in Stradovski's escape, frantically mouthing for him to stop. [[Boris Dorchen|Boris]] blamed him to Asper for the party's tendency to get sidetracked.
 

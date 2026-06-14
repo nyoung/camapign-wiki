@@ -11,7 +11,7 @@ tags: [location]
 # Ulric's Vision
 
 ## Description
-An inn deep among the trees on the road north between [[Fox and Crown]] and [[Beekerhoven]]. Marked by a faded wooden sign bearing a crude carving of an eye — an allusion to Ulric's divine sight or vision. Remote enough that its patrons are primarily farm workers and travellers, clearly starved for news and entertainment from the outside world.
+An inn deep among the trees on the road north between [[Fox and Crown]] and [[Beeckerhoven]]. Marked by a faded wooden sign bearing a crude carving of an eye — an allusion to Ulric's divine sight or vision. Remote enough that its patrons are primarily farm workers and travellers, clearly starved for news and entertainment from the outside world.
 
 ## Notable Features
 - Faded sign with a crude carved eye
@@ -22,7 +22,7 @@ An inn deep among the trees on the road north between [[Fox and Crown]] and [[Be
 
 ## Connected Locations
 - [[Fox and Crown]] — south
-- [[Beekerhoven]] — north
+- [[Beeckerhoven]] — north
 
 ## Events
 - **Session 07 (22 Nachexen 2512):** Party stayed overnight. [[Jan Gerster]] reported that eight knights — Sigmarites and Ulricans, apparently antagonistic toward each other — had departed the previous night. Party confirmed these as the Inquisitors and Ulrican knights they are pursuing. [[Hildegarde]] attempted a drunken song about the were-rabbit battle; [[Pilpoul Ivri]] stepped in with a speech about common folk defeating tyranny; the crowd was reasonably entertained.

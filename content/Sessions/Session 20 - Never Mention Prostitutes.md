@@ -129,7 +129,7 @@ Word reached the party outside the [[Temple of Verena (Ferlangen)|Temple of Vere
 
 ### Advanced
 - **[[Find Professor Stradovski]]** — **[[Wolfenburg]]** confirmed as the most likely next destination; **rare exotic diseases** appearing simultaneously there (within the past 1–2 weeks per Shallyan rumour); contact name acquired: **[[Matron Isolde Uricht]]** at the Wolfenburg [[Temple of Shallya]]; Helpmann did not recognise Stradovski's name and is not part of his support chain
-- **[[Beekerhoven Counterfeit Coins]]** — Helpmann had not seen the false pennies in peddlar circles; the high-class brothel worker had not seen them either — implying the counterfeits are not (yet) circulating in Ferlangen's underworld
+- **[[Beeckerhoven Counterfeit Coins]]** — Helpmann had not seen the false pennies in peddlar circles; the high-class brothel worker had not seen them either — implying the counterfeits are not (yet) circulating in Ferlangen's underworld
 - **Hildegarde's missing mother** — letter to [[Lady Steiner]] still in flight from [[Session 19 - Ferlangen|Session 19]]; no further news this session
 
 ### Started

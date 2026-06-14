@@ -3,18 +3,17 @@ type: npc
 species: Human
 career: Minter
 faction:
-location: "[[Beekerhoven]]"
+location: "[[Beeckerhoven]]"
 status: alive (wife missing)
 disposition: friendly
 first_seen: "[[Session 08 - The Minter's Wife]]"
 tags: [character, npc]
-aliases: [Elson]
 ---
 
 # Manfred Teuschel
 
 ## Description
-Middle-aged minter of [[Beekerhoven]], notably older than his wife [[Elfrieda Teuschel]]. Lives in the large house with pillars on Schlosse de Vies Street — the same house [[Elfrieda Teuschel|Elfrieda]] has now abandoned. When the party returned to report on the investigation's progress, he answered the door dishevelled and visibly distressed.
+Middle-aged minter of [[Beeckerhoven]], notably older than his wife [[Elfrieda Teuschel]]. Lives in the large house with pillars on Schlosse de Vies Street — the same house [[Elfrieda Teuschel|Elfrieda]] has now abandoned. When the party returned to report on the investigation's progress, he answered the door dishevelled and visibly distressed.
 
 ## Role / Occupation
 Minter — responsible for the town's coin production. Now dealing with the aftermath of a large mint gold theft and his wife's disappearance.
@@ -34,9 +33,6 @@ Open and talkative where [[Elfrieda Teuschel|Elfrieda]] was guarded — the cont
 - Stradovski's treatment of Elfrieda cost a substantial sum (multiple gold crowns)
 - Stradovski visited ~11 Nachexen 2512, stayed one night, departed the next morning
 - A mint apprentice absconded with freshly minted coins — the town is under financial strain
-
-## Note on Naming
-Session 11 recap refers to this character as "Manfred Teuschel" — this is likely a GM Assistant recap error. The established name from Session 08 (user-provided notes) is **Manfred Teuschel**. Using Elson throughout.
 
 ## Appearances
 - [[Session 08 - The Minter's Wife]]

@@ -37,7 +37,7 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 ### Camp at the Shrine — The Wounded
 - The caravan settled the night at the [[Wayside Shrine]], still bloodied from the second ambush ([[Danderich Flisshausten|Danderich]]'s horse dead, [[Christina Asper|Asper]]'s wounded, [[Ganav]]'s clavicle shattered)
 - The halflings cooked a rabbit stew from [[Mathis Haack]]'s catch; [[Boris Dorchen|Boris]] remained suspicious of the "forest warden"
-- Branch **barricades** woven around the wagons; **four-shift watch** set on Boris's plan, approved by [[Danderich Flisshausten|Danderich]] (who lent [[Herman Wurt|Herman]] and [[Heidi Übermann|Heidi]] to the rotation)
+- Branch **barricades** woven around the wagons; **four-shift watch** set on Boris's plan, approved by [[Danderich Flisshausten|Danderich]] (who lent [[Herman Wurt|Herman]] and [[Heidi Ubermann|Heidi]] to the rotation)
 
 ### The Prisoner and the Name "Astrid"
 - [[Berin Garibaldi|Berin]] "interrogated" the captured prisoner by reading the books of [[Myrmidia]] at him for hours
@@ -83,7 +83,7 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 - **[[Mungo Mudfoot]]** — his sock gagged the prisoner; worried the fight might breach Teamster's Guild rules
 - **[[Hoffman Jannitzer]]** — stood the final watch alongside [[Hildegarde]]
 - **[[Danderich Flisshausten|Sir Danderich]]** — approved the watch rotation; eager to draw steel
-- **[[Heidi Übermann|Heidi]]** — lent to the watch rotation
+- **[[Heidi Ubermann|Heidi]]** — lent to the watch rotation
 - **Captured [[Howling Ones]] prisoner** (unnamed) — gagged; whispered "Astrid"; to be used as bait
 
 ## Locations Visited

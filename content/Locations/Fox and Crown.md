@@ -11,7 +11,7 @@ tags: [location]
 # Fox and Crown
 
 ## Description
-An inn on the road north toward [[Beekerhoven]], one stop beyond [[Arenburg]]. Arrived at after sundown by the party on 21 Nachexen 2512. Has a compound with outer walls, a south gate, an east wall, and kitchen outbuildings — the scene of the were-rabbit attack.
+An inn on the road north toward [[Beeckerhoven]], one stop beyond [[Arenburg]]. Arrived at after sundown by the party on 21 Nachexen 2512. Has a compound with outer walls, a south gate, an east wall, and kitchen outbuildings — the scene of the were-rabbit attack.
 
 ## Notable Features
 - Compound with perimeter walls — gate to the south, east wall breached during the attack
@@ -20,12 +20,12 @@ An inn on the road north toward [[Beekerhoven]], one stop beyond [[Arenburg]]. A
 - Kitchen outbuildings
 
 ## Notable NPCs
-- [[Emma Ludaroth]] — innkeeper; hired [[Boris Dorchen]] to deal with the [[Were-Rabbit]]; paid 5 GC reward after the battle
+- [[Emma Luderoth]] — innkeeper; hired [[Boris Dorchen]] to deal with the [[Were-Rabbit]]; paid 5 GC reward after the battle
 
 ## Connected Locations
 - [[Arenburg]] — south
 - [[Ulric's Vision]] — north (next inn on the road)
-- [[Beekerhoven]] — further north (destination)
+- [[Beeckerhoven]] — further north (destination)
 
 ## Notes
 - The road between Arenburg and the Fox and Crown was torn up overnight — impassable by wheeled vehicles; the party rallied locals to repair it and departed late

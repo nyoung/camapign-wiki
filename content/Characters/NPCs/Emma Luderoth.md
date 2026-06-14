@@ -10,7 +10,7 @@ first_seen: "[[Session 07 - The Were-Rabbit's End]]"
 tags: [character, npc]
 ---
 
-# Emma Ludaroth
+# Emma Luderoth
 
 ## Description
 Innkeeper of the [[Fox and Crown]]. Appeared dishevelled and sweating when the party presented the results of the were-rabbit hunt — presumably a stressful night.

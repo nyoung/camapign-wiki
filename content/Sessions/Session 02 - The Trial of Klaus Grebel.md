@@ -6,7 +6,7 @@ played: 2025-11-22
 in_game_date: "17 Nachexen 2512"
 in_game_date_end: "18 Nachexen 2512"
 location_start: "[[Middenheim]] — plaza outside [[Worm Lamplight]]"
-location_end: "[[Middenheim]] — streets, heading to [[Fulpfasser Court]]"
+location_end: "[[Middenheim]] — streets, heading to [[Fusspulver Court]]"
 pcs_present:
   - "[[Pilpoul Ivri]]"
   - "[[Boris Dorchen]]"
@@ -27,7 +27,7 @@ The session resolved the plaza riot, with [[Klaus Grebel]] ultimately handed to 
 ### Resolving the Plaza Riot (17 Nachexen, afternoon)
 The session began mid-riot. [[Boris Dorchen|Boris]] and [[Altus Elsein|Altus]] brawled directly with the Sigmarite Brotherhood. [[Hildegarde]] and [[Pilpoul Ivri|Pilpoul]] attempted to calm the Brotherhood with speeches while protecting [[Elke Grebel]]. [[Pilpoul Ivri|Pilpoul]] pulled Elke to safety in a merchant's tent — then unsuccessfully attempted to charm and rob her before slinking away.
 
-[[Hildegarde]] and [[Boris Dorchen|Boris]] were ultimately forced to surrender [[Klaus Grebel]] to the [[Danderich Flisshausten]]. However, [[Udo Hintzer|Watch Sergeant Udo Hintzer]] soon arrived, confronted the Inquisitors over jurisdiction, and took Klaus to jail. Trial set for 10am the following morning at [[Fulpfasser Court]].
+[[Hildegarde]] and [[Boris Dorchen|Boris]] were ultimately forced to surrender [[Klaus Grebel]] to the Inquisitor [[Danderich Flisshausten]]. However, [[Udo Hintzer|Watch Sergeant Udo Hintzer]] soon arrived, confronted the Inquisitors over jurisdiction, and took Klaus to jail. Trial set for 10am the following morning at [[Fusspulver Court]].
 
 ### Escorting Elke to the Temple
 The party walked [[Elke Grebel]] through Middenheim to the [[Temple of Shallya]]. Along the way, citizens repeatedly approached Elke with gifts of food and clothing, which she immediately redistributed to those in greater need. [[Boris Dorchen|Boris]] found this natural (reminiscent of village customs); [[Hildegarde]] was stunned — she had never witnessed such generosity on the streets. Elke ecstatically described the party's heroics to [[Matron Isolde]] upon arrival.
@@ -50,7 +50,7 @@ The party woke to temple bells, finding their clothes cleaned and pressed. [[Hil
 At the [[Commission for Trade Commerce and Taxation]], an annoyed clerk initially dismissed the [[Bone Baton Voucher]] as invalid. [[Hildegarde]] subtly implied Sergeant Hintzer would react poorly if the city failed to pay its heroes. The clerk consulted a colleague (Jakob) and retrieved an enormous ancient ledger confirming reward batons are still valid. He reluctantly paid out 5 gold crowns — scraping each coin as if in pain. [[Boris Dorchen|Boris]] initially distributed one coin each plus kept the fifth for himself; [[Altus Elsein|Altus]] caught the error. The clerk provided change: each party member received **1 Gold Crown and 5 Silver Shillings**.
 
 ### Planning
-The party prepared to attend Klaus's trial at [[Fulpfasser Court]] and speak with legalists to inscribe the Imperial warrant. They discussed searching the professor's house (believing the Inquisition was too eager for spectacle to search thoroughly) and the city tunnels as a potential hiding spot.
+The party prepared to attend Klaus's trial at [[Fusspulver Court]] and speak with legalists to inscribe the Imperial warrant. They discussed searching the professor's house (believing the Inquisition was too eager for spectacle to search thoroughly) and the city tunnels as a potential hiding spot.
 
 ## NPCs Encountered
 - [[Elke Grebel]] — name revealed; escorted to temple
@@ -83,7 +83,7 @@ The party prepared to attend Klaus's trial at [[Fulpfasser Court]] and speak wit
 Unknown
 
 ## Notes / Loose Threads
-- [[Klaus Grebel]]'s trial at [[Fulpfasser Court]], 10am (18 Nachexen) — outcome unknown
+- [[Klaus Grebel]]'s trial at [[Fusspulver Court]], 10am (18 Nachexen) — outcome unknown
 - [[Ordo Sancti Inquisita|Sigmarite Inquisition]] contested jurisdiction with Hintzer — how will they respond?
 - [[Lady Steiner]] recognised Hildegarde's necklace as "familiar" — what does she know?
 - [[Joerg Wusterburg]]'s nervousness and motives unexplained

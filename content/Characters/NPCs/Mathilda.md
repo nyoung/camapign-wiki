@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Herb Woman
 faction:
-location: "[[Beekerhoven]]"
+location: "[[Beeckerhoven]]"
 status: alive
 disposition: nervous
 first_seen: "[[Session 08 - The Minter's Wife]]"
@@ -13,7 +13,7 @@ tags: [character, npc]
 # Mathilda
 
 ## Description
-A local herb woman in [[Beekerhoven]], living in a cluttered cottage two streets from the main inn. Her door bears a shallowly carved rosemary branch as a sign.
+A local herb woman in [[Beeckerhoven]], living in a cluttered cottage two streets from the main inn. Her door bears a shallowly carved rosemary branch as a sign.
 
 ## Role / Occupation
 Herb woman and likely the closest thing to a local healer outside of formal temples.

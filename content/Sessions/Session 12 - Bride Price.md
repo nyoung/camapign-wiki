@@ -5,7 +5,7 @@ title: "Session 12 — Bride Price"
 played: 2026-02-28
 in_game_date: "26 Nachexen 2512"
 in_game_date_end: "27 Nachexen 2512"
-location_start: "[[Beekerhoven]]"
+location_start: "[[Beeckerhoven]]"
 location_end: "[[All Shadows Fled Inn|All Shadows Fled]]"
 pcs_present:
   - "[[Boris Dorchen]]"
@@ -26,13 +26,13 @@ aliases: [Session 12]
 
 ## Summary
 
-The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Ferlangen]]. Before leaving, they navigated the town crier's announcement that all newly minted coins were seized property, requiring [[Pilpoul Ivri]] to improvise a ruse at the gate. On the road, they discovered the wreck of [[Elfrieda Teuschel]]'s black coach, confirming she was on the same route but had abandoned it after a broken wheel. At their second night's inn, the [[All Shadows Fled Inn|All Shadows Fled]], [[Hildegarde]] witnessed a traditional wife sale and bid aggressively against the innkeeper — losing the auction but making her feelings emphatically clear to all present, including the unrepentant husband.
+The party departed [[Beeckerhoven]] on the northern coastal road, headed for [[Ferlangen]]. Before leaving, they navigated the town crier's announcement that all newly minted coins were seized property, requiring [[Pilpoul Ivri]] to improvise a ruse at the gate. On the road, they discovered the wreck of [[Elfrieda Teuschel]]'s black coach, confirming she was on the same route but had abandoned it after a broken wheel. At their second night's inn, the [[All Shadows Fled Inn|All Shadows Fled]], [[Hildegarde]] witnessed a traditional wife sale and bid aggressively against the innkeeper — losing the auction but making her feelings emphatically clear to all present, including the unrepentant husband.
 
 ## Key Events
 
 ### Planning the Departure (27 Nachexen)
 
-- [[Falconius Thorncobble|Connie]] sought out his cousin [[Mungo Mudfoot]] at the caravan camp outside [[Beekerhoven]]'s walls, finding him entertaining fellow travelers with stories about pies
+- [[Falconius Thorncobble|Connie]] sought out his cousin [[Mungo Mudfoot]] at the caravan camp outside [[Beeckerhoven]]'s walls, finding him entertaining fellow travelers with stories about pies
 - Mungo confirmed the professor was likely heading for [[Ferlangen]], a mining town in eastern [[Ostland]]
 - Route options discussed: the northern coastal road — ten to twelve days — versus the safer southern route around the [[Grey Mountains]] — two and a half to three weeks; northern roads would be rough this early in the season
 - [[Mungo Mudfoot]] agreed to prepare his wagon for early departure and offered to carry communication pigeons along the way for extra income
@@ -60,9 +60,9 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 ### The Hunter's Lodge (28 Nachexen, evening)
 
 - After a full day's travel, the party reached the [[Hunter's Lodge]], a solid timber inn beside a wayside shrine dedicated to [[Haleth Shrine|Haleth]], goddess of the hunt
-- Innkeeper [[Klaus Ulfinger]] greeted them warily, initially fearing they were [[Ordo Sancti Inquisita|Sigmarite]] agents sent to seize local shrines; the party assured him they were simple travelers bound for [[Ferlangen]]
+- Innkeeper [[Klaus Kulfinger]] greeted them warily, initially fearing they were [[Ordo Sancti Inquisita|Sigmarite]] agents sent to seize local shrines; the party assured him they were simple travelers bound for [[Ferlangen]]
 - [[Falconius Thorncobble|Connie]] paid for rooms with one of the newly minted gold crowns — drawing immediate attention, as few locals had seen such fresh currency this far from major cities
-- [[Klaus Ulfinger]] shared important news: a black coach matching [[Elfrieda Teuschel]]'s description had passed through the previous night, driven by a broad-shouldered man and accompanied by a raven-haired woman; despite warnings about the roads after dark, they had continued north
+- [[Klaus Kulfinger]] shared important news: a black coach matching [[Elfrieda Teuschel]]'s description had passed through the previous night, driven by a broad-shouldered man and accompanied by a raven-haired woman; despite warnings about the roads after dark, they had continued north
 
 ### The Haleth Shrine and Local Intelligence
 
@@ -112,19 +112,19 @@ The party departed [[Beekerhoven]] on the northern coastal road, headed for [[Fe
 ## Quests
 
 ### Active
-- [[Find Professor Stradovski]] — trail leads north on the coastal road toward [[Ferlangen]]; the professor traveled with [[Schliegel]] and departed before [[Elfrieda Teuschel]]
+- [[Find Professor Stradovski]] — trail leads north on the coastal road toward [[Ferlangen]]; the professor traveled with [[Edrich Sliegel]] and departed before [[Elfrieda Teuschel]]
 - [[Find Professor Stradovski|Track Elfrieda Teuschel]] — black coach wrecked; she and companion continue north on horseback with a distinctive proud nail on one horseshoe; still ahead of the party
 
 ## Locations Visited
 
-- [[Beekerhoven]] — departed; gate toll evaded via Pilpoul's ruse
+- [[Beeckerhoven]] — departed; gate toll evaded via Pilpoul's ruse
 - [[Hunter's Lodge]] — overnight stop; [[Elfrieda Teuschel]]'s coach confirmed passing through; [[Haleth Shrine|Haleth]] shrine examined
 - [[All Shadows Fled Inn|All Shadows Fled]] — overnight stop; wife sale witnessed; [[Hildegarde]] bid against [[Wilhelm Teggetthof]]
 
 ## NPCs Encountered
 
 - [[Mungo Mudfoot]] — teamster; confirmed route to [[Ferlangen]]; carrying homing pigeons
-- [[Klaus Ulfinger]] — innkeeper of the [[Hunter's Lodge]]; provided intelligence on [[Elfrieda Teuschel]]'s coach
+- [[Klaus Kulfinger]] — innkeeper of the [[Hunter's Lodge]]; provided intelligence on [[Elfrieda Teuschel]]'s coach
 - [[Wilhelm Teggetthof]] — innkeeper of [[All Shadows Fled Inn|All Shadows Fled]]; purchased [[Karyssa Bucer]] at the wife sale
 - [[Karyssa Bucer]] — subject of the wife sale; sold by her abusive husband to [[Wilhelm Teggetthof]]
 - [[Karyssa Bucer|Karyssa's Husband]] — abusive drunkard; profited from the sale; slapped by [[Hildegarde]]

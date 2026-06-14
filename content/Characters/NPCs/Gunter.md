@@ -28,7 +28,7 @@ Questioned by [[Hildegarde]] and [[Pilpoul Ivri]] at the inn in [[Arenburg]] dur
 - [[Professor Udo Stradovski]] stayed in Arenburg ten days prior to the party's visit
 - Stradovski treated Gunter's knee without charging — snapped the bone back into place
 - Described the professor as a private individual carrying a leather bag full of medical instruments
-- Could not provide information about Stradovski's destination beyond [[Beekerhoven]]
+- Could not provide information about Stradovski's destination beyond [[Beeckerhoven]]
 
 ## Appearances
 - [[Session 05 - The Road North]]

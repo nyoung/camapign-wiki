@@ -22,7 +22,7 @@ Medical professor at the [[Collegium Theologica]] for over twenty years. Ostensi
 ## Personality
 Stradovski has lived in [[Middenheim]] for over twenty years without making a single real impression on the faculty around him. He attended Shallyan services faithfully, kept no shrines, and left no Ulric altar in a city where the absence of one borders on a political statement. He performed religiosity the way a careful man performs everything — just enough, no more. The portrait in his study was cut from its frame by someone. His expensive vellum papers were hidden in a secret desk compartment. Even the things he left behind were arranged to reveal nothing.
 
-The coldness this implies is not an abstraction. When Stradovski arrived at the [[Forest Inn]] and recognised it for what it was — a ghoul operation, the staff already turned — he did not flee, and he did not fight. According to [[Torben Pieknich|Torben]]'s account, he immediately grasped the situation and began to negotiate. He handed over his travelling companion [[Schliegel]] and a horse to [[Melmoth]] in exchange for his own safe passage. He also paid in academic currency: knowledge of ghoul creation and care, treated as a bargaining chip rather than a horror. Then he rode away alone.
+The coldness this implies is not an abstraction. When Stradovski arrived at the [[Forest Inn]] and recognised it for what it was — a ghoul operation, the staff already turned — he did not flee, and he did not fight. According to [[Torben Pieknich|Torben]]'s account, he immediately grasped the situation and began to negotiate. He handed over his travelling companion [[Edrich Sliegel]] and a horse to [[Melmoth]] in exchange for his own safe passage. He also paid in academic currency: knowledge of ghoul creation and care, treated as a bargaining chip rather than a horror. Then he rode away alone.
 
 He drugged [[Augustus Steiner]] — his own student — to use him as a guarantor bond for his escape. He has a 100% patient success rate that spans two decades and almost certainly cannot be explained by ordinary medicine. He possessed a banned text on plague use. Whatever [[Elfrieda Teuschel]]'s network believes he is capable of achieving in [[Ferlangen]], they consider it worth stealing mint gold and abandoning a husband to facilitate.
 
@@ -47,10 +47,10 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Follower of Shallya; specialised in disease study
 - Known for engineering miraculous cures — completely healing patients thought terminally ill
 - Saw patients at a private surgery in his house after classes
-- Had a patient from [[Beekerhoven]]
+- Had a patient from [[Beeckerhoven]]
 - Subject of a medical negligence lawsuit (rumoured — **no record at the [[Physicians Guild]]**; likely false or handled outside official channels)
 - **22-year spotless Physicians Guild record**; found his own patients; never transferred care on departure
-- Patient notes: 40–50 names in Middenheim, mentions Beekerhoven at least twice; written in classical Latin; **100% success rate — no failures or deaths** across entire career (deeply suspicious)
+- Patient notes: 40–50 names in Middenheim, mentions Beeckerhoven at least twice; written in classical Latin; **100% success rate — no failures or deaths** across entire career (deeply suspicious)
 
 **Personal / suspicious:**
 - Extremely private; not known by faculty despite 20-year tenure
@@ -64,13 +64,13 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 
 **Whereabouts (chronological trail):**
 - Left Middenheim ~8–9 Nachexen 2512 heading north
-- Purchased a Wolfrunner coach ticket to [[Beekerhoven]] (via [[Caspar Anckenreuter]]'s ticket — paid **50 Gold Crowns** for it)
+- Purchased a Wolfrunner coach ticket to [[Beeckerhoven]] (via [[Caspar Anckenreuter]]'s ticket — paid **50 Gold Crowns** for it)
 - Stopped in [[Arenburg]] on the way — treated [[Gunter]]'s knee gratis; described as carrying a leather bag full of medical instruments
-- **Visited [[Elfrieda Teuschel]] in [[Beekerhoven]] c. 11 Nachexen 2512** — appeared unexpectedly, stayed one night, then departed
-- Purchased an old nag at the [[City Stables (Beekerhoven)|city stables]], claiming he was heading to [[Salzenmund]] — this was a deliberate false trail arranged by [[Elfrieda Teuschel]]; actual destination was **[[Ferlangen]]**
-- Departed Beekerhoven with farmhand [[Schliegel]] as travelling companion, supported by [[Elfrieda Teuschel]]'s network; [[Marx Khlesl]] rode briefly toward Salzenmund to provide false trail, then returned
-- Passed through [[Skralberg]] roughly 1.5 weeks before the party (c. 25–27 Nachexen) with dark academic texts and physician's bag; inquired about [[Seuchenshof]] — road was barricaded; took the road east into [[Ostland]] instead
-- **Passed through the [[Forest Inn]] ~12 days before Session 15** — recognised the ghoul operation, then sacrificed companion [[Schliegel]] and a horse to [[Melmoth]] in exchange for safe passage; also shared knowledge about ghoul creation/care
+- **Visited [[Elfrieda Teuschel]] in [[Beeckerhoven]] c. 11 Nachexen 2512** — appeared unexpectedly, stayed one night, then departed
+- Purchased an old nag at the [[City Stables (Beeckerhoven)|city stables]], claiming he was heading to [[Salzenmund]] — this was a deliberate false trail arranged by [[Elfrieda Teuschel]]; actual destination was **[[Ferlangen]]**
+- Departed Beeckerhoven with farmhand [[Edrich Sliegel]] as travelling companion, supported by [[Elfrieda Teuschel]]'s network; [[Marx Khlesl]] rode briefly toward Salzenmund to provide false trail, then returned
+- Passed through [[Skjaldberg]] roughly 1.5 weeks before the party (c. 25–27 Nachexen) with dark academic texts and physician's bag; inquired about [[Seuchenshof]] — road was barricaded; took the road east into [[Ostland]] instead
+- **Passed through the [[Forest Inn]] ~12 days before Session 15** — recognised the ghoul operation, then sacrificed companion [[Edrich Sliegel]] and a horse to [[Melmoth]] in exchange for safe passage; also shared knowledge about ghoul creation/care
 - **Last known heading: northeast along the [[Erengrad Road]], then east into [[Ostland]]**, heading toward [[Ferlangen]]
 - Passed through the [[Pewter Merchant]] ~12–14 days before Session 17 (paid with an illegal freshly minted gold crown)
 - **Passed through the [[Hemp Merchant]] on the night of the 16th Nachexen** — traveling alone with the same brown horse bearing a white blaze; haughty Middenland accent (confirmed by [[Jan Smuts]] and stable boy in Session 18)
@@ -82,7 +82,7 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 ## Network / Conspiracy
 - [[Elfrieda Teuschel]] — former patient; sheltered him; arranged false trail to Salzenmund; provided freshly minted coins; organised supplies via [[Marx Khlesl]]; a serious co-conspirator, not merely a grateful patient
 - [[Marx Khlesl]] — hired by Elfrieda to ride the false trail; reports to her
-- [[Schliegel]] — farmhand who travelled with the professor north from Beekerhoven; **sacrificed by Stradovski to Melmoth at the Forest Inn** (presumed dead)
+- [[Edrich Sliegel]] — farmhand who travelled with the professor north from Beeckerhoven; **sacrificed by Stradovski to Melmoth at the Forest Inn** (presumed dead)
 - The [[Seuchenbuch|Seuchenbuch (Plague Book)]] — contains formulas requiring specific plague materials; the [[Seuchenshof]] hospice may have been a target for these; Berin suspects the professor is drawn to plague sources
 - The Seuchenbuch discusses using disease as a tool and weapon — similar to controversial texts in the libraries of the Knights Panther (per Berin's reading, Session 09)
 
@@ -90,11 +90,11 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Mentioned in [[Session 02 - The Trial of Klaus Grebel]]
 - [[Session 03 - The Trial]]
 - [[Session 04 - The Investigation]]
-- [[Session 08 - The Minter's Wife]] *(confirmed visit to Beekerhoven)*
+- [[Session 08 - The Minter's Wife]] *(confirmed visit to Beeckerhoven)*
 - [[Session 09 - The Thriceling]] *(trail at stables confirmed)*
 - [[Session 10 - Rats, Corpses, and Conspiracy]] *(note to Ferlangen found)*
 - [[Session 11 - Rolf's Rampage and the Writ of Arrest]] *(Marx Khlesl confirmed details)*
 - [[Session 15 - Stradovski's Guide to Selling Out Your Friends]] *(Forest Inn revelation — moral character confirmed)*
-- [[Session 16 - Plus ça change]] *(Skralberg confirmation; entered Ostland)*
+- [[Session 16 - Plus ça change]] *(Skjaldberg confirmation; entered Ostland)*
 - [[Session 17 - Asper-ated]] *(passage through Pewter Merchant confirmed)*
 - [[Session 18 - The Hemp Merchant]] *(passage through Hemp Merchant on 16th Nachexen confirmed)*

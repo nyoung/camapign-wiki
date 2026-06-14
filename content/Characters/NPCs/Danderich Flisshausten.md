@@ -33,7 +33,7 @@ Formal, methodical, and proud of his noble lineage. Forceful about his authority
 ## History with the Party
 - [[Session 01 - The Sewer Horror]]: Led the Ordo contingent in the plaza riot; burst from a nearby building and ordered [[Klaus Grebel]]'s arrest. His red-sashed thugs attacked [[Elke Grebel]].
 - [[Session 02 - The Trial of Klaus Grebel]]: Took custody of Grebel; jurisdiction contested by [[Udo Hintzer|Watch Sergeant Udo Hintzer]].
-- [[Session 03 - The Trial]]: Prosecuted Klaus's heresy trial at [[Fulpfasser Court]]. Personally threatened [[Pilpoul Ivri]] after losing.
+- [[Session 03 - The Trial]]: Prosecuted Klaus's heresy trial at [[Fusspulver Court]]. Personally threatened [[Pilpoul Ivri]] after losing.
 - [[Session 05 - The Road North]]: Argued with [[Jurgen Klempf]] over caravan command; deferred under [[Erika Sÿfrid von Drakkenheim]]'s mediation. Warned Erika about party infamy. Invited her to dinner in [[Arenburg]].
 
 ## Known Information
@@ -56,13 +56,13 @@ Formal, methodical, and proud of his noble lineage. Forceful about his authority
 ## Session 24 — Hawkeye Incident / Further Intelligence Ignored
 - Demanded **summary execution** of the captured outlaw [[Ganav|Hawkeye]]; overruled by [[Hoffman Jannitzer]] and [[Berin Garibaldi|Berin]]
 - Dismissed [[Berin Garibaldi|Berin]]'s gathered road intelligence about the Dassel–Wolfenburg stretch; certain bandits would not strike again
-- His own subordinate **[[Heidi Übermann]]** privately told Berin that she considers him an **overblown hothead, underqualified for his rank**
+- His own subordinate **[[Heidi Ubermann]]** privately told Berin that she considers him an **overblown hothead, underqualified for his rank**
 
 ## Session 25 — Horse Killed, Into the Pit
 - The opening volley **severed his horse's spine**, dropping the animal and **pinning him beneath it**
 - He freed himself and tried to charge heroically up the path — and **promptly fell into a hidden pit trap**, needing [[Herman Wurt|Herman]] to haul him out while the battle raged
 - Afterward, nursing wounded pride more than body, he **demanded the prisoners be hanged on the spot**; [[Berin Garibaldi|Berin]] talked him down (they may yet hold useful intelligence)
-- A second consecutive session of reckless, ineffective leadership — exactly the pattern [[Heidi Übermann]] privately warned about
+- A second consecutive session of reckless, ineffective leadership — exactly the pattern [[Heidi Ubermann]] privately warned about
 
 ## Appearances
 - [[Session 01 - The Sewer Horror]]

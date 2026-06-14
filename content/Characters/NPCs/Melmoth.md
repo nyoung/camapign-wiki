@@ -24,7 +24,7 @@ Patient and pragmatic. He did not build the [[Forest Inn]] operation through vio
 
 ## History with the Party
 
-**Approximately 12 days before Session 15 (Forest Inn):** [[Professor Udo Stradovski]] passed through and recognized the nature of the inn. Negotiated his own release from Melmoth by sacrificing his traveling companion ([[Schliegel]]) and a horse, and by sharing his knowledge of ghoul care and creation.
+**Approximately 12 days before Session 15 (Forest Inn):** [[Professor Udo Stradovski]] passed through and recognized the nature of the inn. Negotiated his own release from Melmoth by sacrificing his traveling companion ([[Edrich Sliegel]]) and a horse, and by sharing his knowledge of ghoul care and creation.
 
 **Session 15 (Forest Inn, outside):** Led the attack outside the Forest Inn. Was killed by [[Berin Garibaldi|Berin]], who pinned him against the wall in a charging attack and ran him through. [[Berin Garibaldi|Berin]] severed his head and placed it on the gatepost as a warning.
 

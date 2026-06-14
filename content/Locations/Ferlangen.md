@@ -21,7 +21,7 @@ A small walled town of grey stone rising out of the flat eastern Ostland plain. 
 - **External fortified caravanserai** outside the gate — where [[Mungo Mudfoot|Mungo]] parked the wagon and animals
 - A second wall is being added on certain sections of the existing wall — visible mortarwork
 - Town criers actively advertise rewards for cult members and post official denials regarding Kislevite revolutionary activity
-- Approximately 10–12 days from [[Beekerhoven]] by the northern coastal road
+- Approximately 10–12 days from [[Beeckerhoven]] by the northern coastal road
 - Approximately 2.5–3 weeks by the safer southern route around the Grey Mountains
 
 ## Notable NPCs
@@ -43,8 +43,8 @@ A small walled town of grey stone rising out of the flat eastern Ostland plain. 
 ## Connected Locations
 - [[Fist of Amber]] — west, the last coaching inn before the city
 - [[Hemp Merchant]] — further west along the coast road
-- [[Beekerhoven]] — starting point for the pursuit
-- [[Skralberg]] — border crossing; [[Professor Udo Stradovski|Stradovski]] confirmed passing through here heading east
+- [[Beeckerhoven]] — starting point for the pursuit
+- [[Skjaldberg]] — border crossing; [[Professor Udo Stradovski|Stradovski]] confirmed passing through here heading east
 - [[Schoten]] — first Ostland town east of the border
 - [[Medical Union Compound]] — source of the note confirming this destination
 - [[Temple of Verena (Ferlangen)|Temple of Verena]] (within the walls)
@@ -58,16 +58,16 @@ A small walled town of grey stone rising out of the flat eastern Ostland plain. 
 ## Events
 - **[[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]:** [[Falconius Thorncobble|Falconius]] found a note in the [[Medical Union Compound]] signed by [[Elfrieda Teuschel|E. Teuschel]], confirming [[Professor Udo Stradovski|Stradovski]] was heading to Ferlangen. This established the party's destination.
 - **[[Session 13 - Where the Wild Things Aren't|Session 13]]:** [[Condradine]] claimed to be travelling from Ferlangen to [[Middenheim]].
-- **[[Session 16 - Plus ça change|Session 16]]:** [[Professor Udo Stradovski|Stradovski]] confirmed to have passed through [[Skralberg]] heading east toward Ostland and Ferlangen.
+- **[[Session 16 - Plus ça change|Session 16]]:** [[Professor Udo Stradovski|Stradovski]] confirmed to have passed through [[Skjaldberg]] heading east toward Ostland and Ferlangen.
 - **[[Session 19 - Ferlangen|Session 19]]:** Party arrived in the late afternoon. [[Mungo Mudfoot|Mungo]] elected to remain at the external caravanserai with the wagon and animals. The PCs queued at the south gate, touched the portable Sigmar altar, and entered. Town criers advertised the bounty on the **[[Howling Ones]]** cult and denied (loudly) the existence of any Kislevite revolutionary forces in Ostland. The two refugee Ostlanders parted ways with the party at a warehouse near the gate. [[Hoffman Jannitzer]] confirmed lodging arranged at **Frau Busch's boarding house**. At the [[Temple of Verena (Ferlangen)|Temple of Verena]] the **[[Abbess of Verena (Ferlangen)|Abbess]]** read out [[Christina Asper]]'s damning report and clarified that the party — not Asper — leads the investigation. [[Berin Garibaldi|Berin]] identified **[[Khaine]]** in the temple library before being shown out. The party collected their wages and settled in.
 - **[[Session 20 - Never Mention Prostitutes|Session 20]]:** Letter for [[Karl Helpmann]] delivered at [[Helpmann's General Goods]]; Helpmann's smuggling work revealed as a serf pipeline to [[Averland]] (he had no knowledge of [[Professor Udo Stradovski|Stradovski]]). [[Herga]] formally placed in the care of the [[Temple of Shallya (Ferlangen)|Temple of Shallya]], who shared rumours of a **simultaneous outbreak of rare diseases in [[Wolfenburg]]** and named **[[Matron Isolde Uricht]]** as the party's contact there. Party billeted at **[[Frau Busch's Boarding House]]** in a rough quarter (taverns, balconied brothels). Détente reached with [[Christina Asper|Asper]] over dinner; **[[Lucas Pollack]]** met in person. Late that night [[Hildegarde]] visited the nearby brothel under a key exception from [[Frau Busch]], paid 2½ crowns to a high-class worker for **information** rather than service, and obtained a list of corrupt merchants involved in human trafficking — including **[[Marretta Schongauer]]**.
 - **[[Session 21 - The Gnome and the Slayer|Session 21]]:** Morning brief at [[Frau Busch's Boarding House]] — kidnappings happen in the **countryside, not the city**. Visit to the **[[Physicians' Guild (Ferlangen)|Physicians' Guild]]** turned up **[[Derich Kölderer]]**, a newly-registered physician (~one month prior), and a Guild Master warning that the **[[Wolfenburg]] road is plagued by [[Howling Ones]]**. The party then drank at **[[Sam Bugman's Brewery]]** (corner of First Strasse and Wallstrasse) — [[Pilpoul Ivri|Pilpoul]] became catastrophically drunk and sang dwarven tavern songs at a hostile dwarven crowd. On the way out they witnessed an alley ambush on the gnome merchant **[[Gromril van Aelst]]**; intervened, beat the thugs down, and were hired for **10 GC** to escort Gromril's coach to [[Wolfenburg]]. Gromril named **[[Klaus von Kolditz]]** (antiques dealer) and **[[Anton Kristov]]** (import-exporter on the [[Kislev]] route) as confirmed traffickers, matching names from [[Hildegarde]]'s brothel intelligence. Departure rendezvous: **dawn, 7 Jahrdrung 2512**, outside the south gate.
 
 ## Notes
 - Note: early session summaries spell the province as "Osland" — the correct name is Ostland
-- The Abbess explicitly recommended the **Merchants Guild** as the avenue for investigating the [[Beekerhoven]] counterfeit coins
+- The Abbess explicitly recommended the **Merchants Guild** as the avenue for investigating the [[Beeckerhoven]] counterfeit coins
 - The Howling Ones bounty is **10/- per head** (per criers)
 - Public denials of "Kislevite revolutionary forces" appear designed to confirm rather than dispel the rumour
 - The quarter around [[Frau Busch's Boarding House]] is rough — rowdy taverns, brothels with balcony callers, red-lamped houses — but Frau Busch's establishment is a strict and devout exception
-- Counterfeit [[Beekerhoven]] pennies have **not** been seen circulating among Ferlangen peddlars or the working girls of the rough quarter (per [[Karl Helpmann]] and the high-class brothel worker in [[Session 20 - Never Mention Prostitutes|Session 20]])
+- Counterfeit [[Beeckerhoven]] pennies have **not** been seen circulating among Ferlangen peddlars or the working girls of the rough quarter (per [[Karl Helpmann]] and the high-class brothel worker in [[Session 20 - Never Mention Prostitutes|Session 20]])
 - The note recovered earlier from the [[Medical Union Compound]] was sent **from Ferlangen** — the [[Professor Udo Stradovski|Stradovski]] conspiracy has roots in this very city

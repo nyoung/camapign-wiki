@@ -45,7 +45,7 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 ### The Inn-Temple of Liadriel
 
 - A peculiar structure rose ahead — part inn, part temple — human stonework carved with elven motifs: delicate reliefs of grapevines, wine-making, and musical instruments adorning every surface
-- A faded wooden sign pointed north toward [[Neu-Emskronk]]; scattered stone foundations marked where a village had once stood
+- A faded wooden sign pointed north toward [[Neues Emskrank]]; scattered stone foundations marked where a village had once stood
 - [[Boris Dorchen]] wondered aloud whether this might be the fabled [[Laurelorn Forest|Athel Loren]]; [[Berin Garibaldi|Berin]] noted the decrepit state of the place and the conspicuous absence of any elves
 - The party debated the nature of elves — their secretive ways, their rumoured hostility to outsiders — with [[Pilpoul Ivri]] joking he had heard they ate children and smaller folk, prompting a very worried look from Boris toward [[Mungo Mudfoot]] and [[Falconius Thorncobble|Connie]]
 - A young stable hand came forward to help with the horses; [[Berin Garibaldi|Berin]] remained outside studying the carvings, noting the script was not genuine elvish writing but all pertained to themes of wine, vines, and music
@@ -152,7 +152,7 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 
 ## Notable Developments
 
-- [[Professor Udo Stradovski|The professor]] stayed at the [[Forest Inn]] on the twelfth — arrived **alone**, having lost his traveling companion ([[Schliegel]]?) to a forest beast; this is deeply concerning
+- [[Professor Udo Stradovski|The professor]] stayed at the [[Forest Inn]] on the twelfth — arrived **alone**, having lost his traveling companion ([[Edrich Sliegel]]?) to a forest beast; this is deeply concerning
 - Three riders bypassed the toll heading toward [[Seuchenshof]] — likely [[Elfrieda Teuschel]] and companions
 - The [[Forest Inn]] exhibits all the signs of something deeply wrong: missing animals, locked kitchen, ghoulish-looking staff, aggressive over-seasoning of food, complete absence of domestic livestock
 - [[Rolf]]'s refusal to take the offered bone from the kitchen and [[Orazio]]'s skittishness around [[Gunter]] serve as animal-instinct warnings the party is taking seriously
@@ -162,4 +162,4 @@ The party pressed north along the [[Erengrad Road]] through increasingly strange
 - The session title "Where the Wild Things Aren't" refers both to the absence of beastmen on the road (contrary to warnings) and the complete absence of animals at the inn
 - The subtitle "And the Stew is Awful" is a literal description
 - [[Berin Garibaldi|Berin]]'s decision to pour part of the cider as an offering to [[Knights of the Blazing Sun|Myrmidia]] rather than drink it is a quietly characterful moment of devotion and caution simultaneously
-- The professor "losing his traveling companion to a forest beast" is the first suggestion that [[Schliegel]] the farmhand may be dead
+- The professor "losing his traveling companion to a forest beast" is the first suggestion that [[Edrich Sliegel]] the farmhand may be dead

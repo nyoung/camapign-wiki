@@ -27,25 +27,25 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - Rumour of necrophilia with a dead student (unverified rumour)
 - [[Stradovski Vellum Papers]] — expensive hidden documents; contents unknown
 - **True destination: [[Ferlangen]]** (mining town, eastern Ostland) — Salzenmund was a deliberate false trail arranged by [[Elfrieda Teuschel]]
-- **Moral character confirmed (Session 15):** Sacrificed his travelling companion [[Schliegel]] and a horse to the ghoul-master [[Melmoth]] at the [[Forest Inn]] in exchange for his own safe passage — also shared academic knowledge about ghoul creation/care. He is dangerous.
-- Inquired about [[Seuchenshof]] hospice at [[Skralberg]] — road barricaded; proceeded east into [[Ostland]]
+- **Moral character confirmed (Session 15):** Sacrificed his travelling companion [[Edrich Sliegel]] and a horse to the ghoul-master [[Melmoth]] at the [[Forest Inn]] in exchange for his own safe passage — also shared academic knowledge about ghoul creation/care. He is dangerous.
+- Inquired about [[Seuchenshof]] hospice at [[Skjaldberg]] — road barricaded; proceeded east into [[Ostland]]
 
 ## Steps / Progress
 - [x] Attend [[Klaus Grebel]]'s trial
 - [x] Register warrant / enlist in [[Middenland Militia]]
 - [x] Search Stradovski's house
 - [x] Interview the maid ([[Fya Veter]]) at [[Pit Fight Tavern]]
-- [x] Speak with [[Chancellor Leinhard von Altenhaus]] at [[Collegium Theologica]]
+- [x] Speak with [[Chancellor Lienhard von Altenhaus]] at [[Collegium Theologica]]
 - [x] Speak with [[Professor Humpis]] at [[Collegium Theologica]]
 - [x] Speak with [[Augustus Steiner]] in the cells
 - [x] Search Stradovski's office
 - [x] Depart north on caravan (20 Nachexen 2512)
-- [x] Reach [[Beekerhoven]]
-- [x] Confirm Stradovski was in Beekerhoven (visited [[Elfrieda Teuschel]] ~11 Nachexen)
+- [x] Reach [[Beeckerhoven]]
+- [x] Confirm Stradovski was in Beeckerhoven (visited [[Elfrieda Teuschel]] ~11 Nachexen)
 - [x] Investigate city stables — confirmed false Salzenmund trail; true destination Ferlangen
 - [x] Expose and arrest [[Marx Khlesl]] and [[Urs Huber]] (Medical Union)
-- [x] Depart Beekerhoven north toward Ferlangen
-- [x] Confirm trail through [[Skralberg]] — entered Ostland heading east
+- [x] Depart Beeckerhoven north toward Ferlangen
+- [x] Confirm trail through [[Skjaldberg]] — entered Ostland heading east
 - [x] Arrive [[Schoten]], Ostland — Elfrieda's group spotted 3 nights prior
 - [x] Continue east through [[Royal Wolf Inn]] / [[Pewter Merchant]] / [[Hemp Merchant]] — Stradovski's trail confirmed; Elfrieda's lead closed to ~2 days (Session 18)
 - [x] Confirm trail through the [[Fist of Amber]] — Stradovski stayed 17th Nachexen; Elfrieda's group two nights prior (Session 19)
@@ -56,7 +56,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Secure transport east — escort job for **[[Gromril van Aelst]]** to [[Wolfenburg]] sealed for **10 GC** ([[Session 21 - The Gnome and the Slayer|Session 21]])
 - [ ] Verify [[Derich Kölderer]] in person — description, age, address — to rule in or out as a [[Professor Udo Stradovski|Stradovski]] alias / co-conspirator
 - [ ] Travel to [[Wolfenburg]] and consult **[[Matron Isolde Uricht]]** at the [[Temple of Shallya]] there
-- [ ] Investigate via the **Merchants Guild** — recommended channel for the [[Beekerhoven]] counterfeit-coin trail
+- [ ] Investigate via the **Merchants Guild** — recommended channel for the [[Beeckerhoven]] counterfeit-coin trail
 - [ ] Pursue the **[[Howling Ones]]** thread — both highwaymen and a named cult; talk of the town
 - [ ] Investigate the corrupt-merchant list and the missing Ferlangen girls (see [[Investigate Ferlangen Trafficking and Missing Girls]]) — possible Stradovski-experiment connection
 - [ ] Return Stradovski to [[Middenheim]]
@@ -96,17 +96,17 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [[Elfrieda Teuschel]] — Stradovski's key co-conspirator; now wanted fugitive; heading to Ferlangen
 - [[Marx Khlesl]] — hired to create false trail; arrested
 - [[Urs Huber]] — Medical Union operator; arrested
-- [[Schliegel]] — farmhand who travelled with professor; sacrificed by Stradovski at Forest Inn (presumed dead)
+- [[Edrich Sliegel]] — farmhand who travelled with professor; sacrificed by Stradovski at Forest Inn (presumed dead)
 - [[Ordo Sancti Inquisita]] — competing hunters (will execute); last seen heading toward Salzenmund
 - Ulrican White Wolves — competing hunters (intent unclear); also last seen heading toward Salzenmund
 
 ## Related Locations
 - [[Middenheim]]
-- [[Beekerhoven]] — confirmed Stradovski was here ~11 Nachexen; departed; Medical Union exposed
+- [[Beeckerhoven]] — confirmed Stradovski was here ~11 Nachexen; departed; Medical Union exposed
 - [[Ferlangen]] — true destination; mining town, eastern Ostland
 - [[Salzenmund]] — false trail; Inquisitors followed this lead
 - [[Forest Inn]] — Stradovski passed through ~12 days before Session 15; traded companion for passage
-- [[Skralberg]] — Stradovski confirmed here; took road east into Ostland
+- [[Skjaldberg]] — Stradovski confirmed here; took road east into Ostland
 - [[Schoten]] — party's current location (Session 16); Elfrieda's group 3 days ahead
 - [[Seuchenshof]] — plague hospice Stradovski inquired about; road barricaded
 - [[Erengrad Road]] — route taken north
@@ -128,5 +128,5 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 ## Notes
 - [[Hildegarde]] gave her brass necklace to [[Lady Steiner]] in exchange for inquiry about her missing mother
 - [[Joerg Wusterburg]]'s nervousness and the [[Order of the Howling Wolf]]'s interest remain unexplained
-- Distinctive freshly minted coins from Elson's mint are being spent along Elfrieda's route — potentially trackable
+- Distinctive freshly minted coins from Manfred's mint are being spent along Elfrieda's route — potentially trackable
 - The Seuchenbuch discusses disease as a weapon — Berin compared it to fire: useful in skilled hands, catastrophic if misused

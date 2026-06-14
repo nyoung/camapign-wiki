@@ -113,13 +113,13 @@ The caravan spent the afternoon clearing rain-washed rock and timber from the ro
 
 ## Notes / Loose Threads
 
-- **[[Ganav|Hawkeye]] = "Ganav"?** — GM Assistant's notes for this session call the captured outlaw **both "Hawkeye" and "Ganav"** for the same man, and list **"Ganav (JakeMTL)"** among the campaign's player characters (JakeMTL also plays the incapacitated [[Pilpoul Ivri|Pilpoul]]). This strongly suggests the former outlaw is being **adopted as a PC named Ganav**. Left as the established NPC [[Ganav|Hawkeye]] here pending the GM's confirmation — if confirmed, he should be moved to `Characters/PCs/` as **Ganav**.
+- **[[Ganav|Hawkeye]] = "Ganav"?** — GM Assistant's notes for this session call the captured outlaw **both "Hawkeye" and "Ganav"** for the same man, and list **"Ganav (JakeMTL)"** among the campaign's player characters (JakeMTL also plays the incapacitated [[Pilpoul Ivri|Pilpoul]]). This has since been **confirmed**: the former outlaw was adopted as a player character named **[[Ganav]]** (his note now lives in `Characters/PCs/`). "Hawkeye" was only ever his bandit cover-name.
 - **The monstrous wolf** — first direct encounter with a [[Howling Ones]] "wolf": man-tall, drove the party into supernatural terror, **blood ran ordinary red** yet plainly unnatural; **driven off wounded** (arm) by [[Boris Dorchen|Boris]] — limped off on three legs and may return. Consistent with the **werewolf** rumour confirmed earlier by [[Marretta Schongauer]].
 - **More ambushes ahead** — the captured outlaw confirmed further ambushes are planned before [[Dassel]]; no specifics given
 - **[[Mathis Haack]]** — self-described forest warden for **Lord Jürgen Kimmelman**; [[Boris Dorchen|Boris]] suspects the cover story (a warden poaching his own lord's rabbits); his true nature unresolved
 - **[[Christina Asper|Asper]]'s injuries** — broken jaw and torn cheek; stabilised but needs a proper surgeon; her composure visibly cracked for the first time
 - **[[Ganav]]'s wound** — arrow lodged in the shoulder/scapula too deep for field removal; needs a surgeon in [[Wolfenburg]]; the [[Howling Ones]] now openly regard him as a traitor (a death mark)
-- **[[Danderich Flisshausten|Danderich]]** — again reckless and ineffective (horse killed, fell in a pit, demanded summary hangings); his judgement remains a liability, as [[Heidi Übermann]] warned
+- **[[Danderich Flisshausten|Danderich]]** — again reckless and ineffective (horse killed, fell in a pit, demanded summary hangings); his judgement remains a liability, as [[Heidi Ubermann]] warned
 
 ## Title
 

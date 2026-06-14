@@ -22,7 +22,7 @@ Student. Acting guide at the Chancellor's request.
 Unknown — minor role.
 
 ## History with the Party
-Assigned by [[Chancellor Leinhard von Altenhaus]] to escort [[Pilpoul Ivri]], [[Hildegarde]], and [[Erika Sÿfrid von Drakkenheim]] to [[Professor Humpis]]'s office and the cells in [[Session 04 - The Investigation]].
+Assigned by [[Chancellor Lienhard von Altenhaus]] to escort [[Pilpoul Ivri]], [[Hildegarde]], and [[Erika Sÿfrid von Drakkenheim]] to [[Professor Humpis]]'s office and the cells in [[Session 04 - The Investigation]].
 
 ## Appearances
 - [[Session 04 - The Investigation]]

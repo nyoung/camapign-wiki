@@ -11,7 +11,7 @@ tags: [location]
 # Arenburg
 
 ## Description
-A run-down village on the road north from [[Middenheim]] toward [[Beekerhoven]]. Muddy streets, ramshackle buildings, acrid smell of waste and smoke.
+A run-down village on the road north from [[Middenheim]] toward [[Beeckerhoven]]. Muddy streets, ramshackle buildings, acrid smell of waste and smoke.
 
 ## Notable Features
 - **Four Seasons inn** — the first coaching inn; was full when the caravan arrived; redirected overflow to the Wolfrunner establishment
@@ -25,7 +25,7 @@ A run-down village on the road north from [[Middenheim]] toward [[Beekerhoven]].
 
 ## Connected Locations
 - [[Middenheim]] — south
-- [[Beekerhoven]] — north
+- [[Beeckerhoven]] — north
 
 ## Notes
 - [[Professor Udo Stradovski]] stayed here ~10 days before the party's visit; treated [[Gunter]]'s knee gratis

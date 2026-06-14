@@ -63,7 +63,7 @@ Departing the chaotic [[Hemp Merchant]] at first light, the party found that [[C
   - **[[Professor Udo Stradovski|Stradovski]] passed through on the 17th Nachexen**
   - **[[Elfrieda Teuschel]] stayed two nights ago**, still travelling with the same large, broken-nosed companion
   - Locals warned of a dangerous group of highwaymen called the **[[Howling Ones]]**, raiding roads across eastern Ostland up to the Kislev border
-- [[Pilpoul Ivri|Pilpoul]] also took the innkeeper aside and warned him about **counterfeit coins circulating from [[Beekerhoven]]**, showing him one of the false pennies as an example
+- [[Pilpoul Ivri|Pilpoul]] also took the innkeeper aside and warned him about **counterfeit coins circulating from [[Beeckerhoven]]**, showing him one of the false pennies as an example
 
 ### A Confidence in the Quiet
 
@@ -114,7 +114,7 @@ Departing the chaotic [[Hemp Merchant]] at first light, the party found that [[C
   - **[[Christina Asper|Asper]] is a resource, not a director**
 - She also noted, with a pointed look at [[Boris Dorchen|Boris]], that he alone had been named by Asper as a trustworthy ally
 - The Abbess confirmed that **neither [[Christina Asper|Asper]] nor [[Lucas Pollack]] had located useful leads** within Ferlangen, and that the **missing Ulrican knights had not yet arrived**
-- She suggested the **Merchants Guild** as a reliable avenue for investigating the **Beekerhoven counterfeit coins**, noting several senior members were devoted patrons of the temple
+- She suggested the **Merchants Guild** as a reliable avenue for investigating the **Beeckerhoven counterfeit coins**, noting several senior members were devoted patrons of the temple
 
 ### The Verenan Library — Khaine
 
@@ -157,7 +157,7 @@ Departing the chaotic [[Hemp Merchant]] at first light, the party found that [[C
 ### Started
 - **Letter for [[Karl Helpmann]]** — Boris hired by [[Marretta Schongauer]] to deliver a sealed letter to a Ferlangen warehouse operator; 5/- already paid; speed emphasised
 - **The Howling Ones bounty** — town criers in [[Ferlangen]] are advertising rewards for cult members; possible side income and side quest
-- **Counterfeit Beekerhoven coins** — Pilpoul has begun warning innkeepers; the Abbess pointed the party at the **Merchants Guild** for an organised approach
+- **Counterfeit Beeckerhoven coins** — Pilpoul has begun warning innkeepers; the Abbess pointed the party at the **Merchants Guild** for an organised approach
 - **Boris sends money home** — arrangements opened through the [[Four Seasons Coach Line]] with **Jenny the Butcher** as proxy
 
 ### Closed / Resolved

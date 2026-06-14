@@ -18,7 +18,7 @@ Trace the **corrupt [[Ferlangen]] merchants involved in human trafficking** name
 In [[Session 20 - Never Mention Prostitutes|Session 20]], [[Hildegarde]] obtained a one-night key from [[Frau Busch]] and visited the brothel a short walk from **[[Frau Busch's Boarding House]]**. She paid **2½ crowns** to a high-class working woman for the entire night — not for service, but for information. The woman, knowledgeable about the city's underworld, agreed to talk on **strict condition of anonymity**, and provided:
 
 - **Names of merchants involved in human trafficking** — men who had caused trouble for the working girls and their trade. Among them was **[[Marretta Schongauer]]** — already known to [[Pilpoul Ivri|Pilpoul]] (alone) as a trafficker via the [[Fist of Amber]] innkeeper, now resurfacing in a far darker context
-- **No sightings of the [[Beekerhoven]] counterfeit pennies** in her trade
+- **No sightings of the [[Beeckerhoven]] counterfeit pennies** in her trade
 - The observation that **girls had recently gone missing** from the trade — possibly connected to [[Professor Udo Stradovski|Stradovski]]'s known interest in disposable subjects
 
 [[Hildegarde]] **promised to look into the disappearances** if she could.

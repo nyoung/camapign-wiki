@@ -1,8 +1,8 @@
 ---
 type: location
 location_type: coach office
-region: Beekerhoven
-parent_location: "[[Beekerhoven]]"
+region: Beeckerhoven
+parent_location: "[[Beeckerhoven]]"
 status: visited
 first_visited: "[[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]"
 tags: [location]
@@ -11,7 +11,7 @@ tags: [location]
 # Four Seasons Coach Line
 
 ## Description
-A coach line office in [[Beekerhoven]], providing passenger transport along established routes. Unlike some services, it runs coaches only — not supply or freight services.
+A coach line office in [[Beeckerhoven]], providing passenger transport along established routes. Unlike some services, it runs coaches only — not supply or freight services.
 
 ## Notable Features
 - Passenger coaches only; no supply services
@@ -22,7 +22,7 @@ A coach line office in [[Beekerhoven]], providing passenger transport along esta
 - Coachman — informed the party of route availability and seasonal closures
 
 ## Connected Locations
-- [[Beekerhoven]] — parent settlement
+- [[Beeckerhoven]] — parent settlement
 - [[Ferlangen]] — northern destination; routes currently closed for winter
 
 ## Events

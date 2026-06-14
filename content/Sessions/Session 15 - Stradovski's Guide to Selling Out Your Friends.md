@@ -90,7 +90,7 @@ Under [[Berin Garibaldi]]'s firm and intimidating questioning, [[Torben Pieknich
 - **[[Professor Udo Stradovski]] passed through the Forest Inn roughly twelve days prior**
 - He immediately recognised the ghoulish nature of the inn's staff
 - He did not flee — he **coldly negotiated his own safe passage**:
-  - Handed over his travelling companion **[[Schliegel]]** (the farmhand) and a horse to [[Melmoth]]
+  - Handed over his travelling companion **[[Edrich Sliegel]]** (the farmhand) and a horse to [[Melmoth]]
   - Shared **academic knowledge about the creation and care of ghouls**
 - The professor then rode away **alone**, heading northeast along the [[Erengrad Road]]
 - The party now knows Stradovski is not merely a rogue academic — **he is ruthless and morally capable of sacrificing others for his own survival**
@@ -98,7 +98,7 @@ Under [[Berin Garibaldi]]'s firm and intimidating questioning, [[Torben Pieknich
 ## Quests
 
 ### Advanced
-- [[Find Professor Stradovski]] — Stradovski confirmed at Forest Inn ~12 days prior; character fully revealed; heading northeast along Erengrad Road alone; companion Schliegel presumed dead
+- [[Find Professor Stradovski]] — Stradovski confirmed at Forest Inn ~12 days prior; character fully revealed; heading northeast along Erengrad Road alone; companion Edrich Sliegel presumed dead
 
 ### Closed
 - Rescue Hoffman Jannitzer — Hoffman recovered, alive
@@ -116,13 +116,13 @@ Under [[Berin Garibaldi]]'s firm and intimidating questioning, [[Torben Pieknich
 
 ## Notable Developments
 
-- **Stradovski's moral character is confirmed**: he sacrificed [[Schliegel]] and shared forbidden knowledge with a ghoul-master to save himself — he is far more dangerous than the party initially believed
+- **Stradovski's moral character is confirmed**: he sacrificed [[Edrich Sliegel]] and shared forbidden knowledge with a ghoul-master to save himself — he is far more dangerous than the party initially believed
 - [[Melmoth]] and his dark cult of Khaine/undeath have been smashed at the Forest Inn, but followers retrieved all bodies overnight (see Session 16)
 - The party possesses *Tenebris Geheimnis* in addition to the [[Seuchenbuch|Seuchenbuch (Plague Book)]] — two illegal forbidden texts
 - [[Hildegarde]] nearly died — neck wound was extremely close to fatal
 
 ## Notes
 
-- [[Schliegel]] is presumed dead — delivered to Melmoth by Stradovski as part of his negotiated passage
+- [[Edrich Sliegel]] is presumed dead — delivered to Melmoth by Stradovski as part of his negotiated passage
 - [[Rolf]]'s ghoul-decapitation in a single bite remains one of the campaign's most remarkable combat moments
 - The title "Stradovski's Guide to Selling Out Your Friends" refers to the revelation that the professor sacrificed his companion at the Forest Inn

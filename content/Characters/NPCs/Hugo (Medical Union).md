@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Guard
 faction: "[[Medical Union]]"
-location: "[[Beekerhoven]] (wounded, surrendered)"
+location: "[[Beeckerhoven]] (wounded, surrendered)"
 status: wounded
 disposition: hostile
 first_seen: "[[Session 10 - Rats, Corpses, and Conspiracy]]"
@@ -13,7 +13,7 @@ tags: [character, npc]
 # Hugo (Medical Union)
 
 ## Description
-Tall, gaunt man serving as a guard at the [[Medical Union]] compound in [[Beekerhoven]]. Wields a spiked club.
+Tall, gaunt man serving as a guard at the [[Medical Union]] compound in [[Beeckerhoven]]. Wields a spiked club.
 
 ## Role / Occupation
 Guard and body retrieval operative for [[Urs Huber]]'s [[Medical Union]]. Made trips to Salzenmund to collect corpses from priests for Huber's medical testing.

@@ -6,7 +6,7 @@ played: 2026-01-10
 in_game_date: "21 Nachexen 2512"
 in_game_date_end: "23 Nachexen 2512"
 location_start: "[[Fox and Crown]]"
-location_end: "[[Beekerhoven]]"
+location_end: "[[Beeckerhoven]]"
 pcs_present:
   - "[[Boris Dorchen]]"
   - "[[Joerg Wusterburg]]"
@@ -26,7 +26,7 @@ aliases: [Session 07, Session 7]
 
 ## Summary
 
-The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a decisive victory. [[Boris Dorchen]] beheaded the prone creature with his axe, triggering an instant transformation back to ordinary rabbit form. The party collected their reward from innkeeper [[Emma Ludaroth]], rested at the [[Fox and Crown]], and then continued north. [[Joerg Wusterburg]] departed the group to return to [[Middenheim]] and report the chaos beast to his temple. After an overnight at [[Ulric's Vision]], the party arrived at [[Beekerhoven]] by midday on 23 Nachexen.
+The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a decisive victory. [[Boris Dorchen]] beheaded the prone creature with his axe, triggering an instant transformation back to ordinary rabbit form. The party collected their reward from innkeeper [[Emma Luderoth]], rested at the [[Fox and Crown]], and then continued north. [[Joerg Wusterburg]] departed the group to return to [[Middenheim]] and report the chaos beast to his temple. After an overnight at [[Ulric's Vision]], the party arrived at [[Beeckerhoven]] by midday on 23 Nachexen.
 
 ## Key Events
 
@@ -55,7 +55,7 @@ The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a de
 - Boris gathered approximately twenty dead rabbits onto his cloak as proof
 - Pilpoul fetched water and buckets to tend to the wounded and clean the carcasses
 - The party returned to the main inn; evening patrons still present
-- Boris presented the dead rabbits and the severed were-rabbit head to [[Emma Ludaroth]], the innkeeper
+- Boris presented the dead rabbits and the severed were-rabbit head to [[Emma Luderoth]], the innkeeper
 - Boris and Hildegarde addressed the patrons; Hildegarde backed up Boris's account of events
 - Emma confirmed the produce was intact and paid **5 Gold Crowns** as promised
 - Boris attempted to pocket all five coins; one fell and rolled, forcing him to chase it in front of the entire party — he eventually agreed to distribute one coin to each party member
@@ -86,10 +86,10 @@ The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a de
 - Pilpoul stepped in and delivered a speech about common people rising up against tyranny (the were-rabbit standing in); the entertainment-starved crowd was reasonably entertained
 - Hildegarde believed the crowd loved her performance
 
-### Arrival at Beekerhoven (23 Nachexen)
+### Arrival at Beeckerhoven (23 Nachexen)
 
 - Departed Ulric's Vision in warm weather with light rain
-- By midday: passed through cut fields and small villages before reaching [[Beekerhoven]]'s ancient stone walls — crumbling mortar and weathered stonework, but the gatehouse featured thick new stonework and defensive additions
+- By midday: passed through cut fields and small villages before reaching [[Beeckerhoven]]'s ancient stone walls — crumbling mortar and weathered stonework, but the gatehouse featured thick new stonework and defensive additions
 - Guards waved the party through without demanding coin at entry
 - A weathered sign at the gate proclaimed exit fees for all departing travellers: **2 shillings per leg, 4 shillings per wheel**
 - Mungo announced he would remain at the caravan fortification outside the city to avoid the exit fee
@@ -108,13 +108,13 @@ The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a de
 
 - [[Fox and Crown]] — battle concluded; party rested overnight
 - [[Ulric's Vision]] — overnight stop; confirmed pursuit one night behind
-- [[Beekerhoven]] — arrived midday 23 Nachexen; party entered the city
+- [[Beeckerhoven]] — arrived midday 23 Nachexen; party entered the city
 
 ## NPCs Encountered
 
-- [[Emma Ludaroth]] — innkeeper of Fox and Crown; paid the reward
+- [[Emma Luderoth]] — innkeeper of Fox and Crown; paid the reward
 - [[Jan Gerster]] — innkeeper of Ulric's Vision; reported the knights' passage
-- [[Mungo Mudfoot]] — teamster; entertained party with ancestor stories; staying outside Beekerhoven
+- [[Mungo Mudfoot]] — teamster; entertained party with ancestor stories; staying outside Beeckerhoven
 
 ## Notable Developments
 
@@ -122,7 +122,7 @@ The combat against the [[Were-Rabbit]] and its rabbit swarms concluded with a de
 - Boris is now actively cultivating a reputation as a were-rabbit hunter
 - Hildegarde holds the were-rabbit's foot as a trophy
 - The pursuit is confirmed: Inquisitors and Ulrican knights are approximately one day ahead
-- Beekerhoven charges exit fees (2 sh/leg, 4 sh/wheel) — the party will need to account for this when departing
+- Beeckerhoven charges exit fees (2 sh/leg, 4 sh/wheel) — the party will need to account for this when departing
 
 ## Notes
 

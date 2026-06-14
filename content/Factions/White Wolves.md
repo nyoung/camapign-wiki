@@ -27,7 +27,7 @@ Claim jurisdiction in Ulrican territory; retrieve [[Professor Udo Stradovski]] (
 Significant military presence and legal authority in Middenheim and Nordland.
 
 ## Relationship with the Party
-Tense but not directly hostile. [[Erika Sÿfrid von Drakkenheim]] brokered a face-saving compromise between Klampf and [[Danderich Flisshausten]] at the caravan's departure.
+Tense but not directly hostile. [[Erika Sÿfrid von Drakkenheim]] brokered a face-saving compromise between Klempf and [[Danderich Flisshausten]] at the caravan's departure.
 
 ## Known Activities
 - Sworn out a warrant for [[Professor Udo Stradovski]]

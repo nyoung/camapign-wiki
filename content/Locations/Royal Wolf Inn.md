@@ -28,7 +28,7 @@ A fortified inn and militia compound just south of the village of [[Schoten]], o
 
 ## Connected Locations
 - [[Schoten]] — village to the north
-- [[Skralberg]] — to the west across the Nordland border
+- [[Skjaldberg]] — to the west across the Nordland border
 - [[Pewter Merchant]] — east along the coast road
 - [[Ferlangen]] — further east; party's destination
 

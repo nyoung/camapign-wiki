@@ -43,7 +43,7 @@ Over ale, the party introduced themselves. [[Altus Elsein|Altus]] downplayed his
 The barkeep secured the tavern and asked the party to leave, citing their smell and the sergeant's absence. [[Altus Elsein|Altus]], insulted, waited for a distraction and hurled a large stone through the tavern window, shouting about Ulric being the true power in Middenheim.
 
 ### The Plaza Riot
-Outside, [[Klaus Grebel]] — a young agitator — was delivering a speech about merchant and guild oppression from atop stacked crates. A [[Elke Grebel]] tried anxiously to get him to stop. Men in red sashes (Sigmarite-affiliated thugs) circled the crowd. An [[Danderich Flisshausten]] burst from a nearby building, accused Grebel of profaning Sigmar's name, and ordered his arrest.
+Outside, [[Klaus Grebel]] — a young agitator — was delivering a speech about merchant and guild oppression from atop stacked crates. A Shallyan novice (later identified as [[Elke Grebel]]) tried anxiously to get him to stop. Men in red sashes (Sigmarite-affiliated thugs) circled the crowd. A man in a shining breastplate (later identified as [[Danderich Flisshausten]]) burst from a nearby building, accused Grebel of profaning Sigmar's name, and ordered his arrest.
 
 - A thug grabbed Grebel; another knocked the Shallyan novice to the ground.
 - Ruffians in the crowd began throwing rocks at the Sigmarite thugs, shouting "Sigmarite scum."

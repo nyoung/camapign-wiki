@@ -21,4 +21,4 @@ A northern province of The Empire, bordered by Ostland to the east and Middenlan
 ## Connected Locations
 - [[Ostland]] — eastern neighbour; frequent border skirmishes
 - [[Middenheim]] — to the south
-- [[Skralberg]] — border town
+- [[Skjaldberg]] — border town

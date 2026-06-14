@@ -8,12 +8,12 @@ first_visited: "[[Session 07 - The Were-Rabbit's End]]"
 tags: [location]
 ---
 
-# Beekerhoven
+# Beeckerhoven
 
 ## Description
 A town north of [[Middenheim]], reached by midday on 23 Nachexen 2512. Ancient stone walls showing signs of neglect — crumbling mortar and weathered stonework — but the gatehouse features thick new stonework and recent defensive additions. Guards wave travellers through on entry without demanding coin, but a weathered sign at the gate proclaims exit fees for all departing travellers.
 
-[[Professor Udo Stradovski]] is believed to have fled here — he purchased a Wolfrunner coach ticket to Beekerhoven, and [[Augustus Steiner]] mentioned a patient of the professor's from this town.
+[[Professor Udo Stradovski]] is believed to have fled here — he purchased a Wolfrunner coach ticket to Beeckerhoven, and [[Augustus Steiner]] mentioned a patient of the professor's from this town.
 
 ## Notable Features
 - Ancient stone walls — old and worn, but the gatehouse was recently reinforced
@@ -21,10 +21,10 @@ A town north of [[Middenheim]], reached by midday on 23 Nachexen 2512. Ancient s
 - Caravan fortification outside the city walls — [[Mungo Mudfoot]] is staying here to avoid the exit fee
 
 ## Notable NPCs
-- Stradovski's patient (unnamed) — a patient from Beekerhoven who received treatment from the professor
+- Stradovski's patient (unnamed) — a patient from Beeckerhoven who received treatment from the professor
 
 ## Connected Locations
-- [[Ulric's Vision]] — south (last inn before Beekerhoven)
+- [[Ulric's Vision]] — south (last inn before Beeckerhoven)
 - [[Middenheim]] — south
 
 ## Notes

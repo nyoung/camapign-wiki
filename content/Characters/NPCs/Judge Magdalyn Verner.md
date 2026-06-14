@@ -3,7 +3,7 @@ type: npc
 species: Human
 career: Judge
 faction: unknown
-location: "[[Fulpfasser Court]]"
+location: "[[Fusspulver Court]]"
 status: alive
 disposition: neutral
 first_seen: "[[Session 03 - The Trial]]"
@@ -13,7 +13,7 @@ tags: [character, npc]
 # Judge Magdalyn Verner
 
 ## Description
-Middle-aged woman of stern demeanor. Presides at [[Fulpfasser Court]].
+Middle-aged woman of stern demeanor. Presides at [[Fusspulver Court]].
 
 ## Role / Occupation
 Judge. Presided over [[Klaus Grebel]]'s heresy trial.

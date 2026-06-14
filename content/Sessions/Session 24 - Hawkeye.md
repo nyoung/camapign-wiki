@@ -39,7 +39,7 @@ The caravan pounded on the gates of [[Hasselhund]] around ten in the evening. Th
 
 In the morning, [[Hildegarde]] questioned the innkeeper and a serving maid. The maid remembered **[[Professor Udo Stradovski|Professor Stradovski]]** — he had passed through roughly two weeks prior with a large merchant caravan, and had made an impression by noticing her Shallyan dove talisman and offering to "show her a real Shallyan miracle." She had declined without hesitation. The trail was neither cold nor close. [[Gromril van Aelst|Gromril]] negotiated a replacement draft horse, characteristically smug about the deal.
 
-[[Berin Garibaldi|Berin]] spent the morning buying drinks for local miners and gathering intelligence. He learned that the stretch between [[Dassel]] and [[Wolfenburg]] was **brutally slow in wet weather**, sometimes five miles a day, and that **three established shelter points** existed along the route. He shared this with [[Danderich Flisshausten|Danderich]], who remained dismissive, certain the bandits would not strike again. **[[Heidi Übermann]]** pulled [[Berin Garibaldi|Berin]] aside privately: she considered Danderich an overblown hothead, underqualified for his rank, and feared something far worse than the last ambush lay ahead. The caravan departed into steady, ominous rain.
+[[Berin Garibaldi|Berin]] spent the morning buying drinks for local miners and gathering intelligence. He learned that the stretch between [[Dassel]] and [[Wolfenburg]] was **brutally slow in wet weather**, sometimes five miles a day, and that **three established shelter points** existed along the route. He shared this with [[Danderich Flisshausten|Danderich]], who remained dismissive, certain the bandits would not strike again. **[[Heidi Ubermann]]** pulled [[Berin Garibaldi|Berin]] aside privately: she considered Danderich an overblown hothead, underqualified for his rank, and feared something far worse than the last ambush lay ahead. The caravan departed into steady, ominous rain.
 
 The road south brought them to a **mountain pass choke point** [[Ganav|Hawkeye]] recognised immediately — a narrow pass, cliff on one side, dense old-growth forest on the other, rocky debris preventing wagons from turning. Ancient ruins crowned the hill above. [[Berin Garibaldi|Berin]] dismounted and handed [[Orazio]]'s reins to [[Boris Dorchen|Boris]], choosing to advance on foot alongside [[Mangold]], who accepted with a grunt and a gleam. [[Hildegarde]] fell in behind them with her crossbow, keeping [[Ganav|Hawkeye]] in front of her. They had barely reached the foot of the steep path toward the ruins when the hidden attackers revealed themselves — and the air filled with arrows again.
 
@@ -114,7 +114,7 @@ The road south brought them to a **mountain pass choke point** [[Ganav|Hawkeye]]
 - The stretch between **[[Dassel]] and [[Wolfenburg]]**: brutally slow in wet weather; sometimes only **five miles a day**
 - **Three established shelter points** along the route for those who know where to look
 - Shared with [[Danderich Flisshausten|Danderich]]; he remained dismissive — the bandits would not dare strike again
-- **[[Heidi Übermann]]** pulled [[Berin Garibaldi|Berin]] aside privately:
+- **[[Heidi Ubermann]]** pulled [[Berin Garibaldi|Berin]] aside privately:
   - Called Danderich an **overblown hothead**, underqualified for his rank
   - Feared something far worse than the last ambush lay ahead
 - Caravan departed into **steady, ominous rain**
@@ -135,7 +135,7 @@ The road south brought them to a **mountain pass choke point** [[Ganav|Hawkeye]]
 - **[[Christina Asper|Asper]]** — irritated by decision to keep Hawkeye alive; no further intervention
 - **[[Gromril van Aelst|Gromril]]** — revealed he carries promissory notes as his real cargo; negotiated replacement horse; smug about the deal
 - **[[Mangold]]** — accepted Berin's invitation to advance on foot with a grunt and a gleam
-- **[[Heidi Übermann]]** — knight; privately told [[Berin Garibaldi|Berin]] that Danderich is an overblown hothead unqualified for his rank; fears something far worse lies ahead
+- **[[Heidi Ubermann]]** — knight; privately told [[Berin Garibaldi|Berin]] that Danderich is an overblown hothead unqualified for his rank; fears something far worse lies ahead
 - **Serving maid at [[The Hanging Highwayman]]** — remembered [[Professor Udo Stradovski|Stradovski]] specifically: Shallyan talisman comment and "real miracle" offer; declined him
 - **Innkeeper of [[The Hanging Highwayman]]** (unnamed) — Loflinger Grünewald (name not necessarily player-known)
 
@@ -165,8 +165,8 @@ The road south brought them to a **mountain pass choke point** [[Ganav|Hawkeye]]
 - **[[Ganav|Hawkeye]]'s identity** — name reveals nothing; denied shooting Pilpoul; the question is unresolved; traveling as ward of Berin's honour; fate to be decided in Wolfenburg
 - **The amulet question** — [[Ganav|Hawkeye]] noticed [[Berin Garibaldi|Berin]]'s bird-of-prey amulet; it matches the hawk-and-eye patch on Hawkeye's own shoulder; Hawkeye said nothing but was clearly unsettled
 - **Inside knowledge** — [[Berin Garibaldi|Berin]] suspects someone told the Howling Ones about Gromril's route and cargo (promissory notes); likely connected to the Bear Claws contact (balding, dark-haired man at the Illium Warehouse)
-- **[[Heidi Übermann]]** — not previously known to the party; her private warning about Danderich and fear of something worse ahead makes her an unexpected ally
-- **[[Danderich Flisshausten|Danderich]]** — dismissed second ambush warning; his pattern of refusing intelligence is becoming a liability; [[Heidi Übermann|Heidi]] has confirmed others in his own retinue share concerns
+- **[[Heidi Ubermann]]** — not previously known to the party; her private warning about Danderich and fear of something worse ahead makes her an unexpected ally
+- **[[Danderich Flisshausten|Danderich]]** — dismissed second ambush warning; his pattern of refusing intelligence is becoming a liability; [[Heidi Ubermann|Heidi]] has confirmed others in his own retinue share concerns
 - **Hofbauer Bodelstein caravan** — departed Hasselhund that morning; the promise to wait was broken; Elfrieda likely one day ahead again
 - **Second ambush at the choke point** — session ends mid-action; attackers revealed from ruins above the narrow pass; outcome unresolved
 - **[[Gromril van Aelst|Gromril's promissory notes]]** — real cargo, kept under his shirt; substantial debts owed by Ferlangen merchants to Wolfenburg moneylenders; someone knew he was carrying them

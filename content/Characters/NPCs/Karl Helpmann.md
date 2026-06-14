@@ -37,7 +37,7 @@ Mercantile to the bone, cheerful and unhurried. Cannot resist trying to sell eve
 - Runs **Helpmann's General Goods** in [[Ferlangen]] (cluttered shop, orange cat)
 - Operates a **smuggling side-trade** moving serfs from the north to farms in [[Averland]]
 - **Did not recognise [[Professor Udo Stradovski|Stradovski]]'s name** — denies any involvement in moving him
-- **Has not seen the [[Beekerhoven]] counterfeit pennies** in peddlar circles
+- **Has not seen the [[Beeckerhoven]] counterfeit pennies** in peddlar circles
 - Buys unlicensed goods at a fraction of value, citing guild rules
 - Holds a shilling retainer from [[Hildegarde]] for word of the dark-haired woman and her tall boxer companion ([[Elfrieda Teuschel]])
 

@@ -8,7 +8,7 @@ first_visited: "[[Session 03 - The Trial]]"
 tags: [location]
 ---
 
-# Fulpfasser Court
+# Fusspulver Court
 
 ## Description
 A court in [[Middenheim]] where legal trials are held. Site of [[Klaus Grebel]]'s heresy trial.

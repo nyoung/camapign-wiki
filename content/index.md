@@ -14,7 +14,7 @@ tags: [home]
 
 **Departed / Retired**
 - [[Falconius Thorncobble|Falconius "Connie" Thorncobble]] — Halfling Rat Catcher; *(joined Session 09; departed between Sessions 19 and 20 on family business)*
-- [[Altus Elsein]] — Retired in Beekerhoven
+- [[Altus Elsein]] — Retired in Beeckerhoven
 - [[Erika Sÿfrid von Drakkenheim]] — Retired
 - [[Joerg Wusterburg]] — Departed Session 07 *(NPC file in Characters/PCs/)*
 
@@ -33,7 +33,7 @@ tags: [home]
 - [[Find Professor Stradovski]] — trail confirmed at [[The Hanging Highwayman]] ([[Hasselhund]]); Stradovski passed ~2 weeks ago with large merchant caravan; heading to [[Wolfenburg]]; contact there: **[[Matron Isolde Uricht]]** at the [[Temple of Shallya]]
 - [[Escort Gromril van Aelst to Wolfenburg]] — active; **two ambushes survived**, then a night of harassment at the [[Wayside Shrine]] (Session 26); **[[Astrid Hofhaimer]] issued a noon ultimatum** for Gromril's promissory notes; party **refused** and set a **counter-ambush trap** (decoy note-satchel + the gagged prisoner as bait); Gromril names **[[Augustus van Kolditz]]** as suspected paymaster
 - [[The Howling Ones Bounty]] — 10/- per head; direct combat in Sessions 23–25; **[[Ganav]]** captured (ward of Berin); the cult's **named leader revealed (Session 26): [[Astrid Hofhaimer]]** (who rode to parlay with a bandaged, bloodied arm); "forest warden" [[Mathis Haack]] no longer trusted after vanishing overnight
-- [[Beekerhoven Counterfeit Coins]] — on hold; Merchants Guild approach abandoned after Pilpoul's catastrophic failed bribe
+- [[Beeckerhoven Counterfeit Coins]] — on hold; Merchants Guild approach abandoned after Pilpoul's catastrophic failed bribe
 - [[Investigate Ferlangen Trafficking and Missing Girls]] — on hold until Wolfenburg; [[Klaus von Kolditz]] and [[Anton Kristov]] confirmed traffickers; Hildegarde's reconnaissance found heavily guarded but outsourced operations
 
 ## Completed / Resolved (recent)
@@ -77,7 +77,7 @@ tags: [home]
 - **[[Ganav]]** (the former bandit **"Hawkeye"**) — now a **player character**; former Howling Ones member, **shot by his own former side** (cracked scapula, arrow too deep for field removal — needs a [[Wolfenburg]] surgeon); the cult brands him a traitor; denies shooting Pilpoul; unsettled by [[Berin Garibaldi|Berin]]'s bird-of-prey amulet
 - **[[Pilpoul Ivri|Pilpoul]]'s wound** — arrow extracted; head-brace in place; transported in wagon; likely never to sing again; needs rest and medical care in [[Wolfenburg]]
 - **Inside knowledge** — Berin suspects someone told the Howling Ones about [[Gromril van Aelst|Gromril]]'s route and promissory note cargo; likely connected to the Bear Claws contact (balding, dark-haired man, [[Illium Warehouse]])
-- **[[Heidi Übermann]]** — privately warned Berin that Danderich is a hothead unqualified for his rank; fears something worse ahead; an unexpected potential ally within the Sigmarite contingent
+- **[[Heidi Ubermann]]** — privately warned Berin that Danderich is a hothead unqualified for his rank; fears something worse ahead; an unexpected potential ally within the Sigmarite contingent
 - **[[Danderich Flisshausten]]'s accusation** — Heinz Benz's death and the Forest Inn abandonment; has Van Moll's note and the registry; this is not resolved
 
 ### Stradovski / Main Quest
@@ -103,6 +103,6 @@ tags: [home]
 - **[[Ghoul network]]** — leaderless but still active; retrieved all their dead overnight after Forest Inn
 - **[[Joerg Wusterburg]]**'s order's interest in Stradovski — still unexplained
 - **[[Derich Kölderer]]** — Ferlangen physician registered ~one month ago; description not yet checked against Stradovski
-- **[[Albrecht Felt]]** — vanished from the Hemp Merchant; fate unknown
+- **[[Masten Feltt]]** — merchant who vanished from the Hemp Merchant; fate unknown
 - **Road to [[Norden]]** — Imperial road upgrade; scale implies something larger than a road project
 - **Kislevite revolutionary forces** — officially "do not exist" in Ostland

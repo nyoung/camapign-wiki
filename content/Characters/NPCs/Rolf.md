@@ -25,7 +25,7 @@ In combat, the ferocity is simply a different expression of the same instinct. W
 
 ## History with the Party
 
-**Session 09 (Beekerhoven):** Failed to intimidate when Connie attempted to use him for effect — a comical disappointment. Shortly after, enthusiastically ate the local lurker fish with great relish.
+**Session 09 (Beeckerhoven):** Failed to intimidate when Connie attempted to use him for effect — a comical disappointment. Shortly after, enthusiastically ate the local lurker fish with great relish.
 
 **Sessions 13–14 (Forest Inn):** Refused to settle at the [[Forest Inn]]. Growled repeatedly at the kitchen bone. Recognized that something was deeply wrong well before any of the humans did.
 

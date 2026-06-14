@@ -10,10 +10,10 @@ first_seen: "[[Session 12 - Bride Price]]"
 tags: [character, npc]
 ---
 
-# Klaus Ulfinger
+# Klaus Kulfinger
 
 ## Description
-Innkeeper of the Hunter's Lodge — a solid timber inn beside a Haleth shrine on the road north of [[Beekerhoven]].
+Innkeeper of the Hunter's Lodge — a solid timber inn beside a Haleth shrine on the road north of [[Beeckerhoven]].
 
 ## Role / Occupation
 Innkeeper of the Hunter's Lodge.

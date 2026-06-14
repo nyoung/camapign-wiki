@@ -5,8 +5,8 @@ title: "Session 10 — Rats, Corpses, and Conspiracy"
 played: 2026-02-14
 in_game_date: "25 Nachexen 2512"
 in_game_date_end: "25 Nachexen 2512"
-location_start: "[[Beekerhoven]]"
-location_end: "[[Beekerhoven]]"
+location_start: "[[Beeckerhoven]]"
+location_end: "[[Beeckerhoven]]"
 pcs_present:
   - "[[Boris Dorchen]]"
   - "[[Hildegarde]]"
@@ -32,7 +32,7 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 
 ### Continued Intelligence Gathering at the City Stables
 
-- The party returned to the [[City Stables (Beekerhoven)]] and pressed the stable boy further
+- The party returned to the [[City Stables (Beeckerhoven)]] and pressed the stable boy further
 - The stable boy confirmed: [[Marx Khlesl]] had returned riding the professor's old nag just two days after three riders — including [[Professor Udo Stradovski|the professor]] — had departed within half an hour of each other, all paying with freshly minted coins
 - This implied the professor had acquired a faster horse before leaving town
 - The stable boy disclosed that [[Marx Khlesl]] was associated with the [[Medical Union]], operating out of a fortified former military stable against the city wall
@@ -72,8 +72,8 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 ### The Melee Begins
 
 - [[Marx Khlesl]] burst into the stable, his face contorted with rage at discovering intruders who had seen too much; he lunged for [[Falconius Thorncobble|Connie]], attempting to grab him by the collar
-- [[Boris Dorchen]] intervened with improvised brilliance: using his rat-laden pole as a flail, he struck Marks and knocked him off balance — the dangling rats scratching and clawing at Marks's face
-- [[Rolf]] joined the fray with vicious enthusiasm, sinking his teeth deep into Marks's leg and refusing to let go despite his small size
+- [[Boris Dorchen]] intervened with improvised brilliance: using his rat-laden pole as a flail, he struck Marx and knocked him off balance — the dangling rats scratching and clawing at Marx's face
+- [[Rolf]] joined the fray with vicious enthusiasm, sinking his teeth deep into Marx's leg and refusing to let go despite his small size
 - [[Elsie (Medical Union)|Elsie]] attacked Boris from behind before retreating
 - A tall, gaunt man named [[Hugo (Medical Union)|Hugo]] charged in wielding a spiked club; his brutal strike nearly felled [[Falconius Thorncobble|Connie]], who barely escaped the building through luck and desperation
 
@@ -84,7 +84,7 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 - [[Pilpoul Ivri]] approached from another angle, attempting to confuse [[Urs Huber]] with talk of purchasing medical supplies; [[Hoffman Jannitzer]] huffed along behind him
 - Inside, [[Boris Dorchen]] demonstrated tactical brilliance: he grabbed the stunned and bleeding [[Marx Khlesl]], pressed his axe to the man's throat, and used him as a human shield while demanding safe passage
 - As [[Berin Garibaldi|Berin]] opened the gate from above and the party converged on the compound, another guard struck [[Pilpoul Ivri]] with knuckle dusters, leaving the scholar barely standing
-- The session ended mid-confrontation, with Boris holding Marks at axe-point and the situation unresolved
+- The session ended mid-confrontation, with Boris holding Marx at axe-point and the situation unresolved
 
 ## Quests
 
@@ -94,7 +94,7 @@ The party conducted reconnaissance on the [[Medical Union]] compound and then in
 
 ## Locations Visited
 
-- [[Beekerhoven]] — city streets, city stables, [[Medical Union]] compound
+- [[Beeckerhoven]] — city streets, city stables, [[Medical Union]] compound
 - [[Medical Union Compound]] — fortified former military stable; site of alchemy laboratory, corpses, tunnelling, and melee
 
 ## NPCs Encountered

@@ -5,7 +5,7 @@ related_factions:
   - "[[Ordo Sancti Inquisita]]"
   - "[[Cult of Shallya]]"
 related_locations:
-  - "[[Fulpfasser Court]]"
+  - "[[Fusspulver Court]]"
 reliability: confirmed
 source: "[[Heinricus Ralf]] (testimony), [[Danderich Flisshausten]] (prosecution)"
 tags: [lore]

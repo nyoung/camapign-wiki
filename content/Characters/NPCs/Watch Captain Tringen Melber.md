@@ -10,7 +10,7 @@ first_seen: "[[Session 04 - The Investigation]]"
 tags: [character, npc]
 ---
 
-# Watch Captain Tringen Melbur
+# Watch Captain Tringen Melber
 
 ## Description
 A Watch Captain assigned to the [[Collegium Theologica]]'s cells.

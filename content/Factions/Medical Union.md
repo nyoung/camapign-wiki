@@ -18,15 +18,15 @@ Rather than the typical image of infected rabble, the Medical Union consists of 
 
 ## Known Members
 - [[Professor Udo Stradovski]] — senior member; Collegium physician
-- [[Elfrieda Teuschel]] — patient-turned-operative; ran the Beekerhoven branch
+- [[Elfrieda Teuschel]] — patient-turned-operative; ran the Beeckerhoven branch
 - [[Marx Khlesl]] — enforcer; led the Wolfmen gang as cover
 - [[Elsie (Medical Union)|Elsie]] — operative
 - [[Hugo (Medical Union)|Hugo]] — operative
-- [[Matthias (Medical Union)|Matthias]] — operative
+- [[Matthaus Vogte]] — operative
 - [[Dr. Thurne]] — associate
 
 ## Known Locations
-- [[Medical Union Compound]] — Beekerhoven chapter house (raided by party)
+- [[Medical Union Compound]] — Beeckerhoven chapter house (raided by party)
 
 ## History with the Party
-The party uncovered the Medical Union's Beekerhoven operation during the pursuit of [[Professor Udo Stradovski]]. They raided the compound, disrupted operations, and forced [[Elfrieda Teuschel]] to flee north with stolen mint gold.
+The party uncovered the Medical Union's Beeckerhoven operation during the pursuit of [[Professor Udo Stradovski]]. They raided the compound, disrupted operations, and forced [[Elfrieda Teuschel]] to flee north with stolen mint gold.

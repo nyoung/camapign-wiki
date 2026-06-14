@@ -13,10 +13,10 @@ tags: [character, npc]
 # Urs Huber
 
 ## Description
-Runs the [[Medical Union]] out of the old fortified military stables in [[Beekerhoven]]. Looked remarkably like an older version of a well-known actor — something the party noted immediately upon meeting him.
+Runs the [[Medical Union]] out of the old fortified military stables in [[Beeckerhoven]]. Looked remarkably like an older version of a well-known actor — something the party noted immediately upon meeting him.
 
 ## Role / Occupation
-Leader of the [[Medical Union]] operation in [[Beekerhoven]]. Oversees what appears to be illegal medical experimentation involving corpses and disease research. Not a fighter himself — he relies on [[Hugo (Medical Union)|Hugo]] and the compound's guards for enforcement.
+Leader of the [[Medical Union]] operation in [[Beeckerhoven]]. Oversees what appears to be illegal medical experimentation involving corpses and disease research. Not a fighter himself — he relies on [[Hugo (Medical Union)|Hugo]] and the compound's guards for enforcement.
 
 ## Personality
 Smooth and transactional. He negotiated [[Boris Dorchen|Boris]] and [[Falconius Thorncobble|Falconius]]'s entry when they posed as rat catchers without obvious alarm, offered forged papers to explain the bodies on his tables, and attempted a 20 Nordland crown bribe when cornered. He became evasive only about the courtyard graves — the one detail he wouldn't dress up. When combat ended and resistance was clearly pointless, he surrendered without a fight. He is not brave and apparently does not believe in causes strongly enough to die for them; he is simply a man running a profitable illegal operation who cooperates when the calculation shifts against him.

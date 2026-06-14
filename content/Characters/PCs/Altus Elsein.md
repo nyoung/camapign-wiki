@@ -26,7 +26,7 @@ He is a deliberate self-effacer. He downplays his contributions consistently, de
 His Ulrican sympathies are blunt rather than devout. He threw a rock through the Worm Lamplight window shouting "Ulric is the true power in Middenheim" after being asked to leave — impulsive, unsubtle, and entirely genuine. He contrasted Marienburg's "weird fish gods" with Ulric in early party conversation, with the flat certainty of someone who has seen both and made up his mind.
 
 ## Status
-Altus departed the party when they left [[Beekerhoven]] ([[Session 12 - Bride Price|Session 12]]). He has not been seen since.
+Altus departed the party when they left [[Beeckerhoven]] ([[Session 12 - Bride Price|Session 12]]). He has not been seen since.
 
 ## Background
 From Marienburg, where he worked as a sailor before drifting into mercenary and caravan guard work. He registered for the Middenland Militia as "a mercenary protecting merchants and caravans" — accurate and uncommitted. He is currently operating as a thief-taker under [[Hoffman Jannitzer]]'s bounty warrant, an arrangement that provides both structure and the mentorship of a more experienced hand.
@@ -86,5 +86,5 @@ From Marienburg, where he worked as a sailor before drifting into mercenary and 
 - Now a provisional member of the [[Middenland Militia]]
 - Being mentored as a bounty hunter / thief-taker by [[Hoffman Jannitzer]] under Hoffman's warrant
 - Contrasted Marienburg's "weird fish gods" with Ulric in early party conversation — blunt Ulrican sympathies
-- Present and active in [[Beekerhoven]] through [[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]
-- **Departed the party at the end of [[Session 12 - Bride Price|Session 12]], when the group left Beekerhoven. Did not continue north.**
+- Present and active in [[Beeckerhoven]] through [[Session 11 - Rolf's Rampage and the Writ of Arrest|Session 11]]
+- **Departed the party at the end of [[Session 12 - Bride Price|Session 12]], when the group left Beeckerhoven. Did not continue north.**

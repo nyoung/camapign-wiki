@@ -20,7 +20,7 @@ aliases: [Session 03, Session 3]
 # Session 03 — The Trial
 
 ## Summary
-The session opened with Pilpoul losing a gold crown to an improbable series of ricochets — the coin finding its way to a stranger who used it to pay off his mortgage. The party attended [[Klaus Grebel]]'s heresy trial at [[Fulpfasser Court]], where [[Pilpoul Ivri|Pilpoul]] effectively acted as defence barrister alongside volunteer lawyer [[Konrad Stellmann]]. Klaus was found guilty but escaped execution in favour of community service under the [[Cult of Shallya]]. Afterwards, [[Elke Grebel]] took the party to the [[Clerk's Office (Verena-Ulric)]] where they enrolled as provisional [[Middenland Militia]] members, received advance pay, and were briefed on multiple leads for finding [[Professor Udo Stradovski]].
+The session opened with Pilpoul losing a gold crown to an improbable series of ricochets — the coin finding its way to a stranger who used it to pay off his mortgage. The party attended [[Klaus Grebel]]'s heresy trial at [[Fusspulver Court]], where [[Pilpoul Ivri|Pilpoul]] effectively acted as defence barrister alongside volunteer lawyer [[Konrad Stellmann]]. Klaus was found guilty but escaped execution in favour of community service under the [[Cult of Shallya]]. Afterwards, [[Elke Grebel]] took the party to the [[Clerk's Office (Verena-Ulric)]] where they enrolled as provisional [[Middenland Militia]] members, received advance pay, and were briefed on multiple leads for finding [[Professor Udo Stradovski]].
 
 ## Events
 
@@ -28,7 +28,7 @@ The session opened with Pilpoul losing a gold crown to an improbable series of r
 As the party exited the [[Commission for Trade Commerce and Taxation]], a portly merchant pushed past [[Pilpoul Ivri|Pilpoul]], causing a gold crown to fall and bounce improbably down the stairs, through the streets, and land at the feet of a downcast stranger. The stranger used the coin to pay off his mortgage at a banker's. [[Boris Dorchen|Boris]] attributed this to Shallya's judgment for [[Pilpoul Ivri|Pilpoul]] having spoken her name in vain; Pilpoul insisted it had been reverence. The coin was not recovered.
 
 ### Trial of Klaus Grebel
-At [[Fulpfasser Court]], the party met [[Konrad Stellmann]], the nervous pro bono defence lawyer. [[Pilpoul Ivri|Pilpoul]] coached him before the trial: guilt lies with intent, not interpretation (Article 12 of the Codex Civis Middenheimenis).
+At [[Fusspulver Court]], the party met [[Konrad Stellmann]], the nervous pro bono defence lawyer. [[Pilpoul Ivri|Pilpoul]] coached him before the trial: guilt lies with intent, not interpretation (Article 12 of the Codex Civis Middenheimenis).
 
 **Prosecution** (led by [[Danderich Flisshausten]], Knight of the [[Ordo Sancti Inquisita]])
 - Charged Klaus with the Heresy of Arctus of Carolberg (condemned 1265) — asserting Sigmar was not noble-born, thereby undermining the divine basis of nobility
@@ -79,7 +79,7 @@ All gave physical descriptions. All swore fealty to the [[Middenland Militia]]: 
 
 ## Locations Visited
 - [[Commission for Trade Commerce and Taxation]] — opening scene
-- [[Fulpfasser Court]] — trial
+- [[Fusspulver Court]] — trial
 - [[Clerk's Office (Verena-Ulric)]] — militia enrolment
 
 ## Quests

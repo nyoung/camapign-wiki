@@ -13,10 +13,10 @@ tags: [character, npc, companion]
 # Orazio
 
 ## Description
-[[Berin Garibaldi]]'s horse. A reliable mount that has accompanied the party since Beekerhoven.
+[[Berin Garibaldi]]'s horse. A reliable mount that has accompanied the party since Beeckerhoven.
 
 ## History with the Party
-Orazio has been present throughout the party's journey north from [[Beekerhoven]], serving as Berin's personal mount. The horse has been stabled at various coaching inns along the route and was briefly at risk during the [[Forest Inn]] incident.
+Orazio has been present throughout the party's journey north from [[Beeckerhoven]], serving as Berin's personal mount. The horse has been stabled at various coaching inns along the route and was briefly at risk during the [[Forest Inn]] incident.
 
 In [[Ferlangen]] in [[Session 20 - Never Mention Prostitutes|Session 20]], after several days of quiet patient work by [[Berin Garibaldi|Berin]], **Orazio finally learned to come when called** — a small but meaningful training milestone in a journey that had offered precious few.
 

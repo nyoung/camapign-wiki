@@ -17,7 +17,7 @@ Part inn, part temple, built by the current innkeeper's great-grandfather as a m
 - Human stonework with carved elven motifs: grapevines, wine-making, musical instruments
 - Script resembling but not genuinely elvish
 - Interior decorated with garlands of wildflowers on the beams
-- A faded wooden sign nearby points north toward [[Neu-Emskronk]]
+- A faded wooden sign nearby points north toward [[Neues Emskrank]]
 - Nearby stone foundations mark where a village once stood
 
 ## Notable NPCs
@@ -26,7 +26,7 @@ Part inn, part temple, built by the current innkeeper's great-grandfather as a m
 ## Connected Locations
 - [[All Shadows Fled Inn]] — south
 - [[Forest Inn]] — north
-- [[Neu-Emskronk]] — north (indicated by road sign)
+- [[Neues Emskrank]] — north (indicated by road sign)
 - [[Laurelorn Forest]] — to the west; elves have withdrawn contact
 
 ## Events

@@ -36,5 +36,5 @@ A marble-fronted temple of [[Verena]] in [[Ferlangen]]. The seat of the **[[Abbe
 - **[[Session 19 - Ferlangen|Session 19]]:** Party arrived expecting a warm welcome and instead found the [[Abbess of Verena (Ferlangen)|Abbess]] already holding [[Christina Asper]]'s damning written report. [[Pilpoul Ivri|Pilpoul]] and [[Berin Garibaldi|Berin]] defended the party's conduct. The Abbess clarified the chain of command: **the party leads the investigation; Asper is a resource, not a director.** She also noted that only [[Boris Dorchen|Boris]] had been named in Asper's report as a trustworthy ally. [[Berin Garibaldi|Berin]] used a turn in the temple library to identify the cult symbols on [[Melmoth]]'s sword and the tome as belonging to **[[Khaine]] — god of murder** — before the staff politely showed him out. The party collected their wages and were billeted at Frau Busch's boarding house.
 
 ## Notes
-- The Abbess pointed the party to the [[Ferlangen]] **Merchants Guild** as the right avenue for the [[Beekerhoven]] counterfeit-coin investigation
+- The Abbess pointed the party to the [[Ferlangen]] **Merchants Guild** as the right avenue for the [[Beeckerhoven]] counterfeit-coin investigation
 - The library is willing to help with a quick query but not to host extended research on heretical subjects

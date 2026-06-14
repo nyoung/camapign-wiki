@@ -20,10 +20,10 @@ Connie is a halfling rat catcher — compact, practical, and entirely equipped f
 ## Personality
 Connie is driven by immediate physical needs more than grand ambition — it was hunger that led him to the Forest Inn kitchen at night, which directly triggered the discovery of the bone cellar and everything that followed. His strengths are stealth and quiet observation: he scouted the Medical Union compound effectively and found the crucial "to Ferlangen" letter by candlelight while rifling through papers, reading it in the dark without waking anyone. He is not a frontline fighter and does not pretend to be. His intimidation attempts tend toward the comic: he tried to use Rolf to frighten a stable boy and it failed badly enough that [[Boris Dorchen]] had to step in.
 
-He is dry about his family history. At the Beekerhoven inn, Connie cheerfully revealed his cousin's childhood nickname — "Mungo the Pie Crusts," earned by leaving trails of pastry wherever food went missing — which prompted [[Mungo Mudfoot|Mungo]] to hastily excuse himself from the conversation. He carries the rejection of his upbringing lightly, as if the embassy life was simply a wrong fit and rat-catching the obvious correction.
+He is dry about his family history. At the Beeckerhoven inn, Connie cheerfully revealed his cousin's childhood nickname — "Mungo the Pie Crusts," earned by leaving trails of pastry wherever food went missing — which prompted [[Mungo Mudfoot|Mungo]] to hastily excuse himself from the conversation. He carries the rejection of his upbringing lightly, as if the embassy life was simply a wrong fit and rat-catching the obvious correction.
 
 ## Background
-Son of Moot embassy functionaries serving in Middenheim, Connie was raised in an environment of paperwork, diplomatic propriety, and bureaucratic procedure — and wanted none of it. He became a rat catcher, a practical and physical trade that stands in deliberate contrast to everything his family represented. His cousin is [[Mungo Mudfoot]], the teamster, who introduced Connie to the party at the Beekerhoven inn in Session 09. At the Beekerhoven inn, Connie revealed Mungo's childhood nickname — "Mungo the Pie Crusts," a reference to the pastry trails Mungo left wherever food went missing — to considerable effect, sending his cousin hastily from the room.
+Son of Moot embassy functionaries serving in Middenheim, Connie was raised in an environment of paperwork, diplomatic propriety, and bureaucratic procedure — and wanted none of it. He became a rat catcher, a practical and physical trade that stands in deliberate contrast to everything his family represented. His cousin is [[Mungo Mudfoot]], the teamster, who introduced Connie to the party at the Beeckerhoven inn in Session 09. At the Beeckerhoven inn, Connie revealed Mungo's childhood nickname — "Mungo the Pie Crusts," a reference to the pastry trails Mungo left wherever food went missing — to considerable effect, sending his cousin hastily from the room.
 
 He has been an active PC from Session 09 onward.
 
@@ -64,12 +64,12 @@ He has been an active PC from Session 09 onward.
 - [[Rolf]] (rat catcher's dog)
 
 ## Relationships
-- [[Mungo Mudfoot]] — cousin; introduced Connie to the party at the Beekerhoven inn in [[Session 09 - The Thriceling]]
+- [[Mungo Mudfoot]] — cousin; introduced Connie to the party at the Beeckerhoven inn in [[Session 09 - The Thriceling]]
 - [[Rolf]] — loyal dog and combat companion
 
 ## Notes
-First appeared in [[Session 09 - The Thriceling]], introduced by [[Mungo Mudfoot]] at the inn in [[Beekerhoven]]. Active PC from Session 09 through Session 19.
+First appeared in [[Session 09 - The Thriceling]], introduced by [[Mungo Mudfoot]] at the inn in [[Beeckerhoven]]. Active PC from Session 09 through Session 19.
 
-Connie revealed Mungo's childhood nickname, "Mungo the Pie Crusts," at the Beekerhoven inn — a reference to the pastry trails Mungo left wherever food went missing — prompting Mungo to hastily excuse himself.
+Connie revealed Mungo's childhood nickname, "Mungo the Pie Crusts," at the Beeckerhoven inn — a reference to the pastry trails Mungo left wherever food went missing — prompting Mungo to hastily excuse himself.
 
 **Departed between [[Session 19 - Ferlangen|Session 19]] and [[Session 20 - Never Mention Prostitutes|Session 20]]:** Word reached the party in [[Ferlangen]] outside the [[Temple of Verena (Ferlangen)|Temple of Verena]] that family troubles had forced Connie to step away from the company, perhaps for good. The party spoke of him fondly and resolved to keep in touch and hold his place open should circumstances change. His dog [[Rolf]] travelled with him.

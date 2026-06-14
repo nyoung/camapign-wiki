@@ -11,7 +11,7 @@ tags: [location]
 # Haleth Shrine
 
 ## Description
-A wayside shrine dedicated to [[Haleth Shrine|Haleth]], goddess of the hunt, situated beside the [[Hunter's Lodge]] inn on the road north of [[Beekerhoven]]. A modest roadside monument, decorated with the trappings of the hunt.
+A wayside shrine dedicated to [[Haleth Shrine|Haleth]], goddess of the hunt, situated beside the [[Hunter's Lodge]] inn on the road north of [[Beeckerhoven]]. A modest roadside monument, decorated with the trappings of the hunt.
 
 ## Notable Features
 - Carved antlers
@@ -21,7 +21,7 @@ A wayside shrine dedicated to [[Haleth Shrine|Haleth]], goddess of the hunt, sit
 
 ## Connected Locations
 - [[Hunter's Lodge]] — adjacent inn
-- [[Beekerhoven]] — south
+- [[Beeckerhoven]] — south
 
 ## Events
 - **[[Session 12 - Bride Price|Session 12]]:** [[Berin Garibaldi]] and [[Boris Dorchen|Boris]] examined the shrine; noted the carved antlers and rotting hunting trophies.

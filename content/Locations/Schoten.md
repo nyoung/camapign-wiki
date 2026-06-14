@@ -25,7 +25,7 @@ A village in Ostland, the first settlement after crossing the border from Nordla
 - [[Albrecht Jylland]] — innkeeper of the [[Royal Wolf Inn|Royal Wolf Inn (Schoten)]]
 
 ## Connected Locations
-- [[Skralberg]] — west (Nordland border crossing)
+- [[Skjaldberg]] — west (Nordland border crossing)
 - [[Royal Wolf Inn|Royal Wolf Inn (Schoten)]] — inn within the town
 - [[Ferlangen]] — further east; [[Professor Udo Stradovski|Stradovski]]'s destination
 - [[Ostland]] — parent region

@@ -26,7 +26,7 @@ aliases: [Session 16]
 
 ## Summary
 
-In the aftermath of the Forest Inn battle, the party debated justice for [[Van Moll]] and [[Torben Pieknich]], resolved to carry Torben to the nearest authority, and discovered overnight that every body from the battle had been silently reclaimed by the ghouls — including [[Melmoth]]'s severed head from the gatepost. [[Hoffman Jannitzer]] regained consciousness by morning. [[Pilpoul Ivri]] sent a pigeon report to the [[Temple of Verena (Beekerhoven)|Temple of Verena]]. The party then endured a miserable rain-soaked journey to [[Skralberg]], a fortified Nordland border post, where a brawl broke out over Boris's religion before the militia sergeant confirmed Stradovski had passed through heading east into [[Ostland]]. The party crossed the border and arrived at [[Schoten]], where the innkeeper reported two women and a brutish man had passed through three nights prior — almost certainly [[Elfrieda Teuschel]]'s group.
+In the aftermath of the Forest Inn battle, the party debated justice for [[Van Moll]] and [[Torben Pieknich]], resolved to carry Torben to the nearest authority, and discovered overnight that every body from the battle had been silently reclaimed by the ghouls — including [[Melmoth]]'s severed head from the gatepost. [[Hoffman Jannitzer]] regained consciousness by morning. [[Pilpoul Ivri]] sent a pigeon report to the [[Temple of Verena (Beeckerhoven)|Temple of Verena]]. The party then endured a miserable rain-soaked journey to [[Skjaldberg]], a fortified Nordland border post, where a brawl broke out over Boris's religion before the militia sergeant confirmed Stradovski had passed through heading east into [[Ostland]]. The party crossed the border and arrived at [[Schoten]], where the innkeeper reported two women and a brutish man had passed through three nights prior — almost certainly [[Elfrieda Teuschel]]'s group.
 
 ## Key Events
 
@@ -52,18 +52,18 @@ In the aftermath of the Forest Inn battle, the party debated justice for [[Van M
 - By morning, [[Hoffman Jannitzer]] regained consciousness — groggy and bloodshot
 - Explained: a woman at the inn had slipped something into his apple cider liquor before he blacked out
 - [[Mungo Mudfoot]] descended the stairs well-rested and cheerful, blissfully unaware of the night's events
-- [[Pilpoul Ivri]] composed a brief report and sent it via one of Mungo's homing pigeons to the [[Temple of Verena (Beekerhoven)|Temple of Verena]] in Beekerhoven, informing them of everything that had transpired
+- [[Pilpoul Ivri]] composed a brief report and sent it via one of Mungo's homing pigeons to the [[Temple of Verena (Beeckerhoven)|Temple of Verena]] in Beeckerhoven, informing them of everything that had transpired
 
-### The Road to Skralberg
+### The Road to Skjaldberg
 
 - Journey was miserable — rain built from drizzle to steady downpour, soaking the party through
-- [[Skralberg]] appeared ahead: blue and yellow Nordland banners; complex including toll house, barracks, and a watchtower rising six stories; a body creaking on a gibbet near the road, a raven working methodically at its face
+- [[Skjaldberg]] appeared ahead: blue and yellow Nordland banners; complex including toll house, barracks, and a watchtower rising six stories; a body creaking on a gibbet near the road, a raven working methodically at its face
 - Five militiamen poured out to intercept the wagon with suspicion and barely concealed hostility
-- Accused the party of being Ostland spies or plague bearers from Teuschenhof
+- Accused the party of being Ostland spies or plague bearers from [[Seuchenshof]]
 - [[Berin Garibaldi]] correctly identified the **Drakwald Hunters** as a local Middenland sports team — this eased the suspicion
 - [[Hildegarde]] thrust the Imperial warrant into the sergeant's hands — the militia grudgingly allowed them inside
 
-### The Brawl at Skralberg Inn
+### The Brawl at Skjaldberg Inn
 
 - That evening, a group of boisterous militiamen had been drinking heavily
 - **[[Volmar]]** fixed his gaze on [[Boris Dorchen]] and accused him of being a Sigmarite
@@ -80,9 +80,9 @@ In the aftermath of the Forest Inn battle, the party debated justice for [[Van M
 
 After the brawl, [[Berin Garibaldi]] sought out the militia sergeant privately and learned:
 
-- **[[Professor Udo Stradovski]]** had passed through [[Skralberg]] **a week and a half before Session 16**, carrying dark academic texts and a physician's bag
-- When Berin mentioned **Eichenhof** ([[Seuchenshof]]), the entire table went quiet
-- The sergeant explained: the road to Eichenhof is **barricaded**; only plague bearers are sent that way; Stradovski had inquired about it but then **took the road east into Ostland**
+- **[[Professor Udo Stradovski]]** had passed through [[Skjaldberg]] **a week and a half before Session 16**, carrying dark academic texts and a physician's bag
+- When Berin mentioned **[[Seuchenshof]]**, the entire table went quiet
+- The sergeant explained: the road to [[Seuchenshof]] is **barricaded**; only plague bearers are sent that way; Stradovski had inquired about it but then **took the road east into Ostland**
 - The sergeant also mentioned: **Ostland raiders** had recently struck a nearby farm, stealing livestock and **abducting a young farm girl** — asked the party to look for her if their path allowed
 
 ### Crossing into Ostland: Schoten
@@ -97,21 +97,21 @@ After the brawl, [[Berin Garibaldi]] sought out the militia sergeant privately a
 ## Quests
 
 ### Advanced
-- [[Find Professor Stradovski]] — confirmed Skralberg trail; entered Ostland; headed toward Ferlangen; Elfrieda's group 3 days ahead at Schoten
+- [[Find Professor Stradovski]] — confirmed Skjaldberg trail; entered Ostland; headed toward Ferlangen; Elfrieda's group 3 days ahead at Schoten
 
 ## Locations Visited
 
 - [[Forest Inn]] — departed after resolving prisoner situation and discovering all bodies had been reclaimed
-- [[Skralberg]] — border post; Torben handed to militia authority; Stradovski trail confirmed; brawl
+- [[Skjaldberg]] — border post; Torben handed to militia authority; Stradovski trail confirmed; brawl
 - [[Schoten]] — crossed into Ostland; first Ostland town; Elfrieda's group confirmed 3 days ahead
 
 ## NPCs Encountered
 
 - [[Van Moll]] — fate determined (to be handed to authorities with Torben)
-- [[Torben Pieknich]] — handed to first proper authority at Skralberg
+- [[Torben Pieknich]] — handed to first proper authority at Skjaldberg
 - [[Hoffman Jannitzer]] — regained consciousness; confirmed he was drugged
 - [[Mungo Mudfoot]] — cheerfully unaware; provided the pigeon for the report
-- [[Militia Sergeant (Skralberg)]] — confirmed Stradovski's passage and Eichenhof information
+- [[Militia Sergeant (Skjaldberg)]] — confirmed Stradovski's passage and Seuchenshof information
 - [[Volmar]] — militiaman who accused Boris; brawl instigator
 - [[Albrecht Jylland]] — innkeeper of Royal Wolf, Schoten; confirmed Elfrieda's group
 - Jaeger soldiers (unnamed) — silent witnesses to the brawl; sent over a round of ale
@@ -119,10 +119,10 @@ After the brawl, [[Berin Garibaldi]] sought out the militia sergeant privately a
 ## Notable Developments
 
 - The ghoul network retrieved all its dead overnight — Melmoth's decapitation did not end the threat entirely
-- Stradovski confirmed as having taken the road east into Ostland from Skralberg — definitively heading toward Ferlangen
+- Stradovski confirmed as having taken the road east into Ostland from Skjaldberg — definitively heading toward Ferlangen
 - [[Elfrieda Teuschel]]'s group is approximately 3 days ahead of the party at Schoten
-- An abducted farm girl (Nordland/Ostland border area) has been flagged by the Skralberg militia — potential side thread
-- Torben has been handed to the Skralberg militia — the party is no longer burdened with the prisoner
+- An abducted farm girl (Nordland/Ostland border area) has been flagged by the Skjaldberg militia — potential side thread
+- Torben has been handed to the Skjaldberg militia — the party is no longer burdened with the prisoner
 
 ## Notes
 

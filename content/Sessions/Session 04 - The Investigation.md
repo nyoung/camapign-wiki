@@ -28,7 +28,7 @@ aliases: [Session 04, Session 4]
 ### Erika Joins / Clerk's Office
 As the warrant was finalised, [[Erika Sÿfrid von Drakkenheim]], Squire of the [[Knights Panther]], kicked open the door and sauntered in, demanding to know what was happening. After theatrical posturing about her knight's harsh assessment of her abilities, she joined the mission.
 
-The clerk confirmed the heresy charge: **Stradovski claimed gods do not exist and that priests are merely magicians.** He provided travel documentation and payment of **160 shillings** for the group. Confirmed: Stradovski fled twelve days ago, believed heading north toward [[Beekerhoven]].
+The clerk confirmed the heresy charge: **Stradovski claimed gods do not exist and that priests are merely magicians.** He provided travel documentation and payment of **160 shillings** for the group. Confirmed: Stradovski fled twelve days ago, believed heading north toward [[Beeckerhoven]].
 
 ---
 
@@ -51,7 +51,7 @@ The Alt-Quartier: dilapidated buildings, beggars, mongrel dogs. Pit Fight Tavern
 - Stradovski was secretive; pretended to be religious — attended services but never kept religious symbols at home
 - Was a homebody; saw patients in a surgery at his house after classes
 
-**Lockbox contents** (examined by [[Joerg Wusterburg]]):**
+**Lockbox contents** (examined by [[Joerg Wusterburg]]):
 - Dreary lecture notes on medical procedures
 - Patient notes in complex medical jargon
 - **A [[Seuchenbuch|Seuchenbuch (Plague Book)]]** — banned and restricted text
@@ -65,7 +65,7 @@ Joerg immediately recognised the danger. He closed the book and quietly told Bor
 **Collegium Theologica — Chancellor's Office**
 The Collegium functions almost as a city within a city, with its own laws and security. A large doorman with a polearm questioned them. [[Hildegarde]] nervously presented the warrant upside-down.
 
-[[Chancellor Leinhard von Altenhaus]] received them in his polished office:
+[[Chancellor Lienhard von Altenhaus]] received them in his polished office:
 - Stradovski was a medical professor, follower of [[Cult of Shallya|Shallya]], specialising in disease study
 - Known for miraculous cures — completely healing patients thought terminally ill
 - Claims little knowledge of Stradovski's personal life or methods
@@ -82,14 +82,14 @@ Warm candlelight, perfectly aligned theological texts. [[Pilpoul Ivri]] attempte
 **The Cells**
 Unexpectedly luxurious: feather mattresses, desks, books, scent of lavender.
 
-[[Watch Captain Tringen Melbur]] escorted them. [[Augustus Steiner]] approached the bars hopefully: "Has the professor returned?"
+[[Watch Captain Tringen Melber]] escorted them. [[Augustus Steiner]] approached the bars hopefully: "Has the professor returned?"
 
 [[Erika Sÿfrid von Drakkenheim]] questioned him extensively:
 - Augustus has **no clear memory** of agreeing to become Stradovski's bond — recalls being called to the cells, a conversation through bars, but details are hazy and confused
 - Tea was served during that conversation — the party concluded **Stradovski drugged his own student**
 - Describes Stradovski as secretive, focused only on work; never discussed personal matters or cases
 - Heard rumours of a patient suing for medical negligence
-- Confirms Stradovski had a **patient from [[Beekerhoven]]** — concrete lead
+- Confirms Stradovski had a **patient from [[Beeckerhoven]]** — concrete lead
 
 **Stradovski's Office (Medical Building)**
 Passed a dissection theatre where students watched a cadaver being dismembered. The office: rustling papers, stacks of books, vials, medical instruments, sharp chemical odours, dry herbs.
@@ -108,7 +108,7 @@ The groups reconvened outside the Collegium. [[Hoffman Jannitzer]], guardian of 
 
 He laid out the situation:
 - **Three-way race:** [[Ordo Sancti Inquisita]] (sworn warrant — will execute), Ulrican White Wolves (sworn warrant — intent unclear), [[Temple of Verena]] (Jannitzer — ensure proper justice)
-- Stradovski purchased a **Wolfrunner coach ticket to [[Beekerhoven]]** — confirmed
+- Stradovski purchased a **Wolfrunner coach ticket to [[Beeckerhoven]]** — confirmed
 - Offered the party a place on a **caravan heading north in two days (20 Nachexen 2512)**
 - The Sigmarites and Ulricans will be on the same caravan — deeply tense situation
 - The Temple of Verena arranged: a wagon, teamster [[Mungo Mudfoot|Mungo]], and provisions
@@ -121,18 +121,18 @@ He laid out the situation:
 - Possessed a banned Plague Book
 - Engineering miraculous cures beyond normal medical ability
 - Drugged his own student to facilitate escape
-- Had a patient in Beekerhoven — likely shelter destination
+- Had a patient in Beeckerhoven — likely shelter destination
 - Allegations of necrophilia (unverified)
 - Medical negligence lawsuit (unverified)
 - Hidden expensive vellum in a secret compartment
 
 ## NPCs Encountered
 - [[Erika Sÿfrid von Drakkenheim]] — joined party
-- [[Chancellor Leinhard von Altenhaus]] — met at Collegium
+- [[Chancellor Lienhard von Altenhaus]] — met at Collegium
 - [[Stellman (Student Guide)]] — student escort at Collegium
 - [[Fya Veter]] — maid; sold lockbox
 - [[Professor Humpis]] — interviewed (uncooperative)
-- [[Watch Captain Tringen Melbur]] — escorted party to cells
+- [[Watch Captain Tringen Melber]] — escorted party to cells
 - [[Augustus Steiner]] — met in person
 - [[Hoffman Jannitzer]] — met outside Collegium
 

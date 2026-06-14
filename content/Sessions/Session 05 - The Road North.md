@@ -27,9 +27,9 @@ The party spent their remaining day in [[Middenheim]] following two leads — [[
 ## Events
 
 ### Sharing Notes with Hoffman (18 Nachexen)
-Outside the [[Collegium Theologica]], [[Hoffman Jannitzer]] introduced himself more fully — a bounty hunter from Marienburg, hired by the [[Temple of Verena]] to ensure justice was executed fairly, particularly given the Sigmarites' tendency to overstep. He confirmed Stradovski departed via [[Wolfrunner Coaches]] to [[Beekerhoven]], though the dispatcher had been reluctant to share more.
+Outside the [[Collegium Theologica]], [[Hoffman Jannitzer]] introduced himself more fully — a bounty hunter from Marienburg, hired by the [[Temple of Verena]] to ensure justice was executed fairly, particularly given the Sigmarites' tendency to overstep. He confirmed Stradovski departed via [[Wolfrunner Coaches]] to [[Beeckerhoven]], though the dispatcher had been reluctant to share more.
 
-[[Boris Dorchen]] mentioned the mysterious book (the [[Seuchenbuch|Seuchenbuch (Plague Book)]]); [[Joerg Wusterburg]] warned the contents were dangerous and shouldn't be discussed publicly. [[Pilpoul Ivri]] volunteered to examine the patient notes — classical Latin, 40–50 names, Beekerhoven mentioned at least twice.
+[[Boris Dorchen]] mentioned the mysterious book (the [[Seuchenbuch|Seuchenbuch (Plague Book)]]); [[Joerg Wusterburg]] warned the contents were dangerous and shouldn't be discussed publicly. [[Pilpoul Ivri]] volunteered to examine the patient notes — classical Latin, 40–50 names, Beeckerhoven mentioned at least twice.
 
 Hoffman revealed transport was arranged for the **twentieth**, giving one full day to investigate. The party agreed to split: Hoffman's group investigates [[Wolfrunner Coaches]]; Pilpoul continues document research.
 
@@ -37,9 +37,9 @@ Hoffman revealed transport was arranged for the **twentieth**, giving one full d
 [[Hildegarde]] posed as a courier from the [[Collegium Theologica]], claiming a patient urgently needed to reach [[Professor Udo Stradovski]]. Dispatcher [[Gotswin Ketchum]] was initially dismissive but consulted his ledger after she offered to purchase tickets.
 
 **Key information obtained:**
-- Stradovski traveled to [[Beekerhoven]] ten days prior
+- Stradovski traveled to [[Beeckerhoven]] ten days prior
 - He paid **50 Gold Crowns** to passenger [[Caspar Anckenreuter]] for his ticket — an extraordinary sum
-- Anckenreuter has an address at **Ambrose Platz, Beekerhoven** and is associated with the **Minter Guild**
+- Anckenreuter has an address at **Ambrose Platz, Beeckerhoven** and is associated with the **Minter Guild**
 
 The extraction ended when [[Pilpoul Ivri]] dramatically burst in, covering his face and claiming their patient had burst boils and was highly contagious. Ketchum recoiled; they fled.
 
@@ -65,9 +65,9 @@ The party met [[Mungo Mudfoot]], their assigned halfling teamster. Feisty and ch
 ### Caravan Departure — The Argument (20 Nachexen)
 The caravan assembled at the Four Seasons coaching house. Immediately, [[Danderich Flisshausten]] and [[Jurgen Klempf]] argued over who should lead the procession.
 - Danderich: noble blood and status as Knight of Sigmar entitled him to command
-- Klampf: White Wolves hold authority in Middenheim and Nordland
+- Klempf: White Wolves hold authority in Middenheim and Nordland
 
-[[Erika Sÿfrid von Drakkenheim]] carefully stepped in, using noble etiquette to suggest Klampf lead with Danderich's advisement — particularly appropriate given the dangerous forests ahead. Klampf agreed. Danderich acquiesced with visible resentment.
+[[Erika Sÿfrid von Drakkenheim]] carefully stepped in, using noble etiquette to suggest Klempf lead with Danderich's advisement — particularly appropriate given the dangerous forests ahead. Klempf agreed. Danderich acquiesced with visible resentment.
 
 **Danderich warned Erika:** her group was gaining "infamy" with the Temple of Sigmar. He then invited her to share his table at the inn that night — she diplomatically accepted.
 
@@ -94,7 +94,7 @@ Sleeping arrangements:
 - Stradovski stayed in Arenburg **ten days prior**
 - Treated Gunter's knee without charging — snapped the bone back into place
 - Described as a private individual with a leather bag full of medical instruments
-- Neither knew his destination beyond Beekerhoven
+- Neither knew his destination beyond Beeckerhoven
 
 ### Hoffman Mentors Altus
 That evening, [[Hoffman Jannitzer]] began mentoring [[Altus Elsein]] in bounty hunting basics — Altus could work as a "thief taker" under Hoffman's warrant until he obtained his own guild licence.
@@ -108,7 +108,7 @@ The Sigmarite dynamics reveal both tensions and a potential opening with Heidi.
 
 ## NPCs Encountered
 - [[Gotswin Ketchum]] — Wolfrunner dispatcher; information extracted
-- [[Caspar Anckenreuter]] — identified via ledger; new lead in Beekerhoven
+- [[Caspar Anckenreuter]] — identified via ledger; new lead in Beeckerhoven
 - [[Herr Kunz]] — Physicians Guild official
 - [[Mungo Mudfoot]] — met (already assigned)
 - [[Jurgen Klempf]] — White Wolf Knight; caravan standoff
@@ -127,17 +127,17 @@ The Sigmarite dynamics reveal both tensions and a potential opening with Heidi.
 ## Quests
 
 ### Advanced
-- [[Find Professor Stradovski]] — all Middenheim leads exhausted; caravan departed; confirmed route via Arenburg; Anckenreuter lead in Beekerhoven
+- [[Find Professor Stradovski]] — all Middenheim leads exhausted; caravan departed; confirmed route via Arenburg; Anckenreuter lead in Beeckerhoven
 
 ## Items Acquired
-- Confirmed knowledge: Stradovski paid 50 GC to [[Caspar Anckenreuter]]; Anckenreuter address at Ambrose Platz, Beekerhoven
+- Confirmed knowledge: Stradovski paid 50 GC to [[Caspar Anckenreuter]]; Anckenreuter address at Ambrose Platz, Beeckerhoven
 - Mungo's "repurposed" supplies: month of rations, bedrolls, blankets, equipment (party's wagon)
 
 ## XP Awarded
 Unknown
 
 ## Notes / Loose Threads
-- **[[Caspar Anckenreuter]]** — key lead in Beekerhoven; why did he sell his ticket? Does he know who Stradovski is?
+- **[[Caspar Anckenreuter]]** — key lead in Beeckerhoven; why did he sell his ticket? Does he know who Stradovski is?
 - **Stradovski's 100% success rate** — impossible by normal means; confirms something deeply unusual about his methods
 - **[[Heidi Ubermann]]** — potential asset; resentful of Danderich, more capable than recognised
 - **[[Danderich Flisshausten]]'s dinner invitation** — intelligence gathering opportunity for Erika, but also a risk

@@ -10,7 +10,7 @@ first_seen: "[[Session 04 - The Investigation]]"
 tags: [character, npc]
 ---
 
-# Chancellor Leinhard von Altenhaus
+# Chancellor Lienhard von Altenhaus
 
 ## Description
 The Chancellor of the [[Collegium Theologica]]. Received the party in a polished office smelling of old parchment and sealing wax.

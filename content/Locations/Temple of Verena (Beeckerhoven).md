@@ -1,17 +1,17 @@
 ---
 type: location
 location_type: temple
-region: Beekerhoven
-parent_location: "[[Beekerhoven]]"
+region: Beeckerhoven
+parent_location: "[[Beeckerhoven]]"
 status: visited
 first_visited: "[[Session 08 - The Minter's Wife|Session 08]]"
 tags: [location]
 ---
 
-# Temple of Verena (Beekerhoven)
+# Temple of Verena (Beeckerhoven)
 
 ## Description
-The Temple of Verena's presence in [[Beekerhoven]]. A centre of legal authority and record-keeping in the town, responsible for warrants and official documentation. The presiding priestess has been actively involved in recruiting and authorising the party's investigation.
+The Temple of Verena's presence in [[Beeckerhoven]]. A centre of legal authority and record-keeping in the town, responsible for warrants and official documentation. The presiding priestess has been actively involved in recruiting and authorising the party's investigation.
 
 ## Notable Features
 - Issues and updates official warrants for the party's commission
@@ -21,7 +21,7 @@ The Temple of Verena's presence in [[Beekerhoven]]. A centre of legal authority 
 - Verena priestess — recruited the party's replacement members; handles warrants and official correspondence
 
 ## Connected Locations
-- [[Beekerhoven]] — parent settlement
+- [[Beeckerhoven]] — parent settlement
 - [[Medical Union Compound]] — prisoners delivered here from the raid
 - [[Forest Inn]] — received a homing pigeon report from [[Pilpoul Ivri]] in Session 16
 

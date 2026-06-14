@@ -13,7 +13,7 @@ tags: [character, npc]
 # Elsie (Medical Union)
 
 ## Description
-A mousy young woman working at the [[Medical Union]] compound in [[Beekerhoven]]. Slight, unremarkable — easy to overlook.
+A mousy young woman working at the [[Medical Union]] compound in [[Beeckerhoven]]. Slight, unremarkable — easy to overlook.
 
 ## Role / Occupation
 Laboratory assistant and guide within the [[Medical Union]] compound. Her exact role in the operation is unclear.

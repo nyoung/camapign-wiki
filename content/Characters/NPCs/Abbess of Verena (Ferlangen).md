@@ -31,7 +31,7 @@ Stern, unhurried, unmoved by emotional appeals. Heard out the party's defence ag
 ## History with the Party
 **[[Session 19 - Ferlangen|Session 19]]:** Greeted the party with [[Christina Asper|Asper]]'s report already in front of her. The accusations: the party had withheld heretical artefacts, goaded Asper into acting as a judge in a matter at an inn, and spoken ill of her to soldiers. [[Pilpoul Ivri|Pilpoul]] and [[Berin Garibaldi|Berin]] defended the group's conduct. The Abbess listened, then **clarified the chain of command**: the party holds the right of command over the investigation; Asper is a *resource*, not a director. She also noted with a pointed look at [[Boris Dorchen|Boris]] that he alone had been named by Asper as a trustworthy ally.
 
-She confirmed that **neither [[Christina Asper|Asper]] nor [[Lucas Pollack]] had located useful leads** in [[Ferlangen]], and that the **missing Ulrican knights had not yet arrived**. She suggested the **Merchants Guild** as the right avenue for the [[Beekerhoven]] counterfeit-coin investigation. The party then collected their wages and were billeted at **Frau Busch's boarding house**.
+She confirmed that **neither [[Christina Asper|Asper]] nor [[Lucas Pollack]] had located useful leads** in [[Ferlangen]], and that the **missing Ulrican knights had not yet arrived**. She suggested the **Merchants Guild** as the right avenue for the [[Beeckerhoven]] counterfeit-coin investigation. The party then collected their wages and were billeted at **Frau Busch's boarding house**.
 
 ## Known Information
 - Abbess of the [[Temple of Verena (Ferlangen)|Temple of Verena]]

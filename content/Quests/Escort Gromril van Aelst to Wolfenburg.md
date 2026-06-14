@@ -72,7 +72,7 @@ In [[Session 21 - The Gnome and the Slayer|Session 21]], the party stumbled out 
 - **[[Session 26 - A Night in the Country|Session 26]]** — survived a night of harassment at the [[Wayside Shrine]]. **[[Astrid Hofhaimer]]** rode to parlay and demanded the **promissory notes by noon** or harassment all the way to [[Dassel]]. [[Gromril van Aelst|Gromril]] explained the notes are debts collected from [[Ferlangen]] merchants, named **[[Augustus van Kolditz]]** as his suspected paymaster, and showed an actual (near-unforgeable) banknote. The party **refused to comply** and committed to baiting a counter-ambush with the gagged prisoner and a decoy note-satchel.
 
 ## Notes
-- The escort job is the most lucrative side-job the party have taken since [[Beekerhoven]]
+- The escort job is the most lucrative side-job the party have taken since [[Beeckerhoven]]
 - It also functionally **makes the party's planned departure for [[Wolfenburg]] paid work** — a happy alignment
 - Gromril's promissory notes are the real target — the Bear Claws street attack in [[Session 21 - The Gnome and the Slayer|Session 21]] and the Howling Ones road attacks are almost certainly connected through a merchant who hired both
 - The escort goal is now **directly entangled with the [[The Howling Ones Bounty|Howling Ones bounty]]**: the cult harassing the caravan and the bounty target are the same band, led by [[Astrid Hofhaimer]]. The party are no longer just defending the coach — they are turning to **hunt the hunters**.

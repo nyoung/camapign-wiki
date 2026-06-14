@@ -1,7 +1,7 @@
 ---
 type: quest
 status: completed
-quest_giver: "[[Emma Ludaroth]]"
+quest_giver: "[[Emma Luderoth]]"
 quest_type: side
 started: "[[Session 06 - The Were-Rabbit]]"
 completed: "[[Session 07 - The Were-Rabbit's End]]"
@@ -15,7 +15,7 @@ tags: [quest]
 Kill or drive off the [[Were-Rabbit]] terrorizing the [[Fox and Crown]] inn and its surrounding settlement.
 
 ## Background
-When locals heard that [[Boris Dorchen]] had experience hunting a were-rabbit in the Drakwald, they immediately hired him to deal with the creature ravaging their vegetable stores. The quest giver was [[Emma Ludaroth]], the innkeeper.
+When locals heard that [[Boris Dorchen]] had experience hunting a were-rabbit in the Drakwald, they immediately hired him to deal with the creature ravaging their vegetable stores. The quest giver was [[Emma Luderoth]], the innkeeper.
 
 ## Steps / Progress
 - [x] Accept the job
@@ -30,7 +30,7 @@ When locals heard that [[Boris Dorchen]] had experience hunting a were-rabbit in
 ## Related NPCs
 - [[Boris Dorchen]] — hired hunter; landed the killing blow
 - [[Hildegarde]] — critical hit that left the creature prone and stunned
-- [[Emma Ludaroth]] — quest giver; paid the reward
+- [[Emma Luderoth]] — quest giver; paid the reward
 - [[Were-Rabbit]] — target; defeated
 
 ## Related Locations
@@ -42,7 +42,7 @@ When locals heard that [[Boris Dorchen]] had experience hunting a were-rabbit in
 - [[Joerg Wusterburg]] was badly wounded during the combat
 
 ## Resolution
-**Completed — Session 07 (21 Nachexen 2512).** [[Boris Dorchen]] decapitated the prone, stunned were-rabbit with his axe. The creature reverted immediately to normal rabbit size upon death. All remaining swarms transformed into timid wild rabbits and fled. [[Emma Ludaroth]] confirmed the produce was intact and paid 5 Gold Crowns; Boris distributed 1 GC to each party member.
+**Completed — Session 07 (21 Nachexen 2512).** [[Boris Dorchen]] decapitated the prone, stunned were-rabbit with his axe. The creature reverted immediately to normal rabbit size upon death. All remaining swarms transformed into timid wild rabbits and fled. [[Emma Luderoth]] confirmed the produce was intact and paid 5 Gold Crowns; Boris distributed 1 GC to each party member.
 
 ## Notes
 - Boris's claim to have hunted a were-rabbit (first mentioned in [[Session 01 - The Sewer Horror]]) was met with amusement at the time — now confirmed genuine and celebrated

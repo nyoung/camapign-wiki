@@ -3,7 +3,7 @@ type: npc
 species: Human
 career:
 faction:
-location: "Beekerhoven area (dilapidated farm)"
+location: "Beeckerhoven area (dilapidated farm)"
 status: alive
 disposition: unpleasant
 first_seen: "[[Session 12 - Bride Price]]"

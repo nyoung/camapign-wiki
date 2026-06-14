@@ -13,7 +13,7 @@ tags: [character, npc]
 # Oslin
 
 ## Description
-A peddler in [[Beekerhoven]].
+A peddler in [[Beeckerhoven]].
 
 ## Role / Occupation
 Peddler. Believed by locals to have been framed by the [[Medical Union]] for the murder of [[Dr. Thurne]].
@@ -21,7 +21,7 @@ Peddler. Believed by locals to have been framed by the [[Medical Union]] for the
 ## History with the Party
 Not encountered directly — mentioned during the investigation into the [[Medical Union]].
 
-Many residents of [[Beekerhoven]] believe Oslin was an innocent man set up to take the fall for [[Dr. Thurne]]'s murder, with the [[Medical Union]] as the true culprits. His current status is unknown — he may be imprisoned.
+Many residents of [[Beeckerhoven]] believe Oslin was an innocent man set up to take the fall for [[Dr. Thurne]]'s murder, with the [[Medical Union]] as the true culprits. His current status is unknown — he may be imprisoned.
 
 ## Appearances
 - [[Session 10 - Rats, Corpses, and Conspiracy]]
