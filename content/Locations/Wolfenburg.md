@@ -19,7 +19,7 @@ Provincial capital of [[Ostland]] and a regional crossroads — described to the
 - Crossroads where the eastern Ostland routes converge
 
 ## Notable NPCs
-- **[[Matron Isolde Uricht]]** — high priestess of the [[Temple of Shallya]] in Wolfenburg; named to the party as their best contact for information about the disease outbreak
+- **[[Matron Isolde Ulricht]]** — high priestess of the [[Temple of Shallya]] in Wolfenburg; named to the party as their best contact for information about the disease outbreak
 
 ## Factions Present
 - [[Cult of Shallya]] — Wolfenburg temple

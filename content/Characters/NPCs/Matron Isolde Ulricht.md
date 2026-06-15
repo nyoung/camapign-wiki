@@ -11,7 +11,7 @@ first_seen: Mentioned in "[[Session 20 - Never Mention Prostitutes]]"
 tags: [character, npc]
 ---
 
-# Matron Isolde Uricht
+# Matron Isolde Ulricht
 
 ## Description
 Not yet met. Named to the party as the **high priestess of the Shallyan temple in [[Wolfenburg]]** by the harried Shallyan priestess in [[Ferlangen]] in [[Session 20 - Never Mention Prostitutes|Session 20]].

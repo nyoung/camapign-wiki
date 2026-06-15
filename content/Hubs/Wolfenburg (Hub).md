@@ -15,7 +15,7 @@ tags: [hub]
 - [[Wolfenburg]]
 
 ## NPCs
-- [[Matron Isolde Uricht]]
+- [[Matron Isolde Ulricht]]
 
 ## Other Hubs
 - [[Middenheim (Hub)]]

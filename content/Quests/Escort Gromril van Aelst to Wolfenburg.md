@@ -62,7 +62,7 @@ In [[Session 21 - The Gnome and the Slayer|Session 21]], the party stumbled out 
 - The **[[Howling Ones]]** are active on this exact stretch of road — escort jobs through here have been hard to fill for a reason
 - [[Mangold]]'s reflex to chase thieves can leave the party without a heavy hitter at the wrong moment
 - [[Anton Kristov]] is a small-time import-exporter on this same road — encountering his operation is plausible
-- The party have their own reasons to be on this road (the [[Find Professor Stradovski]] trail, the [[Matron Isolde Uricht]] meeting, the [[Wolfenburg]] disease cluster), so the job aligns rather than competes with their main objectives
+- The party have their own reasons to be on this road (the [[Find Professor Stradovski]] trail, the [[Matron Isolde Ulricht]] meeting, the [[Wolfenburg]] disease cluster), so the job aligns rather than competes with their main objectives
 
 ## Session 22–24 Updates
 - **[[Session 22 - Meddling Kids|Session 22]]** — caravan assembled; [[Lefty Longshanks|Lefty]] met in person; departed [[Ferlangen]] south gate 7 Jahrdrung

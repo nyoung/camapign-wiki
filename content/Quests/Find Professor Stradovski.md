@@ -55,7 +55,7 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - [x] Check the [[Physicians' Guild (Ferlangen)|Physicians' Guild]] in Ferlangen ([[Session 21 - The Gnome and the Slayer|Session 21]]) — **no record of [[Professor Udo Stradovski|Stradovski]]**; one new practitioner registered ~one month prior, **[[Derich Kölderer]]**, mentioned as a separate person
 - [x] Secure transport east — escort job for **[[Gromril van Aelst]]** to [[Wolfenburg]] sealed for **10 GC** ([[Session 21 - The Gnome and the Slayer|Session 21]])
 - [ ] Verify [[Derich Kölderer]] in person — description, age, address — to rule in or out as a [[Professor Udo Stradovski|Stradovski]] alias / co-conspirator
-- [ ] Travel to [[Wolfenburg]] and consult **[[Matron Isolde Uricht]]** at the [[Temple of Shallya]] there
+- [ ] Travel to [[Wolfenburg]] and consult **[[Matron Isolde Ulricht]]** at the [[Temple of Shallya]] there
 - [ ] Investigate via the **Merchants Guild** — recommended channel for the [[Beeckerhoven]] counterfeit-coin trail
 - [ ] Pursue the **[[Howling Ones]]** thread — both highwaymen and a named cult; talk of the town
 - [ ] Investigate the corrupt-merchant list and the missing Ferlangen girls (see [[Investigate Ferlangen Trafficking and Missing Girls]]) — possible Stradovski-experiment connection

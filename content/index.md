@@ -30,7 +30,7 @@ tags: [home]
 - [[Danderich Flisshausten]] and Sigmarite knights — Travelling same road; riding vanguard; not allies
 
 ## Active Quests
-- [[Find Professor Stradovski]] — trail confirmed at [[The Hanging Highwayman]] ([[Hasselhund]]); Stradovski passed ~2 weeks ago with large merchant caravan; heading to [[Wolfenburg]]; contact there: **[[Matron Isolde Uricht]]** at the [[Temple of Shallya]]
+- [[Find Professor Stradovski]] — trail confirmed at [[The Hanging Highwayman]] ([[Hasselhund]]); Stradovski passed ~2 weeks ago with large merchant caravan; heading to [[Wolfenburg]]; contact there: **[[Matron Isolde Ulricht]]** at the [[Temple of Shallya]]
 - [[Escort Gromril van Aelst to Wolfenburg]] — active; **two ambushes survived**, then a night of harassment at the [[Wayside Shrine]] (Session 26); **[[Astrid Hofhaimer]] issued a noon ultimatum** for Gromril's promissory notes; party **refused** and set a **counter-ambush trap** (decoy note-satchel + the gagged prisoner as bait); Gromril names **[[Augustus van Kolditz]]** as suspected paymaster
 - [[The Howling Ones Bounty]] — 10/- per head; direct combat in Sessions 23–25; **[[Ganav]]** captured (ward of Berin); the cult's **named leader revealed (Session 26): [[Astrid Hofhaimer]]** (who rode to parlay with a bandaged, bloodied arm); "forest warden" [[Mathis Haack]] no longer trusted after vanishing overnight
 - [[Beeckerhoven Counterfeit Coins]] — on hold; Merchants Guild approach abandoned after Pilpoul's catastrophic failed bribe
@@ -82,7 +82,7 @@ tags: [home]
 - **[[Danderich Flisshausten]]'s accusation** — Heinz Benz's death and the Forest Inn abandonment; has Van Moll's note and the registry; this is not resolved
 
 ### Stradovski / Main Quest
-- **[[Professor Udo Stradovski]]** — confirmed trail at [[The Hanging Highwayman]] (~two weeks prior); heading to [[Wolfenburg]]; contact: **[[Matron Isolde Uricht]]** at Wolfenburg [[Temple of Shallya]]
+- **[[Professor Udo Stradovski]]** — confirmed trail at [[The Hanging Highwayman]] (~two weeks prior); heading to [[Wolfenburg]]; contact: **[[Matron Isolde Ulricht]]** at Wolfenburg [[Temple of Shallya]]
 - **[[Elfrieda Teuschel]]** — confirmed heading south with Hofbauer Bodelstein company via [[Dassel]] to [[Wolfenburg]]; left [[Ferlangen]] same day party arrived; "tall boxer" companion = male servant; broke promise to wait at [[Hasselhund]]
 - **[[Wolfenburg]] disease cluster** — multiple rare/exotic diseases simultaneously; tied to Stradovski's likely presence
 - **Stradovski's 100% success rate** — patient notes show no failures or deaths; implies supernatural means
