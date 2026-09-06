@@ -31,3 +31,11 @@ Rather than the typical image of infected rabble, the Medical Union consists of 
 
 ## History with the Party
 The party uncovered the Medical Union's Beeckerhoven operation during the pursuit of [[Professor Udo Stradovski]]. They raided the compound, disrupted operations, and forced [[Elfrieda Teuschel]] to flee north with stolen mint gold.
+
+## Session 37 — Especially the Hugs
+- **🔴 The Union's actual structure, from [[Elfrieda Teuschel]] under interrogation:** it is **not a church and not a hierarchy**. It is **small groups of like-minded individuals scattered across multiple cities, from Nordland to Ostland**, united only by a **willingness to pursue medicine beyond what the authorities sanction**. There is no single head to cut off
+- **🔴 [[Seuchenshof]] is an active Union site.** The Union maintains a presence in the plague village **under the guise of a Shallyan priest**, **harvesting active disease strains from the infected** — and, when natural samples are insufficient, **deliberately infecting people to create larger ones**
+- Hildegarde's response on hearing it: *"That's absolutely horrifying."*
+- **Their medicine genuinely works.** Teuschel credits [[Professor Udo Stradovski|Stradovski]] with curing her consumption — bedridden, months to live — through weeks of potions and daily needle pricks. The Union is not a fraud; it is **effective and unrestrained**, which is worse
+- **Their regard for people is instrumental.** Teuschel dismissed [[Elsie (Medical Union)|Elsie]]'s death as being "of no consequence"
+- **Known Union-linked names:** [[Professor Udo Stradovski]] (Kislevite accent — possible eastern origin), [[Elfrieda Teuschel]] (cured patient and facilitator), and [[Klaus von Kolditz]] as the [[Ferlangen]] link in Stradovski's escape

@@ -65,6 +65,17 @@ Formal, methodical, and proud of his noble lineage. Forceful about his authority
 - Afterward, nursing wounded pride more than body, he **demanded the prisoners be hanged on the spot**; [[Berin Garibaldi|Berin]] talked him down (they may yet hold useful intelligence)
 - A second consecutive session of reckless, ineffective leadership — exactly the pattern [[Heidi Ubermann]] privately warned about
 
+## Session 27 — Cavalry Devastation
+- The day's most lethal combatant; delivered **three confirmed kills** on horseback during the fight
+- Opened with a cavalry hammer blow that crushed a bandit's arm outright — instant kill
+- Later charged across the muddy stream and **cut down two more bandits in quick succession** using the death blow rule while mounted
+- A striking reversal from the two previous sessions of reckless failure — on open terrain with room to maneuver, he is genuinely dangerous
+
+## Session 28 — Mourning Herman
+- Confirmed the dead among the bandits, methodically checking each body
+- Mourned **[[Herman Wurt]]**'s death with a heavy sigh; paid ten shillings for a proper grave
+- His gleaming armour, shown off in [[Dassel]], helped convince skeptical locals the road was truly clear
+
 ## Appearances
 - [[Session 01 - The Sewer Horror]]
 - [[Session 02 - The Trial of Klaus Grebel]]
@@ -74,3 +85,5 @@ Formal, methodical, and proud of his noble lineage. Forceful about his authority
 - [[Session 23 - Ambush!]]
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]

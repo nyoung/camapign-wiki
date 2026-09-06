@@ -44,6 +44,8 @@ Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 
 **Session 26:** One of his **socks** was conscripted by [[Boris Dorchen|Boris]] to gag the captured prisoner. During the night, sharpening his axe by the fire, he silently held up a **hand in the shape of a wolf** as the real wolves answered the howls. When the party planned the counter-ambush, **Mungo fretted that entering a fight might breach Teamster's Guild rules and incur extra charges** — and his **cookbook** was nominated as the decoy bundle to bait the bandits.
 
+**Session 28:** His horse panicked and bolted during the ambush, sending the wagon careening down the road until [[Ganav]] helped him wrestle back control. Reluctantly agreed to transport ~20 severed [[Howling Ones]] heads for the bounty, wrapped in a spare canvas tarp, in exchange for a cut of [[Hildegarde]]'s share.
+
 ## Appearances
 - [[Session 04 - The Investigation]]
 - [[Session 07 - The Were-Rabbit's End]]
@@ -55,3 +57,4 @@ Assigned to them by [[Hoffman Jannitzer]] in [[Session 04 - The Investigation]].
 - [[Session 19 - Ferlangen]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 28 - A Knight to Dismember]]

@@ -14,7 +14,7 @@ tags: [character, npc]
 # Lady Steiner
 
 ## Description
-A distressed noblewoman. Introduced to the party by [[Matron Isolde]] at the [[Temple of Shallya]].
+A distressed noblewoman. Introduced to the party by [[High Priestess Isolde Begegnen]] at the [[Temple of Shallya]].
 
 ## Role / Occupation
 Noblewoman. Seeking aid to rescue her son [[Augustus Steiner]] from execution.
@@ -26,7 +26,7 @@ Distressed but composed enough to conduct business. Recognized [[Hildegarde]]'s 
 - [[Augustus Steiner]] — son, currently imprisoned in his mentor's place
 - [[Professor Udo Stradovski]] — her son's mentor, whose disappearance caused this crisis
 - [[Temple of Verena]] / Legalists — co-funding the retrieval job
-- [[Matron Isolde]] — connected; brought her to meet the party
+- [[High Priestess Isolde Begegnen]] — connected; brought her to meet the party
 - [[Hildegarde]] — recognised her brass necklace; agreed to inquire about Hildegarde's missing mother in exchange for the necklace and the party taking the job
 
 ## History with the Party

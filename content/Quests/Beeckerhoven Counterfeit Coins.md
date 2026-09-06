@@ -56,3 +56,9 @@ On arrival in [[Ferlangen]], the [[Abbess of Verena (Ferlangen)|Abbess]] of the 
 ## Notes
 - This investigation may or may not turn out to overlap with the [[Find Professor Stradovski|Stradovski]] quest, given Elfrieda's coins
 - As of [[Session 20 - Never Mention Prostitutes|Session 20]], the counterfeits are **not yet visibly circulating** in [[Ferlangen]]'s peddlar trade or its underworld — both [[Karl Helpmann]] and the high-class brothel worker reported no sightings. Either the coins have not reached the city, or they are moving through an even narrower channel.
+
+## Session 37 — Especially the Hugs
+- **Thirty crowns recovered** — surrendered by [[Elfrieda Teuschel]] from her own purse under interrogation, after [[Hildegarde]] confronted her over the stolen Nordland gold and threatened to involve the witch hunters
+- **🔴 The bulk of the gold is gone.** Teuschel stated it had **already been sent ahead to Altdorf**
+- Hildegarde informed her that the **mint has been declared illegal** and that the [[Temple of Verena]] is **actively seeking the funds**
+- The surviving stevedore later **dropped a freshly minted Nordland crown** on [[Captain Crais]]'s desk as proof of his pay — physical evidence the coin is circulating in [[Wolfenburg]]. Crais noted the party's warrant covers [[Professor Udo Stradovski|Stradovski]], **not stolen coin**

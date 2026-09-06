@@ -61,6 +61,8 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 
 **Session 26:** Stood the **final watch** of the harassed night at the [[Wayside Shrine]] alongside [[Hildegarde]], who answered the cult's howls by firing an arrow back into the dark.
 
+**[[Session 33 - Plot Twist|Session 33]]:** At the [[Temple of Verena (Wolfenburg)|Temple of Verena]], Hildegarde repaid a four-crown debt she owed him.
+
 ## Appearances
 - [[Session 04 - The Investigation]]
 - [[Session 05 - The Road North]]
@@ -78,3 +80,4 @@ Met outside the [[Collegium Theologica]] in [[Session 04 - The Investigation]]. 
 - [[Session 19 - Ferlangen]]
 - [[Session 20 - Never Mention Prostitutes]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 33 - Plot Twist]]

@@ -11,7 +11,7 @@ first_seen: "[[Session 02 - The Trial of Klaus Grebel]]"
 tags: [character, npc]
 ---
 
-# Matron Isolde
+# High Priestess Isolde Begegnen
 
 ## Description
 The matron of the [[Temple of Shallya]] in [[Middenheim]]. A person of evident authority within the temple.

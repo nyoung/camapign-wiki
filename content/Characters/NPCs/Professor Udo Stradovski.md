@@ -40,6 +40,8 @@ He is not simply a fugitive academic. He is a man who has spent twenty years pre
 ## History with the Party
 Not yet encountered. Finding him is the objective of [[Find Professor Stradovski]].
 
+**[[Session 33 - Plot Twist|Session 33]]:** At the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]] in Wolfenburg, Berin spotted a freshly painted (less than a month old) shrine to a twisted, androgynous Shallya — Hildegarde recognized it as nearly identical to a shrine she recalled from Stradovski's private office. Neither the temple's proprietor nor the party yet knows the connection's meaning.
+
 ## Known Information
 **Physical:** ~50 years old, dark hair, brown eyes, average height, own teeth
 
@@ -62,6 +64,7 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - Allegedly had sexual relations with a dead student in the morgue (unverified rumour from a guard)
 - Drugged [[Augustus Steiner]] with tea to secure his bond and facilitate escape
 - Portrait cut from its frame — someone removed it deliberately
+- Kept a shrine to a twisted, androgynous Shallya in his private office — nearly identical to one freshly painted at the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]] in [[Wolfenburg]] ([[Session 33 - Plot Twist|Session 33]])
 
 **Whereabouts (chronological trail):**
 - Left Middenheim ~8–9 Nachexen 2512 heading north
@@ -87,6 +90,9 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - The [[Seuchenbuch|Seuchenbuch (Plague Book)]] — contains formulas requiring specific plague materials; the [[Seuchenshof]] hospice may have been a target for these; Berin suspects the professor is drawn to plague sources
 - The Seuchenbuch discusses using disease as a tool and weapon — similar to controversial texts in the libraries of the Knights Panther (per Berin's reading, Session 09)
 
+## Notes
+- *Possible tension:* his Middenheim profile states he "kept no shrines" (see Personality, above — no Ulric altar, deliberately unremarkable). The twisted-Shallya shrine recalled by Hildegarde in [[Session 33 - Plot Twist|Session 33]] was in his *private office*, which may be distinct from the home searched earlier — worth clarifying with the GM whether this is a new detail or an earlier search that wasn't fully logged.
+
 ## Appearances
 - Mentioned in [[Session 02 - The Trial of Klaus Grebel]]
 - [[Session 03 - The Trial]]
@@ -99,3 +105,12 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - [[Session 16 - Plus ça change]] *(Skjaldberg confirmation; entered Ostland)*
 - [[Session 17 - Asper-ated]] *(passage through Pewter Merchant confirmed)*
 - [[Session 18 - The Hemp Merchant]] *(passage through Hemp Merchant on 16th Nachexen confirmed)*
+- [[Session 33 - Plot Twist]] *(twisted Shallya shrine, matching one at the Temple of the All Gods, recalled from his private office)*
+
+## Session 37 — Especially the Hugs
+- **🔴 His escape route is now confirmed end to end**, from [[Elfrieda Teuschel]]'s own mouth under interrogation: she **helped him escape [[Beeckerhoven]]**, **connected him with [[Klaus von Kolditz|Von Kolditz]] in [[Ferlangen]]**, and **arranged his passage on to [[Wolfenburg]]**
+- Teuschel claimed to know nothing of his **current** whereabouts beyond that. [[Boris Dorchen|Boris]] judged her to be **protecting certain truths, but not lying outright** — so the trail may not be as cold as she implies
+- **🔴 He may be Kislevite.** Teuschel's parting detail: he **occasionally lets slip a faint Kislevite accent when deeply focused on his work**, suggesting his origins lie far to the East. If he runs east he runs beyond the Empire's reach
+- **🔴 The organisation behind him is the [[Medical Union]]** — and it is a **cell network, not a hierarchy**: small groups of like-minded individuals across multiple cities from Nordland to Ostland. **There is no single head to cut off**
+- **His cures are real.** Teuschel credits him with curing a consumption that had left her bedridden with months to live — weeks of potions and **daily needle pricks**. She speaks of him with reverence. Whatever else he is, his treatments work on the people he chooses to treat
+- Set against that: the Union's [[Seuchenshof]] operation **deliberately infects people** to harvest larger disease samples

@@ -24,6 +24,7 @@ tags: [hub]
 - [[Temple of Verena (Beeckerhoven)]]
 
 ## NPCs
+- [[Ansgar Knochenbrecher]]
 - [[Beatrijs]]
 - [[Caspar Anckenreuter]]
 - [[Castor Stark]]

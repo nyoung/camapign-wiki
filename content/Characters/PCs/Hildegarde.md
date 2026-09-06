@@ -77,7 +77,7 @@ Hildegarde has lived on the streets of Middenheim all her life. She knows no oth
 
 ## Relationships
 - [[Udo Hintzer|Watch Sergeant Udo Hintzer]] — benefactor
-- [[Matron Isolde]] — provided sanctuary and clothing
+- [[High Priestess Isolde Begegnen]] — provided sanctuary and clothing
 - [[Lady Steiner]] — gave her the brass necklace; Lady Steiner agreed to investigate Hildegarde's missing mother
 
 ## Personal Quests

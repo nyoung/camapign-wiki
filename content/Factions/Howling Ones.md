@@ -50,4 +50,4 @@ Open hostile target — bounty available, no personal contact yet.
 ## Notes
 - The official Ferlangen denial of "Kislevite revolutionary forces" in Ostland was issued in the same breath as the cult bounty — the two threads may be related
 - The wolf seen on the cliff above the road into Ferlangen, howling and vanishing into the grey sky, may or may not be connected
-- **What the cult actually wants here is [[Gromril van Aelst|Gromril]]'s promissory notes**, not random plunder — pointing to a paymaster with a financial motive. [[Gromril van Aelst|Gromril]] suspects **[[Augustus van Kolditz]]**; the truth is not yet established.
+- **What the cult actually wants here is [[Gromril van Aelst|Gromril]]'s promissory notes**, not random plunder — pointing to a paymaster with a financial motive. [[Gromril van Aelst|Gromril]] suspected **[[Klaus von Kolditz|Augustus van Kolditz]]**, and a bribed Wolfenburg merchant clerk has since confirmed **[[Klaus von Kolditz]]** (the same man) as the actual informant leaking caravan movements to the cult ([[Session 34 - I Believe You Dropped Your Hat|Session 34]]).

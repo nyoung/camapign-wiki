@@ -15,12 +15,12 @@ tags: [location]
 The Shallyan temple in [[Middenheim]]. Offers sanctuary, healing, and communal meals. Clean and organised. The party spent a night here, receiving clean clothes and a filling breakfast.
 
 ## Notable Features
-- Matron's office — where [[Matron Isolde]] meets with guests
+- Matron's office — where [[High Priestess Isolde Begegnen]] meets with guests
 - Communal dining area — where the party met [[Joerg Wusterburg]]
 - Guest accommodation — the party slept here; woke to their clothes cleaned and pressed
 
 ## Notable NPCs
-- [[Matron Isolde]] — Matron, senior priest
+- [[High Priestess Isolde Begegnen]] — Matron, senior priest
 - [[Elke Grebel]] — novice
 
 ## Factions Present

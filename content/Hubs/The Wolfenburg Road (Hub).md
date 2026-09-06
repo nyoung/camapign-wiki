@@ -16,6 +16,8 @@ tags: [hub]
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]
 
 ## Locations
 - [[Aukrug]]
@@ -28,6 +30,7 @@ tags: [hub]
 
 ## NPCs
 - [[Astrid Hofhaimer]]
+- [[Dickus]]
 - [[Igor]]
 - [[Mathis Haack]]
 

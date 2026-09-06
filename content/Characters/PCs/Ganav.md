@@ -47,7 +47,25 @@ He explicitly denies that he was the one who shot [[Pilpoul Ivri|Pilpoul]].
 - Bears a hawk-and-eye device on his shoulder
 - Wounded in the shoulder (cracked scapula); arrow still lodged, needs a surgeon in [[Wolfenburg]]
 
+## Session 28 — Grief and a Grave
+- Helped [[Mungo Mudfoot|Mungo]] regain control of the bolting wagon during the ambush
+- Dug **[[Herman Wurt]]**'s grave with his own hands and spoke Sigmarite condolences over the body
+
+## Session 29 — Turned Over to the Courts
+- Turned over to the [[Wolfenburg]] city courts bailiff to await a preliminary hearing for his time with the [[Howling Ones]]; held in a cell
+
+## Session 30 — Trial and Marriage
+- Delivered an unexpectedly eloquent courtroom defense before **Magistrate Gawinus**, arguing he had been a healer forced into service, never a raider
+- **Pivoted to a genuine, on-the-spot marriage proposal to [[Hildegarde]]**, arguing no sentence could be sterner than lifelong matrimony
+- Sentenced to **death by hanging** regardless; saved when **[[Berin Garibaldi|Berin]]** invoked a rarely used statute and paid three gold crowns to take personal legal custody of him
+- Punched in the jaw by [[Hildegarde]] the moment he stepped free; she informed him she'd settle for no fewer than **five children**
+- Pursued a wild-eyed stranger who accosted him with warnings about an "influencing machine" and a "world plan," losing him near the waterfront
+
 ## Appearances
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]
+- [[Session 29 - Wolfenburg]]
+- [[Session 30 - Hanging Judge]]

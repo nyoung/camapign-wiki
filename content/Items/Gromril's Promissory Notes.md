@@ -20,7 +20,8 @@ A bundle of **promissory notes** — debts collected by the gnome merchant [[Gro
 
 ## History / Provenance
 - **[[Session 24 - Hawkeye|Session 24]]** — Gromril revealed to [[Berin Garibaldi|Berin]] that the notes, not ordinary cargo, are his real value; Berin immediately suspected the attacks were directed by someone with inside knowledge
-- **[[Session 26 - A Night in the Country|Session 26]]** — [[Astrid Hofhaimer]] demanded them at parlay; Gromril named **[[Augustus van Kolditz]]** (an antique dealer who owed him 500+ crowns) as his suspected paymaster, and produced an actual banknote to show the party what was at stake. The party resolved to **bait a counter-ambush** with a **decoy bundle** ([[Mungo Mudfoot|Mungo]]'s cookbook dressed as a note-satchel) rather than hand the real notes over.
+- **[[Session 26 - A Night in the Country|Session 26]]** — [[Astrid Hofhaimer]] demanded them at parlay; Gromril named **[[Klaus von Kolditz|Augustus van Kolditz]]** (an antique dealer who owed him 500+ crowns) as his suspected paymaster, and produced an actual banknote to show the party what was at stake. The party resolved to **bait a counter-ambush** with a **decoy bundle** ([[Mungo Mudfoot|Mungo]]'s cookbook dressed as a note-satchel) rather than hand the real notes over.
+- **[[Session 34 - I Believe You Dropped Your Hat|Session 34]]** — a bribed Wolfenburg merchant clerk confirmed Von Kolditz (the same man as "Augustus") has been leaking caravan movements to the Howling Ones — the actual reason the coach was targeted.
 
 ## Notes
 - Whoever wants them gone has a **financial motive and inside knowledge** of Gromril's route — the thread tying the [[Ferlangen]] alley ambush to the road attacks.

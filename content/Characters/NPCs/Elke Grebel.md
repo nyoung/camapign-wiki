@@ -24,12 +24,12 @@ Anxious and cautious under pressure — was trying to pull [[Klaus Grebel]] away
 
 ## Relationships
 - [[Klaus Grebel]] — brother; was trying to protect him
-- [[Matron Isolde]] — superior at the [[Temple of Shallya]]
-- Party — escorted her to the temple; considers them heroes; ecstatically described their deeds to Matron Isolde
+- [[High Priestess Isolde Begegnen]] — superior at the [[Temple of Shallya]]
+- Party — escorted her to the temple; considers them heroes; ecstatically described their deeds to High Priestess Isolde Begegnen
 
 ## History with the Party
 - [[Session 01 - The Sewer Horror]]: Knocked down by Sigmarite thugs during the plaza riot; [[Boris Dorchen|Boris]] charged in to protect her.
-- [[Session 02 - The Trial of Klaus Grebel]]: Protected by [[Hildegarde]] and [[Pilpoul Ivri|Pilpoul]] during the brawl. [[Pilpoul Ivri|Pilpoul]] pulled her to safety in a merchant's tent — then unsuccessfully attempted to charm and rob her. Escorted through Middenheim to the [[Temple of Shallya]]; introduced the party to [[Matron Isolde]] as heroes.
+- [[Session 02 - The Trial of Klaus Grebel]]: Protected by [[Hildegarde]] and [[Pilpoul Ivri|Pilpoul]] during the brawl. [[Pilpoul Ivri|Pilpoul]] pulled her to safety in a merchant's tent — then unsuccessfully attempted to charm and rob her. Escorted through Middenheim to the [[Temple of Shallya]]; introduced the party to [[High Priestess Isolde Begegnen]] as heroes.
 
 ## Known Information
 - Her brother [[Klaus Grebel]] was formerly a Shallyan novitiate before becoming a radical street speaker

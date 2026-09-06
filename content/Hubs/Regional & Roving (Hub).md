@@ -26,7 +26,6 @@ tags: [hub]
 - [[Salzenmund]]
 
 ## NPCs
-- [[Christina Asper]]
 - [[Danderich Flisshausten]]
 - [[Gromril van Aelst]]
 - [[Heidi Ubermann]]

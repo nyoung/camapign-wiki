@@ -1,11 +1,11 @@
 ---
 type: quest
-status: active
+status: completed
 quest_giver: "[[Gromril van Aelst]]"
 quest_type: side
 started: "[[Session 21 - The Gnome and the Slayer]]"
-completed:
-reward: "10 GC (sealed by handshake)"
+completed: "[[Session 29 - Wolfenburg]]"
+reward: "5 GC paid (Gromril cited a lower final sum than the original 10 GC handshake)"
 tags: [quest]
 ---
 
@@ -32,9 +32,9 @@ In [[Session 21 - The Gnome and the Slayer|Session 21]], the party stumbled out 
 - [x] Be in the right alley at the right time
 - [x] Strike the deal and shake on the price (10 GC)
 - [x] Rendezvous at the south gate of [[Ferlangen]] at dawn on 7 Jahrdrung 2512
-- [ ] Travel the [[Wolfenburg]] road safely *(in progress — two ambushes survived; second cliffhanger unresolved)*
-- [ ] Deliver Gromril and his coach to [[Wolfenburg]]
-- [ ] Collect the 10 GC
+- [x] Travel the [[Wolfenburg]] road safely *(three ambushes survived; the werewolf leading the Howling Ones driven off twice)*
+- [x] Deliver Gromril and his coach to [[Wolfenburg]] ([[Session 29 - Wolfenburg|Session 29]])
+- [x] Collect payment — **5 GC paid** ([[Session 29 - Wolfenburg|Session 29]]; note: original handshake was for 10 GC — worth confirming with the GM whether this is intentional or a transcription slip)
 
 ## Sessions Involved
 - [[Session 21 - The Gnome and the Slayer]]
@@ -43,12 +43,15 @@ In [[Session 21 - The Gnome and the Slayer|Session 21]], the party stumbled out 
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]
+- [[Session 29 - Wolfenburg]] *(completed — payment received)*
 
 ## Related NPCs
 - **[[Gromril van Aelst]]** — employer; gnome merchant
 - **[[Mangold]]** — bodyguard; dwarf slayer
 - **[[Lefty Longshanks|Lefty]]** — driver; halfling
-- **[[Augustus van Kolditz]]** — antique dealer who owed Gromril 500+ crowns; **Gromril's named suspect** for funding the road attacks (Session 26; unconfirmed)
+- **[[Klaus von Kolditz|Augustus van Kolditz]]** — antique dealer who owed Gromril 500+ crowns; **Gromril's named suspect** for funding the road attacks (Session 26) — confirmed the same man as trafficker Klaus von Kolditz and independently corroborated as the actual informant ([[Session 34 - I Believe You Dropped Your Hat|Session 34]])
 - **[[Klaus von Kolditz]]** / **[[Anton Kristov]]** — among the [[Ferlangen]] merchants Gromril named as traffickers; also among the merchants likely behind the alley ambush (if Boris's "they hired the thugs to take the notes back" reading is right)
 - **[[Astrid Hofhaimer]]** — [[Howling Ones]] leader who issued the **noon ultimatum** for the promissory notes
 - **[[Howling Ones]]** — credible threat on the route
@@ -62,14 +65,14 @@ In [[Session 21 - The Gnome and the Slayer|Session 21]], the party stumbled out 
 - The **[[Howling Ones]]** are active on this exact stretch of road — escort jobs through here have been hard to fill for a reason
 - [[Mangold]]'s reflex to chase thieves can leave the party without a heavy hitter at the wrong moment
 - [[Anton Kristov]] is a small-time import-exporter on this same road — encountering his operation is plausible
-- The party have their own reasons to be on this road (the [[Find Professor Stradovski]] trail, the [[Matron Isolde Ulricht]] meeting, the [[Wolfenburg]] disease cluster), so the job aligns rather than competes with their main objectives
+- The party have their own reasons to be on this road (the [[Find Professor Stradovski]] trail, the [[Gammer Isolde Ulricht]] meeting, the [[Wolfenburg]] disease cluster), so the job aligns rather than competes with their main objectives
 
 ## Session 22–24 Updates
 - **[[Session 22 - Meddling Kids|Session 22]]** — caravan assembled; [[Lefty Longshanks|Lefty]] met in person; departed [[Ferlangen]] south gate 7 Jahrdrung
 - **[[Session 23 - Ambush!|Session 23]]** — First ambush: Howling Ones attacked from hillside embankments; Gromril's coach overturned in a stone wall; [[Lefty Longshanks|Lefty]] unharmed; Gromril suffered hip contusion; [[Mangold]] righted the coach alone; caravan survived
 - **[[Session 24 - Hawkeye|Session 24]]** — Gromril revealed his real cargo: **promissory notes** representing debts owed by Ferlangen merchants to Wolfenburg moneylenders — someone with inside knowledge is directing the attacks; replacement horse secured at [[Hasselhund]]; caravan ambushed again at the [[Mountain Pass Choke Point]] — outcome unresolved
 - **[[Session 25 - Asper and the Wolf|Session 25]]** — second ambush **survived**: the monstrous wolf driven off and a further outlaw captured, but [[Christina Asper|Asper]] was badly mauled and [[Ganav]] wounded. The captured outlaw warns of **more ambushes ahead before [[Dassel]]**. Caravan made a defensive night camp at the [[Wayside Shrine]]; still short of [[Dassel]] and [[Wolfenburg]]
-- **[[Session 26 - A Night in the Country|Session 26]]** — survived a night of harassment at the [[Wayside Shrine]]. **[[Astrid Hofhaimer]]** rode to parlay and demanded the **promissory notes by noon** or harassment all the way to [[Dassel]]. [[Gromril van Aelst|Gromril]] explained the notes are debts collected from [[Ferlangen]] merchants, named **[[Augustus van Kolditz]]** as his suspected paymaster, and showed an actual (near-unforgeable) banknote. The party **refused to comply** and committed to baiting a counter-ambush with the gagged prisoner and a decoy note-satchel.
+- **[[Session 26 - A Night in the Country|Session 26]]** — survived a night of harassment at the [[Wayside Shrine]]. **[[Astrid Hofhaimer]]** rode to parlay and demanded the **promissory notes by noon** or harassment all the way to [[Dassel]]. [[Gromril van Aelst|Gromril]] explained the notes are debts collected from [[Ferlangen]] merchants, named **[[Klaus von Kolditz|Augustus van Kolditz]]** as his suspected paymaster, and showed an actual (near-unforgeable) banknote. The party **refused to comply** and committed to baiting a counter-ambush with the gagged prisoner and a decoy note-satchel.
 
 ## Notes
 - The escort job is the most lucrative side-job the party have taken since [[Beeckerhoven]]

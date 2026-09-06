@@ -14,5 +14,5 @@ Browse the campaign by place. Each hub lists the sessions, locations, NPCs, and 
 - [[The Ostland Coast Road (Hub)]] — The coast road from the border to Ferlangen (Sessions 16–19): Schoten, the Pewter Merchant, the Hemp Merchant, the Fist of Amber.
 - [[Ferlangen (Hub)]] — The Ostland mining city (Sessions 19–22): the trafficking web, the witch hunters, and the gnome merchant's job.
 - [[The Wolfenburg Road (Hub)]] — The current leg toward Wolfenburg (Sessions 22–26): the Howling Ones ambushes, Hasselhund, the Wayside Shrine.
-- [[Wolfenburg (Hub)]] — The provincial capital and the party's destination — not yet reached.
+- [[Wolfenburg (Hub)]] — The provincial capital, reached in Session 29 — the missing children, the Physicians Guild murder, and Ganav's trial.
 - [[Regional & Roving (Hub)]] — Provinces, broad geography, empire-wide factions, and the people who travel with (or are hunted by) the party across the whole campaign.

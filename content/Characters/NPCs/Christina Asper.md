@@ -1,10 +1,10 @@
 ---
 type: npc
-hub: "Regional & Roving"
+hub: "Wolfenburg"
 species: Human
 career: Witch Hunter
 faction: "[[Fraternal Order of Witch-Hunters]]"
-location: "caravan south of [[Ferlangen]]"
+location: "[[Wolfenburg]]"
 status: alive
 disposition: suspicious
 first_seen: "[[Session 17 - Asper-ated]]"
@@ -99,6 +99,21 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - Recovered overnight at the [[Wayside Shrine]] camp despite her broken jaw and torn cheek; [[Berin Garibaldi|Berin]] healed her wounded horse with a prayer to [[Myrmidia]]
 - When [[Berin Garibaldi|Berin]] proposed baiting a counter-ambush after [[Astrid Hofhaimer]]'s noon ultimatum, **Asper cocked her pistol and declared she owed the great wolf a reckoning** — fully committed to the fight to come
 
+## Session 29 — Arrival in Wolfenburg
+- Reunited with the party inside the city walls; local resident, so passed through the gates without paying the visitor tax
+- Dismissively advised the party to wait at the outpost inn rather than seek a secret way into the city
+
+## Session 30 — The Secret Signals
+- **Caught exchanging discreet hand gestures** with a tattooed Shallyan initiate as the party left the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]] — the signs read by [[Boris Dorchen|Boris]] as thieves'/smugglers' cant, not battle-signals
+- When confronted directly by [[Hildegarde]], **flatly denied it**, claiming she must have "imagined it or misunderstood"
+- **Shadowed that night by [[Hildegarde]]**: met the same initiate again in an alley between the Temple of Myrmidia and the Temple of Shallya for an animated exchange, then disappeared into the back entrance of the **[[Witch Hunters Guild]]**
+- The party said nothing openly, but the first real, active suspicion of Asper's loyalties has now taken root
+
+## Session 36 — The Intended Recipient
+- In planning the capture of [[Elfrieda Teuschel]], the party agreed that once they had interrogated her themselves, **they would hand her over to Asper** — a decision made while their suspicion of her ([[Session 30 - Hanging Judge|Session 30]]) remains entirely unresolved and unspoken
+- Logged as present for the docks operation
+- **⚠️ Unattributed betrayal.** During the fight at the [[Wolfenburg Docks]], *"some of the allies the party had been counting on had turned against them."* **The session notes do not name who.** Asper is the standing suspicion — secret signals, a flat denial to [[Hildegarde]]'s face, the trail to the [[Witch Hunters Guild]], and now a plan that would have delivered the party's prize fugitive directly into her hands — but [[Lucas Pollack]] and [[Gromril van Aelst]] were also present. **This is not established as Asper's doing; it awaits the GM's confirmation.**
+
 ## Appearances
 - [[Session 17 - Asper-ated]]
 - [[Session 18 - The Hemp Merchant]]
@@ -109,3 +124,14 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 29 - Wolfenburg]]
+- [[Session 30 - Hanging Judge]] *(caught in secret signals; tracked to the Witch Hunters Guild)*
+- [[Session 36 - Most Discreet Ambush Ever]] *(named as the intended recipient of Teuschel; present at the docks — see the unattributed betrayal)*
+
+## Session 37 — Especially the Hugs
+- **Vouched for the party at the [[Wolfenburg Courthouse]].** Named by [[Hildegarde]] as a corroborating witness, she arrived within half an hour with [[Lucas Pollack]], spoke privately with [[Captain Crais]], and the party was released
+- **🔴 She asked the party for something for herself — for the first time.** Outside the courthouse she requested a meeting with the **full party** at sundown at the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]]. There she led them to the **Altar of Solkan** and, after a long pause, admitted she needed help with a **deeply personal matter**
+- **🔴 [[Hilde Muntz]]** — a young woman, a **former [[Black Cloak Lurkers Below|Lurkers]] member** who has since sought a calling with the Shallyans, and **Asper's close friend** — is **trapped inside the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]]**, hunted by both the [[Steel Fist Thief Ring|Steel Fist]] and the Lurkers over the stolen lottery purse
+- [[Lucas Pollack]], barely concealing his amusement: *"The ice queen has a beating heart after all."* — earning a sharp glare
+- She warned that **she and Pollack are themselves being watched** whenever they move through the city, because the gangs suspect their connection to Hilde
+- **⚠️ Bearing on the standing suspicion.** The secret hand-signals with a tattooed Shallyan initiate in [[Session 30 - Hanging Judge|Session 30]] now have a candidate innocent explanation — **her close friend is a Shallyan aspirant in hiding**. It fits the observed facts. It does **not** by itself account for her being tracked to the [[Witch Hunters Guild]]. **Not settled**

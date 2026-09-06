@@ -30,10 +30,10 @@ The session began mid-riot. [[Boris Dorchen|Boris]] and [[Altus Elsein|Altus]] b
 [[Hildegarde]] and [[Boris Dorchen|Boris]] were ultimately forced to surrender [[Klaus Grebel]] to the Inquisitor [[Danderich Flisshausten]]. However, [[Udo Hintzer|Watch Sergeant Udo Hintzer]] soon arrived, confronted the Inquisitors over jurisdiction, and took Klaus to jail. Trial set for 10am the following morning at [[Fusspulver Court]].
 
 ### Escorting Elke to the Temple
-The party walked [[Elke Grebel]] through Middenheim to the [[Temple of Shallya]]. Along the way, citizens repeatedly approached Elke with gifts of food and clothing, which she immediately redistributed to those in greater need. [[Boris Dorchen|Boris]] found this natural (reminiscent of village customs); [[Hildegarde]] was stunned — she had never witnessed such generosity on the streets. Elke ecstatically described the party's heroics to [[Matron Isolde]] upon arrival.
+The party walked [[Elke Grebel]] through Middenheim to the [[Temple of Shallya]]. Along the way, citizens repeatedly approached Elke with gifts of food and clothing, which she immediately redistributed to those in greater need. [[Boris Dorchen|Boris]] found this natural (reminiscent of village customs); [[Hildegarde]] was stunned — she had never witnessed such generosity on the streets. Elke ecstatically described the party's heroics to [[High Priestess Isolde Begegnen]] upon arrival.
 
 ### The Temple and Lady Steiner's Request
-[[Matron Isolde]] welcomed the party, offering sanctuary, clean clothes, and food for the night. She explained that Klaus — Elke's brother and a former Shallyan novitiate — had become a radical speaker, leading to his arrest for heresy.
+[[High Priestess Isolde Begegnen]] welcomed the party, offering sanctuary, clean clothes, and food for the night. She explained that Klaus — Elke's brother and a former Shallyan novitiate — had become a radical speaker, leading to his arrest for heresy.
 
 [[Lady Steiner]], a distressed noblewoman, was introduced. Her son [[Augustus Steiner]] faces execution in ~6 weeks because his mentor [[Professor Udo Stradovski]] fled the city after a blasphemy accusation, leaving Augustus as his legal bond. Lady Steiner offered an Imperial warrant and payment from the [[Temple of Verena]] and legalists for anyone who could retrieve the professor before the [[Ordo Sancti Inquisita|Sigmarite Inquisition]] found and executed him.
 
@@ -55,7 +55,7 @@ The party prepared to attend Klaus's trial at [[Fusspulver Court]] and speak wit
 ## NPCs Encountered
 - [[Elke Grebel]] — name revealed; escorted to temple
 - [[Udo Hintzer|Watch Sergeant Udo Hintzer]] — intervened over jurisdiction, took Klaus to jail
-- [[Matron Isolde]] — met; provided sanctuary
+- [[High Priestess Isolde Begegnen]] — met; provided sanctuary
 - [[Lady Steiner]] — quest giver
 - [[Augustus Steiner]] — mentioned (imprisoned)
 - [[Professor Udo Stradovski]] — mentioned (missing)

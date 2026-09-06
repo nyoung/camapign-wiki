@@ -4,9 +4,9 @@ hub: "Beeckerhoven"
 species: Human
 career: unknown
 faction:
-location: unknown
-status: wanted (fugitive)
-disposition: guarded
+location: "aboard a barge drifting downriver from [[Wolfenburg]]; the stolen gold is in Altdorf"
+status: wanted (fugitive) — interrogated and released alive, Session 37
+disposition: hostile
 first_seen: "[[Session 08 - The Minter's Wife]]"
 tags: [character, npc]
 aliases: [Elfrieda]
@@ -35,6 +35,7 @@ The woman who fled was not panicking. She packed her documents and jewelry, took
 - [[Marx Khlesl]] — hired by her to create the false Salzenmund trail
 - [[Elsie (Medical Union)]] — the "mousy-haired waif in an artisan's smock" who fled with Elfrieda may be Elsie from the Medical Union (unconfirmed)
 - [[William Coin]] — household servant (bribed by Hildegarde for info)
+- [[Ansgar Knochenbrecher]] — bodyguard, has accompanied her the entire way from Beeckerhoven to Wolfenburg (the "broad-shouldered companion" referenced throughout her flight)
 
 ## History with the Party
 
@@ -62,6 +63,24 @@ The woman who fled was not panicking. She packed her documents and jewelry, took
 - Heading toward Ferlangen via the northern road
 - **Coin signature:** Distinctive freshly minted coins from Manfred's mint are being spent along her route — potentially trackable
 
+**Session 29:** Confirmed to have entered [[Wolfenburg]] with the caravan boss she'd been traveling with, per a caravan driver's testimony and her name in the city's guest register (spotted by [[Berin Garibaldi|Berin]] while signing in). Kept entirely to herself throughout the journey. [[Berin Garibaldi|Berin]] bribed street children to watch for a woman matching her description (black hair, red cloak).
+
+## Known Information (Session 29 addendum)
+- Confirmed present in [[Wolfenburg]] as of [[Session 29 - Wolfenburg|Session 29]]
+- Traveled with the caravan boss of the Hofbauer Bodelstein company; kept to herself
+
+**Session 30:** Recapped by the party as "the fugitive they had been pursuing" — her presence in Wolfenburg reconfirmed via the city register. [[Berin Garibaldi|Berin]] has arranged street urchins to actively search the city for her.
+
+**Session 32 (likely located, unconfirmed by name):** [[Reiner Kolber]]'s street-orphan network tracked a raven-haired woman and her broad-shouldered/burly bodyguard to **[[Megrita's Anchor Boarding House]]** on the Wolfenburg riverfront — description matches Elfrieda and her companion exactly. A barge captain separately reported the bodyguard had tried (and failed) to book passage to Altdorf for two, paying four times the going rate — she may be preparing to flee the city again. The boarding house is under watch via Reiner's network; she dined at the Trout and Pike that evening and returned to Megrita's Anchor for the night. **The party has not yet confirmed this is Elfrieda by name or sight up close.**
+
+**Session 35 (escape imminent):** [[Reiner Kolber]] reported that she has **made a deal with a barge captain docked at the far north end of the city and plans to flee at sundown**, just before the river nets are raised. Reiner's network remains on her residence with orders to send word to the [[Tree and Rut Inn]] by end of day. Complicating any river escape, [[Fiedler]] warned the same session that barges caught in the [[Black Cloak Lurkers Below|Lurker]]–[[Steel Fist Thief Ring|Steel Fist]] crossfire have burned on their way downriver.
+
+**Session 36 (first direct confrontation — and she held):** The party finally reached her. After scouting the route from [[Megrita's Anchor Boarding House]] to the [[Wolfenburg Docks|docks]] and setting an ambush among the quayside warehouses, they intended to take her alive, interrogate her, and hand her to [[Christina Asper]]. [[Hildegarde]] attempted to shadow Elfrieda and [[Ansgar Knochenbrecher|her bodyguard]] through the riverbank crowds wearing [[Melmoth's Mask]] — and was spotted, turning the ambush into an open chase through the docklands.
+
+At the water, Elfrieda made it aboard her boat as it pulled away from the dock. [[Boris Dorchen|Boris]] struck one of the boatmen with a longbow shot at **thirty-six yards**, leaving the vessel drifting and rotating away from its moorings. [[Hildegarde]], who had got aboard, **swung a mace at Elfrieda's head** to knock her unconscious before the river carried her off — **Elfrieda successfully defended herself.** The session ended mid-fight, with her still on her feet aboard a drifting boat and the party scattered, battered, and betrayed by allies they had counted on.
+
+**What this establishes:** she is not a helpless fugitive. She can defend herself competently against a determined melee attack, and her escape was crewed and paid for well enough to be underway on schedule.
+
 ## Appearances
 - [[Session 08 - The Minter's Wife]]
 - [[Session 10 - Rats, Corpses, and Conspiracy]] *(note found)*
@@ -69,3 +88,26 @@ The woman who fled was not panicking. She packed her documents and jewelry, took
 - [[Session 12 - Bride Price]] *(wanted; coach found crashed)*
 - [[Session 16 - Plus ça change]] *(group likely spotted at Schoten)*
 - [[Session 18 - The Hemp Merchant]] *(confirmed at Hemp Merchant two nights prior)*
+- [[Session 29 - Wolfenburg]] *(confirmed entered Wolfenburg)*
+- [[Session 30 - Hanging Judge]] *(street urchins searching for her)*
+- [[Session 32 - A Tooth For a Tooth]] *(likely located at Megrita's Anchor via Reiner Kolber's network; not yet confirmed by name)*
+- [[Session 35 - The Heist of the Heist]] *(**fleeing by barge at sundown** — hard deadline)*
+- [[Session 36 - Most Discreet Ambush Ever]] *(**first direct confrontation** — fought off Hildegarde's mace aboard a drifting boat; still at large)*
+
+## Notes
+- *Naming note (resolved):* GM Assistant's export for [[Session 30 - Hanging Judge|Session 30]] rendered her name as **"Tosho"** in two places (a speech-to-text mishearing of "Teuschel," not a spelling variant — so the module-vocabulary check didn't catch it). Corrected via Find & Replace in GM Assistant once the GM confirmed the reference.
+- [[Session 29 - Wolfenburg]] *(confirmed entered Wolfenburg)*
+
+## Session 37 — Especially the Hugs
+- **Cornered, and she surrendered.** With her crew shot to pieces by [[Boris Dorchen|Boris]] from high ground, she called out from behind the ship's cargo walls offering to **surrender in exchange for safe passage**. [[Hildegarde]] negotiated the ceasefire while still pinned in [[Ansgar Knochenbrecher|Ansgar]]'s bear hug
+- **Parley at the cargo crane.** She stood with arms crossed and lips pursed in barely concealed fury, **recognised [[Berin Garibaldi|Berin]] and [[Hildegarde]] from her house in [[Beeckerhoven]]**, and demanded to know why they had followed her across the Empire
+- **🔴 She admitted the whole escape route:** she **helped [[Professor Udo Stradovski|Stradovski]] escape [[Beeckerhoven]]**, **connected him with [[Klaus von Kolditz|Von Kolditz]] in [[Ferlangen]]**, and **arranged his passage on to [[Wolfenburg]]**. She claimed to know nothing of his whereabouts beyond that — and [[Boris Dorchen|Boris]] read her as **protecting certain truths but not being entirely deceptive**
+- **🔴 She named and described the [[Medical Union]]** — not a church or a hierarchy, but small groups of like-minded individuals scattered across cities from Nordland to Ostland, united by a willingness to pursue medicine beyond what the authorities sanction
+- **Her motive, finally explained.** Stradovski **cured her of a consumption** that had left her bedridden with months to live — weeks of potions and daily needle pricks. She called it nothing less than a miracle, and spoke of him with something approaching **reverence**
+- **🔴 On [[Elsie (Medical Union)|Elsie]]: chilling indifference.** Her horse tripped, she snapped her neck, and she was "of no consequence"
+- **🔴 She gave up [[Klaus von Kolditz|Von Kolditz]]:** he has an **arrangement with the [[Howling Ones]]** that lets his caravans pass the roads unharassed
+- **🔴 She gave up [[Seuchenshof]]:** the Medical Union operates there **under the guise of a Shallyan priest**, harvesting active disease strains from the infected — and **deliberately infecting people when natural samples are insufficient**
+- **🔴 She gave up Stradovski's origins:** he occasionally lets slip a **faint Kislevite accent** when deeply focused on his work
+- **The gold:** pressed on the stolen Nordland coin — the mint declared illegal, the [[Temple of Verena]] actively seeking the funds — and threatened with the witch hunters, she surrendered **thirty crowns** from her purse and said **the bulk had already been sent ahead to Altdorf**
+- **🔴 RELEASED ALIVE.** Under the surrender terms, she was let go — **not** handed to [[Christina Asper]] as the party had planned in [[Session 36 - Most Discreet Ambush Ever|Session 36]]. [[Boris Dorchen|Boris]] severed the barge's last mooring rope; the vessel spun into the current, struck the [[Wolfen Bridge]] supports and drifted away downriver, with Teuschel and [[Ansgar Knochenbrecher|Ansgar]] aboard
+- **She knows their faces, and the gold is in Altdorf.**

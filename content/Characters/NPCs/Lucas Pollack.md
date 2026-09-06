@@ -43,6 +43,19 @@ Mentioned in [[Session 17 - Asper-ated|Session 17]] and [[Session 19 - Ferlangen
 ## Session 25 — Reckless Charge
 - **Charged the ambush with reckless aggression** as it broke on the slope between [[Hasselhund]] and [[Dassel]] — a marked contrast to his usual detached manner
 
+## Session 27 — Two Fumbles, One Execution
+- Charged into the fray and **fumbled his attack twice in a row** — the party started wondering if he had spent the night on the wine
+- Executed a bandit who attempted to surrender, signalling plainly that **no quarter would be given**; a sharp contrast to his usual detached passivity
+- The burst of reckless aggression first seen in Session 25 continues, now edged with something colder
+
+## Session 28 — The Killing Blow
+- Continued his run of reckless, cold aggression — drove his sword into the transformed werewolf's leg with enough force to shatter bone, delivering the **killing blow** that ended the fight
+- Guided the party through [[Wolfenburg]]'s streets to the Temple of Verena the following session
+
+## Session 36 — At the Docks
+- Logged as present for the party's attempt to seize [[Elfrieda Teuschel]] at the [[Wolfenburg Docks]]; no specific action of his is recorded in the session notes
+- **⚠️ Unattributed betrayal.** *"Some of the allies the party had been counting on had turned against them"* during the fight, and **the notes do not name who.** Pollack is one of three allies logged present, alongside [[Christina Asper]] and [[Gromril van Aelst]]. Worth weighing against his drift since Session 25 — the reckless charges, the execution of a surrendering bandit in [[Session 27 - Fight!|Session 27]], and the cold aggression that has replaced his earlier detachment. **Not established as his doing; awaiting the GM's confirmation.**
+
 ## Appearances
 - Mentioned in [[Session 17 - Asper-ated]]
 - Mentioned in [[Session 19 - Ferlangen]]
@@ -51,3 +64,14 @@ Mentioned in [[Session 17 - Asper-ated|Session 17]] and [[Session 19 - Ferlangen
 - [[Session 23 - Ambush!]]
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]
+- [[Session 36 - Most Discreet Ambush Ever]] *(present at the docks — see the unattributed betrayal)*
+
+## Session 37 — Especially the Hugs
+- **Vouched for the party at the [[Wolfenburg Courthouse]]**, arriving with [[Christina Asper]] within half an hour of being named; after a private word with [[Captain Crais]] the party was released
+- **Visibly annoyed** to be at the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]] that evening while [[Christina Asper|Asper]] made her personal appeal
+- Needled Asper over [[Hilde Muntz]]: *"The ice queen has a beating heart after all."*
+- **🔴🔴 He exposed the deception the party had been carrying since [[Session 35 - The Heist of the Heist|Session 35]]:** the stolen money was **the [[Steel Fist Thief Ring|Steel Fist]]'s illegal lottery take, not the Prince's**, and **the [[Black Cloak Lurkers Below|Lurkers]] had misdirected the party to obscure their own involvement**. [[Anselm Rathsky]] lied; [[Captain Crais]]'s version was right
+- Explained the standoff: **neither gang will violate the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]]'s sanctuary** — it matters too much to their own people as a source of healing and charity — but **neither will let Hilde walk free**, and every exit is watched
+- **A far sharper showing than his previous appearances.** The man who read as going through the motions in [[Session 20 - Never Mention Prostitutes|Session 20]] is the one who actually untangled the gang war for them

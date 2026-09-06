@@ -40,6 +40,9 @@ Inside the city, town criers were proclaiming the bounty on the **Howling Ones**
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]
+- [[Session 30 - Hanging Judge]]
 
 ## Related NPCs
 - **[[Astrid Hofhaimer]]** — the cult's **named local leader** (revealed Session 26); rode to parlay demanding Gromril's promissory notes, her right arm bandaged and bloody
@@ -64,7 +67,12 @@ Inside the city, town criers were proclaiming the bounty on the **Howling Ones**
 - **[[Session 25 - Asper and the Wolf|Session 25]]** — second ambush **won**: a **monstrous wolf** (man-tall, drove the party into supernatural terror — the first direct werewolf encounter) charged and savaged [[Christina Asper|Asper]] before [[Boris Dorchen|Boris]] shot it through the arm and **drove it off wounded** (limped away on three legs; its blood ran ordinary red); several outlaws killed and **one more captured** (warns of further ambushes ahead); [[Ganav]] wounded by his former side and branded a traitor
 - **[[Session 26 - A Night in the Country|Session 26]]** — the cult laid an **all-night psychological siege** on the [[Wayside Shrine]] camp (manufactured howls answered by real wolves, branch-snapping, arrows at intervals) and revealed their **named leader, [[Astrid Hofhaimer]]**, at a morning parlay — orange eyes, pinpoint pupils, and a **bandaged, bloodied right arm** (the same side as the wolf's wound). Their "forest warden," [[Mathis Haack]], vanished overnight. The party chose to **bait a counter-ambush** rather than meet Astrid's noon ultimatum.
 
+## Session 27–30 Updates
+- **[[Session 27 - Fight!|Session 27]]** — the road skirmish opens; the wolf lunges for [[Herman Wurt|Herman]] as the session ends
+- **[[Session 28 - A Knight to Dismember|Session 28]]** — the wolf **kills [[Herman Wurt]]**, then **transforms on the spot into a hybrid humanoid-wolf form**, direct confirmation this is a true werewolf. Beaten down by [[Berin Garibaldi|Berin]] and [[Lucas Pollack|Pollack]], its body then **vanishes**, healing and outpacing pursuit into the forest. A coded scout's tally found on a dead bandit confirms an **informant** fed the cult intelligence, likely out of [[Ferlangen]]. Party reaches [[Dassel]] with ~20 severed heads for bounty
+- **[[Session 30 - Hanging Judge|Session 30]]** — the party cashes in the bounty at [[Wolfenburg]]: the Watch Captain personally verifies the 20 heads and pays **five gold crowns**. They also hand over the bandits' coded notes and the werewolf's teeth as evidence; the Watch Captain confirms **Wolfenburg has dealt with werewolves for centuries** (the Wolf's Bane at the gates is no decoration) and grants the party official **consultancy status**, with free passage through the city gates
+
 ## Notes
 - The wolf on the cliff in [[Session 19 - Ferlangen|Session 19]] may or may not be related — symbolic at minimum
-- **Werewolves** — confirmed by [[Marretta Schongauer]] in confidence; **first encountered directly in [[Session 25 - Asper and the Wolf|Session 25]]** (monstrous wolf, ordinary blood, driven off wounded by [[Boris Dorchen|Boris]] — may return)
-- **[[Astrid Hofhaimer]]** is the first cult member the party can put a name and a face to. Bringing her in (or down) would be the centrepiece of this bounty.
+- **Werewolves** — confirmed by [[Marretta Schongauer]] in confidence; **first encountered directly in [[Session 25 - Asper and the Wolf|Session 25]]**; **transformation directly witnessed in [[Session 28 - A Knight to Dismember|Session 28]]**, confirming the creature is a true werewolf that heals and escapes rather than dies
+- **[[Astrid Hofhaimer]]** is the first cult member the party can put a name and a face to, and is presumed (though never yet stated aloud by the party) to be the werewolf itself. Bounty for the road-level bandits has now been **collected (Session 30)**; Astrid herself remains at large

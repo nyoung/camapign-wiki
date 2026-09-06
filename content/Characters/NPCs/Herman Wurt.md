@@ -4,8 +4,8 @@ hub: "Regional & Roving"
 species: Human
 career: unknown
 faction: "[[Ordo Sancti Inquisita]]"
-location: "[[Middenheim]]"
-status: alive
+location: "roadside grave between [[Hasselhund]] and [[Dassel]]"
+status: deceased
 disposition: hostile
 first_seen: "[[Session 03 - The Trial]]"
 tags: [character, npc]
@@ -39,8 +39,21 @@ Cross-examined by [[Pilpoul Ivri|Pilpoul]] in [[Session 03 - The Trial]]. Pilpou
 - Stood the **second watch** at the [[Wayside Shrine]]; **nearly panicked** when another arrow struck the coach out of the dark, until [[Berin Garibaldi|Berin]] steadied him with a few firm words in **Battle Tongue**
 - Among the NPCs eager to draw steel for the planned counter-ambush
 
+## Session 27 — Horse Down, Facing the Wolf
+- His horse **[[Vortex]]** was struck by a critical arrow early in the ambush, becoming immobilised in the mud with wounds bleeding
+- Herman performed a **rapid combat dismount** and was left on foot when the wolf arrived
+- The wolf — the same animal [[Boris Dorchen|Boris]] wounded in [[Session 25 - Asper and the Wolf|Session 25]] — lunged directly for him; the session ended with Herman facing the wolf on foot
+
+## Session 28 — Death
+- Attempted to fight the giant wolf alone and was knocked face-first into the river
+- The wolf **tore out his throat**, killing him instantly, as he stood his ground alone against a creature that had sent hardened warriors fleeing
+- **[[Sir Danderich Flisshausten|Danderich]]** mourned him and paid ten shillings for a grave; **[[Ganav]]** dug it and spoke Sigmarite condolences over his body
+- Buried at the roadside between [[Hasselhund]] and [[Dassel]]
+
 ## Appearances
 - [[Session 03 - The Trial]]
 - [[Session 05 - The Road North]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]] *(killed)*

@@ -33,3 +33,10 @@ A plague hospice in Nordland, feared by locals. The road to Seuchenshof has been
 
 ## Notes
 - [[Professor Udo Stradovski|Stradovski]]'s Seuchenbuch (Plague Book) contains formulas requiring specific plague materials, suggesting he may have been drawn to this place — but ultimately took the road east instead
+
+## Session 37 — Especially the Hugs
+- **🔴 Confirmed as an active [[Medical Union]] site**, from [[Elfrieda Teuschel]] under interrogation at the [[Wolfenburg Docks]]
+- The Union **maintains a presence in the village under the guise of a Shallyan priest**
+- They are **harvesting active disease strains from the infected**
+- **🔴 And when natural samples are insufficient, they deliberately infect people to create larger ones.** [[Hildegarde]]'s response: *"That's absolutely horrifying."*
+- This is the **clearest evidence the party has yet obtained** of what the Medical Union actually does

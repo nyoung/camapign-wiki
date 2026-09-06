@@ -30,7 +30,7 @@ Through the night the forest worked at them: human-made howls, shadowy figures s
 
 Morning brought two discoveries. **[[Mathis Haack]] had slipped away** during the night without a word, and a voice from the treeline asked for **parlay**. [[Ganav]] vouched that the [[Howling Ones]] would honour its sanctity, so [[Berin Garibaldi|Berin]] and [[Hildegarde]] rode out to meet a single rider: **[[Astrid Hofhaimer]]** — a woman with **striking orange eyes and pinpoint pupils**, her **right arm wrapped in a blood-soaked bandage** (the same arm [[Boris Dorchen|Boris]]'s arrow had pierced when he drove off the wolf). She gave no name, only a demand: hand over **[[Gromril van Aelst|Gromril]]'s promissory notes** by noon, or her bowmen would harry the caravan every mile to [[Dassel]]. [[Berin Garibaldi|Berin]]'s every overture — alliance, appeals to leadership — met cold contempt, and she rode back into the trees.
 
-Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — debts collected from merchants in [[Ferlangen]] — and named his best guess for the man behind the attacks: **[[Augustus van Kolditz]]**, a powerful antique dealer who had owed him over five hundred crowns and been coerced into paying. He produced an actual banknote — a printed document with a stamped family crest, near-impossible to forge. [[Berin Garibaldi|Berin]] floated reaching out to the rival merchant **Hofbauer**, who might help the caravan reach [[Wolfenburg]] if [[Augustus van Kolditz|Kolditz]] were truly funding the cult. After a debate ranging from Ganav's refusal to surrender to bandits, to Boris's "burn the forest down," to Hildegarde's forgery idea, the party rallied behind [[Berin Garibaldi|Berin]]'s plan: stake the gagged prisoner at a meeting point with a **decoy bundle** (perhaps [[Mungo Mudfoot|Mungo]]'s cookbook dressed as a satchel of notes) and lure the bandits into an ambush on the party's own terms. The NPCs were eager — [[Christina Asper|Asper]] cocked her pistol and declared she owed the great wolf a reckoning; even one-armed [[Ganav]] took a crossbow pistol from [[Hildegarde]]. As noon crept closer, they began to prepare the trap.
+Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — debts collected from merchants in [[Ferlangen]] — and named his best guess for the man behind the attacks: **[[Klaus von Kolditz|Augustus van Kolditz]]**, a powerful antique dealer who had owed him over five hundred crowns and been coerced into paying. He produced an actual banknote — a printed document with a stamped family crest, near-impossible to forge. [[Berin Garibaldi|Berin]] floated reaching out to the rival merchant **Hofbauer**, who might help the caravan reach [[Wolfenburg]] if [[Klaus von Kolditz|Kolditz]] were truly funding the cult. After a debate ranging from Ganav's refusal to surrender to bandits, to Boris's "burn the forest down," to Hildegarde's forgery idea, the party rallied behind [[Berin Garibaldi|Berin]]'s plan: stake the gagged prisoner at a meeting point with a **decoy bundle** (perhaps [[Mungo Mudfoot|Mungo]]'s cookbook dressed as a satchel of notes) and lure the bandits into an ambush on the party's own terms. The NPCs were eager — [[Christina Asper|Asper]] cocked her pistol and declared she owed the great wolf a reckoning; even one-armed [[Ganav]] took a crossbow pistol from [[Hildegarde]]. As noon crept closer, they began to prepare the trap.
 
 ## Events
 
@@ -60,9 +60,9 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 - Her demand: surrender [[Gromril van Aelst|Gromril]]'s **promissory notes** by **noon**, or face harassment all the way to [[Dassel]]; she dismissed every overture and rode off
 
 ### Gromril's Notes and the Kolditz Theory
-- [[Gromril van Aelst|Gromril]] explained the **promissory notes** were debts collected from [[Ferlangen]] merchants, and named **[[Augustus van Kolditz]]** (antique dealer; owed Gromril 500+ crowns) as his prime suspect behind the attacks
+- [[Gromril van Aelst|Gromril]] explained the **promissory notes** were debts collected from [[Ferlangen]] merchants, and named **[[Klaus von Kolditz|Augustus van Kolditz]]** (antique dealer; owed Gromril 500+ crowns) as his prime suspect behind the attacks
 - He produced an **actual banknote** — printed, stamped with a family crest, near-impossible to forge
-- [[Berin Garibaldi|Berin]] raised the idea of allying with the rival merchant **Hofbauer** against [[Augustus van Kolditz|Kolditz]]
+- [[Berin Garibaldi|Berin]] raised the idea of allying with the rival merchant **Hofbauer** against [[Klaus von Kolditz|Kolditz]]
 
 ### The Plan — Bait the Trap
 - Debate ranged from never-surrender (Ganav) to burn-it-all (Boris) to forgery (Hildegarde)
@@ -77,7 +77,7 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 - **[[Mathis Haack]]** — shared rabbits and fielded Berin's question about the shrine's significance, then **vanished from camp during the night** without a word
 - **[[Ganav]]** — third watch; saw through the exhaustion tactic and quietly kept the camp warm; took a crossbow pistol for the coming fight; referred to throughout as **Ganav**
 - **[[Christina Asper|Asper]]** — vowed a reckoning with the great wolf; cocked her pistol for the plan
-- **[[Gromril van Aelst|Gromril]]** — revealed the notes' nature, named **[[Augustus van Kolditz]]**, and produced a genuine banknote
+- **[[Gromril van Aelst|Gromril]]** — revealed the notes' nature, named **[[Klaus von Kolditz|Augustus van Kolditz]]**, and produced a genuine banknote
 - **[[Mangold]]** — woke throttling [[Boris Dorchen|Boris]] by reflex; signalled the scout count; eager for the ambush
 - **[[Herman Wurt]]** — nearly panicked on watch; steadied by [[Berin Garibaldi|Berin]]
 - **[[Mungo Mudfoot]]** — his sock gagged the prisoner; worried the fight might breach Teamster's Guild rules
@@ -95,7 +95,7 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 
 ### Advanced
 - **[[The Howling Ones Bounty]]** — the cult's local leader is revealed by name: **[[Astrid Hofhaimer]]**; a night of deliberate psychological harassment establishes their method
-- **[[Escort Gromril van Aelst to Wolfenburg]]** — [[Astrid Hofhaimer|Astrid]] issued a **noon ultimatum** for the promissory notes; the party chose to **bait a counter-ambush** rather than comply; [[Gromril van Aelst|Gromril]] named **[[Augustus van Kolditz]]** as the suspected paymaster
+- **[[Escort Gromril van Aelst to Wolfenburg]]** — [[Astrid Hofhaimer|Astrid]] issued a **noon ultimatum** for the promissory notes; the party chose to **bait a counter-ambush** rather than comply; [[Gromril van Aelst|Gromril]] named **[[Klaus von Kolditz|Augustus van Kolditz]]** as the suspected paymaster
 
 ## Items Acquired
 - *(none)* — [[Gromril van Aelst|Gromril]] displayed a **promissory banknote** but retained it; [[Ganav]] borrowed [[Hildegarde]]'s crossbow pistol
@@ -105,7 +105,7 @@ Back at camp, [[Gromril van Aelst|Gromril]] explained what the notes were — de
 - **What rode out to the parlay?** The rider's **bloodied right arm** was on the same side as the wound [[Boris Dorchen|Boris]] put on the monstrous wolf in [[Session 25 - Asper and the Wolf|Session 25]]; her orange eyes and pinpoint pupils were striking; and the prisoner had whispered the name "Astrid" as a warning. The party noticed all of this but have not yet said aloud what it might add up to.
 - **[[Mathis Haack]]'s vanishing.** A "forest warden" who slips away the same night the cult harasses the camp only sharpens [[Boris Dorchen|Boris]]'s standing doubts about him.
 - **The noon ultimatum / the trap.** The party intend to spring [[Berin Garibaldi|Berin]]'s decoy-and-ambush plan at the start of the next session, using the gagged prisoner and a fake note-satchel as bait. The bandits' parlay-honouring habit may or may not extend to a baited meeting.
-- **[[Augustus van Kolditz]]** — Gromril's named suspect (antique dealer, owed him 500+ crowns), though it remains only Gromril's theory. Note the family-name overlap with the trafficker **[[Klaus von Kolditz]]**; whether they are related, the same conspiracy, or a coincidence is unresolved.
+- **[[Klaus von Kolditz|Augustus van Kolditz]]** — Gromril's named suspect (antique dealer, owed him 500+ crowns), though it remains only Gromril's theory. Note the family-name overlap with the trafficker **[[Klaus von Kolditz]]**; whether they are related, the same conspiracy, or a coincidence is unresolved.
 - **Hofbauer** — [[Berin Garibaldi|Berin]] floated approaching the rival merchant for help against Kolditz; not yet acted on.
 
 ## Memorable Moments

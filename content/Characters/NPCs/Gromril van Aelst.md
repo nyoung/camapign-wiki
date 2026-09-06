@@ -26,8 +26,7 @@ Calm under threat; quick to read a room. Patted his hidden case with quiet satis
 ## Relationships
 - **[[Mangold]]** — dwarf slayer; bodyguard. Will chase a thief on instinct, even at the cost of leaving his charge undefended
 - **[[Lefty Longshanks|Lefty]]** — halfling driver; staffs his coach
-- **[[Klaus von Kolditz]]** — knows by reputation as an **antiques dealer with rumoured ties to human trafficking**
-- **[[Augustus van Kolditz]]** — antique dealer who **owed Gromril 500+ crowns** (coerced into paying); Gromril's **named suspect** for the man behind the road attacks
+- **[[Klaus von Kolditz]]** — knows by reputation as an **antiques dealer with rumoured ties to human trafficking**; also his debtor (**owed Gromril 500+ crowns**, coerced into paying, known to Gromril under the name "Augustus") and **named suspect** for the man behind the road attacks — confirmed the same man, and independently corroborated as the actual informant ([[Session 34 - I Believe You Dropped Your Hat|Session 34]])
 - **[[Anton Kristov]]** — knows as a **small-time import-exporter** running goods (and people) on the [[Ferlangen]] → [[Wolfenburg]] → [[Kislev]] route
 - **Local [[Ferlangen]] merchants** — owe him money; have hired thugs to take it back
 - **The party** — saved him from an alley ambush; hired to escort his coach to [[Wolfenburg]] for **10 GC**
@@ -48,11 +47,31 @@ Calm under threat; quick to read a room. Patted his hidden case with quiet satis
 
 ## Session 26 — The Notes Named
 - After [[Astrid Hofhaimer]] demanded his **promissory notes** at parlay, Gromril explained what they were: **debts collected from [[Ferlangen]] merchants**, owed onward to [[Wolfenburg]] moneylenders
-- Named his prime suspect for the paymaster: **[[Augustus van Kolditz]]**, an antique dealer who had owed him 500+ crowns and been coerced into repaying
+- Named his prime suspect for the paymaster: **[[Klaus von Kolditz|Augustus van Kolditz]]**, an antique dealer who had owed him 500+ crowns and been coerced into repaying — later confirmed to be Klaus von Kolditz, and independently corroborated as the actual informant ([[Session 34 - I Believe You Dropped Your Hat|Session 34]])
 - **Produced an actual banknote** — a printed document with a stamped family crest and hand-written amounts, near-impossible to forge convincingly
 - Reluctant to engage in trickery, but his information seeded [[Berin Garibaldi|Berin]]'s decoy-and-ambush plan
+
+## Session 27 — The Decoy Satchel
+- Provided his leather satchel stuffed with worthless papers as the decoy for the prisoner exchange; kept his real promissory notes hidden on his person
+- The ruse failed immediately when the Howling Ones' literate bandit [[Dickus]] identified the papers as fakes
+- Stayed hidden in the wagon throughout the fighting
+
+## Session 28 — The Coded Tally
+- Deciphered a coded message found on a dead bandit — a scout's tally of the caravan's horses, coaches, wagons, and men — confirming an informant had been feeding the Howling Ones intelligence, likely out of [[Ferlangen]]
+
+## Session 29 — Contract Fulfilled
+- Paid the party **five gold crowns**, fulfilling the escort contract in full upon reaching [[Wolfenburg]]
+
+## Session 36 — Referenced in Planning
+- **His warehouse was raised during the party's ambush planning** for [[Elfrieda Teuschel]] — logged in the session export as "Gromril's Warehouse," presumably as a place to hold or interrogate a prisoner. No visit is recorded
+- Logged as one of the NPCs present for the operation at the [[Wolfenburg Docks]]
+- **⚠️** He is one of three allies logged present when *"some of the allies the party had been counting on had turned against them."* **The notes name no one**, and Gromril has been a straightforwardly reliable employer to date — this is noted only for completeness, not as an accusation
 
 ## Appearances
 - [[Session 21 - The Gnome and the Slayer]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]
+- [[Session 29 - Wolfenburg]]
+- [[Session 36 - Most Discreet Ambush Ever]] *(warehouse referenced in planning; logged present at the docks)*

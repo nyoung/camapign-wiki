@@ -47,7 +47,16 @@ Wordless and direct. Will pursue a thief on instinct — even at the cost of lea
 - Roused by [[Boris Dorchen|Boris]] during the night harassment, he **woke half-strangling Boris by reflex** before recognising him — then signalled, in hand-signs, that **four or five scouts** were probing the perimeter, plainly itching to wade into the trees after them
 - When the party settled on baiting a counter-ambush, he was **practically vibrating with anticipation** for the fight to come
 
+## Session 27 — Mud
+- After two sessions of practically vibrating in anticipation, finally got to charge into the fighting — and **immediately slipped in the mud** and went face-first into the muck
+- His status for the rest of the session is unrecorded; presumably he got up
+
+## Session 28 — Back on His Feet
+- Rejoined the fight against the werewolf's transformed hybrid form after the previous session's fall
+
 ## Appearances
 - [[Session 21 - The Gnome and the Slayer]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+- [[Session 27 - Fight!]]
+- [[Session 28 - A Knight to Dismember]]

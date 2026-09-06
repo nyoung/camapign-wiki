@@ -29,7 +29,6 @@ tags: [hub]
 ## NPCs
 - [[Abbess of Verena (Ferlangen)]]
 - [[Anton Kristov]]
-- [[Augustus van Kolditz]]
 - [[Derich Kölderer]]
 - [[Frau Busch]]
 - [[Karl Helpmann]]

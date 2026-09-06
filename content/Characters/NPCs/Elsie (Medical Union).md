@@ -36,3 +36,8 @@ Possibly the same "mousy-haired waif in an artisan's smock" observed fleeing wit
 ## Appearances
 - [[Session 10 - Rats, Corpses, and Conspiracy]]
 - [[Session 11 - Rolf's Rampage and the Writ of Arrest]]
+
+## Session 37 — Especially the Hugs
+- **🔴 [[Elfrieda Teuschel]] gave an account of her death — and dismissed it with chilling indifference.** Pressed on the girl by the party, Teuschel said **her horse tripped, she snapped her neck**, and she **had been of no consequence**
+- Whether that account is true, or a convenient story, is not established. It is the **first direct statement from a Medical Union insider** about how Elsie died
+- The indifference is itself informative about how the [[Medical Union]] regards the people around it
