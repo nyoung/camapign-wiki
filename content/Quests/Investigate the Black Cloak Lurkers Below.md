@@ -50,3 +50,16 @@ A Myrmidian priest identified the tribal tattoos Hildegarde had seen on a Shally
 - **[[Anselm Rathsky]] lied.** His "heist of the heist" story in [[Session 35 - The Heist of the Heist|Session 35]] was a fabrication; [[Captain Crais]]'s account was correct
 - **🔴 The Lurkers are hunting [[Hilde Muntz]]**, one of their own former members, now sheltering in the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]]. **The party has agreed to rescue her — putting them directly against Rathsky's gang**
 - **Open:** a gang stole a **four-tumbler dwarven sewer key** from a [[Dwarf Hall of Wolfenburg|Dwarf Hall]] sewer jack. The Lurkers are an obvious suspect given their use of the undercity, **but this is not established**
+
+## Session 39 — Vacate It for a Week, or Vacate It Permanently
+- **Two dead Lurkers** in [[The Ghoul Cavern]]'s ghoul nest, carrying a **[[Forged Dwarf Key]]**: the first physical tie between the gang and the dwarves' sewer keys
+- A live band at the **sewer junction** backed down to [[Ganav]] and agreed to **stay away for a week**. Nobody was questioned. Berin had hoped to catch one to interrogate
+- **The body trade looks broken:** bodies left uncollected in the tunnels, a sewer stretch unused for a week or more
+
+## Session 42 — I Almost Killed You All
+- **First live Lurkers questioned:** [[Petra Voss]] and [[Anselm Rathke]] captured at the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]]; [[Karel Vantz]] escaped
+- **Findings:** Azmus Beham paid the gang to dump bodies and left town that morning; two Lurker body-movers (Gunther and Fritz) missing since about Hexenstag; the gang says it did not burn Gerd's household, knows nothing of the Medical Union and avoids the orphanage; *"Nobody leaves the Lurkers"*
+- **Handed to the Temple of Verena** for a 3-shilling bounty (the Lurkers are posted at 2 shillings alive for questioning)
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Gerd's view of the Lurkers:** [[Karel Vantz]] wanted to attack the Steel Fists harder; the main leader wanted to lie low. Gerd had been passing tips to Karel and treating wounded Lurkers

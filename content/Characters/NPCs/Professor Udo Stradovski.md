@@ -114,3 +114,11 @@ Not yet encountered. Finding him is the objective of [[Find Professor Stradovski
 - **🔴 The organisation behind him is the [[Medical Union]]** — and it is a **cell network, not a hierarchy**: small groups of like-minded individuals across multiple cities from Nordland to Ostland. **There is no single head to cut off**
 - **His cures are real.** Teuschel credits him with curing a consumption that had left her bedridden with months to live — weeks of potions and **daily needle pricks**. She speaks of him with reverence. Whatever else he is, his treatments work on the people he chooses to treat
 - Set against that: the Union's [[Seuchenshof]] operation **deliberately infects people** to harvest larger disease samples
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **First first-hand account** from [[Gerd Breytenbach|Gerd]], who saw him over several days at [[Jaie Schraeder]]'s house
+- **Appearance now:** **20–25 years older** than the painting; hair receded and cut short, beard grey; definitely the same man (Hildegarde showed Gerd the portrait). *(He remains a candidate for a faint Kislevite accent from [[Session 37 - Especially the Hugs|Session 37]]; Gerd did not mention one.)*
+- **Manner:** **smug and sure**, looked down on everyone, acted as if he knew what would happen and had planned for it. Schraeder behaved like a lectured student; [[Dr Hartmut Imhot|Imhot]] tried to please him. Gerd judged both of them **subordinate** to Stradovski
+- **He stayed sequestered** in his quarters; the wish not to be seen in the city
+- **Tested his work on Gerd:** with Imhot he treated Gerd's withered arm to *verify the "product"* worked; the result is a restored but monstrous arm and Nurgle-flavoured nightmares
+- **Destination:** with Schraeder and a servant from the manor at [[Levudaldorf]], about **six days before** this session, to meet *"somebody of note, somebody important"*. Nothing was heard of a pursuit

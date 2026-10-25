@@ -48,3 +48,8 @@ None yet. [[Hildegarde]] has bought a pale flat cap to dye red-orange, intending
 - **🔴 They are hunting [[Hilde Muntz]]** — an ex-[[Black Cloak Lurkers Below|Lurker]] now seeking a Shallyan calling — who is **trapped inside the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]]**
 - **They will not violate the temple's sanctuary**, which matters too much to their own people as a source of healing and charity — **but they are watching every exit**
 - They are also **watching [[Christina Asper]] and [[Lucas Pollack]]** as they move through the city, suspecting their connection to Hilde
+
+## [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]]
+- **They are watching the Temple of Shallya.** A man in a **copper-coloured beret** loiters on a corner; **another** leans from an upper window (the man Hildegarde met in an alley behind a cart: *"a nice fellow as far as bandits go"*)
+- **Three Steel Fist thugs followed the party into the sewers** and demanded *"the girl"*: *"You know she's wanted by the Steel Fist, and we know who you are."* **One was killed; two fled** to report. They are armed with sling, crossbow and torch
+- **They know the party.** The thug's *"we know who you are"* is the first time they have spoken to the party directly

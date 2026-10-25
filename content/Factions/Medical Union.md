@@ -39,3 +39,6 @@ The party uncovered the Medical Union's Beeckerhoven operation during the pursui
 - **Their medicine genuinely works.** Teuschel credits [[Professor Udo Stradovski|Stradovski]] with curing her consumption — bedridden, months to live — through weeks of potions and daily needle pricks. The Union is not a fraud; it is **effective and unrestrained**, which is worse
 - **Their regard for people is instrumental.** Teuschel dismissed [[Elsie (Medical Union)|Elsie]]'s death as being "of no consequence"
 - **Known Union-linked names:** [[Professor Udo Stradovski]] (Kislevite accent — possible eastern origin), [[Elfrieda Teuschel]] (cured patient and facilitator), and [[Klaus von Kolditz]] as the [[Ferlangen]] link in Stradovski's escape
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- [[Dr Hartmut Imhot]] is tied to [[Professor Udo Stradovski|Stradovski]]'s treatment of [[Gerd Breytenbach|Gerd]]. [[Gammer Isolde Ulricht]] has never heard the name

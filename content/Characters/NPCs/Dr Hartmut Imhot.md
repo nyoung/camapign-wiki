@@ -31,3 +31,8 @@ Met in [[Session 31 - Surgical Theater|Session 31]] at the Physicians' Guild dur
 
 ## Appearances
 - [[Session 31 - Surgical Theater]]
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Implicated.** [[Gerd Breytenbach|Gerd]] names him as the doctor who works with the [[Shallyan Orphanage|orphanage]] and who visited [[Jaie Schraeder]]'s house with a case of clinking jars, spending hours behind closed doors with [[Professor Udo Stradovski|Stradovski]]. He and Stradovski treated Gerd's withered arm
+- **Eager to please** Stradovski, who was clearly senior. He left the house shortly afterwards
+- The party now has a name tying the orphanage to Stradovski; **Berin** had earlier been invited by Imhot to visit

@@ -69,3 +69,22 @@ He explicitly denies that he was the one who shot [[Pilpoul Ivri|Pilpoul]].
 - [[Session 28 - A Knight to Dismember]]
 - [[Session 29 - Wolfenburg]]
 - [[Session 30 - Hanging Judge]]
+- [[Session 39 - Vacate It for a Week, or Vacate It Permanently]]
+
+## Session 39 — Vacate It for a Week, or Vacate It Permanently
+- Poisoned by a ghoul's bite; **spent his last point of Resolve** to clear it, then **killed a lesser ghoul** with a critical that cracked its shin in half
+- Bandaged [[Boris Dorchen|Boris]] and himself after the fight, and later [[Berin Garibaldi|Berin]]
+- Now wears a salvaged **[[Black Cloak Lurkers Below|Lurker]] cloak**
+- **Climbed the 20-inch laundry drain** into the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]] without a flicker of reluctance, waited out a humming laundress, **chalked and loosened the grate**, and came back down. Offered to pre-rig escape ropes, from *"experience with my previous employers"*
+- Led the **prisoner ruse** at the sewer junction. When it failed, he **faced down a band of Lurkers**: *"Either vacate this place for a week, or vacate it permanently through your deaths."* They left. *"A life that is spared is a life that has a chance to redeem itself"*
+- Told Berin he will always put himself at risk rather than let Berin do so: *"I feel like I owe you"*
+- Argued the **docks** are the gangs' weak point for getting [[Hilde Muntz]] out
+
+## [[Session 42 - I Almost Killed You All|Session 42]]
+- Hid as a statue, was spotted, bluffed (*"you don't think I'd come alone"*), then fought: the pistol crossbow shot ricocheted off the ceiling (−50), his sword missed repeatedly
+- **Chased [[Karel Vantz]] and took an 11-critical on his already broken arm — now a major broken bone plus a ruined elbow.** Stunned, bleeding, no Resolve; stopped the bleeding with a Fortune re-roll and a bandage; **fatigued**. Needs surgery
+- Healed [[Anselm Rathke]] (one wound) and **fumbled** the heal on [[Boris Dorchen|Boris]] (minor infection); kept the **knuckle dusters** as a story item
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Healed.** [[Gammer Isolde Ulricht]] washed his arm and the **[[Shallya's Tears]]** miracle set the bones, rebuilt the elbow and regrew the muscle: no longer broken or healing. He felt *"the direct hand of a goddess"* and means to be worthy of it, preferring to be **recognised** rather than rewarded
+- Examined [[Gerd Breytenbach|Gerd]] with Heal (difficult) and found no prior illness. Suggested hiring someone for the road

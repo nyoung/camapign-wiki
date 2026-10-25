@@ -101,3 +101,12 @@ Comes from the Drakwald forests, where he hunted dangerous creatures. His father
 - Session 25: Dismounted at the front with his longbow; pinned against the broken wagon by the wolf's supernatural terror, he shook it off and **shot the monstrous wolf clean through the arm, driving it off** — the saving blow of the fight; tracked its blood (ordinary red and coppery); [[Christina Asper|Asper]] thanked him through broken teeth, then pushed him away
 - Session 26: Proposed the four-shift night watch; remained suspicious of [[Mathis Haack]] (a "warden" with a poacher's bag of rabbits); climbed a tree and discovered the bandits were snapping branches by hand to amplify the noise; gagged the captured prisoner with one of Mungo's socks after he whispered the name "Astrid"; argued bluntly that they should just "burn the forest down"
 - Lives/lived in the dangerous Drakwald forests; has a sick sister in a remote Middenland village he sends money home to
+
+## [[Session 42 - I Almost Killed You All|Session 42]]
+- Took a called shot at [[Anselm Rathke]]'s head (missed), then fought [[Karel Vantz]]: **cut on the left leg**, bleeding (removed with Resolve), badly hurt; a defensive roll with +20 from Advantage still took 12
+- **Minor infection** from Ganav's fumbled heal (sets in on the 18th)
+- Led the interrogation with a weak Intimidate, refused to pilfer living prisoners, and yielded on turning them in: *"I will remember it"*
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Healed.** The blessing spilled onto his cut and cleared the infection from Ganav's fumbled heal. He vowed to *"pass this kindness on"*
+- Praised [[Marla Hengist|Marla]]'s courage to Gammer; held the **[[Silver Amethyst Ring|Ring of Quiet]]** and its provenance document

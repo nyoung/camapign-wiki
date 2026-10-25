@@ -40,3 +40,10 @@ Seen up close, it is a fortress in all but name: **three storeys of solid granit
 ## Notes
 - [[Reiner Kolber]] warned the party away from this place in [[Session 32 - A Tooth For a Tooth|Session 32]], saying children have been taken here and never seen again
 - [[Dr Hartmut Imhot]]'s standing invitation to Berin remains an unused second route in
+
+## Session 42
+- A captured Lurker says the orphanage brings in boys from surrounding towns and that new arrivals *"fall sick and disappear overnight"*; the Lurkers avoid it. ([[Session 42 - I Almost Killed You All|Session 42]])
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Gammer's account:** it takes in unwanted and orphaned children from surrounding villages, many with the diseases common there; **some have died**; the doctors **quarantine them for some weeks** before they join the others. The party may speak to anyone inside
+- **Link to Stradovski:** per [[Gerd Breytenbach|Gerd]], [[Dr Hartmut Imhot]], a doctor who works with the orphanage, treated Gerd's arm alongside [[Professor Udo Stradovski|Stradovski]]

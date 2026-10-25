@@ -52,3 +52,6 @@ The **far north end** of the docks is where river traffic slips out of the city,
 - **Boris severed the barge's last mooring rope**; the vessel spun out into the current, **struck the [[Wolfen Bridge]] supports**, and drifted away downriver with Teuschel aboard
 - **The watch responded fast.** Whistles and raised voices went up from the [[Wolfen Bridge]] almost immediately, and **six armed watchmen** marched down the quay. [[Boris Dorchen|Boris]] and the others slipped away; [[Hildegarde]] and [[Berin Garibaldi|Berin]] stayed and were taken to the [[Wolfenburg Courthouse]]
 - **⚠️ Operational note:** the quay is **overlooked by the [[Wolfen Bridge]]**, which is the watch's approach route. Anything done on these docks is on a short fuse
+
+## Session 39 — Vacate It for a Week, or Vacate It Permanently
+- Now the party's **preferred exit** for [[Hilde Muntz]]: [[Ganav]]'s reasoning is that the gangs can watch the temple and the gates, but **not every dock**. Next step: find **boat passage**

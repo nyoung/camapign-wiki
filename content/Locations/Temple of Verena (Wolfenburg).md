@@ -27,3 +27,6 @@ Wolfenburg's temple of law and learning. The party had already left [[Pilpoul Iv
 **[[Session 33 - Plot Twist|Session 33]]:** First visited in person, to collect wages and settle affairs. Berin received a slightly larger share than the others. Hildegarde repaid a four-crown debt to [[Hoffman Jannitzer]]. Berin researched the temple library and found a scroll matching a Kislevite nature spirit symbol (ox + howling wolf) to markings found at [[Schraeder's House]] — the same symbol later found associated with the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]].
 
 ## Notes
+
+## [[Session 42 - I Almost Killed You All|Session 42]]
+- **The bounty hall.** [[Hildegarde]] presented her bounty-hunter license; the clerk found a posting for the **Black Cloak Lurkers at 2 shillings alive for questioning** and paid **3 shillings** for [[Petra Voss]] and [[Anselm Rathke]]. Hilde asked that their cooperation be noted

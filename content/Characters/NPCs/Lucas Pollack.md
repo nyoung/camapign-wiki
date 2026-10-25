@@ -75,3 +75,6 @@ Mentioned in [[Session 17 - Asper-ated|Session 17]] and [[Session 19 - Ferlangen
 - **🔴🔴 He exposed the deception the party had been carrying since [[Session 35 - The Heist of the Heist|Session 35]]:** the stolen money was **the [[Steel Fist Thief Ring|Steel Fist]]'s illegal lottery take, not the Prince's**, and **the [[Black Cloak Lurkers Below|Lurkers]] had misdirected the party to obscure their own involvement**. [[Anselm Rathsky]] lied; [[Captain Crais]]'s version was right
 - Explained the standoff: **neither gang will violate the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]]'s sanctuary** — it matters too much to their own people as a source of healing and charity — but **neither will let Hilde walk free**, and every exit is watched
 - **A far sharper showing than his previous appearances.** The man who read as going through the motions in [[Session 20 - Never Mention Prostitutes|Session 20]] is the one who actually untangled the gang war for them
+
+## Session 38 — A Sacrifice I Am Willing to Make
+- **Left with [[Christina Asper]] for the [[Witch Hunters Guild]]** after she leaned on [[Azmus Beham]] to open the catacombs. Not present for the descent

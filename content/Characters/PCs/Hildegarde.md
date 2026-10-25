@@ -114,3 +114,16 @@ Hildegarde has lived on the streets of Middenheim all her life. She knows no oth
 - Session 24: Arrived to find a stranger operating on Pilpoul and nearly shoved [[Ganav|Hawkeye]] aside, certain he was buying time — fumbling the brace and nearly closing the airway before Berin vouched for him; kept her hand on her mace and her eyes on him thereafter; slipped her lucky **were-rabbit's foot** into Pilpoul's pocket; kept the night vigil watching Hawkeye, and pressed him at crossbow-point for his name — yet shared an unexpectedly honest conversation with him about impossible choices made to survive
 - Session 25: Scanned the trail for traps and pitfalls during the second ambush; kept the wounded [[Ganav|Hawkeye]] in front of her where she could watch him; took custody of the captured outlaw under a not-quite-steady crossbow
 - Session 26: Stood the final watch with [[Hoffman Jannitzer]] and, refusing to merely endure the harassment, **fired one of the bandits' own arrows back into the howling dark** purely to make a point (and found it rather fun); rode out with Berin to parlay with [[Astrid Hofhaimer]]; favoured a convincing forgery to buy the caravan time
+
+## [[Session 41 - Too Warm for Me|Session 41]]
+- **Took a Dark Deal** (her first) on a re-roll while trying to circle behind the man holding [[Marla Hengist|Marla]], and **gained a Corruption point**; the roll failed anyway
+- **Learned from [[Hilde Muntz]]** a sequence of **thief hand-signs** for [[Nina Trielffen|Nina]]; pulled Hilde aside in the catacombs and got the story of [[Gerd Breytenbach|Gerd]]'s burned household
+- **Ends the session shadowing** the black-cloaked man who took Marla
+
+## [[Session 42 - I Almost Killed You All|Session 42]]
+- Shadowed [[Karel Vantz]] and [[Marla Hengist|Marla]] across the city, chalking an **H** at each turn; slipped into the Temple of the All Gods and **charged and crushed the skull of [[Anselm Rathke]]**; clubbed [[Petra Voss]] into submission
+- **Insisted on turning the prisoners in** to the Temple of Verena as a bounty hunter (3 shillings), over [[Boris Dorchen|Boris]]'s objection; briefly took Petra's jerkin and gave it back when Boris objected
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Healed.** Her old neck wound mended in the miracle of [[Shallya's Tears]]
+- Gave [[Nina Trielffen|Nina]] Hilde Muntz's hand-sign; **led the interview of [[Gerd Breytenbach|Gerd]]** (Charm 56); asked Gammer about the Medical Union; showed Gerd the portrait of [[Professor Udo Stradovski|Stradovski]]; gave her confiscated dagger to [[Marla Hengist|Marla]]

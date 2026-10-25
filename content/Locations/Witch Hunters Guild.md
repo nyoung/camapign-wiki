@@ -19,3 +19,7 @@ A large, imposing structure in [[Wolfenburg]] marked with the guild's symbol.
 
 ## Appearances
 - [[Session 30 - Hanging Judge]]
+
+## [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]]
+- **Described** from the front: a **big, looming building of black stone and dark slate**, a **tarnished brass emblem** over the door that nobody seems to polish. Witch hunters passing through carry the symbols of **Solkan**, **Verena** and **Sigmar**
+- [[Berin Garibaldi|Berin]] and [[Hildegarde]] called on [[Christina Asper]] there; a servant fetched her from the back rooms and she led them to a quiet spot on the road

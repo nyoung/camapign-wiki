@@ -133,3 +133,8 @@ Berin's background spans two careers that sit in unusual harmony: horse trader a
 - [[Session 24 - Hawkeye]]
 - [[Session 25 - Asper and the Wolf]]
 - [[Session 26 - A Night in the Country]]
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Rejoined the party** after leaving [[Hilde Muntz]] at the burial pits, and guessed from their state what had happened
+- Examined [[Gerd Breytenbach|Gerd]]: **Theology (challenging)** read Nurgle in the dreams; **Medicine** found the signs of a flesh-eating disease and fungal fever. Took Gerd's **seven crowns** for his mother
+- **Prayed a Blessing of Conscience** on [[Nina Trielffen|Nina]] (Fortune point) and warned her of a servant of the Fly Lord in the temple

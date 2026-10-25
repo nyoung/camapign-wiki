@@ -28,13 +28,22 @@ Asked of the party by **[[Christina Asper]]** at the **Altar of Solkan** in the 
 
 ## Steps / Progress
 - [x] Learn the situation from [[Christina Asper]] and [[Lucas Pollack]] *([[Session 37 - Especially the Hugs|Session 37]])*
-- [ ] Make contact with [[Hilde Muntz]] inside the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]]
+- [x] Learn the sewer route to the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]] — **half a mile or less** from the catacomb exit, per [[Snorri Belgrimson]]'s map *([[Session 38 - A Sacrifice I Am Willing to Make|Session 38]])*
+- [x] Scout an exit: the temple's **laundry drain** into the sewers, grate marked and loosened by [[Ganav]]; a **hidden street door** from the sewer junction *([[Session 39 - Vacate It for a Week, or Vacate It Permanently|Session 39]])*
+- [x] Clear the junction: the **[[Black Cloak Lurkers Below|Lurkers]] agreed to stay away for a week** *(Session 39)*
+- [ ] Find **boat passage** from the [[Wolfenburg Docks|docks]] *(the party's next step)*
+- [x] Make contact with [[Hilde Muntz]] inside the [[Temple of Shallya (Wolfenburg)|Temple of Shallya]] *([[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]]: via Asper's handkerchief)*
 - [ ] Arrange passage with the **merchant network** that previously moved people to Averland
-- [ ] Get her out past two sets of watchers without breaching sanctuary
-- [ ] Get her clear of [[Wolfenburg]]
+- [x] Get her out past two sets of watchers without breaching sanctuary *([[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]]: down the laundry drain on a rope of bedsheets)*
+- [x] Get her **through the catacombs** and out of the city in a **funeral procession** through the North Gate, with [[Ewalt Wrangel]] and [[Christina Asper]] waiting outside by about **half past one** *([[Session 41 - Too Warm for Me|Session 41]]: through the gate; Asper met them)*
+- [ ] Get her clear of [[Wolfenburg]] — **out of the city**, bound for a **northern burial site** with Berin and Asper; **not yet in safe hands**
 
 ## Sessions Involved
 - [[Session 37 - Especially the Hugs]] *(started)*
+- [[Session 38 - A Sacrifice I Am Willing to Make]] *(deferred — the party went into the catacombs first; the sewer route to her temple was mapped)*
+- [[Session 39 - Vacate It for a Week, or Vacate It Permanently]] *(route scouted; Lurker truce; half a plan)*
+- [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan]] *(Hilde met and extracted; Steel Fist ambush)*
+- [[Session 41 - Too Warm for Me]] *(through the catacombs and out of the North Gate; Marla taken hostage)*
 
 ## Related NPCs
 - [[Hilde Muntz]] — the subject
@@ -56,5 +65,27 @@ Asked of the party by **[[Christina Asper]]** at the **Altar of Solkan** in the 
 ## Resolution
 
 ## Notes
-- The working plan is to **smuggle her out with a protected merchant convoy on the Averland route** — the party's reasoning being that a well-guarded convoy is far safer than moving her through enemy ground
+- **[[Session 39 - Vacate It for a Week, or Vacate It Permanently|Session 39]] — the plan now:** through the front door, **out the laundry drain**, through the sewers to the **hidden street door**, then **by boat from the docks**. [[Snorri Belgrimson|Snorri]] says the only sewer route *out of the city* is a stream grate the dwarves won't open for manlings, so the sewers only get her **away from the temple unseen**. [[Ganav]]: the gangs can watch the temple and the gates, but **not every dock**. [[Boris Dorchen|Boris]] will ask [[Christina Asper]] to **pay**. The **Lurker truce runs about a week** from 16 Jahrdrung
+- The earlier working plan was to **smuggle her out with a protected merchant convoy on the Averland route** — the party's reasoning being that a well-guarded convoy is far safer than moving her through enemy ground
 - **⚠️ Bears on the standing question about [[Christina Asper]].** Her secret hand-signals with a tattooed Shallyan initiate in [[Session 30 - Hanging Judge|Session 30]] now have a plausible innocent explanation: a close friend hiding among the Shallyans. It fits — but it does not explain her being tracked to the [[Witch Hunters Guild]]. **Not settled**
+
+## [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]] — the plan changes
+- **The boat is out; the funeral procession is in.** [[Berin Garibaldi|Berin]] proposed a **funeral procession through the North Gate** led by [[Ewalt Wrangel]], since the Temple of the All Gods is a stone's throw from the gates. [[Christina Asper]] will be **outside the North Gate by about half past one**; Hilde will **not** meet the party at the Temple of the All Gods (she fears the Steel Fist are tracking her)
+- **Hilde is out of the temple** and in the sewers with the party. The **three-man Steel Fist patrol** that followed them lost one man; two escaped, so the Steel Fists now know she has left
+- **The Lurker truce** still stands (about a week from 16 Jahrdrung)
+- **⏱️ The party is late** for Asper's half-past-one meeting
+- **Side-complication: [[Gerd Breytenbach]].** [[Marla Hengist]] says the sisters are hiding him in the temple. [[Hildegarde]] has told only [[Boris Dorchen|Boris]]
+
+## [[Session 41 - Too Warm for Me|Session 41]] — out of the city
+- **Hilde is out of Wolfenburg.** She rode through the **North Gate** in a coffin on a funeral hearse; **Asper met the procession** and rode behind Berin. The **destination changed** to a **northern burial site**, away from where the Lurkers could reach her
+- **The price:** [[Marla Hengist|Marla]] was **seized at dagger-point** two blocks from the temple by a man in a black cloak; [[Hildegarde]] is following. If Marla is the lever for Hilde, **the rescue is not over**
+- **What Hilde gave:** her part in the lottery robbery; **Nina** hid Gerd; the sign-sequence for Nina
+- **Berin's player is away next session**; Berin spends a day settling Hilde and rejoins after
+
+## [[Session 42 - I Almost Killed You All|Session 42]] — Marla recovered
+- **[[Marla Hengist|Marla]] is safe:** the cell that took her was broken at the Temple of the All Gods ([[Karel Vantz]] fled; [[Petra Voss]] and [[Anselm Rathke]] captured)
+- The Lurkers' line is still **"nobody leaves"**: Hilde remains hunted, and Karel Vantz is at large
+- Hilde remains with Berin, Asper and Wrangel at the burial site
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Hilde remains out of the city** with [[Christina Asper]] at the burial pits. [[Hildegarde]] used her hand-sign with [[Nina Trielffen]], who then led the party to [[Gerd Breytenbach|Gerd]]

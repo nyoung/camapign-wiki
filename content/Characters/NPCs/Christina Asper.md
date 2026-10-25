@@ -127,6 +127,7 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - [[Session 29 - Wolfenburg]]
 - [[Session 30 - Hanging Judge]] *(caught in secret signals; tracked to the Witch Hunters Guild)*
 - [[Session 36 - Most Discreet Ambush Ever]] *(named as the intended recipient of Teuschel; present at the docks — see the unattributed betrayal)*
+- [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan]] *(agreed to the plan; token for Hilde)*
 
 ## Session 37 — Especially the Hugs
 - **Vouched for the party at the [[Wolfenburg Courthouse]].** Named by [[Hildegarde]] as a corroborating witness, she arrived within half an hour with [[Lucas Pollack]], spoke privately with [[Captain Crais]], and the party was released
@@ -135,3 +136,19 @@ On the road to the [[Pewter Merchant]], she allowed [[Pilpoul Ivri|Pilpoul]] to 
 - [[Lucas Pollack]], barely concealing his amusement: *"The ice queen has a beating heart after all."* — earning a sharp glare
 - She warned that **she and Pollack are themselves being watched** whenever they move through the city, because the gangs suspect their connection to Hilde
 - **⚠️ Bearing on the standing suspicion.** The secret hand-signals with a tattooed Shallyan initiate in [[Session 30 - Hanging Judge|Session 30]] now have a candidate innocent explanation — **her close friend is a Shallyan aspirant in hiding**. It fits the observed facts. It does **not** by itself account for her being tracked to the [[Witch Hunters Guild]]. **Not settled**
+
+## Session 38 — A Sacrifice I Am Willing to Make
+- **Pressed [[Azmus Beham]] into opening the catacombs.** When Beham arrived to close the temple and turned pale at the sight of the witch hunters, Asper told him — pointedly — that she would hate to see *"these gentlemen and lady"* prevented from doing what they needed to in the catacombs, and knocked past him as she went
+- **Left with [[Lucas Pollack]] for the [[Witch Hunters Guild]]**, and was not present for the descent
+- The party had no further questions for her before going down; the [[Hilde Muntz]] rescue was set to wait until after the catacombs
+
+## [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]]
+- **Agreed to the plan** at the [[Witch Hunters Guild]]: the laundry drain, the sewers, a **funeral procession through the North Gate**; she will be **outside the gate by about half past one** (she will not be seen with the party beforehand: the Steel Fists watch her)
+- **Gave [[Hildegarde]] a silk handkerchief initialed "C.A."** as a token that [[Hilde Muntz]] will recognise
+- Called [[Ewalt Wrangel]] *"a bit of a toady… mostly harmless"*, with more dangerous relatives; has **leverage over [[Azmus Beham]]**
+- Described by Hildegarde's recount as the one other witch hunters (Solkan, Verena, Sigmar) pass in the Guild's halls, none of whom paid her any attention
+- **⏱️** The party is well behind the half-past-one meeting
+
+## [[Session 41 - Too Warm for Me|Session 41]]
+- **Waiting outside the North Gate**, behind one of the first outbuildings, as promised — and **late-worried**: *"I was starting to get worried. You were late. Everything go okay?"* She rode **behind Berin and ahead of the hearse**, speaking to Berin and to Hilde
+- The party means to **ask her about necromancy** (Wrangel's suspicion) and to show her the **certificate** from the Vermillion Pawn; [[Ganav]] joked that she *"fancies that ring"* and would *"make some excuse to keep it"* — a joke, not a finding

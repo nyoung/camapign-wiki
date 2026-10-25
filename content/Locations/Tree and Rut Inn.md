@@ -31,3 +31,6 @@ An inn in Wolfenburg where the party regrouped for the night.
 ## Notes
 - Functioning as the party's current base of operations in Wolfenburg
 - *Naming note:* GM Assistant's transcript renders this inn as "Three on Route" — a speech-to-text mishearing of **Tree and Rut**.
+
+## Session 39 — Vacate It for a Week, or Vacate It Permanently
+- The party returned here at nightfall from the sewers. The common room was full of **nervous gossip: Bögenhafen, in the Reikland, has been declared off limits** after some disaster; a boatman with a cargo bound there didn't know what to do. The innkeeper had **baths drawn for all**

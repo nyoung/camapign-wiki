@@ -39,3 +39,11 @@ Named by clerk [[Danel Koberger]] in [[Session 31 - Surgical Theater|Session 31]
 
 ## Notes
 - Formally *The Hospital for the Maintenance and Education of Exposed and Deserted Children*
+
+## Session 42 — new rumours
+- [[Petra Voss]] (a Lurker): the orphanage has *"some muscle that brings them kids from the surrounding towns"*; boys who escape say new arrivals **"fall sick and disappear overnight"** with **plague going through night by night**; the Lurkers **avoid it**
+- The party's plan after Session 42: **Gerd first** (easier access), the orphanage after. Hildegarde: it might be "the entire Medical Union… 10 or 20 people"
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- [[Gammer Isolde Ulricht]] says the party may talk to anyone inside; the orphanage quarantines sick arrivals for weeks
+- [[Gerd Breytenbach|Gerd]] ties [[Dr Hartmut Imhot]], the doctor who works there, to Stradovski's experiments. The party has not yet decided whether to go in

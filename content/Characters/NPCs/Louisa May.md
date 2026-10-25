@@ -40,3 +40,7 @@ Named by clerk Danel Koberger during the party's investigation of Jaie Schraeder
 - Mentioned in [[Session 31 - Surgical Theater]]
 - Mentioned in [[Session 33 - Plot Twist]]
 - Mentioned in [[Session 35 - The Heist of the Heist]] *(revealed as close to Gerd Breytenbach)*
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Louisa** (per Gerd; the module gives her as Louisa May): **about seven months pregnant** by [[Jaie Schraeder]] when she died in the fire; Gerd does not believe she was treated by Stradovski or Imhot. She nursed him through the fever after his arm treatment
+- She **screamed and was cut off** when rough men entered the house; Gerd fled and left her. He is *"willing to do anything to get vengeance for her"*

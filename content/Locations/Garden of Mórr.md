@@ -34,3 +34,7 @@ Wolfenburg's cemetery and catacombs, near the Cathedral of Sigmar — a stark bl
 ## Notes
 - Connection to the disturbed-corpses rumour from the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]] confirmed by [[Ewalt Wrangel]] in [[Session 33 - Plot Twist|Session 33]]
 - The Breytenbach body's mismatched wounds and description suggest it may be a planted assassin, not the actual butler
+
+## [[Session 40 - A Wonderfully Thought-Out, Half-Baked Plan|Session 40]]
+- **A second visit.** A **raven** called from above and [[Ewalt Wrangel]] opened the door before anyone touched it. The party laid out the evidence against [[Azmus Beham]] and persuaded him to **go into the sewers** to see for himself
+- He prepared for hours and left in **travelling boots**, not his robes

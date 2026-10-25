@@ -210,3 +210,9 @@ Locate [[Professor Udo Stradovski]] and return him to [[Middenheim]] before the 
 - **New lead — [[Seuchenshof]]:** an active Union site, operating under the guise of a **Shallyan priest**, harvesting live disease strains and **deliberately infecting people** to get more
 - **New lead — his origins:** a **faint Kislevite accent** slips out when he is deeply focused. He may be Kislevite, and may run east
 - **Teuschel was released alive** under the surrender terms and is on the river; the bulk of the stolen gold has **already gone to Altdorf**
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **[[Gerd Breytenbach]] located and interviewed.** He saw Stradovski at close quarters: **20–25 years older than the painting**, smug, in charge of [[Jaie Schraeder]] and [[Dr Hartmut Imhot]]
+- **Destination:** Stradovski and Schraeder went to the manor at **[[Levudaldorf]]** about six days ago, with a servant from the manor, to meet "somebody of note"
+- **Lead:** the **[[Order of Occidental Fellows]]** (Schraeder's order) and a private courier firm across from the Physicians' Guild
+- **The treatment:** Stradovski and Imhot restored Gerd's withered arm with a concoction, a cut and a balm; it is a test of the "product", and Nurgle's touch is suspected

@@ -47,3 +47,6 @@ Grief-stricken but instinctively hospitable — fell back on the habits of a lif
 ## Appearances
 - [[Session 34 - I Believe You Dropped Your Hat]]
 - [[Session 35 - The Heist of the Heist]] *(interviewed — gave the Lurkers lead)*
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- [[Gerd Breytenbach|Gerd]] is alive and asked the party to bring her **seven crowns** as "compensation from a benefactor", without saying he lives, to keep her out of danger. [[Berin Garibaldi|Berin]] carries the purse

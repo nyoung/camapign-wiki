@@ -44,3 +44,9 @@ In [[Session 32 - A Tooth For a Tooth|Session 32]] the party examined his body d
 - Mentioned in [[Session 30 - Hanging Judge]]
 - [[Session 31 - Surgical Theater]]
 - [[Session 32 - A Tooth For a Tooth]] *(body examined at the Garden of Mórr; cause of death confirmed)*
+
+## [[Session 43 - A Mighty Gift|Session 43]]
+- **Per Gerd:** Schraeder hosted [[Professor Udo Stradovski|Stradovski]] for several days and was summoned from the Physicians' Guild when the messenger came; he then left for [[Levudaldorf]] with Stradovski and a servant from the manor. He was *outwardly polite and courteous* but nervous, and Stradovski treated him as a student
+- **He copied Stradovski's documents** symbol by symbol as quickly as he could; Gerd thinks being caught at it may be why he was killed. Gerd recognised the party's notes as Schraeder's own hand, with a clumsy grasp of the Classical script
+- **Worshipped** at the Sigmarite cathedral and visited the Temple of the All Gods; a member of the **[[Order of Occidental Fellows]]**
+- The party believed he was lured out by a message from his dead father; per Gerd that was a pretext Stradovski prepared

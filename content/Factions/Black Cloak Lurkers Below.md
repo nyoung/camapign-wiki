@@ -49,3 +49,17 @@ Cordial and transactional. The members encountered in Session 34 backed down onc
 - **They will not violate the temple's sanctuary** — it is too important a source of healing and charity for their own people — **but they will not let her leave either**
 - They are also **watching [[Christina Asper]] and [[Lucas Pollack]]** whenever those two move through the city, suspecting their connection to Hilde
 - **A gang stole a four-tumbler dwarven sewer key** in broad daylight from a [[Dwarf Hall of Wolfenburg|Dwarf Hall]] sewer jack ([[Borin Anvilhart]]'s report). Given the Lurkers' name and their use of the undercity, they are an obvious suspect — **but this is not established**
+
+## Session 39 — Vacate It for a Week, or Vacate It Permanently
+- **Two dead Lurkers** in the ghoul nest of [[The Ghoul Cavern]]: black hooded cloaks, swords, and a **[[Forged Dwarf Key]]**. This is the first physical link between the Lurkers and **copies of the dwarves' sewer key**
+- The party took **two Lurker cloaks**, now worn by [[Ganav]] and [[Hildegarde]]
+- **[[Berin Garibaldi|Berin]]'s read:** if [[Azmus Beham]] pays the Lurkers to collect bodies, **nobody has been collecting them lately**. Bodies are left in the tunnels, and the [[Screaming Mushrooms]] show a stretch of sewer unused for a week or more. *"Something seems to have happened to the Lurkers."*
+- **At the sewer junction**, at least two Lurkers challenged the party (*"Hail, Lurker! Karl Franz!"*, possibly a password). A prisoner ruse failed, but **[[Ganav]]'s threat** (*vacate it for a week, or permanently*) worked: *"We were leaving anyway, but we won't be back this way for another week."* They withdrew **east**
+
+## Session 42 — I Almost Killed You All
+- **A cell of three fought and broken.** [[Karel Vantz]] (older, bearded, swordsman), [[Petra Voss]] (slinger) and [[Anselm Rathke]] (young footpad) took [[Marla Hengist|Marla]] hostage ([[Session 41 - Too Warm for Me|Session 41]]) and came to the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]] for whatever [[Azmus Beham]] had left them. Anselm was knocked out, Petra stunned and captured, and Karel fled
+- **Their grievance with Azmus:** he paid them to dump bodies in the Wolfen at 3 a.m., **stopped paying** and vanished. Two of their body-movers, **Gunther** and **Fritz**, disappeared around Hexenstag; Petra faltered to hear two Lurkers had been found half-eaten by ghouls
+- **They claim not to know** about the spirits, the ghouls (those sewers are not theirs), the Medical Union, or the burning of [[Gerd Breytenbach]]'s household. They **avoid the Shallyan orphanage**
+- **"Nobody leaves the Lurkers"** — [[Hilde Muntz]] knows where all the operations are, so they will not let her go; that is why Marla was seized
+- **Two Lurkers handed to Verena:** the board posts the Lurkers at **2 shillings, alive for questioning**; Hilde was paid **3 shillings** for Petra and Anselm
+- [[Gerd Breytenbach]] had been passing tips about the Physicians Guild to "Karel" (so the gang could reach doctors); Petra had not seen him in months
