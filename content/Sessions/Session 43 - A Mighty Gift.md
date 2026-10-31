@@ -26,7 +26,7 @@ Nina then led the party to the man they had been seeking since Session 31: **[[G
 ### Gammer Isolde's mercy
 - [[Nina Trielffen]] hugged Marla in the courtyard, then took the group to [[Gammer Isolde Ulricht]]. Marla vouched for them: *"They didn't kill anyone, they used minimum force."* Hildegarde gave Nina the sign [[Hilde Muntz]] had taught her; Gammer, unsurprised, asked for the procedure room
 - A condescending young initiate (**[[Hermann Roeging]]**) objected; Gammer glared him quiet. She cut away Ganav's sleeve with silver shears, poured spring water into a brass basin, scattered lily petals on it and washed the wound while praying, tears falling on her hands
-- On the GM's roll (a **99**), **Shallya's Tears** worked: skin closed, shattered bones slid into place, the elbow reformed and the muscle and tendon regrew; the glow spread and healed **Boris** (his cut and its infection) and **Hildegarde** as well. Gammer: *"For how you acted today, Shallya has shined upon you."* The party must **earn** the gift by acting in Shallya's grace
+- In an exceptional success, **Shallya's Tears** worked: skin closed, shattered bones slid into place, the elbow reformed and the muscle and tendon regrew; the glow spread and healed **Boris** (his cut and its infection) and **Hildegarde** as well. Gammer: *"For how you acted today, Shallya has shined upon you."* The party must **earn** the gift by acting in Shallya's grace
 - Gammer told them the orphanage takes in unwanted children from outlying villages, many with village diseases; the doctors there **quarantine them for some weeks**; the party is free to speak to anyone there. She had never heard of the **Medical Union**
 
 ### Nina leads the way

@@ -47,7 +47,7 @@ Senior clergy — high priestess of the [[Cult of Shallya]] at the Wolfenburg te
 
 ## [[Session 43 - A Mighty Gift|Session 43]]
 - **Healed the party.** She received [[Marla Hengist|Marla]] back with a relieved sigh, listened to Marla's account (*"they didn't kill anyone"*), and asked [[Hildegarde]] to confirm it. She lifted a hand in a quiet gesture and had the procedure room prepared
-- **Washed [[Ganav]]'s arm herself**: silver shears to cut the sleeve, a brass basin of spring water with white lily petals, a clean cloth, a quiet prayer, tears falling on her hands. On a **99**, the **[[Shallya's Tears]]** miracle healed Ganav's arm completely and spilled onto [[Boris Dorchen|Boris]] and Hildegarde; the party was healed
+- **Washed [[Ganav]]'s arm herself**: silver shears to cut the sleeve, a brass basin of spring water with white lily petals, a clean cloth, a quiet prayer, tears falling on her hands. In an exceptional success, the **[[Shallya's Tears]]** miracle healed Ganav's arm completely and spilled onto [[Boris Dorchen|Boris]] and Hildegarde; the party was healed
 - **Her words:** *"For how you acted today, Shallya has shined upon you."* They must earn the gift by acting in Shallya's grace. She glared the pompous initiate [[Hermann Roeging]] quiet
 - **On the orphanage:** it takes in unwanted children from outlying villages, many with diseases common to small communities; some have been lost; the doctors there **quarantine them for some weeks** before they join the others. The party may speak to anyone inside
 - **On the Medical Union:** she has not heard the name

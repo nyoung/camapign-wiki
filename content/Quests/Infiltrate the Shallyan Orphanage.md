@@ -19,7 +19,8 @@ Self-directed. [[Reiner Kolber]] independently warned the party away from the or
 
 ## Objectives
 - [x] Scout the building for a way in
-- [ ] Get inside — [[Hildegarde]] to present as a childless woman drawn to Shallya wanting to volunteer, or as half of a couple looking to adopt
+- [x] Get inside — [[Hildegarde]] and [[Ganav]] toured the ground floor as a couple wishing to adopt ([[Session 44 - Not Today, Unfortunately|Session 44]]); the adoption was refused
+- [ ] Get back in for a proper look: the stair beside the infirmary, the locked door under the main stair
 - [ ] Establish what happens to the children who don't come back out
 - [ ] Follow up the eastern-gate disease patients reportedly sent here
 
@@ -47,3 +48,10 @@ Named by clerk [[Danel Koberger]] in [[Session 31 - Surgical Theater|Session 31]
 ## [[Session 43 - A Mighty Gift|Session 43]]
 - [[Gammer Isolde Ulricht]] says the party may talk to anyone inside; the orphanage quarantines sick arrivals for weeks
 - [[Gerd Breytenbach|Gerd]] ties [[Dr Hartmut Imhot]], the doctor who works there, to Stradovski's experiments. The party has not yet decided whether to go in
+
+## [[Session 44 - Not Today, Unfortunately|Session 44]]
+- **Went in as adopters** (Ganav as "Mr Costanza", Hildegarde as "Berilder"), were toured by Dr Valera, interviewed by the three doctors and **refused**: "not today, unfortunately". Hildegarde's Charm and Intelligence rolls were poor
+- **[[Josef Skarn]]** (porter) offered a back-channel at the gate: *"there might be things that can be done… get word to me"*
+- Noted: 67 children, 8–9 dead of influenza in three months, unnamed benefactors, a stair down from the infirmary, a locked door under the main stair, an androgynous smirking Shallya statue
+- **Ways in the party discussed:** Skarn's offer; renting a child; paying an escaped street child; a way in from below (Dwarf Hall service links); following the food suppliers; tailing Dr Imhot; planting a rumour at the Temple of Shallya; asking Gammer Isolde to call an inspection after Gerd's story; Marla as bait (a joke); a night break-in
+- **Agreed order for the afternoon:** (1) find escaped children; (2) wait for Skarn at closing time; (3) if both fail, the next day take Gerd's story to Gammer Isolde

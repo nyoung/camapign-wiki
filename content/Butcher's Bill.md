@@ -1,14 +1,14 @@
 ---
 type: reference
 tags: [reference, scoreboard]
-sessions_covered: "01–43"
-last_updated: "[[Session 43 - A Mighty Gift|Session 43]]"
+sessions_covered: "01–44"
+last_updated: "[[Session 44 - Not Today, Unfortunately|Session 44]]"
 ---
 
 # Butcher's Bill
 
 A running tally of everything the party and its allies have killed, wounded, or taken
-alive. Covers **Sessions 01–43** (17 Nachexen – 17 Jahrdrung, 2512).
+alive. Covers **Sessions 01–44** (17 Nachexen – 18 Jahrdrung, 2512). *Sessions 43 and 44 had no kills.*
 
 > [!note] Two tiers of sourcing
 > **Sessions 23, 25, 27, 28, 36, 37, 38, 39, and 40** — the densest road-war, docks and

@@ -4,8 +4,8 @@ hub: "Wolfenburg"
 location_type: orphanage/charity hospital
 region: The Empire — Ostland
 parent_location: "[[Wolfenburg]]"
-status: scouted (exterior only)
-first_visited:
+status: visited (ground floor toured, Session 44)
+first_visited: "[[Session 44 - Not Today, Unfortunately]]"
 tags: [location]
 aliases: ["The Hospital for the Maintenance and Education of Exposed and Deserted Children"]
 ---
@@ -15,7 +15,7 @@ aliases: ["The Hospital for the Maintenance and Education of Exposed and Deserte
 ## Description
 Formally **The Hospital for the Maintenance and Education of Exposed and Deserted Children**. A charitable institution in Wolfenburg, reportedly in difficult financial straits, treating poor patients — including the mysterious eastern-gate disease cases — who can't afford the Physicians' Guild.
 
-Seen up close, it is a fortress in all but name: **three storeys of solid granite**, standing in stark contrast to the sagging half-timbered buildings around it. Every window is barred. The courtyard is enclosed by an **eight-foot spiked wrought-iron fence anchored directly into the stone road**, with no gaps and no climbable sections. At its centre stands a weathered statue of Shallya, her features worn smooth by time, her hand still outstretched with the faint shape of a dove resting in the palm. **The party has scouted the exterior but not been inside.**
+Seen up close, it is a fortress in all but name: **three storeys of solid granite**, standing in stark contrast to the sagging half-timbered buildings around it. Every window is barred. The courtyard is enclosed by an **eight-foot spiked wrought-iron fence anchored directly into the stone road**, with no gaps and no climbable sections. At its centre stands a weathered statue of Shallya, her features worn smooth by time, her hand still outstretched with the faint shape of a dove resting in the palm. **The party scouted the exterior in Session 35 and toured the ground floor, posing as adopters, in [[Session 44 - Not Today, Unfortunately|Session 44]].**
 
 ## Notable Features
 - Three storeys of solid granite; all windows barred
@@ -47,3 +47,12 @@ Seen up close, it is a fortress in all but name: **three storeys of solid granit
 ## [[Session 43 - A Mighty Gift|Session 43]]
 - **Gammer's account:** it takes in unwanted and orphaned children from surrounding villages, many with the diseases common there; **some have died**; the doctors **quarantine them for some weeks** before they join the others. The party may speak to anyone inside
 - **Link to Stradovski:** per [[Gerd Breytenbach|Gerd]], [[Dr Hartmut Imhot]], a doctor who works with the orphanage, treated Gerd's arm alongside [[Professor Udo Stradovski|Stradovski]]
+
+## [[Session 44 - Not Today, Unfortunately|Session 44]]
+- **Entered as a would-be adoptive couple** (Ganav as "Mr Costanza", Hildegarde as "Berilder"); the adoption was refused
+- **Gate:** a heavy bar and lock, kept locked; the porter [[Josef Skarn]] lets people in and out. It stands in a rough neighbourhood of half-ruined buildings, backs onto another building and has no rear alley, no sewer access seen, and no deliveries or children outdoors in the morning
+- **Inside:** wood-panelled, whitewashed, spotless; a long hall with statues of Shallya at each end (the **right-hand one smirks, with short spiky hair and an androgynous figure**, like the weathered statue at the [[Temple of the All Gods (Wolfenburg)|Temple of the All Gods]]); a winding stair opposite the door with a **locked door** under it; classrooms and a dining room in the left wing; boys' dormitories west, girls' east; a smell of roasting meat
+- **Infirmary** (ground floor): one bed, one sick boy, a nurse ([[Gretchen Pfodd]]), and a **stair going down** to the orphanage's "supplies"
+- **Staff:** [[Dr Israhel Valera]], [[Dr Hartmut Imhot]], [[Dr Mihai Buchner]], [[Josef Skarn]], [[Magister Emmerich Hobler]], [[Gretchen Pfodd]], a large handyman who mops the hall
+- **Numbers:** 67 children now; 8–9 lost to influenza in three months; children leave at fourteen; three have gone to universities
+- **Money:** "supplied by the Temple of Shallya and wealthy benefactors"; "not a public institution"

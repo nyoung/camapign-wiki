@@ -18,7 +18,7 @@ A **miracle** worked by [[Gammer Isolde Ulricht]] at the [[Temple of Shallya (Wo
 ## Full Details
 - Worked in [[Session 43 - A Mighty Gift|Session 43]] on [[Ganav]], whose double-broken arm and ruined elbow were mended; the glow spread to heal [[Boris Dorchen|Boris]] and [[Hildegarde]] too
 - Gammer washed the wound with spring water and white lily petals, praying, with tears falling on her hands
-- The GM rolled a 99 for the miracle; Gammer remarked that the recipients had been given a *mighty gift* and must **earn it** by acting in Shallya's grace
+- The miracle was an exceptional success; Gammer remarked that the recipients had been given a *mighty gift* and must **earn it** by acting in Shallya's grace
 
 ## Implications / Party Relevance
 The party has been healed of critical wounds that they expected to carry for weeks. They owe the temple a moral debt.

@@ -34,3 +34,6 @@ An inn in Wolfenburg where the party regrouped for the night.
 
 ## Session 39 — Vacate It for a Week, or Vacate It Permanently
 - The party returned here at nightfall from the sewers. The common room was full of **nervous gossip: Bögenhafen, in the Reikland, has been declared off limits** after some disaster; a boatman with a cargo bound there didn't know what to do. The innkeeper had **baths drawn for all**
+
+## [[Session 44 - Not Today, Unfortunately|Session 44]]
+- The party regrouped here at about noon (18 Jahrdrung) over an ale after the orphanage visit, and planned the afternoon

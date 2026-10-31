@@ -36,3 +36,7 @@ Met in [[Session 31 - Surgical Theater|Session 31]] at the Physicians' Guild dur
 - **Implicated.** [[Gerd Breytenbach|Gerd]] names him as the doctor who works with the [[Shallyan Orphanage|orphanage]] and who visited [[Jaie Schraeder]]'s house with a case of clinking jars, spending hours behind closed doors with [[Professor Udo Stradovski|Stradovski]]. He and Stradovski treated Gerd's withered arm
 - **Eager to please** Stradovski, who was clearly senior. He left the house shortly afterwards
 - The party now has a name tying the orphanage to Stradovski; **Berin** had earlier been invited by Imhot to visit
+
+## [[Session 44 - Not Today, Unfortunately|Session 44]]
+- Seen in person at the [[Shallyan Orphanage]], sitting on the three-man panel with [[Dr Israhel Valera]] and [[Dr Mihai Buchner]]. Seemed **warm and charismatic**
+- Did not recognise Ganav or Hildegarde, or at least did not say so. Berin's invitation from him in Session 31 is still unused

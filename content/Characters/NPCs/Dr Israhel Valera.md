@@ -32,3 +32,9 @@ Met in [[Session 31 - Surgical Theater|Session 31]] at the Physicians' Guild whi
 
 ## Appearances
 - [[Session 31 - Surgical Theater]]
+
+## [[Session 44 - Not Today, Unfortunately|Session 44]]
+- Interviewed [[Hildegarde]] and [[Ganav]] (posing as a couple) with his two apprentices, [[Dr Hartmut Imhot]] and [[Dr Mihai Buchner]], and **refused the adoption** ("not today, unfortunately")
+- Thought the couple looked familiar (he operated on Ganav in [[Session 31 - Surgical Theater|Session 31]]); did not place them
+- Says the orphanage holds **67** children, has lost **eight or nine to influenza in three months**, and is funded by the Temple of Shallya and unnamed wealthy benefactors; reluctant to discuss funding or dwell on the outbreak
+- Led the tour, steered the party away from the dormitories and the stair down from the infirmary

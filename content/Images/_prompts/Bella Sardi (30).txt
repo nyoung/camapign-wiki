@@ -1,0 +1,20 @@
+﻿Square 1:1 character concept portrait, plain light gray background. Three-quarter view from mid-thigh up, figure centered in frame, head near the top edge with a small margin, full upper body, arms, hands, and hips visible. NOT a head-and-shoulders close-up and NOT a full-body shot. Steady, level-eyed and quietly determined, the calm weathered confidence of a veteran, looking directly at viewer.
+
+Subject: X from the Reikland (Averlander), with the tough, capable bearing of someone who has trained hard. She grips a round-faced wooden shield with an iron boss on her left arm and holds a plain sword-bladed hand weapon low in her right hand, a dagger sheathed at her belt. Mature features with faint laugh lines and light crow's feet, a thin old scar across one eyebrow and another small scar on the chin, a hardened, experienced look. Pose: upright and squared, shield forward on the left arm, sword held low at her side, weight balanced, a ready but relaxed stance.
+
+Face: fair, cool-toned skin, not tanned, faded freckles across the nose, bright clear blue eyes, straight determined brows, slightly leaner cheeks, a firm mouth with a faint wry half-smile. Subtle anatomical asymmetry and clean linework.
+
+Hair: light brown (a warm dusty mid-brown), worn in a thick braided crown pinned around the head with loose wisps at the temples, a few early strands of grey at the temples; no hat or headwear.
+
+Attire: practical late-16th-century soldier clothing, rendered as clean shapes. A riveted steel-grey mail coat (hauberk) with the mail coif worn down as a rings-of-mail collar around her neck and shoulders, over a padded linen-and-wool arming doublet in madder brick-red with a mustard-yellow slashed puff of lining pulled through the sleeves, a broad crimson sash wrapped at the waist, a wide brown leather belt with brass buckle holding a dagger sheath and a small leather pouch, mail chausses (mail leggings) visible at the thighs over dark russet hose, brown leather bracers and gloves. Veteran's kit: the mail dull and well-oiled with a few mended links, the shield battered with nicks and dents, leather bracers scuffed and darkened with use, the red sash faded, the dye fading to a softer brick, everything mended not patched, functional and well-kept. Believable historical textiles with visible stitching — fabric quality, tailoring, and condition follow the character's actual wealth and station, not a default.
+
+Style: High-detail illustrative realism with clean contours. Matte, diffuse texture with visible underpainting. Strong planes, sculpted volumes, dry-brush texture on hair and fabric.
+
+Lighting: soft directional light from upper left, clean highlights, clear light/shadow separation — gentle but not flat.
+
+Coloring: clean, saturated, vibrant, no photorealism — period-accurate dye colors that match the character's wealth and station (see Attire), not a fixed palette. Keep skin cool-toned against whatever the clothing's colors are.
+
+Background: solid plain light gray, no scenery, no objects, no gradients, no vignette, no border — fills the entire square frame to all four edges.
+
+Resolution: 2k. Aspect ratio: 1:1.
+
